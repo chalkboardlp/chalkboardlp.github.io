@@ -1,0 +1,778 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Chalkboard Learning Platform</title>
+	<link rel="icon" href="img/favicon.png" type="image/x-icon" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+
+    <!-- Favicon -->
+    <link href="img/favicon.ico" rel="icon">
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600&family=Nunito:wght@600;700;800&display=swap" rel="stylesheet">
+
+    <!-- Icon Font Stylesheet -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="lib/animate/animate.min.css" rel="stylesheet">
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Template Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
+	
+	<!-- Radio Script -->
+	<script id='sonic_js' data-port='8080' src='https://sonic.mediacp.eu/cp/widgets.js'></script>
+</head>
+
+<body>
+    <!-- Spinner Start -->
+    <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+    </div>
+    <!-- Spinner End -->
+
+
+    <!-- Navbar Start -->
+    <nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
+        <a href="https://chalkboardlp.com" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
+		<img src="img/logo.png" width="25%" />
+            <!-- <h2 class="m-0 text-primary"><i class="fa fa-book me-3"></i>Chalkboard</h2> -->
+        </a>
+        <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav ms-auto p-4 p-lg-0">
+                <a href="https://chalkboardlp.com" class="nav-item nav-link active">Home</a>
+				<!--
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Propuesta</a>
+                    <div class="dropdown-menu fade-down m-0">
+                        <a href="https://chalkboardlp.com/propuesta.pdf" target="_blank" class="dropdown-item">Español<img src="https://chalkboardlp.com/img/colombia.png" width="20px" style="float: right;"/></a>
+                        <a href="https://chalkboardlp.com/proposal.pdf" target="_blank" class="dropdown-item">English<img src="https://chalkboardlp.com/img/usa.png" width="20px" style="float: right;"/></a>
+                    </div>
+                </div>
+                
+				<a href="#" class="nav-item nav-link">Cursos</a>
+				<a class="nav-item nav-link" href="javascript:void(0);" onclick="window.open('https://chalkboardlp.com/radio ', 'popup', 'left=auto, top=auto, width=400, height=630, toolbar=0, resizable=0')">Radio</a>
+				<a href="https://chalkboardlp.com/syllabus.pdf" target="_blank" class="nav-item nav-link">Syllabus</a> -->
+				<a href="https://www.youtube.com/embed/k1dj3Wscq5c" target="_blank" class="nav-item nav-link">¿Cómo es?</a>
+				<a href="https://wa.me/573188606073" target="_blank" class="nav-item nav-link">Contacto</a>
+                <!-- DROPDOWN MENU 
+				<div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
+                    <div class="dropdown-menu fade-down m-0">
+                        <a href="team.html" class="dropdown-item">Our Team</a>
+                        <a href="testimonial.html" class="dropdown-item">Testimonial</a>
+                        <a href="404.html" class="dropdown-item">404 Page</a>
+                    </div>
+                </div>
+				-->
+            </div>
+            <a href="https://chalkboardlp.com/moodle/login/index.php" target="_blank" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">ACCEDER<i class="fa fa-arrow-right ms-3"></i></a>
+        </div>
+    </nav>
+    <!-- Navbar End -->
+
+
+    <!-- Carousel Start -->
+    <div class="container-fluid p-0 mb-5">
+        <div class="owl-carousel header-carousel position-relative">
+		
+		<div class="owl-carousel-item position-relative">
+                <img class="img-fluid" src="img/Moodle.jpg" alt="">
+                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(55, 55, 56, .7);">
+                    <div class="container">
+                        <div class="row justify-content-start">
+                            <div class="col-sm-10 col-lg-8">
+								<h5 class="text-primary text-uppercase mb-3 animated slideInDown">Material de aprendizaje multimedia en nuestra</h5>
+                                <h1 class="display-3 text-white animated slideInDown">Plataforma Moodle 5.0</h1>
+                                <p class="fs-5 text-white mb-4 pb-2">Encuentra cientos de actividades, ejercicios y material multimedia para acompañar tus clases, apoyar tu proceso de autoaprendizaje y mejorar tus competencias en el idioma Inglés.</p>
+                                <a href="https://www.youtube.com/embed/k1dj3Wscq5c" target="_blank" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">¿Quieres ver?</a>
+                                <a href="https://chalkboardlp.com/moodle/login/index.php" target="_blank" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Acceder</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+		
+            <div class="owl-carousel-item position-relative">
+                <img class="img-fluid" src="img/carousel-01.jpg" alt="">
+                <div class="position-absolute top-0 start-9 w-100 h-100 d-flex align-items-center" style="background: rgba(55, 55, 56, .7);">
+                    <div class="container">
+                        <div class="row justify-content-start">
+                            <div class="col-sm-10 col-lg-8">
+                                <h5 class="text-primary text-uppercase mb-3 animated slideInDown">Por experiencia, sabemos y creemos en el</h5>
+                                <h1 class="display-3 text-white animated slideInDown">Aprendizaje Autónomo</h1>
+                                <p class="fs-5 text-white mb-4 pb-2">Estamos seguros del aprendizaje autónomo del idioma inglés, fomentando la práctica constante, la exploración de recursos y la autoconfianza para alcanzar una comunicación efectiva en diversos contextos.</p>
+								<a href="https://www.youtube.com/embed/k1dj3Wscq5c" target="_blank" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">¿Quieres ver?</a>
+                                <!-- <a href="https://chalkboardlp.com/propuesta.pdf" target="_blank" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Más info</a> -->
+                                <a href="https://wa.me/573188606073" target="_blank" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Suscríbete</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+			
+			<div class="owl-carousel-item position-relative">
+                <img class="img-fluid" src="img/carousel-03.jpg" alt="">
+                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(55, 55, 56, .7);">
+                    <div class="container">
+                        <div class="row justify-content-start">
+                            <div class="col-sm-10 col-lg-8">
+                                <h5 class="text-primary text-uppercase mb-3 animated slideInDown">Acompañamos tu aprendizaje</h5>
+                                <h1 class="display-3 text-white animated slideInDown">Con nuestras excelentes herramientas virtuales</h1>
+                                <p class="fs-5 text-white mb-4 pb-2">Que te ofrecen todo el material, tareas, ejercicios de práctica, retroalimentación, evaluación y preparación para fortalecer tu proceso de aprendizaje y dominio del Inglés.</p>
+                                <a href="https://www.youtube.com/embed/k1dj3Wscq5c" target="_blank" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">¿Quieres ver?</a>
+                                <a href="https://chalkboardlp.com/moodle/login/index.php" target="_blank" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Acceder</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+			
+            
+        </div>
+    </div>
+    <!-- Carousel End -->
+
+
+    <!-- Service Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="row g-4">
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item text-center pt-3">
+                        <div class="p-4">
+                            <i class="fa fa-3x fa-laptop text-primary mb-4"></i>
+                            <h5 class="mb-3">Ejercicios interactivos</h5>
+                            <p>Que te ayudarán a mejorar tu comprensión, ampliar tu vocabulario y fortalecer tus habilidades de comunicación de manera dinámica y divertida.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="service-item text-center pt-3">
+                        <div class="p-4">
+                            <i class="fa fa-3x fa-star text-primary mb-4"></i>
+                            <h5 class="mb-3">Material exclusivo</h5>
+                            <p>Que no encuentras en otras plataformas, diseñado para potenciar tu aprendizaje con contenidos originales y adaptados a tus necesidades y nivel de inglés.</p>
+                        </div>
+                    </div>
+                </div>
+               
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="service-item text-center pt-3">
+                        <div class="p-4">
+                            <i class="fa fa-3x fa-users text-primary mb-4"></i>
+                            <h5 class="mb-3">Inglés para todos</h5>
+                            <p>Material para todas las edades y niveles, cuidadosamente diseñado para garantizar un aprendizaje progresivo, motivador y adaptado a las capacidades de cada usuario.</p>
+                        </div>
+                    </div>
+                </div>
+				
+				<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item text-center pt-3">
+                        <div class="p-4">
+                            <i class="fa fa-3x fa-cogs text-primary mb-4"></i>
+                            <h5 class="mb-3">Plataforma Moodle 5.0</h5>
+                            <p>Confiable y fácil de usar, garantizando un entorno de aprendizaje seguro, estable y adaptado a las necesidades de nuestros diferentes usuarios.</p>
+                        </div>
+                    </div>
+                </div>
+				
+            </div>
+        </div>
+    </div>
+    <!-- Service End -->
+
+
+    <!-- About Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="row g-5">
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="min-height: 400px;">
+    <div class="position-relative h-100">
+        
+        <!-- Imagen de fondo -->
+        <img class="img-fluid w-100 h-100" 
+             src="img/about-03.png" 
+             alt="" 
+             style="object-fit: cover;">
+        
+        <!-- Video encima -->
+        <iframe src="https://www.youtube.com/embed/k1dj3Wscq5c?si=O1CoCr6mmirCYNL8" 
+                title="YouTube video player" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                referrerpolicy="strict-origin-when-cross-origin" 
+                allowfullscreen
+                style="
+                    position: absolute; 
+                    top: 35%;    /* Ajusta la posición vertical */
+                    left: 23%;   /* Ajusta la posición horizontal */
+                    width: 56%;  /* Ajusta el tamaño del video */
+                    height: 30%;
+                    border: 5px solid #f0be00;
+					border-radius: 5px;
+                ">
+        </iframe>
+    </div>
+</div>
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <h6 class="section-title bg-white text-start text-primary pe-3">Nuestra Historia</h6>
+                    <h1 class="mb-4">¿Qué es Chalkboard?</h1>
+                    <p class="mb-4" align="justify">Chalkboard Learning Platform nace a partir de la necesidad de virtualizar el aprendizaje autónomo sobre todo a raíz de la pandemia de COVID-19 en 2020, cuando la educación a distancia se convirtió en la principal vía para continuar con los procesos formativos. Esta experiencia impulsó el desarrollo de estrategias innovadoras y el aprovechamiento de plataformas como Moodle, optimizando su potencial para crear entornos de aprendizaje flexibles y personalizados. A lo largo de una gran trayectoria en la enseñanza del inglés, Chalkboard ha perfeccionado el diseño de actividades virtuales que fomentan la autonomía, la motivación y el progreso constante de los estudiantes. 
+</p>
+                    <p class="mb-4">Poco a poco hemos ido creando, mejorando y ampliando nuestro portafolio de herramientas virtuales, dentro de las cuales se destacan:</p>
+                    <div class="row gy-2 gx-4 mb-4">
+                        <div class="col-sm-6">
+                            <p class="mb-0"><i class="fa fa-check text-primary me-2"></i>Ejercicios tipo SCORM</p>
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="mb-0"><i class="fa fa-check text-primary me-2"></i>Libros virtuales (eBooks)</p>
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="mb-0"><i class="fa fa-check text-primary me-2"></i>Videos interactivos</p>
+                        </div>
+						<div class="col-sm-6">
+                            <p class="mb-0"><i class="fa fa-check text-primary me-2"></i>Bibliotecas digitales</p>
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="mb-0"><i class="fa fa-check text-primary me-2"></i>Actividades de gamificación</p>
+                        </div>
+						<div class="col-sm-6">
+                            <p class="mb-0"><i class="fa fa-check text-primary me-2"></i>Tests de prueba y evaluación</p>
+                        </div>
+						<div class="col-sm-6">
+                            <p class="mb-0"><i class="fa fa-check text-primary me-2"></i>CD-ROMs Online</p>
+                        </div>
+						<div class="col-sm-6">
+                            <p class="mb-0"><i class="fa fa-check text-primary me-2"></i>Ejercicios de Pronunciación</p>
+                        </div>
+                    </div>
+					<a href="https://wa.me/573188606073" target="_blank" class="btn btn-primary py-3 px-5 mt-2" href="">Más info</a>
+                    <a class="btn btn-light py-3 px-5 mt-2" style="border: 1px solid #C1C1C1;" href="https://wa.me/573188606073" target="_blank">Suscríbete</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About End -->
+
+
+<!-- Categories Start -->
+<div class="container-xxl py-5 category">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h6 class="section-title bg-white text-center text-primary px-3">Portafolio de Servicios</h6>
+            <h1 class="mb-5">Te ofrecemos</h1>
+        </div>
+
+        <div class="row g-4">
+            <!-- Item 1 -->
+            <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.1s">
+                <a class="position-relative d-block overflow-hidden service-card">
+                    <img class="img-fluid fixed-img" src="img/O-Clases.jpg" alt="">
+                    <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3">
+                        <h5 class="m-0">Membresía Chalkboard</h5>
+                        <small style="font-color: #03714e;">(Acceso a Plataforma 24/7)</small>
+                    </div>
+                </a>
+            </div>
+
+            <!-- Item 2 -->
+            <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+                <a class="position-relative d-block overflow-hidden service-card">
+                    <img class="img-fluid fixed-img" src="img/placement.jpg" alt="">
+                    <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3">
+                        <h5 class="m-0">Examen de Clasificación</h5>
+                        <small style="font-color: #03714e;">(Con certificación y resultados instantáneos)</small>
+                    </div>
+                </a>
+            </div>
+
+            <!-- Item 3 -->
+            <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.5s">
+                <a class="position-relative d-block overflow-hidden service-card">
+                    <img class="img-fluid fixed-img" src="img/O-Empresas.jpg" alt="">
+                    <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3">
+                        <h5 class="m-0">Inglés para Empresas</h5>
+                        <small style="font-color: #03714e;">(Escríbenos para más info)</small>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Categories End -->
+
+<style>
+.fixed-img {
+    width: 100%;
+    height: 350px; /* Ajusta la altura que quieras */
+    object-fit: cover; /* Recorta manteniendo proporción */
+}
+.service-card {
+    border-radius: 5px;
+    overflow: hidden;
+}
+</style>
+</br>
+</br>
+    <!-- Courses Start -->
+    <div class="container-xxl py-5 category">
+        <div class="container">
+            <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                <h6 class="section-title bg-white text-center text-primary px-3">Costos 2025</h6>
+                <h1 class="mb-5">Inversión</h1>
+            </div>
+            <div class="row g-4 justify-content-center">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="course-item bg-light">
+                        <div class="position-relative overflow-hidden">
+                            <img class="img-fluid" src="img/Classes.jpg" alt="">
+                            <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
+                                <a href="https://www.youtube.com/embed/k1dj3Wscq5c" target="_blank" class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end" style="border-radius: 30px 0 0 30px;">¿Cómo es?</a>
+                                <a href="https://wa.me/573188606073" target="_blank" class="flex-shrink-0 btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Suscríbete</a>
+                            </div>
+                        </div>
+                        <div class="text-center p-4 pb-0">
+                            <h3 class="mb-0">$3 USD (Mensual)</h3>
+                            
+                            <h6 class="mb-0">Membresía Chalkboard Mensual</h6>
+							<small style="color: #04714e;">(Sin clausulas de permanecia)</small>
+                        </div>
+						</br>
+                        <div class="d-flex border-top">
+                            <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar text-primary me-2"></i>30 días (24/7)</small>
+                            <small class="flex-fill text-center border-end py-2"><i class="fa fa-clock text-primary me-2"></i>Acceso ilimitado</small>
+                            <small class="flex-fill text-center py-2"><i class="fa fa-user-times text-primary me-2"></i>No incluye clases</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="course-item bg-light">
+                        <div class="position-relative overflow-hidden">
+                            <img class="img-fluid" src="img/Membresia.jpg" alt="">
+                            <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
+                                <a href="https://www.youtube.com/embed/k1dj3Wscq5c" target="_blank" class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end" style="border-radius: 30px 0 0 30px;">¿Cómo es?</a>
+                                <a href="https://wa.me/573188606073" target="_blank" class="flex-shrink-0 btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Suscríbete</a>
+                            </div>
+                        </div>
+                        
+						
+						<div class="text-center p-4 pb-0">
+                            <h3 class="mb-0">$30 USD (Anual)</h3>
+                           
+                            <h6 class="mb-0">Membresía Chalkboard Anual</h6>
+							<small style="color: #04714e;">(17% mas barato que la tarifa mensual)</small>
+                        </div>
+						</br>
+                        <div class="d-flex border-top">
+                            <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar text-primary me-2"></i>365 días (24/7)</small>
+                            <small class="flex-fill text-center border-end py-2"><i class="fa fa-clock text-primary me-2"></i>Acceso ilimitado</small>
+                            <small class="flex-fill text-center py-2"><i class="fa fa-user-times text-primary me-2"></i>No incluye clases</small>
+                        </div>
+                    </div>
+                </div>
+				
+				
+				<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="course-item bg-light">
+                        <div class="position-relative overflow-hidden">
+                            <img class="img-fluid" src="img/Examen.jpg" alt="">
+                            <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
+                                <a href="https://www.youtube.com/embed/k1dj3Wscq5c" target="_blank" class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end" style="border-radius: 30px 0 0 30px;">¿Cómo es?</a>
+                                <a href="https://wa.me/573188606073" target="_blank" class="flex-shrink-0 btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Suscríbete</a>
+                            </div>
+                        </div>
+						
+						
+                        <div class="text-center p-4 pb-0">
+                            <h3 class="mb-0">$7 USD (por persona)</h3>
+                          
+                            <h6 class="mb-0">Examen de Clasificación</h6>
+							<small style="color: #04714e;">(Online en Plataforma y Certificación)</small>
+                        </div>
+						</br>
+                        <div class="d-flex border-top">
+                            <small class="flex-fill text-center border-end py-2"><i class="fa fa-clock text-primary me-2"></i>1h 20m</small>
+                            <small class="flex-fill text-center border-end py-2"><i class="fa fa-check text-primary me-2"></i>Resultado Automático</small>
+                            <small class="flex-fill text-center py-2"><i class="fa fa-laptop text-primary me-2"></i>Online</small>
+                        </div>
+						
+                    </div>
+                </div>
+				
+				<!-- EMPRESAS 
+				
+				<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="course-item bg-light">
+                        <div class="position-relative overflow-hidden">
+                            <img class="img-fluid" src="img/Empresas.jpg" alt="">
+                            <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
+                                <a href="https://wa.me/573188606073" target="_blank" class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end" style="border-radius: 30px 0 0 30px;">Más info</a>
+                                <a href="https://wa.me/573188606073" target="_blank" class="flex-shrink-0 btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Inscríbete</a>
+                            </div>
+                        </div>
+                        <div class="text-center p-4 pb-0">
+                            <h3 class="mb-0">Contáctanos</h3>
+                            <div class="mb-3">
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                              
+                            </div>
+							
+							
+                            <h5 class="mb-0">Inglés para Empresas</h5>
+							<small style="color: #04714e;">(Virtual o Presencial + Plataforma)</small>
+                        </div>
+                        <div class="d-flex border-top">
+                            <small class="flex-fill text-center border-end py-2"><i class="fa fa-clock text-primary me-2"></i>24 horas (Mes)</small>
+                            <small class="flex-fill text-center border-end py-2"><i class="fa fa-graduation-cap text-primary me-2"></i>Virtual o Presencial</small>
+                            <small class="flex-fill text-center py-2"><i class="fa fa-laptop text-primary me-2"></i>+ Plataforma</small>
+                        </div>
+						
+						
+                    </div>
+                </div> 
+				
+				<!-- CHALKBOARD CAFE
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="course-item bg-light">
+                        <div class="position-relative overflow-hidden">
+                            <img class="img-fluid" src="img/Cafe.jpg" alt="">
+                            <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
+                                <a href="https://wa.me/573188606073" target="_blank" class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end" style="border-radius: 30px 0 0 30px;">Más info</a>
+                                <a href="https://wa.me/573188606073" target="_blank" class="flex-shrink-0 btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Inscríbete</a>
+                            </div>
+                        </div>
+                        <div class="text-center p-4 pb-0">
+                            <h3 class="mb-0">$25.000 (Sesión)</h3>
+                            <div class="mb-3">
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                              
+                            </div>
+							
+                            <h5 class="mb-0">Chalkboard Café</h5>
+							<small style="color: #04714e;">(Valor por persona - No incluye consumo)</small>
+                        </div>
+                        <div class="d-flex border-top">
+                            <small class="flex-fill text-center border-end py-2"><i class="fa fa-user-tie text-primary me-2"></i>1 hora</small>
+                            <small class="flex-fill text-center border-end py-2"><i class="fa fa-clock text-primary me-2"></i>1 encuentro semanal</small>
+                            <small class="flex-fill text-center py-2"><i class="fa fa-user text-primary me-2"></i>Presencial (Bogotá)</small>
+                        </div>
+						
+                    </div>
+                </div>
+				
+				-- END OF CAFE -->
+				
+			
+            </div>
+        </div>
+    </div>
+    <!-- Courses End -->
+
+
+    <!-- Team Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                <h6 class="section-title bg-white text-center text-primary px-3">Creación</h6>
+                <h1 class="mb-5">¿Quién está detrás de la plataforma?</h1>
+				<!-- <h5 class="mb-5">(Estamos en proceso de selección docente)</h5> -->
+            </div>
+			
+            <div class="row g-4">
+			<center>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item bg-light">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="img/serrano.jpeg" alt="">
+                        </div>
+						
+                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
+                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
+                                <a class="btn btn-sm-square btn-primary mx-1" href="https://co.linkedin.com/in/chriserrano" target="_blank"><i class="fab fa-linkedin"></i></a>
+								<!--
+                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
+								-->
+                            </div>
+                        </div>
+                        <div class="text-center p-3">
+                            <h5 class="mb-0" style="color: #04714e;">Christian Serrano Ramírez</h5>
+                            <small>Magíster en Educación Bilingüe</small></br>
+							<small>Licenciado E.B.E Inglés</small></br>
+							<small>Capacitando en Inglés desde 2004</small></br>
+							<small>Creando virtualidad desde 2010</small></br>
+							<small>Creador del Proyecto Chalkboard (2020)</small>
+                        </div>
+                    </div>
+                </div>
+				</center>
+				<!-- 
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="team-item bg-light">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="img/team-2.jpg" alt="">
+                        </div>
+                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
+                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
+                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                        <div class="text-center p-4">
+                            <h5 class="mb-0">Instructor Name</h5>
+                            <small>Designation</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="team-item bg-light">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="img/team-3.jpg" alt="">
+                        </div>
+                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
+                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
+                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                        <div class="text-center p-4">
+                            <h5 class="mb-0">Instructor Name</h5>
+                            <small>Designation</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="team-item bg-light">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="img/team-4.jpg" alt="">
+                        </div>
+                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
+                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
+                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                        <div class="text-center p-4">
+                            <h5 class="mb-0">Instructor Name</h5>
+                            <small>Designation</small>
+                        </div>
+                    </div>
+                </div> -->
+            </div>
+        </div>
+    </div>
+    <!-- Team End -->
+
+
+    <!-- Testimonial Start -->
+    <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="text-center">
+                <h6 class="section-title bg-white text-center text-primary px-3">Testimonios Reales</h6>
+                <h1 class="mb-5">¿Qué opinan nuestros estudiantes?</h1>
+            </div>
+            <div class="owl-carousel testimonial-carousel position-relative">
+                <div class="testimonial-item text-center">
+                    <img class="border rounded-circle p-2 mx-auto mb-3" src="img/testimonio-01.jpg" style="width: 80px; height: 80px;">
+                    <h5 class="mb-0">Alejandro Velandia</h5>
+                    <p>Administrador de Empresas</p>
+                    <div class="testimonial-text bg-light text-center p-4">
+                    <p class="mb-0">El profesor siempre nos motiva a participar y aprender por medio de la plataforma. Las clases son excelentes.</p>
+                    </div>
+                </div>
+                <div class="testimonial-item text-center">
+                    <img class="border rounded-circle p-2 mx-auto mb-3" src="img/testimonio-02.jpg" style="width: 80px; height: 80px;">
+                    <h5 class="mb-0">Tatiana Romero</h5>
+                    <p>Abogada</p>
+                    <div class="testimonial-text bg-light text-center p-4">
+                    <p class="mb-0">Las herramientas de la plataforma permiten que podamos practicar y fortalecernos en diferentes temas, y también aclarar las dudas que surgen de las temáticas vistas en clase.</p>
+                    </div>
+                </div>
+                <div class="testimonial-item text-center">
+                    <img class="border rounded-circle p-2 mx-auto mb-3" src="img/testimonio-03.jpg" style="width: 80px; height: 80px;">
+                    <h5 class="mb-0">Pablo Quintero</h5>
+                    <p>Psicólogo</p>
+                    <div class="testimonial-text bg-light text-center p-4">
+                    <p class="mb-0">La dinámica de las clases y los recursos de la plataforma permiten que el estudiante se interese aún más por el aprendizaje del idioma.</p>
+                    </div>
+                </div>
+                <div class="testimonial-item text-center">
+                    <img class="border rounded-circle p-2 mx-auto mb-3" src="img/testimonio-04.jpg" style="width: 80px; height: 80px;">
+                    <h5 class="mb-0">Carolina Pinzón</h5>
+                    <p>Estudiante de Ingeniería</p>
+                    <div class="testimonial-text bg-light text-center p-4">
+                    <p class="mb-0">Me agrada asistir a las clases, puesto que me divierto, aprendo y realizo actividades dinámicas en clase y en la plataforma.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Testimonial End -->
+        
+
+    <!-- Footer Start -->
+    <div class="container-fluid bg-dark text-light footer pt-5 mt-5 wow fadeIn" data-wow-delay="0.1s">
+        <div class="container py-5">
+            <div class="row g-5">
+                <div class="col-lg-3 col-md-6">
+                    <h4 class="text-white mb-3">Enlaces</h4>
+                    <!-- <a class="btn btn-link" href="https://chalkboardlp.com/propuesta.pdf" target="_blank"><img src="https://chalkboardlp.com/img/colombia.png" width="20px" style="float: right;"/>Propuesta</a> 
+					<a class="btn btn-link" href="https://chalkboardlp.com/proposal.pdf" target="_blank"><img src="https://chalkboardlp.com/img/usa.png" width="20px" style="float: right;"/>Proposal</a>
+					<a class="btn btn-link" href="https://chalkboardlp.com/syllabus.pdf" target="_blank">Syllabus</a> -->
+					<a class="btn btn-link" href="https://www.youtube.com/embed/k1dj3Wscq5c" target="_blank">¿Cómo es la plataforma?</a>
+                    <a class="btn btn-link" href="https://chalkboardlp.com/moodle/login/index.php" target="_blank">Ingresar a plataforma</a>
+                    <a class="btn btn-link" href="https://wa.me/573188606073" target="_blank">Contácto</a>
+                    
+                    
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <h4 class="text-white mb-3">Contácto</h4>
+                    <p class="mb-2"><i class="fab fa-whatsapp me-3"></i>(+57) 318 860 6073</p>
+                    <p class="mb-2"><i class="fa fa-map-marker me-3"></i>Bogota, Colombia</p>
+                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>chalkboardlp@gmail.com</p>
+                    <div class="d-flex pt-2">
+						<a class="btn btn-outline-light btn-social" href="https://wa.me/573188606073" target="_blank"><i class="fab fa-whatsapp"></i></a>
+                        <a class="btn btn-outline-light btn-social" href="https://www.facebook.com/Chalkboardlp" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-outline-light btn-social" href="https://www.instagram.com/Chalkboardlp" target="_blank"><i class="fab fa-instagram"></i></a>
+                        <a class="btn btn-outline-light btn-social" href="https://www.twitter.com/Chalkboardlp" target="_blank"><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-outline-light btn-social" href="https://www.youtube.com/@chalkboardlp" target="_blank"><i class="fab fa-youtube"></i></a>
+						<a class="btn btn-outline-light btn-social" href="https://open.spotify.com/playlist/6HJqbgtVef2yMpRgrepBrM?si=qnR1vvNwSnur926gpwPFYw" target="_blank"><i class="fab fa-spotify"></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <h5 class="text-white mb-3">Chalkboard Radio</h5>
+                    <div class="row g-2 pt-1">
+					
+					<center>
+					<div id='sonic_art' style="border: 0px solid #FFFFFF; height: 100px; width: 100px; float:left;"></div>
+					<h5 class="text-white mb-1">Escuchas:</h5>
+					<span id='sonic_title' style="font-size: 10px; color:#f2bc00; font-family: 'Blinker', sans-serif; line-height: 20px;" class="mb-1 pt-1"></span>
+					
+					<audio src="https://sonic.mediacp.eu/8080/stream" style="width:100%; height: 27px; float: left; margin-top: 10px;" controls ></audio>
+					
+			<!--	<iframe style="border-radius:5px; border: 0px solid #e4a900;" src="https://chalkboardlp.com/music/playlists/vacations.html" width="298px" height="166px"></iframe>
+					
+			-->
+					
+					</center>
+					<!--
+                        <div class="col-4">
+                            <img class="img-fluid bg-light p-1" src="img/course-1.jpg" alt="">
+                        </div>
+                        <div class="col-4">
+                            <img class="img-fluid bg-light p-1" src="img/course-2.jpg" alt="">
+                        </div>
+                        <div class="col-4">
+                            <img class="img-fluid bg-light p-1" src="img/course-3.jpg" alt="">
+                        </div>
+                        <div class="col-4">
+                            <img class="img-fluid bg-light p-1" src="img/course-2.jpg" alt="">
+                        </div>
+                        <div class="col-4">
+                            <img class="img-fluid bg-light p-1" src="img/course-3.jpg" alt="">
+                        </div>
+                        <div class="col-4">
+                            <img class="img-fluid bg-light p-1" src="img/course-1.jpg" alt="">
+                        </div>
+						-->
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <h5 class="text-white mb-3">Síguenos en Facebook</h5>
+					<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FChalkboardlp%2F&tabs=timeline&width=300&height=163&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="300" height="163" style="border:1px solid #262a33; border-radius: 5px;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+					<!--
+                    <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
+                    <div class="position-relative mx-auto" style="max-width: 400px;">
+                        <input class="form-control border-0 w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
+                        <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
+                    </div>
+					-->
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="copyright">
+                <div class="row">
+                    <div class="col-md-6 text-center text-md-start mb-3 mb-md-0" style="font-size: small">
+                        &copy; <a class="border-bottom" href="#">Chalkboardlp</a>. Todos los derechos reservados.
+
+                        <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
+                        Diseño: HTML Codex.
+						 Adaptado por: <a class="border-bottom" href="https://co.linkedin.com/in/chriserrano" target="_blank">Christian Serrano - 2025</a>
+                    </div>
+                    <div class="col-md-6 text-center text-md-end">
+                        <div class="footer-menu">
+                            <a href="https://chalkboardlp.com" target="_blank">Home</a>
+                            <!-- <a href="#">Cookies</a> -->
+                            <a href="https://wa.me/573188606073" target="_blank">Help</a>
+                            <a href="https://wa.me/573188606073" target="_blank">FQAs</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Footer End -->
+
+
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
+	
+	
+	<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4921965,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4921965&101" alt="contadores de visitas" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+
+
+</body>
+
+</html>
