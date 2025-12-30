@@ -1,0 +1,64 @@
+<html>
+<head>
+<title>Chalkboard Radio Mini</title>
+<link rel="icon" href="https://chalkboardlp.com/radio/favicon.png" type="image/x-icon" />
+<script id='sonic_js' data-port='8080' src='https://sonic.mediacp.eu/cp/widgets.js'></script>
+
+<style xmlns="https://www.w3.org/2000/svg" type="text/css">
+  @import url(https://fonts.googleapis.com/css?family=Patua+One);
+  @import url('https://fonts.googleapis.com/css?family=Ropa+Sans');
+  @import url('https://fonts.googleapis.com/css?family=Open+Sans:600,700');
+  @import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+</style>
+
+<style>
+#linkbutton {
+	height:25px;
+	width: 200px;
+	border:2px solid #b3b3b3;
+	font-family: 'Open Sans', sans-serif;
+	cursor:pointer;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+#invert {-webkit-filter: invert(70%); filter: invert(70%);}
+</style>
+
+</head>
+
+<body bgcolor="transparent" style="overflow-x:hidden" >
+
+<div style="width:320px;position:relative;margin-left:auto;margin-right:auto;border:0px solid #000000;height: 190px;">
+
+
+
+<div style="position: absolute; margin: 5px 0px 10px 5px; text-align: center;">
+<img src="Chalkboard-Radio-02.png" width="310px"></img></br>
+<audio src="https://sonic.mediacp.eu/8080/stream" style="width:190px; height: 23px; margin-left: 105px; margin-top: -29px; border: 0px solid #cccccc;" controls ></audio></br>
+<a style="font-size: 11px; color:#22b392; font-family: 'Open Sans', sans-serif; line-height: 20px;">Playing:</a></br>
+<div id='sonic_title' style="font-size: 13px; color:#474747; font-family: 'Open Sans', sans-serif;"></div>
+<a style="font-size: 9px; color:#22b392; font-family: 'Open Sans', sans-serif; line-height: 20px;">A radio created by: Teacher Christian Serrano</a></br>
+</div> 
+
+<div style="position: absolute; margin: 68px 0px 0px 260px;">
+<img src="https://i.pinimg.com/originals/41/de/77/41de7763b09c771b14c8eb302b9bc4d2.gif" style="height: 19px;" id="none" />
+</div>
+
+</br>
+
+<!-- MAIN RADIO BUTTON
+<div style="position: absolute; margin: 160px 0px 0px 60px; max-width: 250px">
+<a href="javascript:void(0);" onclick="window.open('https://chalkboardlp.site/Radio/Mobile', 'popup', 'left=auto, top=auto, width=360, height=650, toolbar=0, resizable=0')">
+<button id="linkbutton" style="background:#fccb19; font-size: 10px; color:#3C3C3C; float: center;" title="Visit Radio Online" >Click here to visit Radio website</button></a>
+</div>
+-->
+<script> 
+document.oncontextmenu = function() { 
+    return false; 
+};
+</script>
+
+</div>
+</body>
+</html>
