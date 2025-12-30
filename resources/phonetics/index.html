@@ -1,0 +1,91 @@
+<html>
+<head>
+<title>Chalkboard Phonetic Charts</title>
+<link rel="icon" href="favicon.png" type="image/x-icon" />
+
+<style xmlns="https://www.w3.org/2000/svg" type="text/css">
+  @import url(https://fonts.googleapis.com/css?family=Patua+One);
+  @import url('https://fonts.googleapis.com/css?family=Ropa+Sans');
+  @import url('https://fonts.googleapis.com/css?family=Open+Sans:600,700');
+</style>
+
+
+<script type="text/javascript" src="jquery-2.1.0.js"></script>
+<script type='text/javascript' src='jquery-1.6.4.js'></script>
+<script type='text/javascript' src='videosub-0.9.9.js'></script>
+  <link rel="stylesheet" type="text/css" href="normalize.css">
+
+<style>
+.color-square {
+    width: 100%;
+    height: 100%;
+}	
+</style>
+
+<script type='text/javascript'>
+$(document).ready(function() {
+    $('li').click(function () {
+        var url = $(this).attr('rel');
+        $('#iframe').attr('src', url);
+        $('#iframe').reload();
+    });
+});
+</script>
+
+</head>
+
+<body bgcolor="transparent" style="overflow-x:hidden" >
+
+<div style="width:750px;position:relative;margin-left:auto;margin-right:auto;border:0px solid #000000;">
+
+
+
+<div style="position: absolute; margin: 0px 0px 0px 0px; text-align: left; width: 750px; background-color: #FFFFFF; height: 500px;">
+<img src="Banner.jpg" width="750px" style="float left; border: 2px solid #cccccc;"></img>
+</div> 
+
+<div style="position: absolute; margin: 10px 0px 0px 30px; text-align: center; width: 750px;">
+<a style="font-size: 24px; color:#009dff; font-family: 'Open Sans', sans-serif; line-height: 30px;">Chalkboard Phonetic Charts</a></br>
+<a style="font-size: 13px; color:#3C3C3C; font-family: 'Open Sans', sans-serif; text-align: justify;">Click the pictures below to load the interactive charts</a></br>
+<a style="font-size: 11px; color:#383731; font-family: 'Open Sans', sans-serif; text-align: justify;">(Sube el volumen de tu equipo y da click en los cuadros de abajo)</a></br></br>
+
+</div>
+
+<!-- PHONICS CONTENT -->
+<div style="position: absolute; margin: 86px 0px 10px 0px;">
+<iframe src="IPA2.jpg" width="750px" height="500px" style="border: 2px solid #cccccc; display: block;" id="iframe" allowfullscreen></iframe>
+</div>
+
+<div style="position: absolute; margin: 588px 0px 0px 0px;">
+<img src="Charts-Bg.jpg" width="750px" height="180px" style="float left; border: 2px solid #cccccc;"></img>
+</div>
+
+<div style="position: absolute; margin: 590px 0px 0px 0px; text-align: center;">
+<a style="font-size: 15px; color:#3C3C3C; font-family: 'Open Sans', sans-serif; line-height: 40px;">Click the pictures below to load the interactive charts</a></br>
+<ul style="display: flex; justify-content: left; float:left; list-style-type: none;">
+	
+	<li rel="Embedded-Flash/CEO.html" style="float: left; margin-left: 20px;"><img src="Cambridge.png" width="160px" style="cursor:pointer; border: 0px solid #cccccc; float:left;" title="Cambridge English Online"></img></br>
+	</li>
+	
+	<li rel="Embedded-Flash/BC.html" style="float: left; margin-left: 20px;"><img src="BritishCouncil.png" width="160px" style="cursor:pointer; border: 0px solid #cccccc; float:left;" title="British Council"></img></br>
+	</li>
+	
+	<li rel="Embedded-Flash/BBC.html" style="float: left; margin-left: 20px;"><img src="BBC.png" width="160px" style="cursor:pointer; border: 0px solid #cccccc; float:left;" title="BBC"></img></br>
+	</li>
+	
+	<li rel="Embedded-Flash/TE.html" style="float: left; margin-left: 20px; border: 0px solid #000000;"><img src="TotalEnglish.png" width="160px" style="cursor:pointer; border: 0px solid #cccccc; float:left;" title="Total English - Pearson"></img></br>
+	</li>
+	
+	
+	</ul>
+</div>
+
+<script> 
+document.oncontextmenu = function() { 
+    return false; 
+};
+</script>
+
+</div>
+</body>
+</html>
