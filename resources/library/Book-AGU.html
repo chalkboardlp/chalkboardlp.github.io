@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Chalkboard Library</title>
+  <link rel="icon" href="favicon.png" type="image/x-icon" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@700&display=swap');
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Exo 2', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #404040;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 15px;
+      height: 75px;
+      background-color: #1D4F3C;
+      border-bottom: 5px solid #3D1F01;
+      color: white;
+      padding: 10px;
+    }
+
+    header img {
+      height: 60px;
+      width: auto;
+    }
+
+    header .title {
+      font-size: 22px;
+      font-weight: 700;
+      color: #FFFFFF;
+    }
+
+    .viewer {
+      flex: 1;
+      position: relative;
+      background-color: #242424;
+    }
+
+    .viewer iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+
+    .viewer:fullscreen,
+    .viewer:-webkit-full-screen {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+
+    .viewer:fullscreen iframe,
+    .viewer:-webkit-full-screen iframe {
+      height: 100%;
+    }
+
+    .fullscreen-btn {
+      position: absolute;
+      top: 10px;
+      right: 20px;
+      background-color: #f0bf00;
+      border: none;
+      padding: 10px 15px;
+      cursor: pointer;
+      color: #FFFFFF;
+      font-size: 12px;
+      font-weight: 700;
+      border-radius: 5px;
+      z-index: 10;
+    }
+
+    .fullscreen-btn:hover {
+      background-color: #7a4d3a;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <img src="logo.png" alt="Logo de la biblioteca">
+  <div class="title">Advanced Grammar In Use</div>
+</header>
+
+<!-- Visor del libro -->
+<div class="viewer" id="viewerContainer">
+  <button class="fullscreen-btn" onclick="abrirPantallaCompleta()">🔍 Pantalla completa</button>
+  <iframe id="visor" src="https://drive.google.com/file/d/1s6ijU80yVKy83nvk4U4oskh5nZPVOwy5/preview"></iframe>
+</div>
+
+<script>
+  function abrirPantallaCompleta() {
+    const contenedor = document.getElementById('viewerContainer');
+    if (contenedor.requestFullscreen) {
+      contenedor.requestFullscreen();
+    } else if (contenedor.webkitRequestFullscreen) {
+      contenedor.webkitRequestFullscreen();
+    } else if (contenedor.msRequestFullscreen) {
+      contenedor.msRequestFullscreen();
+    }
+  }
+
+  // Desactivar clic derecho
+  document.oncontextmenu = function() {
+    return false;
+  };
+</script>
+
+</body>
+</html>
