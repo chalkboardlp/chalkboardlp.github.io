@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Chalkboard RSS News</title>
+<link rel="icon" href="https://chalkboardlp.com/radio/favicon.png" type="image/x-icon">
+
+<script type="text/javascript" src="jquery-1.9.1.js"></script>
+<script type="text/javascript" src="FeedEk.js"></script>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+</style>
+
+<style>
+.feedEkList{width:600px; list-style:none outside none;background-color:#fffdec; border:1px solid #8A8A8A; padding:4px 6px; color:#3E3E3E;border-radius: 10px; font-family: Tahoma, sans-serif; font-size: 12px;}
+.feedEkList li{border-bottom:1px solid #D3CAD7; padding:5px;}
+.feedEkList li:last-child{border-bottom:none;}
+.itemTitle a{font-weight:bold; color:#0065b3; text-decoration:none }
+.itemTitle a:hover{ text-decoration:underline }
+.itemDate{font-size:11px;color:#046f4b;}
+
+<!-- The quantity of posts in feed is set in FeedEK.js -->
+<!-- Links to RSS:
+		FOX BUSINESS:		https://moxie.foxbusiness.com/google-publisher/economy.xml
+		BBC BUSINESS:		https://feeds.bbci.co.uk/news/business/rss.xml
+		MERRIAM WEBSTER:	https://www.merriam-webster.com/wotd/feed/rss2
+		
+	
+	
+-->	
+
+#example { font-weight: bold; cursor: pointer;}
+</style>
+
+<script>
+$(document).ready(function(){
+    
+    $('#divRss').FeedEk({
+      FeedUrl : 'https://thecitypaperbogota.com/feed/'
+    });
+    
+    var r = Math.floor(Math.random()*256);
+ 	var g = Math.floor(Math.random()*256);
+ 	var b = Math.floor(Math.random()*256);
+    
+    $('#example, .itemTitle a').css("color", getHex(r,g,b));
+    
+    $('#example').click(function() {
+    
+        $('.itemTitle a').css("color", getHex(r,g,b));
+
+    });
+    
+    function intToHex(n){
+        n = n.toString(16);
+        if( n.length < 2) 
+            n = "0"+n; 
+        return n;
+    }
+    
+    function getHex(r, g, b){
+        return '#'+intToHex(r)+intToHex(g)+intToHex(b); 
+    }
+    
+});
+</script>
+
+</head>
+<body>
+<div style="position: abosolute; margin: 0px 0px 10px 0px;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpGwCKFxPavGyD3lOfQ5le-b_cEQcWoz2tYQ&s"
+height="70px" style="float: left; border-radius: 10px; margin-right: 20px;"></img></br>
+<p style="font-size: 30px; color:#333333; font-family: 'DM Serif Display', serif; float: left; margin-top: 3px; line-height: 20px;">The City Paper - Bogota News Feed</p> 
+</div>
+</br></br>
+<div id="divRss"></div>
+
+
+<script> 
+document.oncontextmenu = function() { 
+    return false; 
+};
+</script>
+
+</body>
+</html>
+
