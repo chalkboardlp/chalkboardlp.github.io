@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>Chalkboard TV</title>
+<link rel="icon" href="logo.png" type="image/x-icon" />
+<head>
+  <link href="video-js.css" rel="stylesheet" />
+	<style>
+	@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+	@import url('https://fonts.googleapis.com/css?family=Ropa+Sans');
+	@import url('https://fonts.googleapis.com/css?family=Open+Sans:600,700');
+	</style>
+  <style>
+    body {
+      font-family: 'Exo 2', sans-serif;
+      background-color: #2C2C2C;
+      text-align: center;
+      padding: 20px;
+    }
+
+    #player-container {
+      max-width: 550px;
+      margin: auto;
+    }
+
+    #playlist {
+      max-height: 150px;
+      overflow-y: auto;
+      margin-top: 10px;
+      border: 1px solid #ccc;
+      background: #fffbe4;
+      padding: 3px;
+      text-align: left;
+    }
+
+    .playlist-item {
+      cursor: pointer;
+      padding: 4px;
+      border-bottom: 1px solid #eee;
+    }
+
+    .playlist-item:hover {
+      background-color: #15ea8d; <!-- 3cc091; -->
+    }
+	
+  </style>
+</head>
+
+<body style="overflow:hidden;">
+
+<img src="Logo-White.png" width="127px"></img>
+<br>
+<a style="font-size: 27px; color:#f2bc00; font-family: 'Exo 2', sans-serif; font-weight: 600; line-height: 30px; margin-left: 10px;">Chalkboard TV</a></br>
+<a style="font-size: 15px; color:#FFFFFF; font-family: 'Open Sans', sans-serif; text-align: justify; margin-left: 10px;">Escoge un canal de la lista y dale click</a></br>
+<a style="font-size: 12px; color:#15ea8d; font-family: 'Open Sans', sans-serif; text-align: justify; margin-left: 10px;">(Habilita los subtitulos para une mejor experiencia de comprensión y pronunciación)</a></br></br>
+
+
+  <div id="player-container">
+    <video id="miPlayer" class="video-js vjs-default-skin" controls preload="auto" width="550" height="313" style="border: 2px solid #000000; margin: auto;" poster="tv-bars.gif"></video>
+
+    <div id="playlist" style="border: 2px solid #000000; margin-top: 5px; font-family: 'Exo 2', sans-serif; font-weight: 600; font-size: 12px; border: 2px solid #000000;">
+		
+		<div class="playlist-item" data-src="https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8">00 - Learn - EnglishTV</div>
+		<div class="playlist-item" data-src="https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8">01 - Movies - BBC America</div>
+		<div class="playlist-item" data-src="https://fl1.moveonjoy.com/National_Geographic/index.m3u8">02 - Nature - National Geographic</div>
+		<div class="playlist-item" data-src="https://amg01597-wnetnewyorkpubl-pbsnature-localnow-4gv0j.amagi.tv/playlist.m3u8">03 - Nature - PBS Nature</div>
+		<div class="playlist-item" data-src="https://streams2.sofast.tv/sofastplayout/7e8d2a51-985d-4e76-bf7e-91edf0aa6e5f_0_HLS/master.m3u8">04 - Documentary - DocuVision</div>
+		<div class="playlist-item" data-src="https://wonder-samsung-uk.amagi.tv/playlist.m3u8">05 - Documentary - Wonder</div>
+		<div class="playlist-item" data-src="https://lds-timeline-plex.amagi.tv/playlist.m3u8">06 - History - Timeline</div>
+		<div class="playlist-item" data-src="https://linear-188.frequency.stream/dist/localnow/188/hls/master/playlist.m3u8">07 - History - True History</div>
+		<div class="playlist-item" data-src="https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8">08 - News - DW</div>
+		<div class="playlist-item" data-src="https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8">09 - X-Sports - Red Bull Channel</div>
+		<div class="playlist-item" data-src="https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8">10 - Cooking - BonAppetit</div>
+		<div class="playlist-item" data-src="https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8">11 - Babies & Toddlers - BabyFirst</div>
+		<div class="playlist-item" data-src="https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8">12 - Kids - PBS Kids</div>
+		<div class="playlist-item" data-src="https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8">13 - Teens - Ninja Kidz</div>
+		<div class="playlist-item" data-src="https://linear-174.frequency.stream/dist/localnow/174/hls/master/playlist.m3u8">14 - Pets - Pet Collective</div>
+		<div class="playlist-item" data-src="https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8">15 - Travel - USAGo</div>
+		<div class="playlist-item" data-src="https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8">16 - Interior Design - NBCLX Home</div>
+		
+		
+		
+		
+		
+		
+    </div>
+  </div>
+
+  <script src="video.min.js"></script>
+  <script>
+    const player = videojs('miPlayer');
+    const items = document.querySelectorAll('.playlist-item');
+
+    items.forEach(item => {
+      item.addEventListener('click', () => {
+        const src = item.getAttribute('data-src');
+        player.src({ src, type: 'application/x-mpegURL' });
+        player.play();
+      });
+    });
+  </script>
+  
+<script> 
+document.oncontextmenu = function() { 
+    return false; 
+};
+</script>
+
+<!-- NOT WORKING CHANNELS
+
+<div class="playlist-item" data-src="https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8">01 - Nature - BBC Earth</div>
+<div class="playlist-item" data-src="https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8">06 - News - Reuters TV</div>
+<div class="playlist-item" data-src="https://bloomberg.com/media-manifest/streams/eu.m3u8">08 - Finance - Bloomberg</div>
+<div class="playlist-item" data-src="https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8">15 - Travel - Journy</div>
+<div class="playlist-item" data-src="https://iheart-iheart90s-1-us.xumo.wurl.tv/playlist.m3u8">18 - Music - I Heart 90s</div>
+<div class="playlist-item" data-src="https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/playlist.m3u8">17 - Travel & Animals - Xplore TV</div>
+
+-->
+
+</body>
+</html>
