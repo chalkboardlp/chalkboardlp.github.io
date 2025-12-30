@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[There was a little water for the guests.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_02/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[There were few papers on his desk.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_02/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[A few people remember him.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_02/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Our neighbours speak little English.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_02/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Few tourists visit this part of town.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_02/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[A few people live in the village itself.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_02/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Little snow falls on the mountain in winter.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_02/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The report says the students need a little help.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_02/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[There are a few people who speak Turkish here.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_02/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I have little time to read the newspaper.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_02/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

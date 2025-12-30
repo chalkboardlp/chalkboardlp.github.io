@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[It was the little RUSSIAN girl who sang.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_01/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[It was the LITTLE Russian girl who sang.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_01/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[In the story, he was TALL, dark and handsome.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_01/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[In the story, he was tall, DARK and handsome.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_01/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[He gave the girl a beautiful red APPLE.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_01/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[He gave the GIRL a beautiful red apple.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_01/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The big bad wolf said 'Good MORNING, little girl'.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_01/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The big bad wolf said 'Good morning, LITTLE girl'.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_01/assets/audio_08.mp3</audio>
+		</question>
+	</questions>
+</exercise>

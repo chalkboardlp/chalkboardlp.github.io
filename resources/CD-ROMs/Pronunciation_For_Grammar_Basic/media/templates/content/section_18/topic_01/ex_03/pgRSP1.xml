@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[I'll love you for ever if you marry me.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_03/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[If you wear that dress to the party, you'll look great.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_03/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I'll call the police unless you stop that noise at once.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_03/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Unless I find a nice flat I'll live with my parents.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_03/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[If your sister tells her friends that, they'll laugh at her.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_03/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We'll lend you the money if you pay us back next month.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_03/assets/short/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I'll listen to your story if you read it to me.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_03/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[You'll lose that ticket unless you put it in your pocket.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_03/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[If he tries some of this soup, I'm sure he'll like it.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_03/assets/short/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

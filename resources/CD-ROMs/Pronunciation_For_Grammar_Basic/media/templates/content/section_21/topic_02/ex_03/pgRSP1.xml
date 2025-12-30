@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[I ran across the road and jumped on a bus.]]></sentence>
+			<audio>templates/content/section_21/topic_02/ex_03/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We walked slowly through the garden and sat under a tree.]]></sentence>
+			<audio>templates/content/section_21/topic_02/ex_03/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[She came out of her room and went along the hall.]]></sentence>
+			<audio>templates/content/section_21/topic_02/ex_03/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[They skied down the mountain and then returned to the hotel.]]></sentence>
+			<audio>templates/content/section_21/topic_02/ex_03/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I went through the gate and across the river to get to the road.]]></sentence>
+			<audio>templates/content/section_21/topic_02/ex_03/assets/short/audio_08.mp3</audio>
+		</question>
+		<!--question>
+			<sentence><![CDATA[He walked quickly past the church and arrived in a big square.]]></sentence>
+			<audio>templates/content/section_21/topic_02/ex_03/assets/short/audio_05.mp3</audio>
+		</question-->
+		<question>
+			<sentence><![CDATA[We cycled over the bridge and then got off our bikes.]]></sentence>
+			<audio>templates/content/section_21/topic_02/ex_03/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I drove round the corner and crashed into a fence.]]></sentence>
+			<audio>templates/content/section_21/topic_02/ex_03/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The dog jumped into the water to get the stick.]]></sentence>
+			<audio>templates/content/section_21/topic_02/ex_03/assets/short/audio_09.mp3</audio>
+		</question>
+		<!--question>
+			<sentence><![CDATA[It's dangerous to walk along the yellow lines on the road.]]></sentence>
+			<audio>templates/content/section_21/topic_02/ex_03/assets/short/audio_10.mp3</audio>
+		</question-->
+	</questions>
+</exercise>

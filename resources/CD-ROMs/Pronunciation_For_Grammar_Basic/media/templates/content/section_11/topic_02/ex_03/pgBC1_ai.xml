@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Look at each sentence. Then listen, and repeat what you hear.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[Please sign your name at the bottom of this page.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_03/assets/audio_01.mp3</audio>
+			<chain>
+				<text><![CDATA[this page<br>]]></text>
+				<text><![CDATA[at the bottom of this page<br>]]></text>
+				<text><![CDATA[your name at the bottom of this page<br>]]></text>
+				<text><![CDATA[Please sign your name at the bottom of this page.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[We live in a little village in the middle of the mountains.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_03/assets/audio_02.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font>the mountains<br>]]></text>
+				<text><![CDATA[in the middle of the mountains<br>]]></text>
+				<text><![CDATA[a little village in the middle of the mountains<br>]]></text>
+				<text><![CDATA[We live in a little village in the middle of the mountains.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Claire and I sit in the same office at work.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_03/assets/audio_10.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /></font>at work<br>]]></text>
+				<text><![CDATA[in the same office at work<br>]]></text>
+				<text><![CDATA[sit in the same office at work<br>]]></text>
+				<text><![CDATA[Claire and I sit in the same office at work.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[You'll find our office at the top of the building.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_03/assets/audio_04.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="35"><br /></font><font size="31"><br /><br /></font>the building<br>]]></text>
+				<text><![CDATA[at the top of the building<br>]]></text>
+				<text><![CDATA[our office at the top of the building<br>]]></text>
+				<text><![CDATA[You'll find our office at the top of the building.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[The car's parked at the side of the house.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_03/assets/audio_05.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="35"><br /></font><font size="31"><br /><br /><br /></font>the house<br>]]></text>
+				<text><![CDATA[at the side of the house<br>]]></text>
+				<text><![CDATA[The car's parked at the side of the house.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[I don't often sit at the back of the bus.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_03/assets/audio_06.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="35"><br /></font><font size="31"><br /><br /><br /><br /></font>the bus<br/>]]></text>
+				<text><![CDATA[the back of the bus<br>]]></text>
+				<text><![CDATA[sit at the back of the bus<br>]]></text>
+				<text><![CDATA[I don't often sit at the back of the bus.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[We live in the big old house at the end of the street.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_03/assets/audio_07.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="35"><br /></font><font size="31"><br /><br /><br /><br /><br /></font>the street<br>]]></text>
+				<text><![CDATA[at the end of the street<br>]]></text>
+				<text><![CDATA[the big old house at the end of the street<br>]]></text>
+				<text><![CDATA[We live in the big old house at the end of the street.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Go upstairs and take the second door on the left.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_03/assets/audio_08.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="35"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /></font>door on the left<br>]]></text>
+				<text><![CDATA[take the second door on the left<br>]]></text>
+				<text><![CDATA[Go upstairs and take the second door on the left.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Shall we go to the cinema after school on Friday?]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_03/assets/audio_09.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="43"><br /></font><font size="31"><br /><br /><br /><br /><br/></font>on Friday<br>]]></text>
+				<text><![CDATA[after school on Friday<br>]]></text>
+				<text><![CDATA[Shall we go to the cinema after school on Friday?]]></text>
+			</chain>
+		</question>
+		<!--question>
+			<sentence><![CDATA[Claire and I sit in the same office at work.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_03/assets/audio_10.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="57"><br /></font><font size="31"><br /><br /><br /><br /><br /></font>at work<br>]]></text>
+				<text><![CDATA[in the same office at work<br>]]></text>
+				<text><![CDATA[sit in the same office at work<br>]]></text>
+				<text><![CDATA[Claire and I sit in the same office at work.]]></text>
+			</chain>
+		</question-->		
+	</questions>
+</exercise>

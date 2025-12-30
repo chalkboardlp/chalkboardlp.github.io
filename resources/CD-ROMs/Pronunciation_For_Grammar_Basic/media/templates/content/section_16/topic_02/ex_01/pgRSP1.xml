@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Her hands were as cold as ice after skiing.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_01/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Nicole's sister isn't as pretty as her.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_01/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[My eyes aren't as good as yours.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_01/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Jenny's hands aren't as small as Cassie's.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_01/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[She's as beautiful as her cousin.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_01/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Her bag isn't as heavy as mine.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_01/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[He was as quiet as she was.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_01/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I think they're as excited as we are.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_01/assets/short/audio_08.mp3</audio>
+		</question>
+	</questions>
+</exercise>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear. </b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Who phoned you?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_02/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Which team is he interested in?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_02/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[What hit him?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_02/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Who did you tell?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_02/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Who saw her?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_02/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Which teachers do you like?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_02/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Who does she work for?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_02/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[What do rabbits eat?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_02/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Who did she send the money to?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_02/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[What did he catch?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_02/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

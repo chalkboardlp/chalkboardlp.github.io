@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Mike speaks a few words of Italian, and so does Ann.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_01/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Katie's been on holiday to Egypt, and so has Emma.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_01/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Mike can tell very funny stories, and so can Andy.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_01/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Katie likes very old films, and so does Ellie.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_01/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Mike's really interested in art, and so is Oliver.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_01/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Katie was born in Edinburgh, and so was Annie.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_01/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Mike grew up in Australia, and so did Eric.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_01/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Joe's mother can knit, and so can Mary's.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_01/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[My father works in computers, and so do I.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_01/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Sheila goes dancing, and so does her sister.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_01/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

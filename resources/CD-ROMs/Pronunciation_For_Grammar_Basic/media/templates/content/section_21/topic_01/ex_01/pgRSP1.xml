@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[At midnight?]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_01/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[On Tuesday.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_01/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[In the autumn?]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_01/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[On the 6th of April?]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_01/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[In July.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_01/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[At the weekend.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_01/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[In 2011?]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_01/assets/audio_10.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[At Christmas.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_01/assets/audio_08.mp3</audio>
+		</question>
+	</questions>
+</exercise>

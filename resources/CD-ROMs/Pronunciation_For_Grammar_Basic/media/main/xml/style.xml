@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<styles>
+	<images>
+		<image item="preloader" assets="audio" xpos="466" ypos="245">main/assets/anim_preloader.swf</image>
+		<image item="backgrounds">main/assets/backgrounds.swf</image>
+		<image item="quit">main/assets/show_quit.swf</image>
+		<image item="title_anim">main/assets/anim_titles.swf</image>
+		<image item="content_anim">main/assets/anim_content.swf</image>
+		<image item="idents" ixpos="642" iypos="0">main/assets/idents.swf</image>
+	</images>
+	<buttons>
+		<button item="home" xpos="68" ypos="212" xspacing="457" yspacing="45" xoffset="0" bxoffset="45" byoffset="60" bxspacer="40" byspacer="3" fade="30" rows="11">
+			<image>main/assets/nav_home.swf</image>
+		</button>
+		<button item="unit" bxoffset="43" byoffset="30" yspacer="31" fade="15">
+			<image>main/assets/nav_unitmenu.swf</image>
+		</button>
+		<button item="lower" xpos="42" ypos="729" bxoffset="0" byoffset="0" exoffset="0" eyoffset="0">
+			<image>main/assets/nav_lower.swf</image>
+		</button>
+	</buttons>
+	<screens>
+		<image item="intro">main/assets/intro.swf</image>
+		<image item="splash">main/assets/splashscreen.swf</image>
+		<image item="outro">main/assets/outro.swf</image>
+	</screens>
+	<assets>
+		<asset item="menus" bghxpos="15" bghypos="310" bguxpos="0" bguypos="0" />
+		<!--home menu to show welcome text, also shows unitmenu name-->
+		<asset item="title" xpos="48" ypos="126" color="FFFFFF" fontsize="24" width="920" delimiter=" ≡" />
+
+		<!-- home menu to show instruction text -->
+		<asset item="home" xpos="69" ypos="172" color="1A388C" fontsize="22" width="900" />
+		<!-- unit menu to show instruction text -->
+		<asset item="unit" xpos="69" ypos="172" color="1A388C" fontsize="22" width="900"/>
+
+		<!-- unit menu to show topic headings -->
+		<asset item="topic" xpos="69" ypos="215" yspacer="140" color="DB6300" fontsize="19" width="900"/>
+
+		<!-- unit menu & exercise screen to show logo strapline -->
+		<asset item="strapline" xpos="150" ypos="74" color="FFFFFF" fontsize="26" width="920"/>
+
+		<!-- exercise screen to show exercise name -->
+		<asset item="exercise" xpos="68" ypos="175" color="484848" fontsize="18" width="920" />
+	</assets>
+	<templates>
+		<template item="exercise" xpos="42" ypos="164" pxpos="466" pypos="375" mStartypos="722" mEndypos="164" fade="10">
+			<image>main/assets/button_close.swf</image>
+		</template>
+		<template item="record" xpos="42" ypos="164" bxpos="589" bypos="516" bxpos2="760" bypos2="516" cxpos="779" cypos="508">
+			<image>main/assets/button_listen.swf</image>
+		</template>
+	</templates>
+</styles>

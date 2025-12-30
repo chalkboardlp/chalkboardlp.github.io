@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Which word in the blue sentence has the strongest stress? Choose a word, click on it and then listen. If you want to change your answer, click again on your chosen word, then on a different one.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[[It's] [*five] [miles] [to] [the] [central] [station.] Not ten miles.]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_01/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[It's] [five] [miles] [to] [the] [central] [*station.] Not the central library.]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_01/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[It's] [twenty] [*kilometres] [from] [the] [sea.] Not twenty miles.]]></sentence> 
+			<audio>templates/content/section_13/topic_02/ex_01/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[It's] [twenty] [kilometres] [from] [the] [*sea.] Not from the lake.]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_01/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[It's] [two] [hundred] [*yards] [along] [the] [canal.] Not two hundred metres.]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_01/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[It's] [*two] [hundred] [yards] [along] [the] [canal.] Not three hundred yards.]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_01/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[It's] [a] [long] [way] [by] [*bike.] Not by train.]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_01/assets/audio_07.mp3</audio>
+		</question>
+	</questions>
+</exercise>

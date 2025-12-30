@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Old people often forget things.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_01/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I usually just have toast and coffee for breakfast.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_01/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Why don't you eat meat?]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_01/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Exeter Cathedral is a very beautiful building.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_01/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I CAN'T STAND the COFfee from JOE'S.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_01/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[have you EVer BEEN to the GLOBE THEAtre?]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_01/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[ANNE'S HOUSE is the FIRST on the LEFT.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_01/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[we SAW the GREAT PYramid when we VISited EGypt.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_01/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[her HAIR is the SAME COlour as her MOther's.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_01/assets/short/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[do you UNderSTAND ENglish GRAMmar?]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_01/assets/short/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

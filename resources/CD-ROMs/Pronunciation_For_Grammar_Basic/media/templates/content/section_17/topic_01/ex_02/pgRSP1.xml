@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Although I hated the film, I watched it to the end.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_02/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[When I leave school, I'm going to travel round the world.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_02/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Cassie had a shower while they made breakfast.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_02/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We'll go to the beach if it's sunny tomorrow.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_02/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[As soon as she walked in, we left the party.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_02/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[If the weather's fine this weekend, we'll go to the country.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_02/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[He's going to get a job when he leaves university.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_02/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[While Bill fried some eggs, Ann made coffee.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_02/assets/short/audio_08.mp3</audio>
+		</question>
+	</questions>
+</exercise>

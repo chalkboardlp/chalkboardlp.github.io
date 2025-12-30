@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Look at each sentence. Then listen, and repeat what you hear.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[I like Mary because she's so friendly.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_01/assets/audio_01.mp3</audio>
+			<chain>
+				<text><![CDATA[so friendly<br>]]></text>
+				<text><![CDATA[she's so friendly<br>]]></text>
+				<text><![CDATA[because she's so friendly.<br>]]></text>
+				<text><![CDATA[I like Mary because she's so friendly.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[He needs help with his maths homework.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_01/assets/audio_02.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font>his maths homework<br>]]></text>
+				<text><![CDATA[help with his maths homework<br>]]></text>
+				<text><![CDATA[He needs help with his maths homework.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[They want your email address.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_01/assets/audio_03.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /></font>email address<br>]]></text>
+				<text><![CDATA[your email address<br>]]></text>
+				<text><![CDATA[They want your email address.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[I'm seeing Lucy and Pete on Tuesday.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_01/assets/audio_04.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /></font>on Tuesday<br>]]></text>
+				<text><![CDATA[Lucy and Pete on Tuesday<br>]]></text>
+				<text><![CDATA[I'm seeing Lucy and Pete on Tuesday.]]></text>			
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[She has already spoken to Mrs Lewis.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_01/assets/audio_05.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /></font>Mrs Lewis<br>]]></text>
+				<text><![CDATA[already spoken to Mrs Lewis<br>]]></text>
+				<text><![CDATA[She has already spoken to Mrs Lewis.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[He's got lots of money but not much time.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_01/assets/audio_06.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /></font>not much time<br>]]></text>
+				<text><![CDATA[lots of money but not much time<br>]]></text>
+				<text><![CDATA[He's got lots of money but not much time.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[We'd love to come but we're busy that day.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_01/assets/audio_07.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /></font>busy that day<br>]]></text>
+				<text><![CDATA[but we're busy that day<br>]]></text>
+				<text><![CDATA[We'd love to come but we're busy that day.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[You must try that new restaurant, it's fantastic.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_01/assets/audio_08.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /></font>it's fantastic<br>]]></text>
+				<text><![CDATA[that new restaurant, it's fantastic<br>]]></text>
+				<text><![CDATA[You must try that new restaurant, it's fantastic.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[It's my birthday next Tuesday.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_01/assets/audio_09.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="41"><br /></font><font size="31"><br /><br /><br /><br /><br/></font>next Tuesday<br>]]></text>
+				<text><![CDATA[my birthday next Tuesday<br>]]></text>
+				<text><![CDATA[It's my birthday next Tuesday.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[It's cold today so wear your coat.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_01/assets/audio_10.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="41"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /></font>your coat<br>]]></text>
+				<text><![CDATA[wear your coat<br>]]></text>
+				<text><![CDATA[It's cold today so wear your coat.]]></text>
+			</chain>
+		</question>		
+	</questions>
+</exercise>

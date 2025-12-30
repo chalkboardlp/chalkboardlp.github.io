@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Listen to the sentences.</b>]]></rubric>
+	<examples>
+		<example>
+			<label><![CDATA[question]]></label>
+			<audio>templates/content/section_22/topic_01/ex_03/assets/weak_model.mp3</audio>
+		</example>
+		<example>
+			<label><![CDATA[not a question]]></label>
+			<audio>templates/content/section_22/topic_01/ex_03/assets/strong_model.mp3</audio>
+		</example>
+	</examples>
+	<questions>
+		<heading><![CDATA[<b>Listen and choose the correct answers.</b>]]></heading>
+		<question>
+			<sentence><![CDATA[can't help  [#]]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_03/assets/audio_01.mp3</audio>
+			<options>
+				<option>question</option>
+				<option answer="correct">not a question</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[like the music  [#]]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_03/assets/audio_02.mp3</audio>
+			<options>
+				<option answer="correct">question</option>
+				<option>not a question</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[been there before  [#]]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_03/assets/audio_03.mp3</audio>
+			<options>
+				<option>question</option>
+				<option answer="correct">not a question</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[nobody around  [#]]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_03/assets/audio_04.mp3</audio>
+			<options>
+				<option answer="correct">question</option>
+				<option>not a question</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[not interested  [#]]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_03/assets/audio_05.mp3</audio>
+			<options>
+				<option answer="correct">question</option>
+				<option>not a question</option>
+			</options>
+		</question>
+		<!--question>
+			<sentence><![CDATA[need some advice  [#]]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_03/assets/audio_06.mp3</audio>
+			<options>
+				<option answer="correct">question</option>
+				<option>not a question</option>
+			</options>
+		</question-->
+		<question>
+			<sentence><![CDATA[feeling tired  [#]]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_03/assets/audio_07.mp3</audio>
+			<options>
+				<option>question</option>
+				<option answer="correct">not a question</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[can't understand it  [#]]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_03/assets/audio_08.mp3</audio>
+			<options>
+				<option>question</option>
+				<option answer="correct">not a question</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[something the matter  [#]]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_03/assets/audio_09.mp3</audio>
+			<options>
+				<option answer="correct">question</option>
+				<option>not a question</option>
+			</options>
+		</question>
+		<!--question>
+			<sentence><![CDATA[got a headache  [#]]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_03/assets/audio_10.mp3</audio>
+			<options>
+				<option answer="correct">question</option>
+				<option>not a question</option>
+			</options>
+		</question-->
+	</questions>	
+</exercise>

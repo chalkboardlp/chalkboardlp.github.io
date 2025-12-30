@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[He asked her to dance with him, but she didn't want to.]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_02/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I don't always remember birthdays, but I try to.]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_02/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[It hasn't snowed all morning, but it's starting to now.]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_02/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[They haven't ever visited China, but they hope to.]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_02/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[You promised to remind me, but you forgot to.]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_02/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[She doesn't speak Italian very well now, but she used to.]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_02/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I've never learnt to play the piano, but I'd like to.]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_02/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[They think I wouldn't like to live here, but I'd love to.]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_02/assets/short/audio_08.mp3</audio>
+		</question>
+		<!--question>
+			<sentence><![CDATA[His mother told him to tidy his room, but he didn't want to.]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_02/assets/short/audio_09.mp3</audio>
+		</question-->
+		<question>
+			<sentence><![CDATA[I didn't want to go to the dentist, but I had to.]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_02/assets/short/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

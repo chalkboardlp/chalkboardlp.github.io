@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Listen and repeat. When you repeat, stress the words and syllables in CAPITALS.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[Neil can drive very well.]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_01/assets/audio_01.mp3</audio>
+			<chain>
+				<text><![CDATA[NEIL can DRIVE VEry WELL.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[Vanessa can't draw anything.]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_01/assets/audio_02.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font>vaNESsa CAN'T DRAW Anything.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Timmy can't type very quickly.]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_01/assets/audio_03.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /></font>TIMmy CAN'T TYPE VEry QUICKly.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[With a visa you can take paid work.]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_01/assets/audio_04.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /></font>WITH a VIsa you can TAKE PAID WORK.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[Trudy can speak German very clearly.]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_01/assets/audio_05.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /></font>TRUdy can SPEAK GERman VEry CLEARly.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[I can't tell you my name.]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_01/assets/audio_06.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /></font>i CAN'T tell you my NAME.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[We know we can win the competition!]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_01/assets/audio_07.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /></font>we KNOW we can WIN the COMpeTItion!]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[I can't do it without your help.]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_01/assets/audio_08.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /></font>i CAN'T do it withOUT YOUR HELP.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Joe, can you lend me a stamp?]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_01/assets/audio_09.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /><br /></font>JOE, can you LEND me a STAMP?]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Can I have your address, please?]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_01/assets/audio_10.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /><br /><br /></font>can i HAVE your adDRESS, PLEASE?]]></text>
+			</chain>
+		</question>		
+	</questions>
+</exercise>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Polly said she would meet her friends at the CINEMA.]]></sentence>
+			<audio>templates/content/section_20/topic_01/ex_01/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Polly said she would meet her FRIENDS at the cinema.]]></sentence>
+			<audio>templates/content/section_20/topic_01/ex_01/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Polly's friends told her they would come in a TAXI.]]></sentence>
+			<audio>templates/content/section_20/topic_01/ex_01/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Polly's friends told her they would COME in a taxi.]]></sentence>
+			<audio>templates/content/section_20/topic_01/ex_01/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Her mother said the tickets would be EXPENSIVE.]]></sentence>
+			<audio>templates/content/section_20/topic_01/ex_01/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Her mother said the TICKETS would be expensive.]]></sentence>
+			<audio>templates/content/section_20/topic_01/ex_01/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Polly said she would have a quick MEAL first.]]></sentence>
+			<audio>templates/content/section_20/topic_01/ex_01/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Her friends told Polly they would meet her at SEVEN.]]></sentence>
+			<audio>templates/content/section_20/topic_01/ex_01/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Her FRIENDS told Polly they would meet her at seven.]]></sentence>
+			<audio>templates/content/section_20/topic_01/ex_01/assets/audio_09.mp3</audio>
+		</question>
+	</questions>
+</exercise>

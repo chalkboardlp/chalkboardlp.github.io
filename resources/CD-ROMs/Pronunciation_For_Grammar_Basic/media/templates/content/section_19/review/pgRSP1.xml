@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Who am I speaking to now?]]></sentence>
+			<audio>templates/content/section_19/review/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The woman they spoke to was angry.]]></sentence>
+			<audio>templates/content/section_19/review/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[He was the boy who won the prize.]]></sentence>
+			<audio>templates/content/section_19/review/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I bought those cakes that you like.]]></sentence>
+			<audio>templates/content/section_19/review/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The train you want leaves at half past ten.]]></sentence>
+			<audio>templates/content/section_19/review/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The man she spoke to was very helpful.]]></sentence>
+			<audio>templates/content/section_19/review/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Is it an insect that makes honey?]]></sentence>
+			<audio>templates/content/section_19/review/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The man who lives next door is getting married.]]></sentence>
+			<audio>templates/content/section_19/review/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I think we've got all that we need.]]></sentence>
+			<audio>templates/content/section_19/review/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[They gave me what I asked for.]]></sentence>
+			<audio>templates/content/section_19/review/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Charles isn't teaching today.]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_02/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Jess is taking driving lessons.]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_02/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Chris isn't drinking his juice.]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_02/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Sam and Jill are doing very well.]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_02/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Eva and Amy aren't talking a lot.]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_02/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[James is travelling this week.]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_02/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Louise is talking to her boyfriend.]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_02/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We aren't learning Japanese at school.]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_02/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The police are trying to find him.]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_02/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Alex isn't driving his taxi now.]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_02/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[She's going to leave home when she's older.]]></sentence>
+			<audio>templates/content/section_03/topic_01/ex_02/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Are they going to do any work at the office?]]></sentence>
+			<audio>templates/content/section_03/topic_01/ex_02/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We're not going to get to the hotel this evening.]]></sentence>
+			<audio>templates/content/section_03/topic_01/ex_02/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[What are you going to get for my birthday?]]></sentence>
+			<audio>templates/content/section_03/topic_01/ex_02/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I'm going to take lots of wonderful photos.]]></sentence>
+			<audio>templates/content/section_03/topic_01/ex_02/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[He's going to write postcards to all his friends.]]></sentence>
+			<audio>templates/content/section_03/topic_01/ex_02/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I'm going to swim every day in the river.]]></sentence>
+			<audio>templates/content/section_03/topic_01/ex_02/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[It's going to be sunny and hot at the weekend.]]></sentence>
+			<audio>templates/content/section_03/topic_01/ex_02/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Daniel's going to play football at lunchtime.]]></sentence>
+			<audio>templates/content/section_03/topic_01/ex_02/assets/short/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Neil's not going to study physics at university.]]></sentence>
+			<audio>templates/content/section_03/topic_01/ex_02/assets/short/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

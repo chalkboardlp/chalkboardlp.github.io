@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Look at each sentence. Then listen, and repeat what you hear.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[Jeremy thinks more clearly than most people.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_03/assets/audio_01.mp3</audio>
+			<chain>
+				<text><![CDATA[most people<br>]]></text>
+				<text><![CDATA[more clearly than most people<br>]]></text>
+				<text><![CDATA[thinks more clearly than most people<br>]]></text>
+				<text><![CDATA[Jeremy thinks more clearly than most people.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[I live further from the town centre than you.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_03/assets/audio_02.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font>from the town centre than you<br>]]></text>
+				<text><![CDATA[further from the town centre than you<br>]]></text>
+				<text><![CDATA[I live further from the town centre than you.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Jacob drives more dangerously than me.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_03/assets/audio_03.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /></font>more dangerously than me<br>]]></text>
+				<text><![CDATA[drives more dangerously than me<br>]]></text>
+				<text><![CDATA[Jacob drives more dangerously than me.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[He dances badly, but you dance worse.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_03/assets/audio_04.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /></font>you dance worse<br>]]></text>
+				<text><![CDATA[but you dance worse<br>]]></text>
+				<text><![CDATA[He dances badly, but you dance worse.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[I got to the airport earlier than Mary.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_03/assets/audio_05.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /></font>earlier than Mary<br>]]></text>
+				<text><![CDATA[to the airport earlier than Mary<br>]]></text>
+				<text><![CDATA[I got to the airport earlier than Mary.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[They live more cheaply than their friends.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_03/assets/audio_06.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /></font>their friends<br>]]></text>
+				<text><![CDATA[more cheaply than their friends<br>]]></text>
+				<text><![CDATA[They live more cheaply than their friends.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Stephen goes swimming more often than Katie.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_03/assets/audio_07.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /></font>more often than Katie<br>]]></text>
+				<text><![CDATA[goes swimming more often than Katie<br>]]></text>
+				<text><![CDATA[Stephen goes swimming more often than Katie.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Jack dresses more expensively than Rob.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_03/assets/audio_08.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /></font>more expensively than Rob<br>]]></text>
+				<text><![CDATA[Jack dresses more expensively than Rob.]]></text>
+			</chain>
+		</question>
+	</questions>
+</exercise>

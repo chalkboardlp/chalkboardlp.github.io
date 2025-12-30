@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Which word in the blue sentence has the strongest stress? Choose a word, click on it and then listen. If you want to change your answer, click again on your chosen word, then on a different one.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[[It] [was] [the] [little] [*Russian] [girl] [who] [sang]. Not the little Polish girl.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_01/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[It] [was] [the] [*little] [Russian] [girl] [who] [sang]. Not the tall Russian girl.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_01/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[In] [the] [story], [he] [was] [*tall], [dark] [and] [handsome]. Not short, dark and handsome.]]></sentence> 
+			<audio>templates/content/section_15/topic_01/ex_01/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[In] [the] [story], [he] [was] [tall], [*dark] [and] [handsome]. Not tall, blond and handsome.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_01/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[He] [gave] [the] [girl] [a] [beautiful] [red] [*apple]. Not a beautiful red plum.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_01/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[He] [gave] [the] [*girl] [a] [beautiful] [red] [apple]. Not the grandmother.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_01/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[The] [big] [bad] [wolf] [said] '[Good] [*morning], [little] [girl]'. Not 'Good evening'.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_01/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[The] [big] [bad] [wolf] [said] '[Good] [morning], [*little] [girl]'. Not 'Good morning, stupid girl'.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_01/assets/audio_08.mp3</audio>
+		</question>
+	</questions>
+</exercise>

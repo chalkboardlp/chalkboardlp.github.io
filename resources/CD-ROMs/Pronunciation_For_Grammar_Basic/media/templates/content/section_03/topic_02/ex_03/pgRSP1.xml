@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[I'll go to the supermarket after work.]]></sentence>
+			<audio>templates/content/section_03/topic_02/ex_03/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We'll walk to the office.]]></sentence>
+			<audio>templates/content/section_03/topic_02/ex_03/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I'll see you tomorrow.]]></sentence>
+			<audio>templates/content/section_03/topic_02/ex_03/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We listen to the news at breakfast.]]></sentence>
+			<audio>templates/content/section_03/topic_02/ex_03/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[You have ten minutes to finish the job.]]></sentence>
+			<audio>templates/content/section_03/topic_02/ex_03/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+				<sentence><![CDATA[I'll never do that.]]></sentence>
+			<audio>templates/content/section_03/topic_02/ex_03/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The baby won't stop crying.]]></sentence>
+			<audio>templates/content/section_03/topic_02/ex_03/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[When does the concert finish?]]></sentence>
+			<audio>templates/content/section_03/topic_02/ex_03/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[She's starting university in Septenber.]]></sentence>
+			<audio>templates/content/section_03/topic_02/ex_03/assets/short/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[You look good in that jacket.]]></sentence>
+			<audio>templates/content/section_03/topic_02/ex_03/assets/short/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

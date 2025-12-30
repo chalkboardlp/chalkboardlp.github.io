@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[The letter was sent last week.]]></sentence>
+			<audio>templates/content/section_07/topic_01/ex_01/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[All the staff are paid monthly.]]></sentence>
+			<audio>templates/content/section_07/topic_01/ex_01/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[It was read by people all over the world.]]></sentence>
+			<audio>templates/content/section_07/topic_01/ex_01/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The match was watched by millions.]]></sentence>
+			<audio>templates/content/section_07/topic_01/ex_01/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Nobody was told where to go.]]></sentence>
+			<audio>templates/content/section_07/topic_01/ex_01/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[It's spelt with a ‘w'.]]></sentence>
+			<audio>templates/content/section_07/topic_01/ex_01/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Our windows are cleaned once a month.]]></sentence>
+			<audio>templates/content/section_07/topic_01/ex_01/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[They were told not to worry.]]></sentence>
+			<audio>templates/content/section_07/topic_01/ex_01/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[It's all done by computer now.]]></sentence>
+			<audio>templates/content/section_07/topic_01/ex_01/assets/short/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[All their products are made in China.]]></sentence>
+			<audio>templates/content/section_07/topic_01/ex_01/assets/short/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

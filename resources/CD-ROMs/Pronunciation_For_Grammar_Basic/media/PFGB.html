@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Chalkboard CD-ROM</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background-color: #111;
+    }
+
+    #flash-container {
+      width: 100%;
+      height: calc(100% - 50px); /* deja espacio para el botón */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    #fullscreen-button {
+      width: 100%;
+      height: 50px;
+      background-color: #222;
+      color: white;
+      border: none;
+      font-size: 18px;
+      cursor: pointer;
+    }
+
+    ruffle-player {
+      width: 100%;
+      height: 100%;
+      display: block;
+      max-width: 100%;
+      max-height: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="flash-container"></div>
+  <button id="fullscreen-button">Click here for fullscreen</button>
+
+  <!-- Cargar Ruffle desde CDN -->
+  <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+
+  <script>
+    let player;
+
+    window.addEventListener("load", () => {
+      const ruffle = window.RufflePlayer.newest();
+      player = ruffle.createPlayer();
+      player.style.width = "100%";
+      player.style.height = "100%";
+
+      document.getElementById("flash-container").appendChild(player);
+      player.load("main.swf");
+
+      // Botón pantalla completa
+      document.getElementById("fullscreen-button").addEventListener("click", () => {
+        if (player && player.enterFullscreen) {
+          player.enterFullscreen();
+        }
+      });
+    });
+  </script>
+</body>
+</html>

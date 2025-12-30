@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Which preposition – <i>in</i> or <i>on</i>? Choose an answer. Then listen, and change your answers if you need to.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[My birthday is ... Tuesday.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_02/assets/audio_01.mp3</audio>
+			<options>
+				<option answer="correct">on</option>
+				<option>in</option>
+			</options>				
+		</question>
+		<question>
+			<sentence><![CDATA[Our anniversary is ... March.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_02/assets/audio_02.mp3</audio>
+			<options>
+				<option>on</option>
+				<option answer="correct">in</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[School starts ... the first week of September.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_02/assets/audio_03.mp3</audio>
+			<options>
+				<option>on</option>
+				<option answer="correct">in</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[I'm sleepy ... the evenings after work.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_02/assets/audio_04.mp3</audio>
+			<options>
+				<option>on</option>
+				<option answer="correct">in</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... Tuesdays, I have my yoga class.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_02/assets/audio_05.mp3</audio>
+			<options>	
+				<option answer="correct">On</option>
+				<option>In</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[They like their tea at five ... the afternoon.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_02/assets/audio_06.mp3</audio>
+			<options>
+				<option>on</option>
+				<option answer="correct">in</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... Easter Monday, there is a parade through town.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_02/assets/audio_07.mp3</audio>
+			<options>
+				<option answer="correct">On</option>
+				<option>In</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[I live ... a small island.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_02/assets/audio_08.mp3</audio>
+			<options>
+				<option answer="correct">on</option>
+				<option>in</option>							
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... the seventeenth century, there were a lot of wars.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_02/assets/audio_09.mp3</audio>
+			<options>
+				<option>On</option>
+				<option answer="correct">In</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[I like to go away ... August.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_02/assets/audio_10.mp3</audio>
+			<options>
+				<option>on</option>
+				<option answer="correct">in</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

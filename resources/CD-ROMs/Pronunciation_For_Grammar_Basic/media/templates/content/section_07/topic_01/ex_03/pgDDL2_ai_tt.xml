@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Listen and choose the correct answers.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[The letter  [#] signed by the boss.]]></sentence>		
+			<audio>templates/content/section_07/topic_01/ex_03/assets/audio_01.mp3</audio>
+			<options>
+				<option answer="correct">isn't</option>
+				<option>wasn't</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[Tom and Phil  [#] both invited to the party.]]></sentence>		
+			<audio>templates/content/section_07/topic_01/ex_03/assets/audio_02.mp3</audio>
+			<options>
+				<option>are</option>
+				<option answer="correct">were</option>				
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[Sue  [#] helped a lot by her friends.]]></sentence>		
+			<audio>templates/content/section_07/topic_01/ex_03/assets/audio_03.mp3</audio>
+			<options>
+				<option answer="correct">is</option>
+				<option>was</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[The tickets  [#] sent before the concert.]]></sentence>		
+			<audio>templates/content/section_07/topic_01/ex_03/assets/audio_04.mp3</audio>
+			<options>
+				<option>aren't</option>
+				<option answer="correct">weren't</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[Joe  [#] liked by the other children.]]></sentence>		
+			<audio>templates/content/section_07/topic_01/ex_03/assets/audio_05.mp3</audio>
+			<options>
+			    <option>isn't</option>
+				<option answer="correct">wasn't</option>				
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[How  [#] the vegetables cooked?]]></sentence>		
+			<audio>templates/content/section_07/topic_01/ex_03/assets/audio_06.mp3</audio>
+			<options>
+				<option>are</option>
+				<option answer="correct">were</option> 
+			</options>			
+		</question>
+		<question>
+			<sentence><![CDATA[Every window  [#] cleaned once a day.]]></sentence>		
+			<audio>templates/content/section_07/topic_01/ex_03/assets/audio_07.mp3</audio>
+			<options>				
+				<option answer="correct">is</option>
+				<option>was</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[The parents  [#] told everything.]]></sentence>		
+			<audio>templates/content/section_07/topic_01/ex_03/assets/audio_08.mp3</audio>
+			<options>
+				<option answer="correct">aren't</option>
+				<option>weren't</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[Mario  [#] asked to speak at lots of conferences.]]></sentence>		
+			<audio>templates/content/section_07/topic_01/ex_03/assets/audio_09.mp3</audio>
+			<options>
+				<option answer="correct">is</option>
+				<option>was</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[The builders  [#] paid in cash.]]></sentence>		
+			<audio>templates/content/section_07/topic_01/ex_03/assets/audio_10.mp3</audio>
+			<options>
+				<option answer="correct">are</option>
+				<option>were</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

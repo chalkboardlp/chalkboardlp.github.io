@@ -1,0 +1,2035 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content>
+	<units>
+		<unit>
+			<label><![CDATA[<b>1</b>]]></label>
+			<name><![CDATA[<i>be</i> and <i>have</i>]]></name>
+			<topics>
+				<topic>
+					<name><![CDATA[<b><i>be</i></b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which do you hear – present affirmative (+) or negative (–)?]]></name>
+						<xml type="content">templates/content/section_01/topic_01/ex_01/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_01/topic_01/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which do you hear – past affirmative (+) or negative (–)?]]></name>
+						<xml type="content">templates/content/section_01/topic_01/ex_02/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_01/topic_01/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which do you hear – affirmative (+) or negative (–)?]]></name>
+						<xml type="content">templates/content/section_01/topic_01/ex_03/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_01/topic_01/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b><i>have</i></b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which do you hear – <i>don't</i> or <i>didn't</i>?]]></name>
+						<xml type="content">templates/content/section_01/topic_02/ex_01/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_01/topic_02/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which do you hear – <i>does</i> or <i>did</i>?]]></name>
+						<xml type="content">templates/content/section_01/topic_02/ex_02/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_01/topic_02/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 <i>Have got</i>: which word has the strongest stress?]]></name>
+						<xml type="content">templates/content/section_01/topic_02/ex_03/pgHL1_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgHL1_ai_tt_style.xml</xml>
+						<template>templates/template_HL1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_01/topic_02/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>review</b>]]></name>
+					<exercise>
+						<name><![CDATA[How many words do you hear?]]></name>
+						<xml type="content">templates/content/section_01/review/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_01/review/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+			</topics>
+		</unit>
+		<unit>
+			<label><![CDATA[<b>2</b>]]></label>
+			<name><![CDATA[present tenses]]></name>
+			<topics>
+				<topic>
+					<name><![CDATA[<b>simple present</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 How many syllables do the words have?]]></name>
+						<xml type="content">templates/content/section_02/topic_01/ex_01/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_02/topic_01/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which word has the strongest stress?]]></name>
+						<xml type="content">templates/content/section_02/topic_01/ex_02/pgHL1_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgHL1_ai_tt_style.xml</xml>
+						<template>templates/template_HL1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_02/topic_01/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which words and syllables are stressed?]]></name>
+						<xml type="content">templates/content/section_02/topic_01/ex_03/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_02/topic_01/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>present progressive</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which syllable has the strongest stress?]]></name>
+						<xml type="content">templates/content/section_02/topic_02/ex_01/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_02/topic_02/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which do you hear – <i>is</i>/<i>are</i> or <i>isn't</i>/<i>aren't</i>?]]></name>
+						<xml type="content">templates/content/section_02/topic_02/ex_02/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_02/topic_02/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Saying sentences – present progressive questions]]></name>
+						<xml type="content">templates/content/section_02/topic_02/ex_03/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_02/topic_02/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>review</b>]]></name>
+					<exercise>
+						<name><![CDATA[What's the fifth word?]]></name>
+						<xml type="content">templates/content/section_02/review/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_02/review/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+			</topics>
+		</unit>
+		<unit enable="true">
+			<label><![CDATA[<b>3</b>]]></label>
+			<name><![CDATA[talking about the future]]></name>
+			<topics>
+				<topic>
+					<name><![CDATA[<b><i>going to</i> or present progressive</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which word has the strongest stress?]]></name>
+						<xml type="content">templates/content/section_03/topic_01/ex_01/pgHL1_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgHL1_ai_tt_style.xml</xml>
+						<template>templates/template_HL1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_03/topic_01/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Saying sentences – <i>going to</i>]]></name>
+						<xml type="content">templates/content/section_03/topic_01/ex_02/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_03/topic_01/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which words and syllables are stressed?]]></name>
+						<xml type="content">templates/content/section_03/topic_01/ex_03/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_03/topic_01/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>simple present or <i>will</i></b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which do you hear – simple present or <i>will</i>?]]></name>
+						<xml type="content">templates/content/section_03/topic_02/ex_01/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_03/topic_02/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 What's the fifth word?]]></name>
+						<xml type="content">templates/content/section_03/topic_02/ex_02/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_03/topic_02/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which words and syllables are stressed?]]></name>
+						<xml type="content">templates/content/section_03/topic_02/ex_03/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_03/topic_02/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>review</b>]]></name>
+					<exercise>
+						<name><![CDATA[How many words do you hear?]]></name>
+						<xml type="content">templates/content/section_03/review/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_03/review/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+			</topics>
+		</unit>
+		<unit>
+			<label><![CDATA[<b>4</b>]]></label>
+			<name><![CDATA[past tenses]]></name>
+			<topics>
+				<topic>
+					<name><![CDATA[<b>simple past</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which do you hear – present or past?]]></name>
+						<xml type="content">templates/content/section_04/topic_01/ex_01/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_04/topic_01/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 How many syllables do the words have?]]></name>
+						<xml type="content">templates/content/section_04/topic_01/ex_02/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_04/topic_01/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which do you hear – <i>do(n't)</i>/<i>does(n't)</i> or <i>did(n't)</i>? ]]></name>
+						<xml type="content">templates/content/section_04/topic_01/ex_03/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_04/topic_01/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>past progressive</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which do you hear – <i>is</i>/<i>are</i> or <i>was</i>/<i>were</i>?]]></name>
+						<xml type="content">templates/content/section_04/topic_02/ex_01/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_04/topic_02/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which do you hear – weak or strong pronunciation?]]></name>
+						<xml type="content">templates/content/section_04/topic_02/ex_02/pgDDL2_ai_tt_pron.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_pron_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_04/topic_02/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Saying sentences – sentences with time expressions]]></name>
+						<xml type="content">templates/content/section_04/topic_02/ex_03/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_04/topic_02/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>review</b>]]></name>
+					<exercise>
+						<name><![CDATA[How many words do you hear?]]></name>
+						<xml type="content">templates/content/section_04/review/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_04/review/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+			</topics>
+		</unit>
+		<unit enable="true">
+			<label><![CDATA[<b>5</b>]]></label>
+			<name><![CDATA[perfect tenses]]></name>
+			<topics>
+				<topic>
+					<name><![CDATA[<b>simple present perfect</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which do you hear – affirmative (+) or negative (–)?]]></name>
+						<xml type="content">templates/content/section_05/topic_01/ex_01/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_05/topic_01/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which do you hear – present perfect or simple past?]]></name>
+						<xml type="content">templates/content/section_05/topic_01/ex_02/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_05/topic_01/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Saying sentences – <i>been</i> and <i>gone</i>]]></name>
+						<xml type="content">templates/content/section_05/topic_01/ex_03/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_05/topic_01/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>present perfect and past perfect</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which word has the strongest stress?]]></name>
+						<xml type="content">templates/content/section_05/topic_02/ex_01/pgHL1_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgHL1_ai_tt_style.xml</xml>
+						<template>templates/template_HL1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_05/topic_02/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which do you hear – <i>has</i>/<i>have</i> or <i>had</i>?]]></name>
+						<xml type="content">templates/content/section_05/topic_02/ex_02/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_05/topic_02/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which do you hear – past perfect or simple past?]]></name>
+						<xml type="content">templates/content/section_05/topic_02/ex_03/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_05/topic_02/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>review</b>]]></name>
+					<exercise>
+						<name><![CDATA[What's the fifth word?]]></name>
+						<xml type="content">templates/content/section_05/review/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_05/review/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+			</topics>
+		</unit>
+		<unit enable="true">
+			<label><![CDATA[<b>6</b>]]></label>
+			<name><![CDATA[modal verbs]]></name>
+			<topics>
+				<topic>
+					<name><![CDATA[<b><i>must</i>/<i>mustn't</i>; <i>can</i> and <i>could</i></b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which do you hear – <i>must</i> or <i>mustn't</i>?]]></name>
+						<xml type="content">templates/content/section_06/topic_01/ex_01/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_06/topic_01/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which do you hear – weak or strong pronunciation?]]></name>
+						<xml type="content">templates/content/section_06/topic_01/ex_02/pgDDL2_ai_tt_pron.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_pron_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_06/topic_01/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which do you hear – <i>can</i> or <i>could</i>?]]></name>
+						<xml type="content">templates/content/section_06/topic_01/ex_03/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_06/topic_01/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b><i>can</i>/<i>can't</i>; <i>have to</i>; <i>should</i>/<i>shouldn't</i></b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which words and syllables are stressed?]]></name>
+						<xml type="content">templates/content/section_06/topic_02/ex_01/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_06/topic_02/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which do you hear – <i>do</i>/<i>does</i> or <i>did</i>?]]></name>
+						<xml type="content">templates/content/section_06/topic_02/ex_02/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_06/topic_02/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which do you hear – <i>should</i> or <i>shouldn't</i>?]]></name>
+						<xml type="content">templates/content/section_06/topic_02/ex_03/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_06/topic_02/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>review</b>]]></name>
+					<exercise>
+						<name><![CDATA[How many words do you hear?]]></name>
+						<xml type="content">templates/content/section_06/review/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_06/review/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+			</topics>
+		</unit>
+		<unit enable="true">
+			<label><![CDATA[<b>7</b>]]></label>
+			<name><![CDATA[passives]]></name>
+			<topics>
+				<topic>
+					<name><![CDATA[<b>simple present and simple past passive</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Saying sentences]]></name>
+						<xml type="content">templates/content/section_07/topic_01/ex_01/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_07/topic_01/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which do you hear – <i>was</i>/<i>wasn't</i> or <i>were</i>/<i>weren't</i>?]]></name>
+						<xml type="content">templates/content/section_07/topic_01/ex_02/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_07/topic_01/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which do you hear – present or past?]]></name>
+						<xml type="content">templates/content/section_07/topic_01/ex_03/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_07/topic_01/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>future, present perfect and negative passives</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which words and syllables are stressed?]]></name>
+						<xml type="content">templates/content/section_07/topic_02/ex_01/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_07/topic_02/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which do you hear – <i>has</i>/<i>have been</i> or <i>hasn't</i>/<i>haven't been</i>?]]></name>
+						<xml type="content">templates/content/section_07/topic_02/ex_02/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_07/topic_02/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which word has the strongest stress?]]></name>
+						<xml type="content">templates/content/section_07/topic_02/ex_03/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_07/topic_02/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>review</b>]]></name>
+					<exercise>
+						<name><![CDATA[What's the fifth word?]]></name>
+						<xml type="content">templates/content/section_07/review/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_07/review/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+			</topics>
+		</unit>
+		<unit enable="true">
+			<label><![CDATA[<b>8</b>]]></label>
+			<name><![CDATA[questions and negatives]]></name>
+			<topics>
+				<topic>
+					<name><![CDATA[<b>questions</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which auxiliary verb do you hear?]]></name>
+						<xml type="content">templates/content/section_08/topic_01/ex_01/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_08/topic_01/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Question-word subjects: what do you hear?]]></name>
+						<xml type="content">templates/content/section_08/topic_01/ex_02/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_08/topic_01/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which do you hear – weak or strong pronunciation? ]]></name>
+						<xml type="content">templates/content/section_08/topic_01/ex_03/pgDDL2_ai_tt_pron.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_pron_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_08/topic_01/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>negatives</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which do you hear – affirmative (+) or negative (–)?]]></name>
+						<xml type="content">templates/content/section_08/topic_02/ex_01/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_08/topic_02/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which word has the strongest stress?]]></name>
+						<xml type="content">templates/content/section_08/topic_02/ex_02/pgHL1_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgHL1_ai_tt_style.xml</xml>
+						<template>templates/template_HL1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_08/topic_02/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Saying sentences – negatives with <i>nobody</i>/<i>never</i> etc]]></name>
+						<xml type="content">templates/content/section_08/topic_02/ex_03/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_08/topic_02/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>review</b>]]></name>
+					<exercise>
+						<name><![CDATA[What's the fifth word?]]></name>
+						<xml type="content">templates/content/section_08/review/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_08/review/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+			</topics>
+		</unit>
+		<unit enable="true">
+			<label><![CDATA[<b>9</b>]]></label>
+			<name><![CDATA[infinitives and <i>-ing</i> forms]]></name>
+			<topics>
+				<topic>
+					<name><![CDATA[<b>infinitives</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Infinitives: which do you hear – affirmative (+) or negative (–)?]]></name>
+						<xml type="content">templates/content/section_09/topic_01/ex_01/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_09/topic_01/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Saying sentences – infinitives of purpose]]></name>
+						<xml type="content">templates/content/section_09/topic_01/ex_02/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_09/topic_01/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 What's the sixth word?]]></name>
+						<xml type="content">templates/content/section_09/topic_01/ex_03/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_09/topic_01/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b><i>-ing</i> forms</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which do you hear – question or not?]]></name>
+						<xml type="content">templates/content/section_09/topic_02/ex_01/pgDDL2_ai_tt_pron.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_pron_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_09/topic_02/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 What's the fifth word?]]></name>
+						<xml type="content">templates/content/section_09/topic_02/ex_02/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_09/topic_02/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which word has the strongest stress?]]></name>
+						<xml type="content">templates/content/section_09/topic_02/ex_03/pgHL1_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgHL1_ai_tt_style.xml</xml>
+						<template>templates/template_HL1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_09/topic_02/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>review</b>]]></name>
+					<exercise>
+						<name><![CDATA[How many words do you hear?]]></name>
+						<xml type="content">templates/content/section_09/review/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_09/review/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+			</topics>
+		</unit>
+		<unit enable="true">
+			<label><![CDATA[<b>10</b>]]></label>
+			<name><![CDATA[special structures with verbs]]></name>
+			<topics>
+				<topic>
+					<name><![CDATA[<b>verbs with prepositions; phrasal verbs</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which do you hear – weak or strong pronunciation?]]></name>
+						<xml type="content">templates/content/section_10/topic_01/ex_01/pgDDL2_ai_tt_pron.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_pron_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_10/topic_01/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 How many words do you hear?]]></name>
+						<xml type="content">templates/content/section_10/topic_01/ex_02/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_10/topic_01/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Phrasal verbs: what do you hear?]]></name>
+						<xml type="content">templates/content/section_10/topic_01/ex_03/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_10/topic_01/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>verbs with two objects; <i>have something done</i>; <i>let's</i></b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which word has the strongest stress?]]></name>
+						<xml type="content">templates/content/section_10/topic_02/ex_01/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_10/topic_02/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which words and syllables are stressed?]]></name>
+						<xml type="content">templates/content/section_10/topic_02/ex_02/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_10/topic_02/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Saying sentences – <i>let's</i>]]></name>
+						<xml type="content">templates/content/section_10/topic_02/ex_03/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_10/topic_02/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>review</b>]]></name>
+					<exercise>
+						<name><![CDATA[What's the fifth word?]]></name>
+						<xml type="content">templates/content/section_10/review/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_10/review/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+			</topics>
+		</unit>
+		<unit enable="true">
+			<label><![CDATA[<b>11</b>]]></label>
+			<name><![CDATA[articles: <i>a</i>/<i>an</i> and <i>the</i>]]></name>
+			<topics>
+				<topic>
+					<name><![CDATA[<b><i>a</i>/<i>an</i>: jobs and describing people; <i>the</i> and <i>a</i>/<i>an</i></b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which word has the strongest stress?]]></name>
+						<xml type="content">templates/content/section_11/topic_01/ex_01/pgHL1_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgHL1_ai_tt_style.xml</xml>
+						<template>templates/template_HL1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_11/topic_01/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which do you hear – <i>a</i> or <i>the</i>?]]></name>
+						<xml type="content">templates/content/section_11/topic_01/ex_02/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_11/topic_01/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Describing people – what do you hear?]]></name>
+						<xml type="content">templates/content/section_11/topic_01/ex_03/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_11/topic_01/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>sentences with(out) <i>the</i></b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which words and syllables are stressed?]]></name>
+						<xml type="content">templates/content/section_11/topic_02/ex_01/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_11/topic_02/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 What's the sixth word?]]></name>
+						<xml type="content">templates/content/section_11/topic_02/ex_02/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_11/topic_02/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Saying sentences – common expressions with <i>the</i>]]></name>
+						<xml type="content">templates/content/section_11/topic_02/ex_03/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_11/topic_02/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>review</b>]]></name>
+					<exercise>
+						<name><![CDATA[How many words do you hear?]]></name>
+						<xml type="content">templates/content/section_11/review/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_11/review/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+			</topics>
+		</unit>
+		<unit enable="true">
+			<label><![CDATA[<b>12</b>]]></label>
+			<name><![CDATA[determiners]]></name>
+			<topics>
+				<topic>
+					<name><![CDATA[<b><i>some</i>; <i>a little</i> and <i>a few</i>; <i>this</i> and <i>these</i></b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which do you hear – question or not?]]></name>
+						<xml type="content">templates/content/section_12/topic_01/ex_01/pgDDL2_ai_tt_pron.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_pron_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_12/topic_01/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which do you hear – weak or strong pronunciation?]]></name>
+						<xml type="content">templates/content/section_12/topic_01/ex_02/pgDDL2_ai_tt_pron.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_pron_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_12/topic_01/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which do you hear – <i>this</i> or <i>these</i>?]]></name>
+						<xml type="content">templates/content/section_12/topic_01/ex_03/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_12/topic_01/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b><i>a lot of</i>, <i>lots of</i> and <i>plenty of</i>; (<i>a</i>) <i>little</i> (<i>a</i>) <i>few</i>; <i>enough</i></b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which words and syllables are stressed?]]></name>
+						<xml type="content">templates/content/section_12/topic_02/ex_01/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_12/topic_02/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which do you hear – <i>little</i>/<i>few</i> or <i>a little</i>/<i>a few</i>]]></name>
+						<xml type="content">templates/content/section_12/topic_02/ex_02/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_12/topic_02/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Saying sentences – <i>enough</i>]]></name>
+						<xml type="content">templates/content/section_12/topic_02/ex_03/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_12/topic_02/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>review</b>]]></name>
+					<exercise>
+						<name><![CDATA[What's the sixth word?]]></name>
+						<xml type="content">templates/content/section_12/review/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_12/review/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+			</topics>
+		</unit>
+		<unit enable="true">
+			<label><![CDATA[<b>13</b>]]></label>
+			<name><![CDATA[personal pronouns; possessives]]></name>
+			<topics>
+				<topic>
+					<name><![CDATA[<b>personal pronouns; possessives (1)</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Saying sentences – personal prounouns as subjects]]></name>
+						<xml type="content">templates/content/section_13/topic_01/ex_01/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_13/topic_01/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which words and syllables are stressed?]]></name>
+						<xml type="content">templates/content/section_13/topic_01/ex_02/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_13/topic_01/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Possessives – what do you hear?]]></name>
+						<xml type="content">templates/content/section_13/topic_01/ex_03/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_13/topic_01/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>personal pronouns; possessives (2)</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which word has the strongest stress?]]></name>
+						<xml type="content">templates/content/section_13/topic_02/ex_01/pgHL1_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgHL1_ai_tt_style.xml</xml>
+						<template>templates/template_HL1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_13/topic_02/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 What do you hear?]]></name>
+						<xml type="content">templates/content/section_13/topic_02/ex_02/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_13/topic_02/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Personal pronouns as objects – what do you hear?]]></name>
+						<xml type="content">templates/content/section_13/topic_02/ex_03/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_13/topic_02/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>review</b>]]></name>
+					<exercise>
+						<name><![CDATA[What's the fifth word?]]></name>
+						<xml type="content">templates/content/section_13/review/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_13/review/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+			</topics>
+		</unit>
+		<unit enable="true">
+			<label><![CDATA[<b>14</b>]]></label>
+			<name><![CDATA[nouns]]></name>
+			<topics>
+				<topic>
+					<name><![CDATA[<b>singular and plural nouns</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 How many syllables do the words have?]]></name>
+						<xml type="content">templates/content/section_14/topic_01/ex_01/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_14/topic_01/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which do you hear – singular or plural?]]></name>
+						<xml type="content">templates/content/section_14/topic_01/ex_02/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_14/topic_01/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which words and syllables are stressed?]]></name>
+						<xml type="content">templates/content/section_14/topic_01/ex_03/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_14/topic_01/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b><i>'s</i> and <i>s'</i>; <i>one</i> and <i>ones</i>; <i>noun</i> + <i>noun</i></b>]]></name>
+					<exercise>
+						<name><![CDATA[1 <i>'s</i> and <i>s'</i> – what do you hear?]]></name>
+						<xml type="content">templates/content/section_14/topic_02/ex_01/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_14/topic_02/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Saying sentences – <i>one</i> and <i>ones</i>]]></name>
+						<xml type="content">templates/content/section_14/topic_02/ex_02/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_14/topic_02/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which do you hear – question or not?]]></name>
+						<xml type="content">templates/content/section_14/topic_02/ex_03/pgDDL2_ai_tt_pron.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_pron_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_14/topic_02/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>review</b>]]></name>
+					<exercise>
+						<name><![CDATA[How many words do you hear?]]></name>
+						<xml type="content">templates/content/section_14/review/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_14/review/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+			</topics>
+		</unit>
+		<unit enable="true">
+			<label><![CDATA[<b>15</b>]]></label>
+			<name><![CDATA[adjectives and adverbs]]></name>
+			<topics>
+				<topic>
+					<name><![CDATA[<b>adjectives; adverbs of manner</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which word has the strongest stress?]]></name>
+						<xml type="content">templates/content/section_15/topic_01/ex_01/pgHL1_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgHL1_ai_tt_style.xml</xml>
+						<template>templates/template_HL1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_15/topic_01/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Saying sentences]]></name>
+						<xml type="content">templates/content/section_15/topic_01/ex_02/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_15/topic_01/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Adverbs of manner – what do you hear?]]></name>
+						<xml type="content">templates/content/section_15/topic_01/ex_03/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_15/topic_01/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>other adverbs; -<i>ed</i> and -<i>ing</i> adjectives</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Adverbs of manner – what do you hear?]]></name>
+						<xml type="content">templates/content/section_15/topic_02/ex_01/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_15/topic_02/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which do you hear – question or not?]]></name>
+						<xml type="content">templates/content/section_15/topic_02/ex_02/pgDDL2_ai_tt_pron.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_pron_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_15/topic_02/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which words and syllables are stressed?]]></name>
+						<xml type="content">templates/content/section_15/topic_02/ex_03/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_15/topic_02/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>review</b>]]></name>
+					<exercise>
+						<name><![CDATA[How many words do you hear?]]></name>
+						<xml type="content">templates/content/section_15/review/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_15/review/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+			</topics>
+		</unit>
+		<unit enable="true">
+			<label><![CDATA[<b>16</b>]]></label>
+			<name><![CDATA[comparison]]></name>
+			<topics>
+				<topic>
+					<name><![CDATA[<b>comparative and superlative adjectives</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Comparative adjectives – what do you hear?]]></name>
+						<xml type="content">templates/content/section_16/topic_01/ex_01/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_16/topic_01/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which do you hear – question or not?]]></name>
+						<xml type="content">templates/content/section_16/topic_01/ex_02/pgDDL2_ai_tt_pron.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_pron_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_16/topic_01/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which word has the strongest stress?]]></name>
+						<xml type="content">templates/content/section_16/topic_01/ex_03/pgHL1_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgHL1_ai_tt_style.xml</xml>
+						<template>templates/template_HL1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_16/topic_01/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>(<i>not</i>) <i>as</i> ... <i>as</i>; comparison of adverbs </b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which words and syllables are stressed?]]></name>
+						<xml type="content">templates/content/section_16/topic_02/ex_01/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_16/topic_02/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which word has the strongest stress?]]></name>
+						<xml type="content">templates/content/section_16/topic_02/ex_02/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_16/topic_02/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Saying sentences – comparison of adverbs]]></name>
+						<xml type="content">templates/content/section_16/topic_02/ex_03/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_16/topic_02/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>review</b>]]></name>
+					<exercise>
+						<name><![CDATA[How many words do you hear?]]></name>
+						<xml type="content">templates/content/section_16/review/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_16/review/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+			</topics>
+		</unit>
+		<unit enable="true">
+			<label><![CDATA[<b>17</b>]]></label>
+			<name><![CDATA[conjunctions]]></name>
+			<topics>
+				<topic>
+					<name><![CDATA[<b>position; tenses with time conjunctions</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Saying sentences – position of conjunctions]]></name>
+						<xml type="content">templates/content/section_17/topic_01/ex_01/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_17/topic_01/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which words and syllables are stressed?]]></name>
+						<xml type="content">templates/content/section_17/topic_01/ex_02/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_17/topic_01/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which do you hear – present or future?]]></name>
+						<xml type="content">templates/content/section_17/topic_01/ex_03/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_17/topic_01/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b><i>and</i>; double conjunctions</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which word has the strongest stress?]]></name>
+						<xml type="content">templates/content/section_17/topic_02/ex_01/pgHL1_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgHL1_ai_tt_style.xml</xml>
+						<template>templates/template_HL1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_17/topic_02/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which do you hear – question or not?]]></name>
+						<xml type="content">templates/content/section_17/topic_02/ex_02/pgDDL2_ai_tt_pron.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_pron_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_17/topic_02/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which do you hear – <i>either</i> ... <i>or</i> or <i>neither</i> ... <i>nor</i>?]]></name>
+						<xml type="content">templates/content/section_17/topic_02/ex_03/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_17/topic_02/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>review</b>]]></name>
+					<exercise>
+						<name><![CDATA[What's the fifth word?]]></name>
+						<xml type="content">templates/content/section_17/review/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_17/review/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+			</topics>
+		</unit>
+		<unit enable="true">
+			<label><![CDATA[<b>18</b>]]></label>
+			<name><![CDATA[<i>if</i>]]></name>
+			<topics>
+				<topic>
+					<name><![CDATA[<b><i>if</i>: position; <i>unless</i>; sentences with <i>if</i></b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which words and syllables are stressed?]]></name>
+						<xml type="content">templates/content/section_18/topic_01/ex_01/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_18/topic_01/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which do you hear – present or <i>will</i>?]]></name>
+						<xml type="content">templates/content/section_18/topic_01/ex_02/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_18/topic_01/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Saying sentences]]></name>
+						<xml type="content">templates/content/section_18/topic_01/ex_03/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_18/topic_01/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>not real / not probable; unreal past</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which word has the strongest stress?]]></name>
+						<xml type="content">templates/content/section_18/topic_02/ex_01/pgHL1_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgHL1_ai_tt_style.xml</xml>
+						<template>templates/template_HL1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_18/topic_02/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which do you hear – future or not real?]]></name>
+						<xml type="content">templates/content/section_18/topic_02/ex_02/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_18/topic_02/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which do you hear – not real now or unreal past?]]></name>
+						<xml type="content">templates/content/section_18/topic_02/ex_03/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_18/topic_02/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>review</b>]]></name>
+					<exercise>
+						<name><![CDATA[What's the fifth word?]]></name>
+						<xml type="content">templates/content/section_18/review/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_18/review/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+			</topics>
+		</unit>
+		<unit enable="true">
+			<label><![CDATA[<b>19</b>]]></label>
+			<name><![CDATA[relative pronouns]]></name>
+			<topics>
+				<topic>
+					<name><![CDATA[<b>relative <i>who</i> and <i>that</i>; leaving out relative pronouns</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which do you hear – <i>that</i>, <i>who</i> or no pronoun?]]></name>
+						<xml type="content">templates/content/section_19/topic_01/ex_01/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_19/topic_01/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which do you hear – <i>who</i> or no <i>who</i>?]]></name>
+						<xml type="content">templates/content/section_19/topic_01/ex_02/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_19/topic_01/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which do you hear – <i>that</i> or no <i>that</i>?]]></name>
+						<xml type="content">templates/content/section_19/topic_01/ex_03/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_19/topic_01/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>prepositions; relative <i>what</i></b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Saying sentences – prepositions]]></name>
+						<xml type="content">templates/content/section_19/topic_02/ex_01/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_19/topic_02/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which words and syllables are stressed?]]></name>
+						<xml type="content">templates/content/section_19/topic_02/ex_02/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_19/topic_02/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 What do you hear?]]></name>
+						<xml type="content">templates/content/section_19/topic_02/ex_03/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_19/topic_02/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>review</b>]]></name>
+					<exercise>
+						<name><![CDATA[How many words do you hear?]]></name>
+						<xml type="content">templates/content/section_19/review/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_19/review/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+			</topics>
+		</unit>
+		<unit enable="true">
+			<label><![CDATA[<b>20</b>]]></label>
+			<name><![CDATA[indirect speech]]></name>
+			<topics>
+				<topic>
+					<name><![CDATA[<b>tenses and pronouns</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which word has the strongest stress?]]></name>
+						<xml type="content">templates/content/section_20/topic_01/ex_01/pgHL1_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgHL1_ai_tt_style.xml</xml>
+						<template>templates/template_HL1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_20/topic_01/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Saying sentences]]></name>
+						<xml type="content">templates/content/section_20/topic_01/ex_02/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_20/topic_01/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which do you hear – simple past or past perfect?]]></name>
+						<xml type="content">templates/content/section_20/topic_01/ex_03/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_20/topic_01/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>indirect questions; present reporting verbs; infinitives</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which words and syllables are stressed?]]></name>
+						<xml type="content">templates/content/section_20/topic_02/ex_01/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_20/topic_02/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which word has the strongest stress?]]></name>
+						<xml type="content">templates/content/section_20/topic_02/ex_02/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_20/topic_02/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Infinitives – what do you hear?]]></name>
+						<xml type="content">templates/content/section_20/topic_02/ex_03/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_20/topic_02/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>review</b>]]></name>
+					<exercise>
+						<name><![CDATA[How many words do you hear?]]></name>
+						<xml type="content">templates/content/section_20/review/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_20/review/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+			</topics>
+		</unit>
+		<unit enable="true">
+			<label><![CDATA[<b>21</b>]]></label>
+			<name><![CDATA[prepositions]]></name>
+			<topics>
+				<topic>
+					<name><![CDATA[<b><i>at</i>, <i>in</i> and <i>on</i>; <i>for</i>, <i>during</i> and <i>while</i> (time)</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which do you hear – question or not?]]></name>
+						<xml type="content">templates/content/section_21/topic_01/ex_01/pgDDL2_ai_tt_pron.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_pron_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_21/topic_01/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which do you hear – <i>in</i> or <i>on</i>?]]></name>
+						<xml type="content">templates/content/section_21/topic_01/ex_02/pgCCR3_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgCCR3_ai_style.xml</xml>
+						<template>templates/template_CCR2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_21/topic_01/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which words and syllables are stressed?]]></name>
+						<xml type="content">templates/content/section_21/topic_01/ex_03/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_21/topic_01/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>prepositions of place and movement</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 <i>at</i>, <i>in</i> and <i>on</i> – what do you hear?]]></name>
+						<xml type="content">templates/content/section_21/topic_02/ex_01/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_21/topic_02/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which word has the strongest stress?]]></name>
+						<xml type="content">templates/content/section_21/topic_02/ex_02/pgHL1_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgHL1_ai_tt_style.xml</xml>
+						<template>templates/template_HL1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_21/topic_02/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Saying sentences – prepositions of movement]]></name>
+						<xml type="content">templates/content/section_21/topic_02/ex_03/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_21/topic_02/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>review</b>]]></name>
+					<exercise>
+						<name><![CDATA[How many words do you hear?]]></name>
+						<xml type="content">templates/content/section_21/review/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_21/review/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+			</topics>
+		</unit>
+		<unit enable="true">
+			<label><![CDATA[<b>22</b>]]></label>
+			<name><![CDATA[spoken grammar]]></name>
+			<topics>
+				<topic>
+					<name><![CDATA[<b>question tags; leaving out words</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 Which do you hear – real question or not?]]></name>
+						<xml type="content">templates/content/section_22/topic_01/ex_01/pgDDL2_ai_tt_pron.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_pron_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_22/topic_01/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Saying sentences – leaving out words]]></name>
+						<xml type="content">templates/content/section_22/topic_01/ex_02/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_22/topic_01/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which do you hear – question or not?]]></name>
+						<xml type="content">templates/content/section_22/topic_01/ex_03/pgDDL2_ai_tt_pron.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_pron_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_22/topic_01/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b><i>so am I</i>; <i>nor do I</i> etc</b>]]></name>
+					<exercise>
+						<name><![CDATA[1 <i>so</i> – what do you hear?]]></name>
+						<xml type="content">templates/content/section_22/topic_02/ex_01/pgKIWS2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgKIWS2_ai_tt_style.xml</xml>
+						<template>templates/template_KI2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_22/topic_02/ex_01/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[2 Which words and syllables are stressed?]]></name>
+						<xml type="content">templates/content/section_22/topic_02/ex_02/pgBC1_ai.xml</xml>
+						<xml type="style">templates/content/style_xml/pgBC1_ai_style.xml</xml>
+						<template>templates/template_BC1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_22/topic_02/ex_02/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+					<exercise>
+						<name><![CDATA[3 Which word has the strongest stress?]]></name>
+						<xml type="content">templates/content/section_22/topic_02/ex_03/pgHL1_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgHL1_ai_tt_style.xml</xml>
+						<template>templates/template_HL1.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_22/topic_02/ex_03/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+				<topic>
+					<name><![CDATA[<b>review</b>]]></name>
+					<exercise>
+						<name><![CDATA[How many words do you hear?]]></name>
+						<xml type="content">templates/content/section_22/review/pgDDL2_ai_tt.xml</xml>
+						<xml type="style">templates/content/style_xml/pgDDL2_ai_tt_style.xml</xml>
+						<template>templates/template_DDL2.swf</template>
+						<listen>
+							<xml type="content">templates/content/section_22/review/pgRSP1.xml</xml>
+							<xml type="style">templates/content/style_xml/pgRSP1_style.xml</xml>
+							<template>templates/template_RSP1.swf</template>
+						</listen>
+					</exercise>
+				</topic>
+			</topics>
+		</unit>
+	</units>
+	<menus>
+		<title><![CDATA[Welcome to the 'Pronunciation for grammar' CD-ROM]]></title>
+		<strapline><![CDATA[Pronunciation for grammar]]></strapline>
+		<home><![CDATA[Select a section to study:]]></home>
+		<unit><![CDATA[Select an exercise:]]></unit>
+	</menus>
+</content>

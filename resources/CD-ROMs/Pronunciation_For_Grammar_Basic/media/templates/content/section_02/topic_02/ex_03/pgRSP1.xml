@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Why are you stopping here?]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_03/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Where are they going?]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_03/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Why are we leaving now?]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_03/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[What are you drinking?]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_03/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[How are we getting there?]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_03/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Who are they working for?]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_03/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[How much are you paying for your holiday?]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_03/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[How many people are we expecting?]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_03/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Who are you listening to?]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_03/assets/short/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[What are they looking for?]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_03/assets/short/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

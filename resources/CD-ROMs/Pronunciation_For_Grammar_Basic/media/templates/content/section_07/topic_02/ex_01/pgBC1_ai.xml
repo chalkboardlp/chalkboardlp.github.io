@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Listen and repeat. When you repeat, stress the words and syllables in CAPITALS.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[Your tickets will be sent to you by email.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_01/assets/audio_01.mp3</audio>
+			<chain>
+				<text><![CDATA[your TICKets will be SENT to you by Email.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[The hotel reservation will be made today.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_01/assets/audio_02.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font>the hoTEL reserVAtion will be MADE toDAY.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[The library will be closed on Tuesday.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_01/assets/audio_03.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /></font>the LIbrary will be CLOSED on TUESday.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[Jane will be met at the airport.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_01/assets/audio_04.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /></font>JANE will be MET at the AIRport.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[The new theatre will be opened in July.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_01/assets/audio_05.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /></font>the NEW THEAtre will be Opened in juLY.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Be careful, or your bag will be stolen.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_01/assets/audio_06.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /></font>be CAREful, or your BAG will be STOlen.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[The final will be played in Liverpool.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_01/assets/audio_07.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /></font>the FInal will be PLAYED in LIverpool.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[You'll be taken to the station by car.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_01/assets/audio_08.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /></font>you'll be TAken to the STAtion by CAR.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[The beds will be made before lunchtime.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_01/assets/audio_09.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /><br /></font>the BEDS will be MADE beFORE LUNCHtime.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Chinese will be spoken at the meeting.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_01/assets/audio_10.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /><br /><br /></font>chiNESE will be SPOken at the MEEting.]]></text>
+			</chain>
+		</question>		
+	</questions>
+</exercise>

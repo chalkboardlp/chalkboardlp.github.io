@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Listen and choose the correct answers.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[we  [#] them.]]></sentence>		
+			<audio>templates/content/section_18/topic_02/ex_03/assets/audio_01.mp3</audio>
+			<options>
+				<option>would translate</option>
+				<option answer="correct">would have translated</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[I  [#] awake all night.]]></sentence>		
+			<audio>templates/content/section_18/topic_02/ex_03/assets/audio_02.mp3</audio>
+			<options>
+				<option>would stay</option>	
+				<option answer="correct">would have stayed</option>				
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[I'm sure he  [#] us.]]></sentence>		
+			<audio>templates/content/section_18/topic_02/ex_03/assets/audio_03.mp3</audio>
+			<options>
+				<option>would have believed</option>
+				<option answer="correct">would believe</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[they  [#] their exams.]]></sentence>		
+			<audio>templates/content/section_18/topic_02/ex_03/assets/audio_04.mp3</audio>
+			<options>
+				<option>would have passed</option>
+				<option answer="correct">would pass</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[I  [#] your shirts.]]></sentence>		
+			<audio>templates/content/section_18/topic_02/ex_03/assets/audio_05.mp3</audio>
+			<options>
+				<option answer="correct">would have washed</option>
+				<option>would wash</option>				
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[I'm sure you  [#].]]></sentence>		
+			<audio>templates/content/section_18/topic_02/ex_03/assets/audio_06.mp3</audio>
+			<options>
+				<option answer="correct">would succeed</option> 
+				<option>would have succeeded</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[she  [#] you.]]></sentence>		
+			<audio>templates/content/section_18/topic_02/ex_03/assets/audio_07.mp3</audio>
+			<options>
+				<option>would help</option>
+				<option answer="correct">would have helped</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[she  [#] really happy.]]></sentence>		
+			<audio>templates/content/section_18/topic_02/ex_03/assets/audio_08.mp3</audio>
+			<options>
+				<option answer="correct">would have been</option>
+				<option>would be</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[I  [#] it to you.]]></sentence>		
+			<audio>templates/content/section_18/topic_02/ex_03/assets/audio_09.mp3</audio>
+			<options>
+				<option>would have given</option>
+				<option answer="correct">would give</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[the class  [#] it.]]></sentence>		
+			<audio>templates/content/section_18/topic_02/ex_03/assets/audio_10.mp3</audio>
+			<options>
+				<option answer="correct">would have understood</option>
+				<option>would understood</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[I went to bed very early last night.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_02/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[My grandmother is going into hospital this weekend.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_02/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Are you going to church this Sunday?]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_02/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[He won't come out of prison until 2025.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_02/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[My sister likes getting to work by train.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_02/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[They said they were going on holiday to Italy this summer.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_02/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Our children usually go to school by car.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_02/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Ben decided to go to university last year.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_02/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[You can't go home on foot in this weather.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_02/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Why would I travel by plane when I can go by boat?]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_02/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

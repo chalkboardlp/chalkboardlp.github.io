@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[My uncle doesn't read a lot, and nor does my aunt.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_02/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[My best friend hasn't phoned, and nor has my girlfriend.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_02/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[My father isn't good at sport, and my brothers aren't either.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_02/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The computer isn't working, and nor are the lights.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_02/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[My cousin can't swim under water, and neither can I.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_02/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We don't have lots of parties, and nor do our neighbours.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_02/assets/short/audio_10.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I won't have anything to eat, and neither will my friend.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_02/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We couldn't understand it, and our teacher couldn't either.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_02/assets/short/audio_09.mp3</audio>
+		</question>
+	</questions>
+</exercise>

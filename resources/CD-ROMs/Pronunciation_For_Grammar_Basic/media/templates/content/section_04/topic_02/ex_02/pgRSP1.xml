@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[I was waiting.]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_02/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Was he driving fast?]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_02/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Yes, he was.]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_02/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[They were playing cards last night!]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_02/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Were they?]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_02/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Yes, they were!]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_02/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Who was having a shower earlier?]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_02/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We were listening – really!]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_02/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

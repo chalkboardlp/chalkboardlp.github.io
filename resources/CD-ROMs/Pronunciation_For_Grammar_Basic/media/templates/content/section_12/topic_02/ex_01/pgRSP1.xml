@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[I haven't got a lot to do today.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_01/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I spoke to lots of my friends about it.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_01/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[He has a lot of good ideas.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_01/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[There are plenty of restaurants to choose from.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_01/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[A lot of the people are away.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_01/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[She's got a lot to think about at the moment.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_01/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Does she have a lot of relatives?]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_01/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The project gave us a lot of problems.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_01/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[There was plenty for us to eat.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_01/assets/short/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Are there lots of factories in the north?]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_01/assets/short/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

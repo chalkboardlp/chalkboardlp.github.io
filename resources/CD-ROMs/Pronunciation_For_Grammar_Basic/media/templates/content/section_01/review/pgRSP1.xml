@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Do you have any uncles or aunts?]]></sentence>
+			<audio>templates/content/section_01/review/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[There are some apples in the fridge. ]]></sentence>
+			<audio>templates/content/section_01/review/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We were very happy to see you yesterday.]]></sentence>
+			<audio>templates/content/section_01/review/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[My father was a doctor at the hospital.]]></sentence>
+			<audio>templates/content/section_01/review/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[John and Ann are in Canada.]]></sentence>
+			<audio>templates/content/section_01/review/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I'm a student at the university.]]></sentence>
+			<audio>templates/content/section_01/review/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Are you afraid of spiders?]]></sentence>
+			<audio>templates/content/section_01/review/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Was his brother at school with you?]]></sentence>
+			<audio>templates/content/section_01/review/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[There was a lot of food in the cupboards.]]></sentence>
+			<audio>templates/content/section_01/review/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[They have lots of nice shoes in this shop.]]></sentence>
+			<audio>templates/content/section_01/review/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

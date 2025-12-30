@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<styles>
+	<images>
+		<image item="preloader" assets="image:audio[70]" xpos="340" ypos="163">templates/shared_assets/ts/swfs/anim_preloader.swf</image>
+		<image item="labels_bg" type="number">templates/shared_assets/ts/swfs/template_number_bg.swf</image>
+		<image item="template_bg"></image>
+	</images>
+	<buttons>
+		<button item="audioIcon" visible="true" xpos="-10" ypos="1">
+			<image>templates/shared_assets/ts/swfs/button_audio_icon.swf</image>
+			<audio></audio>
+		</button>
+	</buttons>
+	<assets>
+		<asset item="rubric" xpos="55" ypos="50" width="820" color="666666" fontsize="14" />
+		<asset item="questions" startxpos="68" startypos="104" yspacer="12" leading="0" width="380" color="666666" fontsize="13">
+			<image>templates/shared_assets/ts/swfs/bar_chain_390xH.swf</image>
+		</asset>
+		<asset item="chain" visible="false" xoffset="1" yoffset="20" leading="0" width="365" color="406fa3" fontsize="13">
+			<image>templates/shared_assets/ts/swfs/bg_chain_375xH.swf</image>
+		</asset>
+	</assets>
+</styles>

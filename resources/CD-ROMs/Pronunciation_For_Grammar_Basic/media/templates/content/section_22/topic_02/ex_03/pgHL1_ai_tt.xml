@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Which word in the blue sentence has the strongest stress? Choose a word, click on it and then listen. If you want to change your answer, click again on your chosen word, then on a different one.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[[Most] [birds] [can] [fly], [but] [*penguins] [can't].]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_03/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[Most] [cats] [can't] [swim] [very] [well], [but] [*our] [cat] [can].]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_03/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[Most] [dogs] [enjoy] [eating] [bones], [but] [*our] [dog] [doesn't].]]></sentence> 
+			<audio>templates/content/section_22/topic_02/ex_03/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[Lots] [of] [people] [have] [never] [lived] [abroad], [but] [*I] [have].]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_03/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[Not] [many] [of] [my] [friends] [collect] [stamps], [but] [*I] [do].]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_03/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[My] [sister] [and] [I] [are] [going] [on] [holiday] [this] [year], [but] [my] [*parents] [aren't].]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_03/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[Most] [people's] [eyes] [are] [brown] [or] [blue], [but] [*yours] [aren't].]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_03/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[Not] [many] [men] [have] [beards] [these] [days], [but] [my] [*brother] [does].]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_03/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[Lots] [of] [teachers] [don't] [shout], [but] [our] [teacher] [*does]!]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_03/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[Lots] [of] [people] [have] [eaten] [Japanese] [food], [but] [*we] [haven't].]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_03/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

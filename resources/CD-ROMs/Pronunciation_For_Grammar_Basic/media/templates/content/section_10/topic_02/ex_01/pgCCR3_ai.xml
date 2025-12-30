@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Listen and choose the correct answers.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[Liz always makes her mother a birthday cake.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_01/assets/audio_01.mp3</audio>
+			<options>
+				<option answer="correct">Not her father.</option>
+				<option>Laura doesn't.</option>
+			</options>				
+		</question>
+		<question>
+			<sentence><![CDATA[Liz always makes her mother a birthday cake.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_01/assets/audio_02.mp3</audio>
+			<options>
+				<option>Not a Christmas cake.</option>
+				<option answer="correct">Laura doesn't.</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[He sent Sarah a letter to complain.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_01/assets/audio_03.mp3</audio>
+			<options>
+				<option>Not Sally.</option>
+				<option answer="correct">Not to apologise.</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[He sent Sarah a letter to complain.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_01/assets/audio_04.mp3</audio>
+			<options>
+				<option>I didn't.</option>
+				<option answer="correct">Not an email.</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[Shaun lent Emma his favourite book.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_01/assets/audio_05.mp3</audio>
+			<options>				
+				<option answer="correct">Daniel didn't.</option>
+				<option>Not CD.</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[Shaun lent Emma his favourite book –]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_01/assets/audio_06.mp3</audio>
+			<options>
+				<option>he didn't give it to her.</option>
+				<option answer="correct">not his favourite CD.</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[Michael bought his wife a gold necklace.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_01/assets/audio_07.mp3</audio>
+			<options>
+				<option>Not a silver one.</option>
+				<option answer="correct">Not his mother.</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[Michael bought his wife a gold necklace.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_01/assets/audio_08.mp3</audio>
+			<options>
+				<option answer="correct">Not a silver one.</option>
+				<option>Not a gold ring.</option>							
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[I gave Helen lunch yesterday.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_01/assets/audio_09.mp3</audio>
+			<options>
+				<option answer="correct">Kath didn't.</option>
+				<option>Not dinner.</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[I gave Helen lunch yesterday.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_01/assets/audio_10.mp3</audio>
+			<options>
+				<option answer="correct">Not on Friday.</option>
+				<option>Not Jenny.</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

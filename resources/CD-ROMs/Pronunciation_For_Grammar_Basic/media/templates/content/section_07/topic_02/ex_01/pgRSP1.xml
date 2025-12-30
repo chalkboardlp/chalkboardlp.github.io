@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Your tickets will be sent to you by email.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_01/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The hotel reservation will be made today.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_01/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The library will be closed on Tuesday.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_01/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Jane will be met at the airport.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_01/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The new theatre will be opened in July.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_01/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Be careful, or your bag will be stolen.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_01/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The final will be played in Liverpool.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_01/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[You'll be taken to the station by car.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_01/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The beds will be made before lunchtime.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_01/assets/short/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Chinese will be spoken at the meeting.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_01/assets/short/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

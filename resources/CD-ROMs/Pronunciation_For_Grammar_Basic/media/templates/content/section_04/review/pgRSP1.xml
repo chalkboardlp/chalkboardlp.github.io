@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[I was playing cards at midnight.]]></sentence>
+			<audio>templates/content/section_04/review/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The trains were running late last night.]]></sentence>
+			<audio>templates/content/section_04/review/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Did she give you the money for the ticket?]]></sentence>
+			<audio>templates/content/section_04/review/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We bought a few of those oranges.]]></sentence>
+			<audio>templates/content/section_04/review/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Why did you get up so early today?]]></sentence>
+			<audio>templates/content/section_04/review/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I got an email from one of my friends.]]></sentence>
+			<audio>templates/content/section_04/review/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We took our umbrellas because it was raining.]]></sentence>
+			<audio>templates/content/section_04/review/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Who painted the picture of the owl?]]></sentence>
+			<audio>templates/content/section_04/review/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I had a great time at the party.]]></sentence>
+			<audio>templates/content/section_04/review/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The birds were singing in the trees this morning.]]></sentence>
+			<audio>templates/content/section_04/review/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

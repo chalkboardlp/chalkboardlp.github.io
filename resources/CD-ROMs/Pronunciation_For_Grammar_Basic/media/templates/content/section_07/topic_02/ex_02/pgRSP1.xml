@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Dan and Kelly have been invited to the wedding.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_02/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The old museum hasn't been closed after all.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_02/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Timmy hasn't been told about the meeting.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_02/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The beds haven't been made.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_02/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Alice has been offered a new job.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_02/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The passengers have been told about the delay.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_02/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The thieves haven't been caught by the police.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_02/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[My bicycle has been fixed.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_02/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The windows haven't been cleaned.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_02/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Claire's ticket hasn't been posted to her.]]></sentence>
+			<audio>templates/content/section_07/topic_02/ex_02/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

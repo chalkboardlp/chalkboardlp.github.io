@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Let's go camping in Italy this August.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_03/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Don't let's sit in front of the TV all evening.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_03/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Let's go out to a restaurant for some lunch.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_03/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Let's not go skiing with your parents at Easter.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_03/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Let's drive to Oxford for the day.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_03/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Let's not invite your mother for Christmas this year.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_03/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Let's fly over to Paris for the weekend.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_03/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Let's have a nice cup of tea in a minute or two.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_03/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Don't let's stay at home this afternoon.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_03/assets/short/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Let's have a party to celebrate your birthday.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_03/assets/short/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

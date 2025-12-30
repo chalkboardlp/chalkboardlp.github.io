@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Listen and write what you hear. For example, <i>my son's teacher's husband</i>.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[[#]]]></sentence>
+			<audio>templates/content/section_14/topic_02/ex_01/assets/audio_01.mp3</audio>
+			<answers>
+				<answer>my mother's birthday</answer>
+			</answers>
+		</question>
+		<question>
+			<sentence><![CDATA[[#]]]></sentence>
+			<audio>templates/content/section_14/topic_02/ex_01/assets/audio_02.mp3</audio>
+			<answers>
+				<answer>the children's room</answer>
+			</answers>
+		</question>
+		<question>
+			<sentence><![CDATA[[#]]]></sentence>
+			<audio>templates/content/section_14/topic_02/ex_01/assets/audio_03.mp3</audio>
+			<answers>
+				<answer>this boy's coat</answer>
+			</answers>
+		</question>
+		<question>
+			<sentence><![CDATA[[#]]]></sentence>
+			<audio>templates/content/section_14/topic_02/ex_01/assets/audio_04.mp3</audio>
+			<answers>
+				<answer>the three boys' coats</answer>
+			</answers>
+		</question>
+		<question>
+			<sentence><![CDATA[[#]]]></sentence>
+			<audio>templates/content/section_14/topic_02/ex_01/assets/audio_05.mp3</audio>
+			<answers>
+				<answer>Anna and James's dog</answer>
+			</answers>
+		</question>
+		<question>
+			<sentence><![CDATA[[#]]]></sentence>
+			<audio>templates/content/section_14/topic_02/ex_01/assets/audio_06.mp3</audio>
+			<answers>
+				<answer>those people's homes</answer>
+			</answers>
+		</question>
+		<question>
+			<sentence><![CDATA[[#]]]></sentence>
+			<audio>templates/content/section_14/topic_02/ex_01/assets/audio_07.mp3</audio>
+			<answers>
+				<answer>a girls' school</answer>
+			</answers>
+		</question>
+		<question>
+			<sentence><![CDATA[[#]]]></sentence>
+			<audio>templates/content/section_14/topic_02/ex_01/assets/audio_08.mp3</audio>
+			<answers>
+				<answer>a women's magazine</answer>
+			</answers>
+		</question>
+		<question>
+			<sentence><![CDATA[[#]]]></sentence>
+			<audio>templates/content/section_14/topic_02/ex_01/assets/audio_09.mp3</audio>
+			<answers>
+				<answer>the boss's secretary</answer>
+			</answers>
+		</question>
+	</questions>
+</exercise>

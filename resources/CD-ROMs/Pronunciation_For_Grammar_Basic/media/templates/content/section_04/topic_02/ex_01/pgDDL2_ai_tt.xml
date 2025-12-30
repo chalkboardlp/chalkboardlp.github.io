@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Listen and choose the correct answers.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[Liz  [#] waiting.]]></sentence>		
+			<audio>templates/content/section_04/topic_02/ex_01/assets/audio_01.mp3</audio>
+			<options>				
+				<option answer="correct">is</option>
+				<option>was</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[[#] it snowing?]]></sentence>		
+			<audio>templates/content/section_04/topic_02/ex_01/assets/audio_02.mp3</audio>
+			<options>
+				<option>Is</option>
+				<option answer="correct">Was</option>				
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[What  [#] you doing at 8 o'clock?]]></sentence>		
+			<audio>templates/content/section_04/topic_02/ex_01/assets/audio_03.mp3</audio>
+			<options>
+				<option>are</option>
+				<option answer="correct">were</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[[#] we expecting somebody?]]></sentence>		
+			<audio>templates/content/section_04/topic_02/ex_01/assets/audio_04.mp3</audio>
+			<options>
+				<option answer="correct">Are</option>
+				<option>Were</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[The neighbours  [#] singing.]]></sentence>		
+			<audio>templates/content/section_04/topic_02/ex_01/assets/audio_05.mp3</audio>
+			<options>
+			    <option answer="correct">are</option>
+				<option>were</option>				
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[Rose  [#] watching TV.]]></sentence>		
+			<audio>templates/content/section_04/topic_02/ex_01/assets/audio_06.mp3</audio>
+			<options>
+				<option>is</option>	
+				<option answer="correct">was</option>
+			</options>		
+		</question>
+		<question>
+			<sentence><![CDATA[Why  [#] you crying?]]></sentence>		
+			<audio>templates/content/section_04/topic_02/ex_01/assets/audio_07.mp3</audio>
+			<options>
+				<option answer="correct">are</option>
+				<option>were</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[James  [#] travelling across Europe.]]></sentence>		
+			<audio>templates/content/section_04/topic_02/ex_01/assets/audio_08.mp3</audio>
+			<options>
+				<option>is</option>
+				<option answer="correct">was</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[[#] they talking about me?]]></sentence>		
+			<audio>templates/content/section_04/topic_02/ex_01/assets/audio_09.mp3</audio>
+			<options>
+				<option answer="correct">Are</option>
+				<option>Were</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[[#] he having a bath?]]></sentence>		
+			<audio>templates/content/section_04/topic_02/ex_01/assets/audio_10.mp3</audio>
+			<options>
+				<option>Is</option>
+				<option answer="correct">Was</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Listen and repeat. When you repeat, stress the words and syllables in CAPITALS.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[I always eat what my mother cooks for me.]]></sentence>
+			<audio>templates/content/section_19/topic_02/ex_02/assets/audio_01.mp3</audio>
+			<chain>
+				<text><![CDATA[i ALways EAT what my MOther COOKS for me.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[Look what I've made for my sister's birthday!]]></sentence>
+			<audio>templates/content/section_19/topic_02/ex_02/assets/audio_02.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font>LOOK what I've MADE for my SISter's BIRTHday!]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Some of the mistakes that you make are unbelievable.]]></sentence>
+			<audio>templates/content/section_19/topic_02/ex_02/assets/audio_03.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /></font>SOME of the misTAKES that you MAKE are unbeLIEVable.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[The dress that I bought today was really expensive.]]></sentence>
+			<audio>templates/content/section_19/topic_02/ex_02/assets/audio_04.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /></font>the DRESS that i BOUGHT toDAY was REALly exPENsive.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[Nobody ever knew what your uncle did.]]></sentence>
+			<audio>templates/content/section_19/topic_02/ex_02/assets/audio_05.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /></font>NObody EVer KNEW what your UNcle DID.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[I love the dinners that my grandmother cooks.]]></sentence>
+			<audio>templates/content/section_19/topic_02/ex_02/assets/audio_06.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /></font>i LOVE the DINners that my GRANDmother COOKS.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Is this the club that you go to?]]></sentence>
+			<audio>templates/content/section_19/topic_02/ex_02/assets/audio_07.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /></font>is THIS the CLUB that you GO TO?]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Do you like what we've bought for you?]]></sentence>
+			<audio>templates/content/section_19/topic_02/ex_02/assets/audio_08.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /></font>do you LIKE what we've BOUGHT for you?]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[I'm sorry about all those things that I said earlier.]]></sentence>
+			<audio>templates/content/section_19/topic_02/ex_02/assets/audio_09.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /><br /></font>i'm SORry about ALL those THINGS that I SAID EARlier.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[You should never believe what your brother says.]]></sentence>
+			<audio>templates/content/section_19/topic_02/ex_02/assets/audio_10.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /><br /><br /></font>you should NEVer beLIEVE what your BROther SAYS.]]></text>
+			</chain>
+		</question>		
+	</questions>
+</exercise>

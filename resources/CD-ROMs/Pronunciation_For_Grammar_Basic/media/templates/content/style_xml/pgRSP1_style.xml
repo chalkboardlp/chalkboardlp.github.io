@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<styles>
+	<images>
+		<image item="preloader" assets="image:audio[70]" xpos="240" ypos="133">templates/shared_assets/ts/swfs/anim_preloader.swf</image>
+		<image item="labels_bg" type="number">templates/shared_assets/ts/swfs/template_number_bg.swf</image>
+		<image item="template_bg">templates/shared_assets/ts/swfs/bg_record.swf</image>
+	</images>
+	<buttons>
+		<button item="record" xpos="-64" ypos="1" buffer_percent="100">
+			<image>templates/shared_assets/ts/swfs/button_icons_record.swf</image>
+			<audios>
+				<audio type="click"></audio>
+				<audio type="prompt">templates/shared_assets/ts/audio/beeeep.mp3</audio>
+			</audios>
+		</button>
+		<button item="standard" xpos="-42" ypos="1" buffer_percent="100">
+			<image>templates/shared_assets/ts/swfs/button_icons_speak.swf</image>
+			<audios>
+				<audio type="click"></audio>
+				<audio type="prompt">templates/shared_assets/ts/audio/beeeep.mp3</audio>
+			</audios>
+		</button>
+	</buttons>
+	<assets>
+		<asset item="rubric" xpos="32" ypos="63" width="820" color="4860A3" fontsize="14" />
+		<asset item="questions" startxpos="110" startypos="115" yspacer="12" width="730" color="666666" fontsize="13" />
+		<asset item="checkMicrophone" xpos="0" ypos="0" bgalpha="0" bgcolor="FFFFFF">
+			<image>templates/shared_assets/ts/swfs/popup_confirm.swf</image>
+			<audio>templates/shared_assets/ts/audio/click_low.mp3</audio>
+		</asset>
+	</assets>
+	<messages>
+		<microphone><![CDATA[Does this computer have a microphone?]]></microphone>
+	</messages>
+</styles>

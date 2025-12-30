@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Please sign your name at the bottom of this page.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_03/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We live in a little village in the middle of the mountains.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_03/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Claire and I sit in the same office at work.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_03/assets/short/audio_10.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[You'll find our office at the top of the building.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_03/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The car's parked at the side of the house.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_03/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I don't often sit at the back of the bus.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_03/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We live in the big old house at the end of the street.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_03/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Go upstairs and take the second door on the left.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_03/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Shall we go to the cinema after school on Friday?]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_03/assets/short/audio_09.mp3</audio>
+		</question>
+	</questions>
+</exercise>

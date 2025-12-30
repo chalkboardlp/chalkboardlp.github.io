@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Jeremy thinks more clearly than most people.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_03/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I live further from the town centre than you.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_03/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Jacob drives more dangerously than me.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_03/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[He dances badly, but you dance worse.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_03/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I got to the airport earlier than Mary.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_03/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[They live more cheaply than their friends.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_03/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Stephen goes swimming more often than Katie.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_03/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Jack dresses more expensively than Rob.]]></sentence>
+			<audio>templates/content/section_16/topic_02/ex_03/assets/short/audio_08.mp3</audio>
+		</question>
+	</questions>
+</exercise>

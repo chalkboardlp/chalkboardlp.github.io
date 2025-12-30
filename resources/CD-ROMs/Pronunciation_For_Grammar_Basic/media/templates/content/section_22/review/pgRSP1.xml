@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[She said she would write, but then she forgot.]]></sentence>
+			<audio>templates/content/section_22/review/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I've never been to Italy, but my brother has.]]></sentence>
+			<audio>templates/content/section_22/review/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I'll buy the car if I get a job.]]></sentence>
+			<audio>templates/content/section_22/review/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[You're not still angry with me, are you?]]></sentence>
+			<audio>templates/content/section_22/review/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[His sister likes dancing and so does mine.]]></sentence>
+			<audio>templates/content/section_22/review/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Would you like either tea or coffee?]]></sentence>
+			<audio>templates/content/section_22/review/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Anna is interested in history and so is Alice.]]></sentence>
+			<audio>templates/content/section_22/review/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Is it right or is it wrong: tell me!]]></sentence>
+			<audio>templates/content/section_22/review/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Your job is boring and so is mine.]]></sentence>
+			<audio>templates/content/section_22/review/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[She hates cheese and I do too.]]></sentence>
+			<audio>templates/content/section_22/review/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

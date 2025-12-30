@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Listen to the question tags.</b>]]></rubric>
+	<examples>
+		<example>
+			<label><![CDATA[a real question]]></label>
+			<audio>templates/content/section_22/topic_01/ex_01/assets/weak_model.mp3</audio>
+		</example>
+		<example>
+			<label><![CDATA[not a real question]]></label>
+			<audio>templates/content/section_22/topic_01/ex_01/assets/strong_model.mp3</audio>
+		</example>
+	</examples>
+	<questions>
+		<heading><![CDATA[<b>Listen and choose the correct answers.</b>]]></heading>
+		<question>
+			<sentence><![CDATA[Jane doesn't eat fish, does she?  [#]]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_01/assets/audio_01.mp3</audio>
+			<options>
+				<option answer="correct">a real question</option>
+				<option>not a real question</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[You'll be home early tonight, won't you?  [#]]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_01/assets/audio_02.mp3</audio>
+			<options>
+				<option answer="correct">a real question</option>
+				<option>not a real question</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[Peter didn't call, did he?  [#]]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_01/assets/audio_03.mp3</audio>
+			<options>
+				<option>a real question</option>
+				<option answer="correct">not a real question</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[There weren't any problems, were there?  [#]]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_01/assets/audio_04.mp3</audio>
+			<options>
+				<option answer="correct">a real question</option>
+				<option>not a real question</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[You don't remember me, do you?  [#]]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_01/assets/audio_05.mp3</audio>
+			<options>
+				<option>a real question</option>
+				<option answer="correct">not a real question</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[She can tell me the answer, can't she?  [#]]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_01/assets/audio_06.mp3</audio>
+			<options>
+				<option>a real question</option>
+				<option answer="correct">not a real question</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[It isn't five o'clock yet, is it?  [#]]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_01/assets/audio_07.mp3</audio>
+			<options>
+				<option answer="correct">a real question</option>
+				<option>not a real question</option>	
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[Pete's playing golf today, isn't he?  [#]]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_01/assets/audio_08.mp3</audio>
+			<options>
+				<option>a real question</option>
+				<option answer="correct">not a real question</option>
+			</options>
+		</question>
+		<!--question>
+			<sentence><![CDATA[We've met him before, haven't we?  [#]]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_01/assets/audio_09.mp3</audio>
+			<options>
+				<option answer="correct">a real question</option>
+				<option>not a real question</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[He isn't a teacher, is he?  [#]]]></sentence>
+			<audio>templates/content/section_22/topic_01/ex_01/assets/audio_10.mp3</audio>
+			<options>
+				<option>a real question</option>
+				<option answer="correct">not a real question</option>
+			</options>
+		</question-->
+	</questions>	
+</exercise>

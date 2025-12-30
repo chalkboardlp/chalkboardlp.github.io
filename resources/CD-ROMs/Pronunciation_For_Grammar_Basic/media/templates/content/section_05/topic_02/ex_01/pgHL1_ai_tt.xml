@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Which word in the blue sentence has the strongest stress? Choose a word, click on it and then listen. If you want to change your answer, click again on your chosen word, then on a different one.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA['Pam's been playing the guitar since she was ten.' 'No. [She's] [been] [playing] [the] [*piano].']]></sentence>
+			<audio>templates/content/section_05/topic_02/ex_01/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA['Henry's been travelling in Asia this month.' 'No. [He's] [been] [travelling] [in] [*Africa].']]></sentence>
+			<audio>templates/content/section_05/topic_02/ex_01/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA['Mary's been painting her house since August.' 'No. [She's] [been] [painting] [it] [since] [*July].']]></sentence> 
+			<audio>templates/content/section_05/topic_02/ex_01/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA['We've been driving for two hours.' 'No. [We've] [been] [driving] [for] [*three] [hours].']]></sentence>
+			<audio>templates/content/section_05/topic_02/ex_01/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA['Billy's been painting the house for days.' 'No. [He's] [been] [painting] [for] [*weeks].']]></sentence>
+			<audio>templates/content/section_05/topic_02/ex_01/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA['Carla's been working in Oxford for some time.' 'No. [She's] [been] [working] [in] [*Cambridge].']]></sentence>
+			<audio>templates/content/section_05/topic_02/ex_01/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA['Simon's been out cycling since ten o'clock.' 'No. [He's] [been] [*walking] [since] [ten] [o'clock].']]></sentence>
+			<audio>templates/content/section_05/topic_02/ex_01/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA['Helen's been writing letters all day.' 'No. [She's] [been] [writing] [*postcards].']]></sentence>
+			<audio>templates/content/section_05/topic_02/ex_01/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA['They've been working here since June.' 'No. [They've] [been] [working] [here] [since] [*May].']]></sentence>
+			<audio>templates/content/section_05/topic_02/ex_01/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA['He's been teaching Spanish for years.' 'No. [He's] [been] [teaching] [*Portuguese].']]></sentence>
+			<audio>templates/content/section_05/topic_02/ex_01/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

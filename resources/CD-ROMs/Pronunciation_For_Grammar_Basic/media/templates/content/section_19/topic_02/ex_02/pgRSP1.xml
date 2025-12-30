@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[I always eat what my mother cook for me.]]></sentence>
+			<audio>templates/content/section_19/topic_02/ex_02/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Look what I've made for my sister's birthday!]]></sentence>
+			<audio>templates/content/section_19/topic_02/ex_02/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Some of the mistakes that you make are unbelievable.]]></sentence>
+			<audio>templates/content/section_19/topic_02/ex_02/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The dress that I bought today was really expensive.]]></sentence>
+			<audio>templates/content/section_19/topic_02/ex_02/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Nobody ever knew what your uncle did.]]></sentence>
+			<audio>templates/content/section_19/topic_02/ex_02/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I love the dinners that my grandmother cooks.]]></sentence>
+			<audio>templates/content/section_19/topic_02/ex_02/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Is this the club that you go to?]]></sentence>
+			<audio>templates/content/section_19/topic_02/ex_02/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Do you like what we've bought for you?]]></sentence>
+			<audio>templates/content/section_19/topic_02/ex_02/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I'm sorry about all those things that I said earlier.]]></sentence>
+			<audio>templates/content/section_19/topic_02/ex_02/assets/short/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[You should never believe what your brother says.]]></sentence>
+			<audio>templates/content/section_19/topic_02/ex_02/assets/short/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

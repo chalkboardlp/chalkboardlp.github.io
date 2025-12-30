@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Whose coat is this?]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_02/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Would you like to wash your hands?]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_02/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[It's raining a lot.]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_02/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I don't think he's very happy.]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_02/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The children have spent all their money.]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_02/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[You're not being very nice to me!]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_02/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Who's at the door?]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_02/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Have you got his phone number?]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_02/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[My students have got their exam next week.]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_02/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[It's twenty miles from here to Oxford.]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_02/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

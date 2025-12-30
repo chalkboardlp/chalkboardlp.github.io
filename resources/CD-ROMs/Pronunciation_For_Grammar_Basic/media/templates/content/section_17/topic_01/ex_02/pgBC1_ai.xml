@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Listen and repeat. When you repeat, stress the words and syllables in CAPITALS.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[Although I hated the film, I watched it to the end.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_02/assets/audio_01.mp3</audio>
+			<chain>
+				<text><![CDATA[alTHOUGH i HAted the FILM, i WATCHED it to the END.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[When I leave school, I'm going to travel round the world.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_02/assets/audio_02.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font>WHEN i LEAVE SCHOOL, i'm GOing to TRAvel ROUND the WORLD.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Cassie had a shower while they made breakfast.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_02/assets/audio_03.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /></font>CASsie HAD a SHOWer WHILE they MADE BREAKfast.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[We'll go to the beach if it's sunny tomorrow.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_02/assets/audio_04.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /></font>we'll GO to the BEACH if it's SUNny toMOrrow.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[As soon as she walked in, we left the party.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_02/assets/audio_05.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /></font>as SOON as she WALKED IN, we LEFT the PARty.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[If the weather's fine this weekend, we'll go to the country.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_02/assets/audio_06.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /></font>IF the WEAther's FINE THIS weekEND, we'll GO to the COUNtry.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[He's going to get a job when he leaves university.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_02/assets/audio_07.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="47"><br /></font><font size="31"><br /><br /><br /><br /><br /></font>he's GOing to GET a JOB when he LEAves uniVERsity.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[While Bill fried some eggs, Ann made coffee.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_02/assets/audio_08.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="47"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /></font>WHILE BILL FRIED some EGGS, ANN MADE COFfee.]]></text>
+			</chain>
+		</question>
+	</questions>
+</exercise>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[It was cold and dark and I didn't want to stay.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_01/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We like him a lot but we don't like his wife.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_01/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[He got up and went to school although he wasn't feeling well.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_01/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[They didn't buy that TV because it was too expensive.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_01/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I'll phone you from the station if the train is late.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_01/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[It was raining a bit so I took an umbrella.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_01/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Let's start our meeting as soon as Frank arrives.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_01/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[She couldn't drive away until Eric got into the car.]]></sentence>
+			<audio>templates/content/section_17/topic_01/ex_01/assets/short/audio_08.mp3</audio>
+		</question>
+	</questions>
+</exercise>

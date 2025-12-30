@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Why is Sally with him?]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_03/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Is that present for me?]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_03/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Give those books to him.]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_03/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Stop looking at her!]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_03/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[That one is for us.]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_03/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[That's a lovely picture of you.]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_03/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The children want to play with it.]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_03/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Did Anna really say that about me?]]></sentence>
+			<audio>templates/content/section_13/topic_02/ex_03/assets/audio_08.mp3</audio>
+		</question>
+	</questions>
+</exercise>

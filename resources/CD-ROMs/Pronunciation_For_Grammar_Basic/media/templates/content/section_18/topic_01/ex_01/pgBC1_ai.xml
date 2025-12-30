@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Listen and repeat. When you repeat, stress the words and syllables in CAPITALS.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[If he phoned last night, he won't phone later today.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_01/assets/audio_01.mp3</audio>
+			<chain>
+				<text><![CDATA[if he PHONED LAST NIGHT, he WON't PHONE LAter toDAY.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[She must speak some French if she's been living in Paris.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_01/assets/audio_02.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font>she MUST speak SOME French if she's been LIVing in PAris.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[If you know the answer, put your hand up.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_01/assets/audio_03.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /></font>if you KNOW the ANSwer, PUT your HAND up.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Please ask me for help if you have any problems.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_01/assets/audio_04.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /></font>PLEASE ASK me for HELP if you HAVE Any PROBlems.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[You can't park here if you don't live in this street.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_01/assets/audio_05.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /></font>you CAN'T PARK HERE if you DON'T LIVE in THIS STREET.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[If he was telling the truth, why didn't you believe him?]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_01/assets/audio_06.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /></font>if he was TELLing the TRUTH, WHY DIDn't you beLIEVE him?]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[If I'm a bit late tomorrow, please don't worry.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_01/assets/audio_07.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /></font>if I'm a BIT LATE toMORrow, PLEASE DON'T WORry.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[They can watch television if they've done their homework.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_01/assets/audio_08.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /></font>they can WATCH TElevision if they've DONE their HOMEwork.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Why don't you have some water if you're feeling thirsty?]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_01/assets/audio_09.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="48"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /><br /></font>WHY DON't you HAVE some WAter if you're FEELing THIRsty?]]></text>
+			</chain>
+		</question>
+	</questions>
+</exercise>

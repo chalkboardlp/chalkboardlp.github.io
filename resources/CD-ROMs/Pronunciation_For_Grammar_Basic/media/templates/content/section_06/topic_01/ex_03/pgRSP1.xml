@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Could David use the phone?]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_03/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Can Delia borrow your pen?]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_03/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Can the children play in the garden?]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_03/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Could Dora have a glass of water?]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_03/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Can Daniel take some photos?]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_03/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Can the students leave early today?]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_03/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Could Debbie drive me to the station?]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_03/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Could Daisy use your calculator?]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_03/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Can Dad lend me his newspaper?]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_03/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Could they have some more coffee?]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_03/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

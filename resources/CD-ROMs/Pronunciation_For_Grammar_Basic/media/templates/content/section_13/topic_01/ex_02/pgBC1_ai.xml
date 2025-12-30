@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Listen and repeat. When you repeat, stress the words and syllables in CAPITALS.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[This isn't for my girlfriend, it's for me.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_02/assets/audio_01.mp3</audio>
+			<chain>
+				<text><![CDATA[this ISn't for my GIRLfriend, it's for ME.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[We didn't actually meet her, we met her husband.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_02/assets/audio_02.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font>we DIDn't ACtually MEET her, we MET her HUSband.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[I think you should help him with the housework.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_02/assets/audio_03.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /></font>i THINK you should HELP him with the HOUSEwork.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[They aren't laughing at each other, they're laughing at us.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_02/assets/audio_04.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /></font>they AREN'T LAUGHing at EACH OTHer, they're LAUGHing at US.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[I'm sure Mary doesn't like me.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_02/assets/audio_05.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="48"><br /></font><font size="31"><br /><br /><br /></font>i'm SURE MAry DOESn't LIKE me.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Promise me you won't tell them anything.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_02/assets/audio_06.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="48"><br /></font><font size="31"><br /><br /><br /><br /></font>PROmise me you WON'T TELL them ANything.]]></text>
+			</chain>
+		</question>
+	</questions>
+</exercise>

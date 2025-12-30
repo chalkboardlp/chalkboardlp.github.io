@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Listen and choose the correct answers.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[My class ... studied really hard this term.]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_02/assets/audio_01.mp3</audio>
+			<options>
+				<option>has</option>
+				<option answer="correct">have</option>
+			</options>				
+		</question>
+		<question>
+			<sentence><![CDATA[The government ... that education is important.]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_02/assets/audio_02.mp3</audio>
+			<options>
+				<option answer="correct">thinks</option>
+				<option>think</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[The orchestra ... decided not to play Mozart.]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_02/assets/audio_03.mp3</audio>
+			<options>
+				<option>has</option>
+				<option answer="correct">have</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[The company ... to build more factories.]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_02/assets/audio_04.mp3</audio>
+			<options>
+				<option>plans</option>
+				<option answer="correct">plan</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[The crowd ... started to cheer!]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_02/assets/audio_05.mp3</audio>
+			<options>				
+				<option answer="correct">has</option>
+				<option>have</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... Stephen's team agree with you?]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_02/assets/audio_06.mp3</audio>
+			<options>
+				<option>Does</option>
+				<option answer="correct">Do</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[The audience ... stood up now. ]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_02/assets/audio_07.mp3</audio>
+			<options>
+				<option>has</option>
+				<option answer="correct">have</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[When and where ... the club usually meet?]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_02/assets/audio_08.mp3</audio>
+			<options>
+				<option>does</option>
+				<option answer="correct">do</option>							
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[The army ... more soldiers.]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_02/assets/audio_09.mp3</audio>
+			<options>
+				<option answer="correct">needs</option>
+				<option>need</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... Sally's family live in England?]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_02/assets/audio_10.mp3</audio>
+			<options>
+				<option answer="correct">Does</option>
+				<option>Do</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

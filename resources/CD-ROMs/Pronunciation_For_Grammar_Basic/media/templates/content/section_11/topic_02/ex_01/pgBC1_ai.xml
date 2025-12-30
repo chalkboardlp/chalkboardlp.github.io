@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Listen and repeat. When you repeat, stress the words and syllables in CAPITALS.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[Old people often forget things.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_01/assets/audio_01.mp3</audio>
+			<chain>
+				<text><![CDATA[OLD PEOple OFten forGET THINGS.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[I usually just have toast and coffee for breakfast.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_01/assets/audio_02.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font>I USually just have TOAST and COFfee for BREAKfast.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Why don't you eat meat?]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_01/assets/audio_03.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /></font>WHY don't you EAT MEAT?]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[Exeter Cathedral is a very beautiful building.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_01/assets/audio_04.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /></font>EXeter caTHEdral is a VEry BEAUtiful BUILding.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[I can't stand the coffee from Joe's.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_01/assets/audio_05.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /></font>I CAN'T STAND the COFfee from JOE'S.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Have you ever been to the Globe Theatre?]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_01/assets/audio_06.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /></font>have you EVer BEEN to the GLOBE THEAtre?]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Anne's house is the first on the left.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_01/assets/audio_07.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /></font>ANNE'S HOUSE is the FIRST on the LEFT.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[We saw the Great Pyramid when we visited Egypt.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_01/assets/audio_08.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /></font>we SAW the GREAT PYramid when we VISited EGypt.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Her hair is the same colour as her mother's.]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_01/assets/audio_09.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /><br /></font>her HAIR is the SAME COlour as her MOther's.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Do you understand English grammar?]]></sentence>
+			<audio>templates/content/section_11/topic_02/ex_01/assets/audio_10.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /><br /><br /></font>do you UNderSTAND ENglish GRAMmar?]]></text>
+			</chain>
+		</question>		
+	</questions>
+</exercise>

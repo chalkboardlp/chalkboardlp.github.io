@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[She was talking to the boss.]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_03/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Is he getting married to Jane?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_03/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Who shall I give it to?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_03/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Where was that postcard from?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_03/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Franz is from Austria.]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_03/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Who did you write that poem for?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_03/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Is that present for me?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_03/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I was hoping for some more of that cake.]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_03/assets/audio_08.mp3</audio>
+		</question>
+	</questions>
+</exercise>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[My class have studied really hard this term.]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_02/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The government thinks that education is important.]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_02/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The orchestra have decided not to play Mozart.]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_02/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The company plan to build more factories.]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_02/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The crowd has started to cheer!]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_02/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Do Stephen's team agree with you?]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_02/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The audience have stood up now.]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_02/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[When and where do the club usually meet?]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_02/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The army needs more soldiers.]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_02/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Does Sally's family live in England?]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_02/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<styles>
+	<images>
+		<image item="preloader" assets="image:audio[70]" xpos="340" ypos="163">templates/shared_assets/ts/swfs/anim_preloader.swf</image>
+		<image item="labels_bg" type="number">templates/shared_assets/ts/swfs/template_number_bg.swf</image>
+		<image item="template_bg"></image>
+		<image item="checkpoints" xoffset="-35" yoffset="3" xoffset2="9" yoffset2="12">templates/shared_assets/ts/swfs/template_checkpoint.swf</image>
+	</images>
+	<buttons>
+		<button item="checkAns" visible="true" xpos="211" ypos="516">
+			<image>templates/shared_assets/ts/swfs/button_check_answers.swf</image>
+			<audio>templates/shared_assets/ts/audio/click_low.mp3</audio>
+		</button>
+		<button item="tryAgain" visible="true" xpos="357" ypos="516">
+			<image>templates/shared_assets/ts/swfs/button_try_again.swf</image>
+			<audio>templates/shared_assets/ts/audio/click_low.mp3</audio>
+		</button>
+		<button item="seeAns" visible="true" xpos="462" ypos="516" attempted="2">
+			<image>templates/shared_assets/ts/swfs/button_see_answers.swf</image>
+			<audio>templates/shared_assets/ts/audio/click_low.mp3</audio>
+		</button>
+		<button item="audioIcon" visible="true" xpos="-10" ypos="1">
+			<image>templates/shared_assets/ts/swfs/button_audio_icon.swf</image>
+			<audio></audio>
+		</button>
+	</buttons>
+	<assets>
+		<asset item="rubric" xpos="55" ypos="50" width="820" color="666666" fontsize="14" />
+		<asset item="questions" startxpos="68" startypos="104" yspacer="12" linespacer="30" txtlimit="800" color="666666" fontsize="13" />
+		<asset item="highlight" correct="*" bgover="cee0f3" bgselect="cee0f3" bgcorrect="cee0f3" bgincorrect="cee0f3" bgsee="cee0f3" color="1A388C" fontsize="13" />
+		<asset item="scoreBar" xpos="57" ypos="514">
+			<image>templates/shared_assets/ts/swfs/template_scorebar.swf</image>
+		</asset>
+		<asset item="infoIcon" xoffset="38" yoffset="-6" xoffset2="8" yoffset2="12">
+			<image>templates/shared_assets/ts/swfs/template_info_icon.swf</image>
+			<tooltip xoffset="7" yoffset="-30" bgcolor="FCEFB1" bgalpha="100" corner="8" outline="FCEFB1" color="CC071E" fontsize="13" fade="30">
+				<label color="666666" fontsize="12"><![CDATA[<b>Your answer:</b><br>]]></label>
+			</tooltip>
+		</asset>
+	</assets>
+</styles>

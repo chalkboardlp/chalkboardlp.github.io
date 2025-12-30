@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[This bus stops in front of the station.]]></sentence>
+			<audio>templates/content/section_03/review/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Is Mary going to have a baby?]]></sentence>
+			<audio>templates/content/section_03/review/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Will it be ready at the weekend?]]></sentence>
+			<audio>templates/content/section_03/review/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[David's going to the theatre on Saturday.]]></sentence>
+			<audio>templates/content/section_03/review/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Are you cooking the dinner this evening?]]></sentence>
+			<audio>templates/content/section_03/review/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Where are they going on holiday this year?]]></sentence>
+			<audio>templates/content/section_03/review/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Will you wash the cups for me, please?]]></sentence>
+			<audio>templates/content/section_03/review/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Peter will be out of the office today.]]></sentence>
+			<audio>templates/content/section_03/review/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Is he going to apply for the job?]]></sentence>
+			<audio>templates/content/section_03/review/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Are there any lessons on Saturday?]]></sentence>
+			<audio>templates/content/section_03/review/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

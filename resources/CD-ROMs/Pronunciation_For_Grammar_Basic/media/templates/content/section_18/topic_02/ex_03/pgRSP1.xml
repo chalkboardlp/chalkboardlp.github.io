@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[If they'd sent us the letters earlier]]></sentence>
+			<audio>templates/content/section_18/topic_02/ex_03/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[If I'd had coffee at dinner]]></sentence>
+			<audio>templates/content/section_18/topic_02/ex_03/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[If we explained it to him]]></sentence>
+			<audio>templates/content/section_18/topic_02/ex_03/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[If they studied harder]]></sentence>
+			<audio>templates/content/section_18/topic_02/ex_03/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[If you'd asked me nicely]]></sentence>
+			<audio>templates/content/section_18/topic_02/ex_03/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[If you worked harder]]></sentence>
+			<audio>templates/content/section_18/topic_02/ex_03/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[If you'd spoken to my sister about it]]></sentence>
+			<audio>templates/content/section_18/topic_02/ex_03/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[If he'd cooked her Greek food]]></sentence>
+			<audio>templates/content/section_18/topic_02/ex_03/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[If you asked me nicely]]></sentence>
+			<audio>templates/content/section_18/topic_02/ex_03/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[If he'd explained it more clearly]]></sentence>
+			<audio>templates/content/section_18/topic_02/ex_03/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

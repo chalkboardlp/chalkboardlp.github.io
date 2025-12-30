@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Look at each sentence. Then listen, and repeat what you hear.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[Let's go camping in Italy this August.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_03/assets/audio_01.mp3</audio>
+			<chain>
+				<text><![CDATA[this August<br>]]></text>
+				<text><![CDATA[in Italy this August<br>]]></text>
+				<text><![CDATA[camping in Italy this August<br>]]></text>
+				<text><![CDATA[Let's go camping in Italy this August.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[Don't let's sit in front of the TV all evening.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_03/assets/audio_02.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font>all evening<br>]]></text>
+				<text><![CDATA[in front of the TV all evening<br>]]></text>
+				<text><![CDATA[sit in front of the TV all evening<br>]]></text>
+				<text><![CDATA[Don't let's sit in front of the TV all evening.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Let's go out to a restaurant for some lunch.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_03/assets/audio_03.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /></font>some lunch<br>]]></text>
+				<text><![CDATA[restaurant for some lunch<br>]]></text>
+				<text><![CDATA[to a restaurant for some lunch<br>]]></text>
+				<text><![CDATA[Let's go out to a restaurant for some lunch.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[Let's not go skiing with your parents at Easter.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_03/assets/audio_04.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /></font>at Easter<br>]]></text>
+				<text><![CDATA[with your parents at Easter<br>]]></text>
+				<text><![CDATA[go skiing with your parents at Easter<br>]]></text>
+				<text><![CDATA[Let's not go skiing with your parents at Easter.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[Let's drive to Oxford for the day.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_03/assets/audio_05.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /></font>for the day<br>]]></text>
+				<text><![CDATA[to Oxford for the day<br>]]></text>
+				<text><![CDATA[drive to Oxford for the day<br>]]></text>
+				<text><![CDATA[Let's drive to Oxford for the day.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Let's not invite your mother for Christmas this year.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_03/assets/audio_06.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /></font>this year<br>]]></text>
+				<text><![CDATA[for Christmas this year<br>]]></text>
+				<text><![CDATA[invite your mother for Christmas this year<br>]]></text>
+				<text><![CDATA[Let's not invite your mother for Christmas this year.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Let's fly over to Paris for the weekend.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_03/assets/audio_07.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /></font>for the weekend<br>]]></text>
+				<text><![CDATA[to Paris for the weekend<br>]]></text>
+				<text><![CDATA[Let's fly over to Paris for the weekend.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Let's have a nice cup of tea in a minute or two.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_03/assets/audio_08.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /></font>in a minute or two<br>]]></text>
+				<text><![CDATA[a nice cup of tea in a minute or two<br>]]></text>
+				<text><![CDATA[Let's have a nice cup of tea in a minute or two.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Don't let's stay at home this afternoon.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_03/assets/audio_09.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="41"><br /></font><font size="31"><br /><br /><br /><br /><br/></font>this afternoon<br>]]></text>
+				<text><![CDATA[stay at home this afternoon<br>]]></text>
+				<text><![CDATA[Don't let's stay at home this afternoon.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Let's have a party to celebrate your birthday.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_03/assets/audio_10.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="41"><br /></font><font size="31"><br /><br /><br /><br /><br /><br/></font>your birthday<br>]]></text>
+				<text><![CDATA[to celebrate your birthday<br>]]></text>
+				<text><![CDATA[Let's have a party to celebrate your birthday.]]></text>
+			</chain>
+		</question>		
+	</questions>
+</exercise>

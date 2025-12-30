@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Look at each sentence. Then listen, and repeat what you hear.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[Has Jemima gone to the dentist's already?]]></sentence>
+			<audio>templates/content/section_05/topic_01/ex_03/assets/audio_01.mp3</audio>
+			<chain>
+				<text><![CDATA[the dentist's already<br>]]></text>
+				<text><![CDATA[gone to the dentist's already<br>]]></text>
+				<text><![CDATA[Has Jemima gone to the dentist's already?]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[James has been jogging for ages!]]></sentence>
+			<audio>templates/content/section_05/topic_01/ex_03/assets/audio_02.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font>for ages<br>]]></text>
+				<text><![CDATA[jogging for ages<br>]]></text>
+				<text><![CDATA[James has been jogging for ages!]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Mark hasn't been to the hairdresser's.]]></sentence>
+			<audio>templates/content/section_05/topic_01/ex_03/assets/audio_03.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /></font>to the hairdresser's<br>]]></text>
+				<text><![CDATA[been to the hairdresser's<br>]]></text>
+				<text><![CDATA[Mark hasn't been to the hairdresser's.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[Have your friends been to France?]]></sentence>
+			<audio>templates/content/section_05/topic_01/ex_03/assets/audio_04.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /></font>to France<br>]]></text>
+				<text><![CDATA[been to France<br>]]></text>
+				<text><![CDATA[your friends been to France<br>]]></text>
+				<text><![CDATA[Have your friends been to France?]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[Michael hasn't gone to Rio.]]></sentence>
+			<audio>templates/content/section_05/topic_01/ex_03/assets/audio_05.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /></font>to Rio<br>]]></text>
+				<text><![CDATA[gone to Rio<br>]]></text>
+				<text><![CDATA[Michael hasn't gone to Rio.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Claire's gone to the park with the children.]]></sentence>
+			<audio>templates/content/section_05/topic_01/ex_03/assets/audio_06.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /></font>with the children<br>]]></text>
+				<text><![CDATA[to the park with the children<br>]]></text>
+				<text><![CDATA[Claire's gone to the park with the children.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Has Stephen been to the doctor's?]]></sentence>
+			<audio>templates/content/section_05/topic_01/ex_03/assets/audio_07.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /></font>to the doctor's<br>]]></text>
+				<text><![CDATA[been to the doctor's<br>]]></text>
+				<text><![CDATA[Has Stephen been to the doctor's?]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[All the students have been swimming.]]></sentence>
+			<audio>templates/content/section_05/topic_01/ex_03/assets/audio_08.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /></font>been swimming<br>]]></text>
+				<text><![CDATA[the students have been swimming<br>]]></text>
+				<text><![CDATA[All the students have been swimming.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Shaun hasn't gone shopping.]]></sentence>
+			<audio>templates/content/section_05/topic_01/ex_03/assets/audio_09.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="41"><br /></font><font size="31"><br /><br /><br /><br /><br/><br/></font>gone shopping<br>]]></text>
+				<text><![CDATA[Shaun hasn't gone shopping.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Liz has gone to the bank with the money.]]></sentence>
+			<audio>templates/content/section_05/topic_01/ex_03/assets/audio_10.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="45"><br /></font><font size="31"><br /><br /><br /><br /><br /></font>with the money<br>]]></text>
+				<text><![CDATA[the bank with the money<br>]]></text>
+				<text><![CDATA[gone to the bank with the money<br>]]></text>
+				<text><![CDATA[Liz has gone to the bank with the money.]]></text>
+			</chain>
+		</question>		
+	</questions>
+</exercise>

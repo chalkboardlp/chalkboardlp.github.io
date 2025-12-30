@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>How many words do you hear? Contractions like <i>don't</i> or <i>I'll</i> count as two words.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[[#]]]></sentence>		
+			<audio>templates/content/section_01/review/assets/audio_01.mp3</audio>
+			<options>
+				<option>6</option>
+				<option answer="correct">7</option>
+				<option>8</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[[#]]]></sentence>		
+			<audio>templates/content/section_01/review/assets/audio_02.mp3</audio>
+			<options>
+				<option>6</option>
+				<option answer="correct">7</option>
+				<option>8</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[[#]]]></sentence>		
+			<audio>templates/content/section_01/review/assets/audio_03.mp3</audio>
+			<options>
+				<option answer="correct">8</option>
+				<option>9</option>
+				<option>10</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[[#]]]></sentence>		
+			<audio>templates/content/section_01/review/assets/audio_04.mp3</audio>
+			<options>
+				<option>6</option>
+				<option>7</option>
+				<option answer="correct">8</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[[#]]]></sentence>		
+			<audio>templates/content/section_01/review/assets/audio_05.mp3</audio>
+			<options>
+				<option answer="correct">6</option>
+				<option>7</option>
+				<option>8</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[[#]]]></sentence>		
+			<audio>templates/content/section_01/review/assets/audio_06.mp3</audio>
+			<options>
+				<option answer="correct">7</option>
+				<option>8</option>
+				<option>9</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[[#]]]></sentence>		
+			<audio>templates/content/section_01/review/assets/audio_07.mp3</audio>
+			<options>
+			    <option answer="correct">5</option>
+				<option>6</option>
+				<option>7</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[[#]]]></sentence>		
+			<audio>templates/content/section_01/review/assets/audio_08.mp3</audio>
+			<options>
+				<option answer="correct">7</option>
+				<option>8</option>
+				<option>9</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[[#]]]></sentence>		
+			<audio>templates/content/section_01/review/assets/audio_09.mp3</audio>
+			<options>
+				<option>8</option>
+				<option answer="correct">9</option>
+				<option>10</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[[#]]]></sentence>		
+			<audio>templates/content/section_01/review/assets/audio_10.mp3</audio>
+			<options>
+				<option>8</option>
+				<option answer="correct">9</option>
+				<option>10</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

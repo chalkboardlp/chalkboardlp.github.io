@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Tina seems unhappy about her results.]]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_03/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[She prefers Madrid to Barcelona.]]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_03/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[She knows everyone in her class really well.]]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_03/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Do we need anything from the shops?]]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_03/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[He prefers languages to science and maths.]]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_03/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[She hates hamburgers but she loves hot dogs.]]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_03/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Do you like ice in your lemonade?]]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_03/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Does he want the newspaper?]]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_03/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[They remember Kate from school.]]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_03/assets/short/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Does Rachel believe her brother?]]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_03/assets/short/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

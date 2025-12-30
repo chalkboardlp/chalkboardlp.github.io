@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[I like Mary because she's so friendly.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_01/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[He needs help with his maths homework.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_01/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[They want your email address.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_01/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I'm seeing Lucy and Pete on Tuesday.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_01/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[She has already spoken to Mrs Lewis.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_01/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[He's got lots of money but not much time.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_01/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We'd love to come but we're busy that day.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_01/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[You must try that new restaurant, it's fantastic.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_01/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[It's my birthday next Tuesday.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_01/assets/short/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[It's cold today so wear your coat.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_01/assets/short/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

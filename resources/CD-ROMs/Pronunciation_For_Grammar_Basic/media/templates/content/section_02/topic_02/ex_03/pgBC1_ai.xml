@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Look at each sentence. Then listen, and repeat what you hear.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[Why are you stopping here?]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_03/assets/audio_01.mp3</audio>
+			<chain>
+				<text><![CDATA[stopping here?<br>]]></text>
+				<text><![CDATA[are you stopping here?<br>]]></text>
+				<text><![CDATA[Why are you stopping here?]]></text>		
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[Where are they going?]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_03/assets/audio_02.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font>going?<br>]]></text>
+				<text><![CDATA[are they going?<br>]]></text>
+				<text><![CDATA[Where are they going?]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Why are we leaving now?]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_03/assets/audio_03.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /></font>leaving now?<br>]]></text>
+				<text><![CDATA[are we leaving now?<br>]]></text>
+				<text><![CDATA[Why are we leaving now?]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[What are you drinking?]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_03/assets/audio_04.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /></font>drinking?<br>]]></text>
+				<text><![CDATA[are you drinking?<br>]]></text>
+				<text><![CDATA[What are you drinking?]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[How are we getting there?]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_03/assets/audio_05.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /></font>getting there?<br>]]></text>
+				<text><![CDATA[are we getting there?<br>]]></text>
+				<text><![CDATA[How are we getting there?]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Who are they working for?]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_03/assets/audio_06.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /></font>working for?<br>]]></text>
+				<text><![CDATA[are they working for?<br>]]></text>
+				<text><![CDATA[Who are they working for?]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[How much are you paying for your holiday?]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_03/assets/audio_07.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /></font>for your holiday?<br>]]></text>
+				<text><![CDATA[paying for your holiday?<br>]]></text>
+				<text><![CDATA[are you paying for your holiday?<br>]]></text>
+				<text><![CDATA[How much are you paying for your holiday?]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[How many people are we expecting?]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_03/assets/audio_08.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /></font>expecting?<br>]]></text>
+				<text><![CDATA[are we expecting?<br>]]></text>
+				<text><![CDATA[How many people are we expecting?]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Who are you listening to?]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_03/assets/audio_09.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="41"><br /></font><font size="31"><br /><br /><br /><br /><br /></font>listening to?<br>]]></text>
+				<text><![CDATA[are you listening to?<br>]]></text>
+				<text><![CDATA[Who are you listening to?]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[What are they looking for?]]></sentence>
+			<audio>templates/content/section_02/topic_02/ex_03/assets/audio_10.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="41"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /></font>looking for?<br>]]></text>
+				<text><![CDATA[are they looking for?<br>]]></text>
+				<text><![CDATA[What are they looking for?]]></text>
+			</chain>
+		</question>
+		
+	</questions>
+</exercise>

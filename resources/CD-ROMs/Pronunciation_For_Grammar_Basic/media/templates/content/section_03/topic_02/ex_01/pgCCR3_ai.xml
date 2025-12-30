@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Listen and choose the correct answers.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[We ... to bed early.]]></sentence>
+			<audio>templates/content/section_03/topic_02/ex_01/assets/audio_01.mp3</audio>
+			<options>
+				<option answer="correct">go</option>
+				<option>'ll go</option>
+			</options>				
+		</question>
+		<question>
+			<sentence><![CDATA[I ... carefully.]]></sentence>
+			<audio>templates/content/section_03/topic_02/ex_01/assets/audio_02.mp3</audio>
+			<options>
+				<option>drive</option>
+				<option answer="correct">'ll drive</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[We ... a lot.]]></sentence>
+			<audio>templates/content/section_03/topic_02/ex_01/assets/audio_03.mp3</audio>
+			<options>
+				<option>study</option>
+				<option answer="correct">'ll study</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[I ... Helen with her homework.]]></sentence>
+			<audio>templates/content/section_03/topic_02/ex_01/assets/audio_04.mp3</audio>
+			<options>
+				<option answer="correct">help</option>
+				<option>'ll help</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[I ... all my exams.]]></sentence>
+			<audio>templates/content/section_03/topic_02/ex_01/assets/audio_05.mp3</audio>
+			<options>
+				<option>pass</option>
+				<option answer="correct">'ll pass</option>			
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[We ... lots of books.]]></sentence>
+			<audio>templates/content/section_03/topic_02/ex_01/assets/audio_06.mp3</audio>
+			<options>
+				<option answer="correct">read</option>
+				<option>'ll read</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[We ... to our friends.]]></sentence>
+			<audio>templates/content/section_03/topic_02/ex_01/assets/audio_07.mp3</audio>
+			<options>
+				<option answer="correct">write</option>
+				<option>'ll write</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[I ... to the shops every day.]]></sentence>
+			<audio>templates/content/section_03/topic_02/ex_01/assets/audio_08.mp3</audio>
+			<options>				
+				<option>walk</option>
+				<option answer="correct">'ll walk</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[I ... the truth.]]></sentence>
+			<audio>templates/content/section_03/topic_02/ex_01/assets/audio_09.mp3</audio>
+			<options>
+				<option>tell</option>
+				<option answer="correct">'ll tell</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[We ... very hard.]]></sentence>
+			<audio>templates/content/section_03/topic_02/ex_01/assets/audio_10.mp3</audio>
+			<options>
+				<option answer="correct">work</option>
+				<option>'ll work</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

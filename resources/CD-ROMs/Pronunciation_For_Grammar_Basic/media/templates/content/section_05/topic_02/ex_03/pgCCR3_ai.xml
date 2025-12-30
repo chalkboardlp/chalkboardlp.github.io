@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Listen and choose the correct answers.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[When I went to Egypt, I ... some Arabic lessons.]]></sentence>
+			<audio>templates/content/section_05/topic_02/ex_03/assets/audio_01.mp3</audio>
+			<options>
+				<option answer="correct">'d had </option>
+				<option>had</option>				
+			</options>				
+		</question>
+		<question>
+			<sentence><![CDATA[When he got home, they ... the front door.]]></sentence>
+			<audio>templates/content/section_05/topic_02/ex_03/assets/audio_02.mp3</audio>
+			<options>
+				<option>'d locked </option>
+				<option answer="correct">locked</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[When it started to rain, I ... all the windows.]]></sentence>
+			<audio>templates/content/section_05/topic_02/ex_03/assets/audio_03.mp3</audio>
+			<options>
+				<option answer="correct">'d closed</option>
+				<option>closed</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[When I went into the room, he ... off the radio.]]></sentence>
+			<audio>templates/content/section_05/topic_02/ex_03/assets/audio_04.mp3</audio>
+			<options>
+				<option>'d switched </option>
+				<option answer="correct">switched</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[When the waiter brought the bill, I ... the money on the table.]]></sentence>
+			<audio>templates/content/section_05/topic_02/ex_03/assets/audio_05.mp3</audio>
+			<options>				
+				<option answer="correct">'d put</option>
+				<option>put</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[When we sat down to watch the film, it ... .]]></sentence>
+			<audio>templates/content/section_05/topic_02/ex_03/assets/audio_06.mp3</audio>
+			<options>
+				<option answer="correct">had started</option>
+				<option>started</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[When I opened the tin, they ... all the biscuits.]]></sentence>
+			<audio>templates/content/section_05/topic_02/ex_03/assets/audio_07.mp3</audio>
+			<options>
+				<option answer="correct">'d finished</option>
+				<option>finished</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[When she went to complain, he ... down the music.]]></sentence>
+			<audio>templates/content/section_05/topic_02/ex_03/assets/audio_08.mp3</audio>
+			<options>
+				<option answer="correct">'d turned</option>
+				<option>turned</option>		
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[When my mother married, she ... going to work.]]></sentence>
+			<audio>templates/content/section_05/topic_02/ex_03/assets/audio_09.mp3</audio>
+			<options>
+				<option>'d stopped</option>
+				<option answer="correct">stopped</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[When she arrived at the party, he ... .]]></sentence>
+			<audio>templates/content/section_05/topic_02/ex_03/assets/audio_10.mp3</audio>
+			<options>
+				<option answer="correct">'d left</option>
+				<option>left</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

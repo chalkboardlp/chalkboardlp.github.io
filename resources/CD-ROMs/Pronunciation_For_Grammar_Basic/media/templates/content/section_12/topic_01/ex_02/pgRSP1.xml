@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Would you like some water?]]></sentence>
+			<audio>templates/content/section_12/topic_01/ex_02/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[But I bought some today.]]></sentence>
+			<audio>templates/content/section_12/topic_01/ex_02/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Have some more.]]></sentence>
+			<audio>templates/content/section_12/topic_01/ex_02/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Can I have some sugar?]]></sentence>
+			<audio>templates/content/section_12/topic_01/ex_02/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[No, but I'd like some now.]]></sentence>
+			<audio>templates/content/section_12/topic_01/ex_02/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I'll give you some later.]]></sentence>
+			<audio>templates/content/section_12/topic_01/ex_02/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I'm having some problems.]]></sentence>
+			<audio>templates/content/section_12/topic_01/ex_02/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Would you like some of it?]]></sentence>
+			<audio>templates/content/section_12/topic_01/ex_02/assets/short/audio_08.mp3</audio>
+		</question>
+	</questions>
+</exercise>

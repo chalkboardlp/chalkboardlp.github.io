@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Neil can drive very well.]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_01/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Vanessa can't draw anything.]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_01/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Timmy can't type very quickly.]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_01/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[With a visa you can take paid work.]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_01/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Trudy can speak German very clearly.]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_01/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I can't tell you my name.]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_01/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We know we can win the competition!]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_01/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I can't do it without your help.]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_01/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Joe, can you lend me a stamp?]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_01/assets/short/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Can I have your address, please?]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_01/assets/short/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

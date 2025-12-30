@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Listen and choose the correct answers. '–' = no relative pronoun.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[the man  [#]]]></sentence>		
+			<audio>templates/content/section_19/topic_01/ex_01/assets/audio_01.mp3</audio>
+			<options>
+				<option>that</option>
+				<option answer="correct">who</option>
+				<option> –</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[the children  [#]]]></sentence>		
+			<audio>templates/content/section_19/topic_01/ex_01/assets/audio_02.mp3</audio>
+			<options>
+				<option answer="correct">that</option>
+				<option>who</option>
+				<option> –</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[the words [#]]]></sentence>		
+			<audio>templates/content/section_19/topic_01/ex_01/assets/audio_03.mp3</audio>
+			<options>
+				<option>that</option>
+				<option>who</option>
+				<option answer="correct"> –</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[the car  [#]]]></sentence>		
+			<audio>templates/content/section_19/topic_01/ex_01/assets/audio_04.mp3</audio>
+			<options>
+				<option answer="correct">that</option>
+				<option>who</option>
+				<option> –</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[the people  [#]]]></sentence>		
+			<audio>templates/content/section_19/topic_01/ex_01/assets/audio_05.mp3</audio>
+			<options>
+				<option>that</option>
+				<option answer="correct">who</option>
+				<option> –</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[the student  [#]]]></sentence>		
+			<audio>templates/content/section_19/topic_01/ex_01/assets/audio_06.mp3</audio>
+			<options>
+				<option>that</option>
+				<option>who</option>
+				<option answer="correct"> –</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[the old woman  [#]]]></sentence>		
+			<audio>templates/content/section_19/topic_01/ex_01/assets/audio_07.mp3</audio>
+			<options>
+				<option>that</option>
+				<option answer="correct">who</option>
+				<option> –</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[the men  [#]]]></sentence>		
+			<audio>templates/content/section_19/topic_01/ex_01/assets/audio_08.mp3</audio>
+			<options>
+				<option>that</option>
+				<option answer="correct">who</option>
+				<option> –</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[the key  [#]]]></sentence>		
+			<audio>templates/content/section_19/topic_01/ex_01/assets/audio_09.mp3</audio>
+			<options>
+				<option answer="correct">that</option>
+				<option>who</option>
+				<option> –</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[the shop  [#]]]></sentence>		
+			<audio>templates/content/section_19/topic_01/ex_01/assets/audio_10.mp3</audio>
+			<options>
+				<option answer="correct">that</option>
+				<option>who</option>
+				<option> –</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

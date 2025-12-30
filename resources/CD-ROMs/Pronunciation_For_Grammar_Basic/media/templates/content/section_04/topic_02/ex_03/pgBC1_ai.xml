@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Look at each sentence. Then listen, and repeat what you hear.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[When we arrived, she was making tea.]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_03/assets/audio_01.mp3</audio>
+			<chain>
+				<text><![CDATA[making tea<br>]]></text>
+				<text><![CDATA[she was making tea<br>]]></text>
+				<text><![CDATA[When we arrived, she was making tea.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[This time last week, I was lying on the beach.]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_03/assets/audio_02.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font>lying on the beach<br>]]></text>
+				<text><![CDATA[I was lying on the beach<br>]]></text>
+				<text><![CDATA[This time last week, I was lying on the beach.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[The telephone rang when we were leaving the flat.]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_03/assets/audio_03.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /></font>leaving the flat<br>]]></text>
+				<text><![CDATA[when we were leaving the flat<br>]]></text>
+				<text><![CDATA[The telephone rang when we were leaving the flat.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[When I walked in, the cat was playing with a mouse.]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_03/assets/audio_04.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /></font>playing with a mouse<br>]]></text>
+				<text><![CDATA[the cat was playing with a mouse<br>]]></text>
+				<text><![CDATA[When I walked in, the cat was playing with a mouse.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[We heard the news while we were waiting for a plane.]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_03/assets/audio_05.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /></font>waiting for a plane<br>]]></text>
+				<text><![CDATA[while we were waiting for a plane<br>]]></text>
+				<text><![CDATA[We heard the news while we were waiting for a plane.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[Max met his wife while he was working in Spain.]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_03/assets/audio_06.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /></font>working in Spain<br>]]></text>
+				<text><![CDATA[while he was working in Spain<br>]]></text>
+				<text><![CDATA[Max met his wife while he was working in Spain.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[At 6 o'clock they were driving home.]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_03/assets/audio_07.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /></font>driving home<br>]]></text>
+				<text><![CDATA[they were driving home<br>]]></text>
+				<text><![CDATA[At six o'clock they were driving home.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[When I last heard from Peter, he was living in Prague.]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_03/assets/audio_08.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /></font>living in Prague<br>]]></text>
+				<text><![CDATA[he was living in Prague<br>]]></text>
+				<text><![CDATA[When I last heard from Peter, he was living in Prague.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[When Barry came in, I was talking to my sister.]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_03/assets/audio_09.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="41"><br /></font><font size="31"><br /><br /><br /><br /><br/></font>talking to my sister<br>]]></text>
+				<text><![CDATA[I was talking to my sister<br>]]></text>
+				<text><![CDATA[When Barry came in, I was talking to my sister.]]></text>
+			</chain>
+		</question>
+	</questions>
+</exercise>

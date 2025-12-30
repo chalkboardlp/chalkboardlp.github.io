@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[She didn't feel very well during the meal.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_03/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The opera lasted for more than three and a half hours.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_03/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[A few of us fell asleep during the president's speech.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_03/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The boss phoned me while I was watching football.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_03/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Some of my friends got lost during the snowstorm.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_03/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Someone got into the house while they were asleep.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_03/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[All of those terrorists were sent to prison for life.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_03/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We waited for ages and ages but the bus never came.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_03/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[He met his first wife in Italy during the war.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_03/assets/short/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[My birthday is on Tuesday.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_02/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Our anniversary is in March.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_02/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[School starts in the first week of September.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_02/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I'm sleepy in the evenings after work.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_02/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[On Tuesdays I have my yoga class.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_02/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[They like their tea at five in the afternoon.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_02/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[On Easter Monday, there is a parade through town.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_02/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I live on a small island.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_02/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[In the seventeenth century, there were a lot of wars.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_02/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I like to go away in August.]]></sentence>
+			<audio>templates/content/section_21/topic_01/ex_02/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

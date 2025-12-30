@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[We need a secretary with experience.]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_03/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[He buys a paper to read on the train every morning.]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_03/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Time goes fast when you're having fun.]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_03/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[She often cooks chicken for Sunday dinner.]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_03/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[A light was on in the house.]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_03/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Can I have a glass of iced water, please?]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_03/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I had a strange experience yesterday.]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_03/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Scientists now say that chocolate is good for you.]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_03/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Do you have an iron I can borrow?]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_03/assets/short/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[My friend says I drink too much coffee.]]></sentence>
+			<audio>templates/content/section_14/topic_01/ex_03/assets/short/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

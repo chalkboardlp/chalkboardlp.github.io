@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Listen and choose the correct answers.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[There was ... water for the guests.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_02/assets/audio_01.mp3</audio>
+			<options>
+				<option>little</option>
+				<option answer="correct">a little</option>
+			</options>				
+		</question>
+		<question>
+			<sentence><![CDATA[There were ... papers on his desk.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_02/assets/audio_02.mp3</audio>
+			<options>
+				<option answer="correct">few</option>
+				<option>a few</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... people remember him.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_02/assets/audio_03.mp3</audio>
+			<options>
+				<option>Few</option>
+				<option answer="correct">A few</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[Our neighbours speak ... English.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_02/assets/audio_04.mp3</audio>
+			<options>
+				<option answer="correct">little</option>
+				<option>a little</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... tourists visit this part of town.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_02/assets/audio_05.mp3</audio>
+			<options>				
+				<option answer="correct">Few</option>
+				<option>A few</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... people live in the village itself.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_02/assets/audio_06.mp3</audio>
+			<options>
+				<option>Few</option>
+				<option answer="correct">A few</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... snow falls on the mountain in winter.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_02/assets/audio_07.mp3</audio>
+			<options>
+				<option answer="correct">Little</option>
+				<option>A little</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[The report says the students need ... help.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_02/assets/audio_08.mp3</audio>
+			<options>
+				<option>little</option>
+				<option answer="correct">a little</option>						
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[There are ... people who speak Turkish here.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_02/assets/audio_09.mp3</audio>
+			<options>
+				<option>few</option>
+				<option answer="correct">a few</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[I have ... time to read the newspaper.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_02/assets/audio_10.mp3</audio>
+			<options>
+				<option answer="correct">little</option>
+				<option>a little</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

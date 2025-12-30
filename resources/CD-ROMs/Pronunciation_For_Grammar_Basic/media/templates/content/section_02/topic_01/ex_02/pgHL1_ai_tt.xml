@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Which word in the blue sentence has the strongest stress? Choose a word, click on it and then listen. If you want to change your answer, click again on your chosen word, then on a different one.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA['Do they speak Arabic?' 'No. [They] [speak] [*French].']]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_02/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA['Do you live in Oxford?' 'No. [We] [*work] [in] [Oxford].']]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_02/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA['Does Sara play the flute?' 'No. [*Rose] [plays] [the] [flute].']]></sentence> 
+			<audio>templates/content/section_02/topic_01/ex_02/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA['Does your aunt write poetry?' 'No. [She] [*studies] [poetry].']]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_02/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA['Do Bob and Ann dance well?' 'No. [They] [dance] [*badly].']]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_02/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA['Do you like classical music?' 'No. [I] [like] [*pop] [music].']]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_02/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA['Does Ben like fish?' 'No. [He] [*hates] [fish].']]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_02/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA['Does Joe play golf?' 'No. [He] [plays] [*tennis].']]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_02/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA['Do we need more eggs?' 'No. [We] [need] [more] [*milk].']]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_02/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA['Does your aunt teach art?' 'No. [My] [*uncle] [teaches] [art].']]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_02/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

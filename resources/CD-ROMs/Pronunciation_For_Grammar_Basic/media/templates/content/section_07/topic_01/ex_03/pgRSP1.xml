@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[The letter isn't signed by the boss.]]></sentence>
+			<audio>templates/content/section_07/topic_01/ex_03/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Tom and Phil were both invited to the party.]]></sentence>
+			<audio>templates/content/section_07/topic_01/ex_03/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Sue is helped a lot by her friends.]]></sentence>
+			<audio>templates/content/section_07/topic_01/ex_03/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The tickets weren't sent before the concert.]]></sentence>
+			<audio>templates/content/section_07/topic_01/ex_03/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Joe wasn't liked by the other children.]]></sentence>
+			<audio>templates/content/section_07/topic_01/ex_03/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[How were the vegetables cooked?]]></sentence>
+			<audio>templates/content/section_07/topic_01/ex_03/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Every window is cleaned once a day.]]></sentence>
+			<audio>templates/content/section_07/topic_01/ex_03/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The parents aren't told everything.]]></sentence>
+			<audio>templates/content/section_07/topic_01/ex_03/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Mario is asked to speak at lots of conferences.]]></sentence>
+			<audio>templates/content/section_07/topic_01/ex_03/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The builders are paid in cash.]]></sentence>
+			<audio>templates/content/section_07/topic_01/ex_03/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

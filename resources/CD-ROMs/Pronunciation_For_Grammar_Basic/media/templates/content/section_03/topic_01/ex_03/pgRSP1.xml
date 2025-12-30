@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[They're travelling tonight by coach.]]></sentence>
+			<audio>templates/content/section_03/topic_01/ex_03/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[She's bringing the baby to the cinema.]]></sentence>
+			<audio>templates/content/section_03/topic_01/ex_03/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We're stopping at the museum.]]></sentence>
+			<audio>templates/content/section_03/topic_01/ex_03/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[It's starting on Friday morning.]]></sentence>
+			<audio>templates/content/section_03/topic_01/ex_03/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[He's having a party for his birthday.]]></sentence>
+			<audio>templates/content/section_03/topic_01/ex_03/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We're eating at eight tonight.]]></sentence>
+			<audio>templates/content/section_03/topic_01/ex_03/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[They're taking a taxi to the restaurant.]]></sentence>
+			<audio>templates/content/section_03/topic_01/ex_03/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[She's moving to Spain in July.]]></sentence>
+			<audio>templates/content/section_03/topic_01/ex_03/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I'm meeting Sally at nine-thirty.]]></sentence>
+			<audio>templates/content/section_03/topic_01/ex_03/assets/short/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[They're getting married in the summer.]]></sentence>
+			<audio>templates/content/section_03/topic_01/ex_03/assets/short/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

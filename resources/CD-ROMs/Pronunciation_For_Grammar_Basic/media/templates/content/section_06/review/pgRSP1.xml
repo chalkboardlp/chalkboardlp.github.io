@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Can I take a photograph of you?]]></sentence>
+			<audio>templates/content/section_06/review/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I'd like a seat by the window.]]></sentence>
+			<audio>templates/content/section_06/review/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We must see Kim and Steve again soon.]]></sentence>
+			<audio>templates/content/section_06/review/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I have to buy my mum a birthday card.]]></sentence>
+			<audio>templates/content/section_06/review/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Children should listen carefully to their parents.]]></sentence>
+			<audio>templates/content/section_06/review/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Andrew has to start school in September.]]></sentence>
+			<audio>templates/content/section_06/review/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I could never understand what he was saying.]]></sentence>
+			<audio>templates/content/section_06/review/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Do you have to get a form from the bank?]]></sentence>
+			<audio>templates/content/section_06/review/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[You can use the canteen all day.]]></sentence>
+			<audio>templates/content/section_06/review/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I used to be able to speak French fluently.]]></sentence>
+			<audio>templates/content/section_06/review/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[He asked his teacher what the word meant.]]></sentence>
+			<audio>templates/content/section_20/topic_02/ex_01/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I asked them where on earth they lived.]]></sentence>
+			<audio>templates/content/section_20/topic_02/ex_01/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[She asked him if he had any money on him.]]></sentence>
+			<audio>templates/content/section_20/topic_02/ex_01/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[They asked us why we were leaving so early.]]></sentence>
+			<audio>templates/content/section_20/topic_02/ex_01/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We asked them when we could pay and go.]]></sentence>
+			<audio>templates/content/section_20/topic_02/ex_01/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[She asked him whether he'd take her to Hawaii.]]></sentence>
+			<audio>templates/content/section_20/topic_02/ex_01/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[He asked her if she'd like to go to the cinema.]]></sentence>
+			<audio>templates/content/section_20/topic_02/ex_01/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I asked her how much the sweater in the window cost.]]></sentence>
+			<audio>templates/content/section_20/topic_02/ex_01/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We asked him how many dogs he had.]]></sentence>
+			<audio>templates/content/section_20/topic_02/ex_01/assets/short/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[He asked me if he should switch the computer off.]]></sentence>
+			<audio>templates/content/section_20/topic_02/ex_01/assets/short/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

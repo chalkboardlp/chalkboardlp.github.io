@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[The children mustn't drink that.]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_01/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[You must take that book home.]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_01/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Tracey must telephone Michelle.]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_01/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We mustn't drive fast.]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_01/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Phil mustn't take a photo of that.]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_01/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[You mustn't walk on the grass.]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_01/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We must turn on all the lights.]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_01/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Stan must talk to the other students.]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_01/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[You mustn't read the notes before you start.]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_01/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Vicky must tell her mother.]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_01/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

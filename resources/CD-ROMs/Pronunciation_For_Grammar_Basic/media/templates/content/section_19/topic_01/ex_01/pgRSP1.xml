@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Is that the man who sold you the earrings?]]></sentence>
+			<audio>templates/content/section_19/topic_01/ex_01/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Are they the children that play with your little brother?]]></sentence>
+			<audio>templates/content/section_19/topic_01/ex_01/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[These are some of the words I don't understand.]]></sentence>
+			<audio>templates/content/section_19/topic_01/ex_01/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The car that's parked outside belongs to my father.]]></sentence>
+			<audio>templates/content/section_19/topic_01/ex_01/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Those are a few of the people who work with my sister.]]></sentence>
+			<audio>templates/content/section_19/topic_01/ex_01/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Is this the student you taught last year?]]></sentence>
+			<audio>templates/content/section_19/topic_01/ex_01/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Is she the old woman who lives in the house next door?]]></sentence>
+			<audio>templates/content/section_19/topic_01/ex_01/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[They're three of the men who robbed the bank last week.]]></sentence>
+			<audio>templates/content/section_19/topic_01/ex_01/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I've found the key that opens the door to the garage.]]></sentence>
+			<audio>templates/content/section_19/topic_01/ex_01/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[There's the shop that sells those very nice cakes.]]></sentence>
+			<audio>templates/content/section_19/topic_01/ex_01/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

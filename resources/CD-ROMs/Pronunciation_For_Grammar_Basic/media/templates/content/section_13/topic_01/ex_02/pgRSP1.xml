@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[This isn't for my girlfriend, it's for me.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_02/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We didn't actually meet her, we met her husband.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_02/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I think you should help him with the housework.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_02/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[They aren't laughing at each other, they're laughing at us.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_02/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I'm sure Mary doesn't like me.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_02/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Promise me you won't tell them anything.]]></sentence>
+			<audio>templates/content/section_13/topic_01/ex_02/assets/short/audio_06.mp3</audio>
+		</question>
+	</questions>
+</exercise>

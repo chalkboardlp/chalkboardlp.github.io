@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Which word in the blue sentence has the strongest stress? Choose a word, click on it and then listen. If you want to change your answer, click again on your chosen word, then on a different one.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[[We] [don't] [like] [Ed's] [*new] [shoes]. We like his old shoes.]]></sentence>
+			<audio>templates/content/section_08/topic_02/ex_02/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[*We] [don't] [like] [Ed's] [new] [shoes]. Alice likes them.]]></sentence>
+			<audio>templates/content/section_08/topic_02/ex_02/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[He] [doesn't] [*work] [in] [London]. He lives in London.]]></sentence> 
+			<audio>templates/content/section_08/topic_02/ex_02/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[*He] [doesn't] [work] [in] [London]. She works in London.]]></sentence>
+			<audio>templates/content/section_08/topic_02/ex_02/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[They] [don't] [*enjoy] [playing] [cricket]. They love playing cricket.]]></sentence>
+			<audio>templates/content/section_08/topic_02/ex_02/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[They] [don't] [enjoy] [*playing] [cricket]. They enjoy watching cricket.]]></sentence>
+			<audio>templates/content/section_08/topic_02/ex_02/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[I] [haven't] [seen] [*Bill] [today]. I've seen Barry.]]></sentence>
+			<audio>templates/content/section_08/topic_02/ex_02/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[I] [haven't] [seen] [Bill] [*today]. I saw him yesterday.]]></sentence>
+			<audio>templates/content/section_08/topic_02/ex_02/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[She] [doesn't] [play] [the] [*guitar]. She plays the piano.]]></sentence>
+			<audio>templates/content/section_08/topic_02/ex_02/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[[*She] [doesn't] [play] [the] [guitar]. James plays the guitar.]]></sentence>
+			<audio>templates/content/section_08/topic_02/ex_02/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

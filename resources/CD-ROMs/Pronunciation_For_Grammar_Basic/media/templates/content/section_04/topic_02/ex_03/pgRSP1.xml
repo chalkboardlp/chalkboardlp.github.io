@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[When we arrived, she was making tea.]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_03/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[This time last week, I was lying on the beach.]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_03/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The telephone rang when we were leaving the flat.]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_03/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[When I walked in, the cat was playing with a mouse.]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_03/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We heard the news while we were waiting for a plane.]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_03/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Max met his wife while he was working in Spain.]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_03/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[At six o'clock they were driving home.]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_03/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[When I last heard from Peter, he was living in Prague.]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_03/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[When Barry came in, I was talking to my sister.]]></sentence>
+			<audio>templates/content/section_04/topic_02/ex_03/assets/short/audio_09.mp3</audio>
+		</question>
+	</questions>
+</exercise>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Why do they have to walk home?]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_02/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[When does Simon have to leave?]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_02/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Who did the parents have to pay for that?]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_02/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Does Stuart have to cook supper?]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_02/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[When do the children have to go to bed?]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_02/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Did Sandra have to post the letter this morning?]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_02/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Why did the students have to wear uniforms?]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_02/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Which visa does Sami have to get?]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_02/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[How long does Celia have to work for on Saturday?]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_02/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[When did Marcus have to get a new passport?]]></sentence>
+			<audio>templates/content/section_06/topic_02/ex_02/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

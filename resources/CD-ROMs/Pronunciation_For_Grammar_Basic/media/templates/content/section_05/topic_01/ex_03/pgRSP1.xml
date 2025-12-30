@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Has Jemima gone to the dentist's already?]]></sentence>
+			<audio>templates/content/section_05/topic_01/ex_03/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[James has been jogging for ages!]]></sentence>
+			<audio>templates/content/section_05/topic_01/ex_03/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Mark hasn't been to the hairdresser's.]]></sentence>
+			<audio>templates/content/section_05/topic_01/ex_03/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Have your friends been to France?]]></sentence>
+			<audio>templates/content/section_05/topic_01/ex_03/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Michael hasn't gone to Rio.]]></sentence>
+			<audio>templates/content/section_05/topic_01/ex_03/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Claire's gone to the park with the children.]]></sentence>
+			<audio>templates/content/section_05/topic_01/ex_03/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Has Stephen been to the doctor's?]]></sentence>
+			<audio>templates/content/section_05/topic_01/ex_03/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[All the students have been swimming.]]></sentence>
+			<audio>templates/content/section_05/topic_01/ex_03/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Shaun hasn't gone shopping.]]></sentence>
+			<audio>templates/content/section_05/topic_01/ex_03/assets/short/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Liz has gone to the bank with the money.]]></sentence>
+			<audio>templates/content/section_05/topic_01/ex_03/assets/short/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

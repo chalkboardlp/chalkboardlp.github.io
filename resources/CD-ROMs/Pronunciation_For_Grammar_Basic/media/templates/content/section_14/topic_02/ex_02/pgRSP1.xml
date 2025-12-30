@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[I bought a blue shirt and two green ones.]]></sentence>
+			<audio>templates/content/section_14/topic_02/ex_02/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I prefer the glass table to the wooden one.]]></sentence>
+			<audio>templates/content/section_14/topic_02/ex_02/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I don't need a computer because I already have one.]]></sentence>
+			<audio>templates/content/section_14/topic_02/ex_02/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[She wants a lemon cake and a chocolate one.]]></sentence>
+			<audio>templates/content/section_14/topic_02/ex_02/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[They want a small dog, not a big one.]]></sentence>
+			<audio>templates/content/section_14/topic_02/ex_02/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[This train is the last one tonight.]]></sentence>
+			<audio>templates/content/section_14/topic_02/ex_02/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[My shoes are the brown ones by the door.]]></sentence>
+			<audio>templates/content/section_14/topic_02/ex_02/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I prefer short films to long ones.]]></sentence>
+			<audio>templates/content/section_14/topic_02/ex_02/assets/short/audio_08.mp3</audio>
+		</question>
+	</questions>
+</exercise>

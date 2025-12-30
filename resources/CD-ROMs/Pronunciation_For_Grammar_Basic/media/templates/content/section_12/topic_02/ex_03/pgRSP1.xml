@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[James is clever enough to get the job.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_03/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We weren't tired enough to fall asleep.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_03/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Chris isn't tall enough to play basketball.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_03/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The coffee was sweet enough for him to drink.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_03/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[These socks aren't dark enough to go with my suit.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_03/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Fernando's Spanish is slow enough for me to understand.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_03/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Those plums aren't soft enough to eat.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_03/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[The snow wasn't deep enough to ski on.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_03/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[That dress is cheap enough for her to buy.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_03/assets/short/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Their swimsuits were dry enough to wear.]]></sentence>
+			<audio>templates/content/section_12/topic_02/ex_03/assets/short/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

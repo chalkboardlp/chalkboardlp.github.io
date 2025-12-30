@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[No. They speak FRENCH.]]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_02/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[No. We WORK in Oxford.]]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_02/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[No. ROSE plays the flute.]]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_02/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[No. She STUDIES poetry.]]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_02/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[No. They dance BADLY.]]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_02/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[No. I like POP music.]]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_02/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[No. He HATES fish.]]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_02/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[No. He plays TENNIS.]]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_02/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[No. We need more MILK.]]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_02/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[No. My UNCLE teaches art.]]></sentence>
+			<audio>templates/content/section_02/topic_01/ex_02/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

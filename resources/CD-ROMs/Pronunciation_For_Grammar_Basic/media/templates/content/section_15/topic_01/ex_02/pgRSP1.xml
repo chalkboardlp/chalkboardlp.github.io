@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[She's swimming wonderfully at the moment.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_02/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We didn't sleep very comfortably last night.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_02/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[She's written this letter in perfect English.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_02/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[You've cooked all the vegetables beautifully.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_02/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[He's a really wonderful concert pianist.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_02/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[They've always been very sincere.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_02/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[It's a very beautiful language to listen to.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_02/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[That new window cleaner's done the job perfectly.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_02/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[This isn't a very comfortable chair to sit on.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_02/assets/short/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I'm telling you sincerely, that was great.]]></sentence>
+			<audio>templates/content/section_15/topic_01/ex_02/assets/short/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[No. Ruby's got SHORT hair.]]></sentence>
+			<audio>templates/content/section_01/topic_02/ex_03/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[No. MAY's got blue eyes.]]></sentence>
+			<audio>templates/content/section_01/topic_02/ex_03/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[No. Eric's got a LITTLE dog.]]></sentence>
+			<audio>templates/content/section_01/topic_02/ex_03/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[No. Mary's got two SISTERS.]]></sentence>
+			<audio>templates/content/section_01/topic_02/ex_03/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[No. Ian's got a BORING job.]]></sentence>
+			<audio>templates/content/section_01/topic_02/ex_03/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[No. Jack's got THREE suits.]]></sentence>
+			<audio>templates/content/section_01/topic_02/ex_03/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[No. TOBY's got a red phone.]]></sentence>
+			<audio>templates/content/section_01/topic_02/ex_03/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[No. Paul's got a new BICYCLE.]]></sentence>
+			<audio>templates/content/section_01/topic_02/ex_03/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[No. JANE's got a bad cold.]]></sentence>
+			<audio>templates/content/section_01/topic_02/ex_03/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[No. Pam's got a toy ELEPHANT.]]></sentence>
+			<audio>templates/content/section_01/topic_02/ex_03/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

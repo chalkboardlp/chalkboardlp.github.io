@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Listen and choose the correct answers.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[... Bill have your address?]]></sentence>
+			<audio>templates/content/section_01/topic_02/ex_02/assets/audio_01.mp3</audio>
+			<options>
+				<option>Does</option>
+				<option answer="correct">Did</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... Sandra have a headache?]]></sentence>
+			<audio>templates/content/section_01/topic_02/ex_02/assets/audio_02.mp3</audio>
+			<options>
+				<option answer="correct">Does</option>
+				<option>Did</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... Martin have any free time?]]></sentence>
+			<audio>templates/content/section_01/topic_02/ex_02/assets/audio_03.mp3</audio>
+			<options>
+				<option>Does</option>
+				<option answer="correct">Did</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... the train stop at Derby?]]></sentence>
+			<audio>templates/content/section_01/topic_02/ex_02/assets/audio_04.mp3</audio>
+			<options>
+				<option answer="correct">Does</option>
+				<option>Did</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... Celia have a shower before breakfast?]]></sentence>
+			<audio>templates/content/section_01/topic_02/ex_02/assets/audio_05.mp3</audio>
+			<options>
+				<option>Does</option>
+				<option answer="correct">Did</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... he have lunch at the office?]]></sentence>
+			<audio>templates/content/section_01/topic_02/ex_02/assets/audio_06.mp3</audio>
+			<options>
+				<option>Does</option>
+				<option answer="correct">Did</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... the library close at 5.00?]]></sentence>
+			<audio>templates/content/section_01/topic_02/ex_02/assets/audio_07.mp3</audio>
+			<options>
+				<option answer="correct">Does</option>
+				<option>Did</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... she have dinner with her family?]]></sentence>
+			<audio>templates/content/section_01/topic_02/ex_02/assets/audio_08.mp3</audio>
+			<options>
+				<option>Does</option>
+				<option answer="correct">Did</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... Susan have a holiday this month?]]></sentence>
+			<audio>templates/content/section_01/topic_02/ex_02/assets/audio_09.mp3</audio>
+			<options>
+				<option answer="correct">Does</option>
+				<option>Did</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... Mark have any money on him?]]></sentence>
+			<audio>templates/content/section_01/topic_02/ex_02/assets/audio_10.mp3</audio>
+			<options>
+				<option answer="correct">Does</option>
+				<option>Did</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

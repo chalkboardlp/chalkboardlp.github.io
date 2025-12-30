@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Listen and repeat. When you repeat, stress the words and syllables in CAPITALS.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[My uncle doesn't read a lot, and nor does my aunt.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_02/assets/audio_01.mp3</audio>
+			<chain>
+				<text><![CDATA[my UNcle DOESn't READ a LOT, and NOR does my AUNT.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[My best friend hasn't phoned, and nor has my girlfriend.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_02/assets/audio_02.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font>my BEST FRIEND HASn't PHONED, and NOR has my GIRLfriend.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[My father isn't good at sport, and my brothers aren't either.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_02/assets/audio_03.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="34"><br /></font><font size="31"><br /></font>my FAther ISn't GOOD at SPORT, and my BROthers AREN'T EIther.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[The computer isn't working, and nor are the lights.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_02/assets/audio_04.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="46"><br /></font><font size="31"><br /><br /></font>the comPUter ISN't WORking, and NOR are the LIGHTS.]]></text>
+			</chain>				
+		</question>
+		<question>
+			<sentence><![CDATA[My cousin can't swim under water, and neither can I.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_02/assets/audio_05.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="46"><br /></font><font size="31"><br /><br /><br /></font>my COUsin CAN'T SWIM under WAter, and NEIther can I.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[We don't have lots of parties, and nor do our neighbours.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_02/assets/audio_10.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="47"><br /></font><font size="31"><br /><br /><br /><br /></font>we DON'T HAVE LOTS of PARTies, and NOR do our NEIGHbours.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[I won't have anything to eat, and neither will my friend.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_02/assets/audio_07.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="15"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /></font>i WON'T HAVE ANything to EAT, and NEIther will my FRIEND.]]></text>
+			</chain>
+		</question>
+		<question>
+			<sentence><![CDATA[We couldn't understand it, and our teacher couldn't either.]]></sentence>
+			<audio>templates/content/section_22/topic_02/ex_02/assets/audio_09.mp3</audio>
+			<chain>
+				<text><![CDATA[<font size="15"><br /></font><font size="31"><br /><br /><br /><br /><br /><br /><br /></font>we COULDn't underSTAND it, and our TEACHer COULDn't EIther.]]></text>
+			</chain>
+		</question>
+	</questions>
+</exercise>

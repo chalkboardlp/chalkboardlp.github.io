@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[If he phoned last night, he won't phone later today.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_01/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[She must speak some French if she's been living in Paris.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_01/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[If you know the answer, put your hand up.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_01/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Please ask me for help if you have any problems.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_01/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[You can't park here if you don't live in this street.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_01/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[If he was telling the truth, why didn't you believe him?]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_01/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[If I'm a bit late tomorrow, please don't worry.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_01/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[They can watch television if they've done their homework.]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_01/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Why don't you have some water if you're feeling thirsty?]]></sentence>
+			<audio>templates/content/section_18/topic_01/ex_01/assets/short/audio_09.mp3</audio>
+		</question>
+	</questions>
+</exercise>

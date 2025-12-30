@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<b>Listen and choose the correct answers.</b>]]></rubric>
+	<questions>
+		<question>
+			<sentence><![CDATA[... David use the phone?]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_03/assets/audio_01.mp3</audio>
+			<options>
+				<option>Can</option>
+				<option answer="correct">Could</option>
+			</options>				
+		</question>
+		<question>
+			<sentence><![CDATA[... Delia borrow your pen?]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_03/assets/audio_02.mp3</audio>
+			<options>
+				<option answer="correct">Can</option>
+				<option>Could</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... the children play in the garden?]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_03/assets/audio_03.mp3</audio>
+			<options>
+				<option answer="correct">Can</option>
+				<option>Could</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... Dora have a glass of water?]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_03/assets/audio_04.mp3</audio>
+			<options>
+				<option>Can</option>
+				<option answer="correct">Could</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... Daniel take some photos?]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_03/assets/audio_05.mp3</audio>
+			<options>				
+				<option answer="correct">Can</option>
+				<option>Could</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... the students leave early today?]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_03/assets/audio_06.mp3</audio>
+			<options>
+				<option answer="correct">Can</option>
+				<option>Could</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... Debbie drive me to the station?]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_03/assets/audio_07.mp3</audio>
+			<options>
+				<option>Can</option>
+				<option answer="correct">Could</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... Daisy use your calculator?]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_03/assets/audio_08.mp3</audio>
+			<options>
+				<option>Can</option>
+				<option answer="correct">Could</option>						
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... Dad lend me his newspaper?]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_03/assets/audio_09.mp3</audio>
+			<options>
+				<option answer="correct">Can</option>
+				<option>Could</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[... they have some more coffee?]]></sentence>
+			<audio>templates/content/section_06/topic_01/ex_03/assets/audio_10.mp3</audio>
+			<options>
+				<option>Can</option>
+				<option answer="correct">Could</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

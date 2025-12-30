@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Alex is having the roof of his house repaired.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_02/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We had our car serviced on Friday.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_02/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Has he had his eyes tested?]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_02/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[She's going to have her hair cut this afternoon.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_02/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I'll have both of those coats cleaned later today.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_02/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We have all of our gardening done for us.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_02/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Kate has her stories typed by her secretary.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_02/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Bill has his oil checked at the garage.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_02/assets/short/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Famous people have their photos taken all the time.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_02/assets/short/audio_10.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I think you should have your trousers cleaned.]]></sentence>
+			<audio>templates/content/section_10/topic_02/ex_02/assets/short/audio_09.mp3</audio>
+		</question>
+	</questions>
+</exercise>

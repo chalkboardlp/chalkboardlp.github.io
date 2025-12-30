@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[Do they come here at the weekend?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_01/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Who were you talking to?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_01/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[What time did the train leave?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_01/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[How is Aunt Ruth?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_01/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Does Stacey speak to you in Welsh?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_01/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[What sort of music did they play?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_01/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Who is he looking at?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_01/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[What does Zara think about it?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_01/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[How were your parents?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_01/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Why did Zach do that?]]></sentence>
+			<audio>templates/content/section_08/topic_01/ex_01/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

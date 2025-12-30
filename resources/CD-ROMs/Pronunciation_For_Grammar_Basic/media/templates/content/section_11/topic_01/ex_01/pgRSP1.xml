@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[His younger brother was a FRENCH teacher.]]></sentence>
+			<audio>templates/content/section_11/topic_01/ex_01/assets/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[His younger BROTHER was a French teacher.]]></sentence>
+			<audio>templates/content/section_11/topic_01/ex_01/assets/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Anna's a BUS driver.]]></sentence>
+			<audio>templates/content/section_11/topic_01/ex_01/assets/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[ANNA's a bus driver.]]></sentence>
+			<audio>templates/content/section_11/topic_01/ex_01/assets/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[My father's a terrible SINGER.]]></sentence>
+			<audio>templates/content/section_11/topic_01/ex_01/assets/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[My FATHER'S a terrible singer.]]></sentence>
+			<audio>templates/content/section_11/topic_01/ex_01/assets/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I live in a small TOWN.]]></sentence>
+			<audio>templates/content/section_11/topic_01/ex_01/assets/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[I LIVE in a small town.]]></sentence>
+			<audio>templates/content/section_11/topic_01/ex_01/assets/audio_08.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[It's a GOOD book.]]></sentence>
+			<audio>templates/content/section_11/topic_01/ex_01/assets/audio_09.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[It's a good BOOK.]]></sentence>
+			<audio>templates/content/section_11/topic_01/ex_01/assets/audio_10.mp3</audio>
+		</question>
+	</questions>
+</exercise>

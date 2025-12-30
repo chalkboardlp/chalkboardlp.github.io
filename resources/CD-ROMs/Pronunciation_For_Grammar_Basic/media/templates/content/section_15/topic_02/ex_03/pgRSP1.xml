@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubrics>
+		<standard><![CDATA[<b>Listen to the sentences, and repeat what you hear.</b>]]></standard>
+		<record><![CDATA[<b>Listen to the sentences, and repeat what you hear. Click on the buttons to listen, record, and playback.</b>]]></record>
+	</rubrics>
+	<questions>
+		<question>
+			<sentence><![CDATA[He's a silly boy and often behaves quite stupidly.]]></sentence>
+			<audio>templates/content/section_15/topic_02/ex_03/assets/short/audio_01.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[She's a good language learner and speaks Italian well.]]></sentence>
+			<audio>templates/content/section_15/topic_02/ex_03/assets/short/audio_02.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[Her speaking voice is lovely and she also sings beautifully.]]></sentence>
+			<audio>templates/content/section_15/topic_02/ex_03/assets/short/audio_03.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[He gave her a friendly smile and thanked her warmly.]]></sentence>
+			<audio>templates/content/section_15/topic_02/ex_03/assets/short/audio_04.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[They work very hard and hardly relax at all.]]></sentence>
+			<audio>templates/content/section_15/topic_02/ex_03/assets/short/audio_05.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[She's been arriving late and going home early recently.]]></sentence>
+			<audio>templates/content/section_15/topic_02/ex_03/assets/short/audio_06.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[We took a fast train and got there very quickly.]]></sentence>
+			<audio>templates/content/section_15/topic_02/ex_03/assets/short/audio_07.mp3</audio>
+		</question>
+		<question>
+			<sentence><![CDATA[It's a weekly paper but I only buy it once a month.]]></sentence>
+			<audio>templates/content/section_15/topic_02/ex_03/assets/short/audio_08.mp3</audio>
+		</question>
+	</questions>
+</exercise>
