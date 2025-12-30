@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Chalkboard Library</title>
+  <link rel="icon" href="favicon.png" type="image/x-icon" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+	@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Kode+Mono:wght@400..700&display=swap');
+	</style>
+  
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #404040;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+
+    header {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		gap: 15px;
+		height: 85px;
+		background-color: #dc0914;
+		<!-- background: url(https://i.pinimg.com/736x/dc/c6/88/dcc688c0576fde84e6738553fbc98ff0.jpg); -->
+		border-bottom: 5px solid #3D1F01;
+		color: white;
+		padding: 10px;
+	}
+
+	header img {
+		height: 60px;
+		width: auto;
+	}
+
+	header .title {
+		font-size: 22px;
+		font-family: 'Exo 2', sans-serif;
+		font-weight: 700;
+		color: #FFFFFF;
+	}
+
+    .contenedor {
+      display: flex;
+      flex: 1;
+      overflow: hidden;
+    }
+
+    .shelf {
+      width: 220px;
+      background: url(https://i.pinimg.com/736x/f7/0c/fe/f70cfeb3d3f90019a40ed36f719932ea.jpg);
+      border-right: 5px solid #3D1F01;
+      padding: 20px 10px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 20px;
+      transition: transform 0.3s ease;
+    }
+
+    .book-container {
+      text-align: center;
+    }
+
+    .book {
+      width: 100px;
+      height: 130px;
+      background-color: #383838;
+      box-shadow: 2px 2px 6px rgba(0,0,0,0.3);
+      cursor: pointer;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .book:hover {
+      transform: rotateY(15deg) scale(1.05);
+      box-shadow: 4px 4px 12px rgba(0,0,0,0.4);
+    }
+
+    .book-title {
+      margin-top: 8px;
+	  color: #FFFFFF; 
+	  font-size: 12px; 
+	  font-family: 'Exo 2', sans-serif; 
+	  font-weight: 700;
+    }
+
+    .viewer {
+      flex: 1;
+      position: relative;
+      background-color: #242424;
+    }
+
+    .viewer iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+
+    .viewer:fullscreen,
+    .viewer:-webkit-full-screen {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+
+    .viewer:fullscreen iframe,
+    .viewer:-webkit-full-screen iframe {
+      height: 100%;
+    }
+
+    .fullscreen-btn {
+      position: absolute;
+      top: 10px;
+      right: 20px;
+      background-color: #f0bf00;
+      border: none;
+      padding: 10px 15px;
+      cursor: pointer;
+      color: #FFFFFF; 
+	  font-size: 12px; 
+	  font-family: 'Exo 2', sans-serif; 
+	  font-weight: 700;
+      border-radius: 5px;
+      z-index: 10;
+    }
+
+    .fullscreen-btn:hover {
+      background-color: #7a4d3a;
+    }
+
+    /* Responsive: colapsar estantería */
+    .toggle-shelf-btn {
+      display: none;
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      z-index: 11;
+      background-color: #3D1F01;
+      color: white;
+      border: none;
+      padding: 10px 15px;
+      font-size: 1em;
+	  font-family: 'Exo 2', sans-serif; 
+      border-radius: 5px;
+    }
+
+    @media (max-width: 768px) {
+      .shelf {
+        position: absolute;
+        z-index: 10;
+        height: 100%;
+        transform: translateX(-100%);
+        background-color: #383838;
+      }
+
+      .shelf.visible {
+        transform: translateX(0);
+      }
+
+      .toggle-shelf-btn {
+        display: block;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <img src="DK_logo.jpg" alt="Logo de la biblioteca" style="border-radius: 10px;">
+  <div class="title">Chalkboard Library – DK Big Ideas Simply Explained</div>
+</header>
+<!-- 📚 Biblioteca Interactiva -->
+
+<div class="contenedor">
+  <!-- Botón para abrir estantería en móvil -->
+  <button class="toggle-shelf-btn" onclick="toggleShelf()">📖 Menú</button>
+
+  <!-- Estantería -->
+  <div class="shelf" id="shelf">
+	
+	<div class="book-container">
+      <img src="Covers/DK-ASTRONOMY.webp"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1zazQEiUOzJsVJ-XUrysRv-RSa5qXd8mo/preview')">
+      <div class="book-title">The Astronomy Book</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/DK-BUSINESS.webp"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/18qmF0jU30CfAKa1lYO1ANC2nwMBK49yc/preview')">
+      <div class="book-title">The Business Book</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/DK-MUSIC.jpg"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1OiVqM0OM7cFmS3Qtbiejh44rNRXaEHnV/preview')">
+      <div class="book-title">The Classical Music Book</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/DK-CRIME.webp"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1z8HjR9b6zAcWG3FN0R_FLYBd7jnQ3VDt/preview')">
+      <div class="book-title">The Crime Book</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/DK-ECOLOGY.jpg"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/19ftAmlwEd5RHGg0aBzK6_eakNDcs7At3/preview')">
+      <div class="book-title">The Ecology Book</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/DK-ECONOMICS.webp"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1KBA_7FxEqK1dSUkamj-wYuqWxQgefTHK/preview')">
+      <div class="book-title">The Economics Book</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/DK-FEMINISM.png"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1fvmH4eJe9-Q67gV1zJ58QL1wwl1pQpZ2/preview')">
+      <div class="book-title">The Feminism Book</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/DK-HISTORY.webp"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1T-qNCWwkZ-vHZi_4KDWCH-eRziScamYw/preview')">
+      <div class="book-title">The History Book</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/DK-LAW.webp"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1B2rQe_oQZ1khJJ7ZrohTmeQU5cX1PUdQ/preview')">
+      <div class="book-title">The Law Book</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/DK-LITERATURE.webp"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1DDUCMX4dgJrypOST6FLA3guBQjU0Ltj4/preview')">
+      <div class="book-title">The Literature Book</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/DK-MATH.webp"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1e3VKpvaGrKCtf4qubTB5K2MB0-8Lc1cy/preview')">
+      <div class="book-title">The Math Book</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/DK-MOVIE.webp"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1OIbpmVbAlAW6YoIi_1kXxuAz2nse8STA/preview')">
+      <div class="book-title">The Movie Book</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/DK-MYTHOLOGY.webp"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1CVA3bSBiVvatmEUONxixy9u09vWRECfK/preview')">
+      <div class="book-title">The Mythology Book</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/DK-PHILOSOPHY.jpg"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1sRCzdJKobbjrsAlTzXArww6xLHENfbyA/preview')">
+      <div class="book-title"">The Philosophy Book</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/DK-PHYSICS.jpg"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/11IF8AFYRvJWhKf9X0HI35ghkCFCE9pWS/preview')">
+      <div class="book-title">The Physics Book</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/DK-POLITICS.jpg"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1ADUuBf-6ZxCuGjInd6JwqMVu_aCo6WtX/preview')">
+      <div class="book-title">The Politics Book</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/DK-PSYCHOLOGY.jpg"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1zcPu-VNce5IRB8ruk4BgpJf4HfrYvp_6/preview')">
+      <div class="book-title">The Psychology Book</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/DK-SCIENCE.webp"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1VWqD_8RCYKIzPzJ8bnrfUx-LkyX3_FJ-/preview')">
+      <div class="book-title">The Science Boook</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/DK-SHAKESPEARE.webp"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1RKeeqBXZPRbOds02yUlgMicdTcGWImz4/preview')">
+      <div class="book-title">The Shakespeare Book</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/DK-SOCIOLOGY.jpg"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1qGeG_iGM_T4HrxqTdizgsxDWLbKjPL7B/preview')">
+      <div class="book-title">The Sociology Book</div>
+    </div>
+  
+    
+	
+	
+  </div>
+
+  <!-- Visor -->
+  <div class="viewer" id="viewerContainer">
+  <button class="fullscreen-btn" onclick="abrirPantallaCompleta()">🔍 Pantalla completa</button>
+  <iframe id="visor" src="https://drive.google.com/file/d/1OIbpmVbAlAW6YoIi_1kXxuAz2nse8STA/preview"></iframe>
+</div>
+</div>
+
+<script>
+  function cargarIframe(url) {
+    document.getElementById('visor').src = url;
+
+    // Oculta estantería en móvil tras seleccionar un libro
+    const shelf = document.getElementById('shelf');
+    if (window.innerWidth <= 768) {
+      shelf.classList.remove('visible');
+    }
+  }
+
+  function abrirPantallaCompleta() {
+    const contenedor = document.getElementById('viewerContainer');
+    if (contenedor.requestFullscreen) {
+      contenedor.requestFullscreen();
+    } else if (contenedor.webkitRequestFullscreen) {
+      contenedor.webkitRequestFullscreen();
+    } else if (contenedor.msRequestFullscreen) {
+      contenedor.msRequestFullscreen();
+    }
+  }
+
+  function toggleShelf() {
+    const shelf = document.getElementById('shelf');
+    shelf.classList.toggle('visible');
+  }
+</script>
+
+<!-- DISABLE RIGHT CLICK -->
+<script> 
+document.oncontextmenu = function() { 
+    return false; 
+};
+</script>
+
+</body>
+</html>

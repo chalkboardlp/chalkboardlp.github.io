@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Chalkboard Library</title>
+  <link rel="icon" href="favicon.png" type="image/x-icon" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+	@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Kode+Mono:wght@400..700&display=swap');
+	</style>
+  
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #404040;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+
+    header {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		gap: 15px;
+		height: 85px;
+		background-color: #713696;
+		border-bottom: 5px solid #3D1F01;
+		color: white;
+		padding: 10px;
+	}
+
+	header img {
+		height: 60px;
+		width: auto;
+	}
+
+	header .title {
+		font-size: 22px;
+		font-family: 'Exo 2', sans-serif;
+		font-weight: 700;
+		color: #FFFFFF;
+	}
+
+    .contenedor {
+      display: flex;
+      flex: 1;
+      overflow: hidden;
+    }
+
+    .shelf {
+      width: 220px;
+      background: url(https://i.pinimg.com/736x/f7/0c/fe/f70cfeb3d3f90019a40ed36f719932ea.jpg);
+      border-right: 5px solid #3D1F01;
+      padding: 20px 10px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 20px;
+      transition: transform 0.3s ease;
+    }
+
+    .book-container {
+      text-align: center;
+    }
+
+    .book {
+      width: 90px;
+      height: 140px;
+      background-color: #383838;
+      box-shadow: 2px 2px 6px rgba(0,0,0,0.3);
+      cursor: pointer;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .book:hover {
+      transform: rotateY(15deg) scale(1.05);
+      box-shadow: 4px 4px 12px rgba(0,0,0,0.4);
+    }
+
+    .book-title {
+      margin-top: 8px;
+      font-size: 0.9em;
+	  color: #FFFFFF; 
+	  font-size: 12px; 
+	  font-family: 'Exo 2', sans-serif; 
+	  font-weight: 700;
+    }
+
+    .viewer {
+      flex: 1;
+      position: relative;
+      background-color: #242424;
+    }
+
+    .viewer iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+
+    .viewer:fullscreen,
+    .viewer:-webkit-full-screen {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+
+    .viewer:fullscreen iframe,
+    .viewer:-webkit-full-screen iframe {
+      height: 100%;
+    }
+
+    .fullscreen-btn {
+      position: absolute;
+      top: 10px;
+      right: 20px;
+      background-color: #f0bf00;
+      border: none;
+      padding: 10px 15px;
+      cursor: pointer;
+      color: #FFFFFF; 
+	  font-size: 12px; 
+	  font-family: 'Exo 2', sans-serif; 
+	  font-weight: 700;
+      border-radius: 5px;
+      z-index: 10;
+    }
+
+    .fullscreen-btn:hover {
+      background-color: #7a4d3a;
+    }
+
+    /* Responsive: colapsar estantería */
+    .toggle-shelf-btn {
+      display: none;
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      z-index: 11;
+      background-color: #3D1F01;
+      color: white;
+      border: none;
+      padding: 10px 15px;
+      font-size: 1em;
+	  font-family: 'Exo 2', sans-serif; 
+      border-radius: 5px;
+    }
+
+    @media (max-width: 768px) {
+      .shelf {
+        position: absolute;
+        z-index: 10;
+        height: 100%;
+        transform: translateX(-100%);
+        background-color: #383838;
+      }
+
+      .shelf.visible {
+        transform: translateX(0);
+      }
+
+      .toggle-shelf-btn {
+        display: block;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <img src="logo.png" alt="Logo de la biblioteca">
+  <div class="title">Saddleback Classic Readings</div>
+</header>
+<!-- 📚 Biblioteca Interactiva -->
+
+<!-- background: url(https://i.pinimg.com/736x/dc/c6/88/dcc688c0576fde84e6738553fbc98ff0.jpg); -->
+
+<div class="contenedor">
+  <!-- Botón para abrir estantería en móvil -->
+  <button class="toggle-shelf-btn" onclick="toggleShelf()">📖 Menú</button>
+
+  <!-- Estantería -->
+  <div class="shelf" id="shelf">
+  
+  <div class="book-container">
+      <img src="Covers/Classics-Hyde.jpg"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1_3vceyRZREO51XDkGREFbwxEbjn4VjF7/preview')">
+      <div class="book-title"style="font-size: 9px;">Dr. Jekyll & Mr. Hyde</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/Classics-Expectations.jpg"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1Yi2U3ic7UVzS6lkDOQN3J_tEvTbvr8_h/preview')">
+      <div class="book-title"style="font-size: 9px;">Great Expectations</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/Classics-Gulliver.jpg"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/106dl6hOPtdbWLafjOtszAoRkcKIysXXi/preview')">
+      <div class="book-title"style="font-size: 9px;">Gulliver Travels</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/Classics-Moby.jpg"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1uGqDjCR5OtScUW6Qy2xS-N0vJhPh57NG/preview')">
+      <div class="book-title"style="font-size: 9px;">Moby Dick</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/Classics-Oliver.jpg"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/19y-GQJkpjowQN1Dbja9sW6zZluoMApdt/preview')">
+      <div class="book-title"style="font-size: 9px;">Oliver Twist</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/Classics-Pride.jpg"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1YE4fVbQhtWMqUru-cBMpAfwK0Jrz5ei4/preview')">
+      <div class="book-title"style="font-size: 9px;">Pride & Prejudice</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/Classics-Robinson.jpg"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1nR9rCMJyfmLSjJLq2pBx8a9VscrMi57V/preview')">
+      <div class="book-title"style="font-size: 9px;">Robinson Crusoe</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/Classics-TheCall.webp"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1n3KHU_Aq99RkSzvRWGfldOGzWpXCcBvf/preview')">
+      <div class="book-title"style="font-size: 9px;">The Call Of The Wild</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/Classics-Baskervilles.jpg"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1j7dVQQ06Pzfn8j7BAQ6O9TiskYY8993Z/preview')">
+      <div class="book-title"style="font-size: 9px;">The Hound Of The Baskervilles</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/Classics-Invisible.jpg"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1TilbZ7hfK60SqjMhcwJDL3SzXQqO9oQx/preview')">
+      <div class="book-title"style="font-size: 9px;">The Invisible Man</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/Classics-Mohicans.jpg"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1kHKecjj9gXzKGHAKjGT2S81k76DdoRsQ/preview')">
+      <div class="book-title"style="font-size: 9px;">The Last Of The Mohicans</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/Classics-Courage.jpg"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1dU10LfvSXy1mFWtttd7AbFpE0RItmyAr/preview')">
+      <div class="book-title"style="font-size: 9px;">The Red Badge Of Courage</div>
+    </div>
+	
+	<div class="book-container">
+      <img src="Covers/Classics-Scarlet.jpg"
+           class="book" onclick="cargarIframe('https://drive.google.com/file/d/1nJY3k4CMhiWE6q-0spgZ6IwDSZIX4e8G/preview')">
+      <div class="book-title"style="font-size: 9px;">The Scarlet Letter</div>
+    </div>
+  
+    
+	
+	
+  </div>
+
+  <!-- Visor -->
+  <div class="viewer" id="viewerContainer">
+  <button class="fullscreen-btn" onclick="abrirPantallaCompleta()">🔍 Pantalla completa</button>
+  <iframe id="visor" src="https://drive.google.com/file/d/1_3vceyRZREO51XDkGREFbwxEbjn4VjF7/preview"></iframe>
+</div>
+</div>
+
+<script>
+  function cargarIframe(url) {
+    document.getElementById('visor').src = url;
+
+    // Oculta estantería en móvil tras seleccionar un libro
+    const shelf = document.getElementById('shelf');
+    if (window.innerWidth <= 768) {
+      shelf.classList.remove('visible');
+    }
+  }
+
+  function abrirPantallaCompleta() {
+    const contenedor = document.getElementById('viewerContainer');
+    if (contenedor.requestFullscreen) {
+      contenedor.requestFullscreen();
+    } else if (contenedor.webkitRequestFullscreen) {
+      contenedor.webkitRequestFullscreen();
+    } else if (contenedor.msRequestFullscreen) {
+      contenedor.msRequestFullscreen();
+    }
+  }
+
+  function toggleShelf() {
+    const shelf = document.getElementById('shelf');
+    shelf.classList.toggle('visible');
+  }
+</script>
+
+<script> 
+document.oncontextmenu = function() { 
+    return false; 
+};
+</script>
+
+</body>
+</html>
