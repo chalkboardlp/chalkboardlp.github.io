@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=res://C:\WINDOWS\system32\shdoclc.dll/dnserror.htm
+[InternetShortcut]
+URL=http://www.irlanguage.com/
+Modified=70EE586302AEC90193
+IconIndex=196
+IconFile=C:\WINDOWS\system32\SHELL32.dll
+IDList=
+HotKey=0
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
