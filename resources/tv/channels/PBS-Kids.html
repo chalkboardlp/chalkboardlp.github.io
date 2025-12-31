@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="logo.png" type="image/x-icon" />
+  <title>Chalkboard TV</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: transparent;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+    video {
+      width: 90%;
+      max-width: 800px;
+      height: auto;
+      border: 5px solid #f0bf00;
+      border-radius: 12px;
+      background-color: #000;
+    }
+  </style>
+</head>
+<body>
+
+  <video id="video" controls autoplay muted playsinline crossorigin="anonymous" poster="https://i.ytimg.com/vi/QUgNbBEaWrs/maxresdefault.jpg">
+    <!-- Subtítulo en formato VTT -->
+    <track id="track" src="subtitulos.vtt" kind="subtitles" srclang="es" label="Español" default>
+    Tu navegador no soporta la reproducción de video.
+  </video>
+
+  <!-- Librería HLS.js -->
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <script>
+    const video = document.getElementById('video');
+    const videoSrc = 'https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8'; // Reemplaza con tu URL real
+
+    // Cargar video .m3u8 usando HLS.js
+    if (Hls.isSupported()) {
+      const hls = new Hls();
+      hls.loadSource(videoSrc);
+      hls.attachMedia(video);
+    } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+      video.src = videoSrc;
+    }
+
+    // Esperar a que el video esté listo para forzar los subtítulos
+    video.addEventListener('loadedmetadata', () => {
+      for (let i = 0; i < video.textTracks.length; i++) {
+        video.textTracks[i].mode = 'showing'; // Mostrar subtítulos automáticamente
+      }
+    });
+  </script>
+  
+  <script> 
+document.oncontextmenu = function() { 
+    return false; 
+};
+</script>
+
+</body>
+</html>
