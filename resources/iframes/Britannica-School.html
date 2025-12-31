@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Fullscreen Iframe</title>
+  <style>
+    iframe {
+      width: 95%;
+      height: 500px;
+      border: 5px solid #f0bf00;
+	  border-radius: 15px;
+    }
+
+    button {
+      margin-top: 10px;
+      padding: 10px 15px;
+      font-size: 16px;
+      cursor: pointer;
+	  background-color: #f0bf00;
+	  border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+	<center>
+  <iframe id="myIframe" src="https://school.eb.co.uk/levels" allowfullscreen></iframe>
+  <br>
+  <button onclick="makeFullScreen()">Pantalla completa</button>
+	</center>
+  <script>
+    function makeFullScreen() {
+      const iframe = document.getElementById("myIframe");
+      if (iframe.requestFullscreen) {
+        iframe.requestFullscreen();
+      } else if (iframe.webkitRequestFullscreen) { // Safari
+        iframe.webkitRequestFullscreen();
+      } else if (iframe.mozRequestFullScreen) { // Firefox
+        iframe.mozRequestFullScreen();
+      } else if (iframe.msRequestFullscreen) { // IE/Edge
+        iframe.msRequestFullscreen();
+      } else {
+        alert("Tu navegador no soporta fullscreen.");
+      }
+    }
+  </script>
+  
+ <script> 
+document.oncontextmenu = function() { 
+    return false; 
+};
+</script>
+
+</body>
+</html>
