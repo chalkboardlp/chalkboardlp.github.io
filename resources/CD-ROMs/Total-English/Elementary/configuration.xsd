@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by Jethro (XYZ) -->
+<xs:schema targetNamespace="urn:schemas-xtrabass-com:configuration" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:cfg="urn:schemas-xtrabass-com:configuration" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="Configuration">
+		<xs:annotation>
+			<xs:documentation>Root element</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="cfg:License"/>
+				<xs:element ref="cfg:RuntimeSettings"/>
+			</xs:sequence>
+			<xs:attribute name="PID" type="xs:NCName" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="License">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="cfg:Name"/>
+				<xs:element ref="cfg:Organization"/>
+				<xs:element ref="cfg:Type"/>
+				<xs:element ref="cfg:Key"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="RuntimeSettings">
+		<xs:complexType>
+			<xs:all>
+				<xs:element name="EmbedParams" type="xs:string">
+					<xs:annotation>
+						<xs:documentation>This is the string of embed parameters that gets passed to the plugin. E.g. src="Grids.swf" loop=false menu=false quality=medium scale=exactfit salign=LT bgcolor=#FFFFFF WIDTH="800" HEIGHT="600" TYPE="application/x-shockwave-flash"</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element name="WindowStyle" type="xs:long" minOccurs="0"/>
+				<xs:element name="WindowTitle" type="xs:string" minOccurs="0"/>
+				<xs:element name="WindowPosition" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>The window position expressed as x,y. Note -1,-1 is centered.</xs:documentation>
+					</xs:annotation>
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:pattern value="-?\d+,-?\d+"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<xs:element name="WindowSize" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>The window size expessed as w,h</xs:documentation>
+					</xs:annotation>
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:pattern value="\d+,\d+"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<xs:element name="Fullscreen" type="xs:boolean" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>Makes the window fullscreen. This overrides WindowPosition and WindowStyle.</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element name="Shape" type="xs:string" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>This holds a filename of an image to use as a shape mask.</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element name="TransparencyKey" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>The colour to use as transparent in the Shape png. Expressed as rrggbb</xs:documentation>
+					</xs:annotation>
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:pattern value="[a-fA-F0-9]{6}"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<xs:element name="MouseMode" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>normal|draggable|ignore</xs:documentation>
+					</xs:annotation>
+					<xs:simpleType>
+						<xs:restriction base="xs:NCName">
+							<xs:enumeration value="normal"/>
+							<xs:enumeration value="draggable"/>
+							<xs:enumeration value="ignore"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<xs:element name="KeyboardMode" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>normal|ignore</xs:documentation>
+					</xs:annotation>
+					<xs:simpleType>
+						<xs:restriction base="xs:NCName">
+							<xs:enumeration value="normal"/>
+							<xs:enumeration value="ignore"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<xs:element name="EscExits" type="xs:boolean" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>If set to true, Esc key exits app.</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Name" type="xs:string"/>
+	<xs:element name="Organization" type="xs:string"/>
+	<xs:element name="Type" type="xs:NCName"/>
+	<xs:element name="Key" type="xs:string"/>
+	<xs:element name="Property">
+		<xs:complexType>
+			<xs:attribute name="name" type="xs:NCName" use="required"/>
+			<xs:attribute name="value" type="xs:anySimpleType" use="required"/>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

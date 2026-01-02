@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><CDPreferences title="The title"><ActivityFont face="Verdana" font-size="12"/>
+	
+<TitleFont face="metaplusbold" font-size="18" fg-colour="3C9A92"/>
+	
+<RubricFont font-size="14" fg-colour="000000"/>
+	
+<HintFont font-size="14" fg-colour="000000"/>
+
+<Blank bg-colour="99ccff" fg-colour="000000" border-colour="000000" min-width="11" max-width="50"/>
+	
+<WordPoolText fg-colour="000000" bg-colour="99ccff" border-colour="ffffff" max-lines="6"/>
+	
+<CorrectBlank fg-colour="000000" bg-colour="99ffcc" border-colour="000000"/>
+	
+<IncorrectBlank fg-colour="000000" bg-colour="ff9999" border-colour="000000"/>
+	
+<ColourWords highlight-colour="99ccff" correct-highlight-colour="99ffcc" incorrect-highlight-colour="ff9999"/>
+	
+<LabelPicture pointer-colour="000000" pointer-width="1" pointer-radius="1"/>
+</CDPreferences>
