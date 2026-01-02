@@ -1,0 +1,119 @@
+<DOC>
+<activity type='email'>
+<cando>Describe appearance</cando>
+<instructions>A colleague in Australia has sent you this email. Read the email and write the reply.</instructions>
+<email>Your colleague, Dave Sanford, has just arrived in Sydney for our sales meeting. The manager has asked me to collect him from his hotel and bring him to the office. #I've never met him before so could you send me a description so that I will recognise him in the hotel lobby? #Thanks very much. #Best wishes, #Dorotea</email>
+<item>
+<choice correct='1'>Hi Dorotea. Thanks for your email.</choice>
+<choice>Dear Mrs Dorotea. I thank for your email.</choice>
+<choice>Dear Madam. Thank you of your email.</choice>
+</item>
+<item>
+<choice correct='1'>Dave Sanford is in his late twenties.</choice>
+<choice>Dave Sanford is of his late twenties.</choice>
+<choice>Dave Sanford is in the late twenties.</choice>
+</item>
+<item>
+<choice correct='1'>He's not very tall and he's quite stocky.</choice>
+<choice>He's not such tall and he's so stocky.</choice>
+<choice>He has tall and quite stocky.</choice>
+</item>
+<item>
+<choice correct='1'>He's got short wavy brown hair,</choice>
+<choice>He has the short wavy brown hair, </choice>
+<choice>He's got hair quite short wavy brown,</choice>
+</item>
+<item>
+<choice correct='1'>although he's going a bit bald now.</choice>
+<choice>although he is going balding.</choice>
+<choice>alghough he's got bald hair now.</choice>
+</item>
+<item>
+<choice correct='1'>His face is quite round and he's got a moustache.</choice>
+<choice>The face is quite round and has got moustache.</choice>
+<choice>His face is roundly and he's got some moustache.</choice>
+</item>
+<item>
+<choice correct='1'>He usually looks quite smart and</choice>
+<choice>He is looking quite smart usually and</choice>
+<choice>He usually has smart looking and </choice>
+</item>
+<item>
+<choice correct='1'>he always wears designer suits.</choice>
+<choice>always he is wearing designer suits.</choice>
+<choice>he always wears suits of designers.</choice>
+</item>
+<item>
+<choice correct='1'>He's got a great smile and he's really friendly.</choice>
+<choice>He's with a great smile and very friendly.</choice>
+<choice>He's got really friendly and great smile.</choice>
+</item>
+</activity>
+<activity type='listening'>
+<cando>Talk about memories</cando>
+<instructions>Have a conversation with a friend about your childhood.</instructions>
+<item>
+<audiotext>Look at this old photo of us at school.</audiotext>
+<audio>CanDoAudio_UI_5_1.mp3</audio>
+<choice correct='1'>Yes. That brings back a few memories.</choice>
+<choice>Yes. That brings back some remembers.</choice>
+<choice>Yes. That brings through some memories.</choice>
+</item>
+<item>
+<audiotext>We both look so young!</audiotext>
+<audio>CanDoAudio_UI_5_2.mp3</audio>
+<choice correct='1'>Well, you haven't changed a bit.</choice>
+<choice>Well, you haven't been a bit changed.</choice>
+<choice>Well, you don't make change a bit.</choice>
+</item>
+<item>
+<audiotext>Thanks. Who's that standing next to you?</audiotext>
+<audio>CanDoAudio_UI_5_3.mp3</audio>
+<choice correct='1'>That's Alison Brown. Don't you remember her?</choice>
+<choice>That's Alison Brown. Don't you remind her?</choice>
+<choice>Is Alison Brown. Do you memory her?</choice>
+</item>
+<item>
+<audiotext>Not really. </audiotext>
+<audio>CanDoAudio_UI_5_4.mp3</audio>
+<choice correct='1'>I'm still in touch with her, actually.</choice>
+<choice>I have still touch with her, actually.</choice>
+<choice>Actually, I have still touching of her.</choice>
+</item>
+<item>
+<audiotext>Do you remember our old teacher, Mr Mason?</audiotext>
+<audio>CanDoAudio_UI_5_5.mp3</audio>
+<choice correct='1'>No. Remind me who he was.</choice>
+<choice>No. Remember me who he was.</choice>
+<choice>No. Memory who he was for me.</choice>
+</item>
+<item>
+<audiotext>He taught us history. He had a grey beard.</audiotext>
+<audio>CanDoAudio_UI_5_6.mp3</audio>
+<choice correct='1'>Oh, yes. I'd forgotten about him.</choice>
+<choice>Oh, yes. I'd remember of him.</choice>
+<choice>Oh ,yes. I am not reminded of him.</choice>
+</item>
+<item>
+<audiotext>He was very strict, wasn't he?</audiotext>
+<audio>CanDoAudio_UI_5_7.mp3</audio>
+<choice correct='1'>Yes. He always used to give us lots of extra work.</choice>
+<choice>Yes. He's giving us lots of extra work I remind.</choice>
+<choice>Yes. Is true. He always gave us lots of extra work.</choice>
+</item>
+<item>
+<audiotext>It's really strange looking at photos from ten years ago.</audiotext>
+<audio>CanDoAudio_UI_5_8.mp3</audio>
+<choice correct='1'>I know. It makes me feel very nostalgic.</choice>
+<choice>Yes. It makes me feel forgetful.</choice>
+<choice>I know. It feels me very nostalgia.</choice>
+</item>
+<item>
+<audiotext>I'm certainly glad I kept these old photos.</audiotext>
+<audio>CanDoAudio_UI_5_9.mp3</audio>
+<choice correct='1'>Yes. It's nice to remember the good old days.</choice>
+<choice>Yes. It's nice to remind the good old days.</choice>
+<choice>Yes. It's nice to souvenir of the good old days.</choice>
+</item>
+</activity>
+</DOC>

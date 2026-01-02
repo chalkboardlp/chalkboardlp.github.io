@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Relative clauses</title>
+<sectiontitle>Defining relative clauses&lt;/b&gt; define or identify the person, thing, time, place or reason. They cannot be left out.</sectiontitle>
+<titlesound>Uint_Gram_9_3_1.mp3</titlesound>
+<sound1>Uint_Gram_9_3_2.mp3</sound1>
+<sound2>Uint_Gram_9_3_3.mp3</sound2>
+<text1></text1>
+<text1a>Tim is the teacher &lt;b&gt;who I told you about.&lt;/b&gt;</text1a>
+<text2></text2>
+<text2a>That's the street &lt;b&gt;where I grew up&lt;/b&gt;.</text2a>
+<sectiontitle2>&lt;i&gt;That&lt;/i&gt; can be used instead of &lt;i&gt;who&lt;/i&gt; or &lt;i&gt;which.&lt;/i&gt; No commas are used before and after the defining relative clause.</sectiontitle2>
+<titlesound2>Uint_Gram_9_3_4.mp3</titlesound2>
+<sound3>Uint_Gram_9_3_5.mp3</sound3>
+<sound4>Uint_Gram_9_3_6.mp3</sound4>
+<text3></text3>
+<text3a>The woman &lt;b&gt;who I share an office with&lt;/b&gt; has been in the company for years.</text3a>
+<text4></text4>
+<text4a>The woman &lt;b&gt;that I share an office with&lt;/b&gt; has been in the company for years.</text4a>
+</section>
+<section>
+<title>Relative clauses</title>
+<sectiontitle>The relative pronoun can be left out if it is the object of the verb in the relative clause.</sectiontitle>
+<titlesound>Uint_Gram_9_3_7.mp3</titlesound>
+<sound1>Uint_Gram_9_3_8.mp3</sound1>
+<sound2>Uint_Gram_9_3_9.mp3</sound2>
+<text1>Simon bought a jacket. We &lt;b&gt;saw&lt;/b&gt; (verb) the &lt;b&gt;jacket &lt;/b&gt;(object).</text1>
+<text1a>Simon bought &lt;b&gt;the jacket that we saw &lt;/b&gt;when we went shopping last weekend.</text1a>
+<text2> </text2>
+<text2a>Simon bought &lt;b&gt;the jacket we saw&lt;/b&gt; when we went shopping last weekend.</text2a>
+<sectiontitle2></sectiontitle2>
+<titlesound2></titlesound2>
+<sound3></sound3>
+<sound4></sound4>
+<text3></text3>
+<text3a></text3a>
+<text4></text4>
+<text4a></text4a>
+</section>
+<section>
+<title>Relative clauses</title>
+<sectiontitle>&lt;b&gt;Non-defining relative clauses&lt;/b&gt; give extra information which can be left out. Commas are used before and after non-defining relative clauses unless they end a sentence.</sectiontitle>
+<titlesound>Uint_Gram_9_3_10.mp3</titlesound>
+<sound1>Uint_Gram_9_3_11.mp3</sound1>
+<sound2>Uint_Gram_9_3_12.mp3</sound2>
+<text1>I've lent my new bike to my brother. I really like the bike</text1>
+<text1a>I've lent my new bike, &lt;b&gt;which I really like&lt;/b&gt;, to my brother.</text1a>
+<text2>Cairo is a fascinating city. I lived there for several years. </text2>
+<text2a>Cairo, &lt;b&gt;where I lived for several years&lt;/b&gt;, is a fascinating city.</text2a>
+<sectiontitle2>&lt;i&gt;Who&lt;/i&gt; and &lt;i&gt;which&lt;/i&gt; cannot be replaced by &lt;i&gt;that&lt;/i&gt;.</sectiontitle2>
+<titlesound2>Uint_Gram_9_3_13.mp3</titlesound2>
+<sound3>Uint_Gram_9_3_14.mp3</sound3>
+<sound4>Uint_Gram_9_3_15.mp3</sound4>
+<text3>My brother is coming to stay next weekend. He has just become a pilot.</text3>
+<text3a>My brother, &lt;b&gt;who&lt;/b&gt; has just become a pilot, is coming to stay next weekend.</text3a>
+<text4>The village is very pretty. It is on the coast.</text4>
+<text4a>The village, &lt;b&gt;which&lt;/b&gt; is on the coast, is very pretty.</text4a>
+</section>
+</grammar>

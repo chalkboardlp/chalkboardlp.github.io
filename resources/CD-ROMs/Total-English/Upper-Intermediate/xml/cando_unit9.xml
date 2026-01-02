@@ -1,0 +1,137 @@
+<DOC>
+<activity type='listening'>
+<cando>Speculate about past events</cando>
+<instructions>Have a conversation about your old school friends.</instructions>
+<item>
+<audiotext>Have you seen any of your old friends since you left school?</audiotext>
+<audio>CanDoAudio_UI_9_1.mp3</audio>
+<choice correct='1'>Not really. I think most of them must have moved away. </choice>
+<choice>Not really. I think most of them must be moved away. </choice>
+<choice>Yes. I think most of them must of moved away.</choice>
+</item>
+<item>
+<audiotext>I don't think so. I saw Jennifer at the shops last Saturday.</audiotext>
+<audio>CanDoAudio_UI_9_2.mp3</audio>
+<choice correct='1'>Really? She might have come home for the weekend.</choice>
+<choice>Really? She couldn't have came home for the weekend.</choice>
+<choice>Really? Perhaps she might coming home for the weekends.</choice>
+</item>
+<item>
+<audiotext>I thought I saw Michael the other day but I'm not sure it was him.</audiotext>
+<audio>CanDoAudio_UI_9_3.mp3</audio>
+<choice correct='1'>No, it can't have been him. He's gone to America. </choice>
+<choice>No, it must have been him. He's gone to America. </choice>
+<choice>No, it can be him. He's gone to America.</choice>
+</item>
+<item>
+<audiotext>Didn't your friend Samantha go to college in Edinburgh?</audiotext>
+<audio>CanDoAudio_UI_9_4.mp3</audio>
+<choice correct='1'>She could have done but I'm not really sure. </choice>
+<choice>She could have done it but I'm certain. </choice>
+<choice>She could be but I'm really sure.</choice>
+</item>
+<item>
+<audiotext>What about your cousin Tracy? Isn't she at medical school?</audiotext>
+<audio>CanDoAudio_UI_9_5.mp3</audio>
+<choice correct='1'>Yes. In fact, she must have qualified by now. </choice>
+<choice>Yes. Is fact, she must qualified by now. </choice>
+<choice>Yes. In fact, she can't have been qualified doctor by now.</choice>
+</item>
+<item>
+<audiotext>And her boyfriend Carl must have qualified by now as well.</audiotext>
+<audio>CanDoAudio_UI_9_6.mp3</audio>
+<choice correct='1'>No, he can't have qualified yet. He started a year after her. </choice>
+<choice>He started a year after her so he can't being qualified yet. </choice>
+<choice>No, he can't have made yet. He started a year after her.</choice>
+</item>
+<item>
+<audiotext>What happened to David?</audiotext>
+<audio>CanDoAudio_UI_9_7.mp3</audio>
+<choice correct='1'>He might have gone abroad. I know he was planning to do that.</choice>
+<choice>He might be gone abroad. I know he was planning that to do.</choice>
+<choice>He can't have gone abroad. I know he was planning to make that.</choice>
+</item>
+<item>
+<audiotext>He was engaged to Maria, wasn't he?</audiotext>
+<audio>CanDoAudio_UI_9_8.mp3</audio>
+<choice correct='1'>Yes. In fact I'm sure he must have married her by now. </choice>
+<choice>Yes. In fact I'm sure he might have married her by now. </choice>
+<choice>Yes. In fact is certain he must have been married her by now.</choice>
+</item>
+</activity>
+<activity type='email'>
+<cando>Write an article</cando>
+<instructions>Write an article about a recent news item.</instructions>
+<email>Hi Alia #You told me you wanted to write an article with the title 'The Wolves Return to Scotland' for our writing competition. Can you email me your article? If it is interesting we will put it in our magazine. #Thanks, #Alison #Student Magazine Editor</email>
+<item>
+<choice correct='1'>Hi Alison, here is the article:</choice>
+<choice>Dear Mrs Alison, here are article:</choice>
+<choice>Dear Ms Alison, this is article:</choice>
+</item>
+<item>
+<choice correct='1'>Paul Lister, a Scottish millionaire,</choice>
+<choice>Lister Scottish millionaire,</choice>
+<choice>Paul Lister, that is a millionaire from Scotland,</choice>
+</item>
+<item>
+<choice correct='1'>wants to reintroduce wolves to Scotland. </choice>
+<choice>is wanting to reintroduce wolves to Scotland. </choice>
+<choice>wants to make reintroduce wolves for Scotland.</choice>
+</item>
+<item>
+<choice correct='1'>Although there have been no wolves in Scotland </choice>
+<choice>Although there have not been no wolves in Scotland </choice>
+<choice>Despite there have been no wolves in Scotland</choice>
+</item>
+<item>
+<choice correct='1'>since medieval times, Lister thinks</choice>
+<choice>for medieval times, Lister is thinking</choice>
+<choice>since of the medieval times. Lister he thinks</choice>
+</item>
+<item>
+<choice correct='1'>they form an important part of the natural ecology. </choice>
+<choice>they are forming important parts of natural ecology. </choice>
+<choice>they form a part very important of the natural ecology.</choice>
+</item>
+<item>
+<choice correct='1'>He plans to introduce twenty wolves </choice>
+<choice>He makes the planning of introduce twenty wolves </choice>
+<choice>He plans for to introduce of twenty wolves </choice>
+</item>
+<item>
+<choice correct='1'>to his enormous estate in northern Scotland. </choice>
+<choice>from his estate enormous in northern Scotland. </choice>
+<choice>to his enormous estate of the northern Scotland.</choice>
+</item>
+<item>
+<choice correct='1'>Wolves have recently been reintroduced to a national park</choice>
+<choice>Wolves been recently reintroduced to a national park</choice>
+<choice>Wolves have recently reintroduced them to a national park</choice>
+</item>
+<item>
+<choice correct='1'>in France, but have escaped and killed dozens of sheep.</choice>
+<choice>at the France, but escaped and killed dozens of sheep.</choice>
+<choice>in France, but escaped themselves and killed sheeps.</choice>
+</item>
+<item>
+<choice correct='1'>Scottish conservationists have mixed feelings about the plan. </choice>
+<choice>Scottish conservationists has mixed feelings of the plan. </choice>
+<choice>Scottish conservationists have the mixed feels for the plan.</choice>
+</item>
+<item>
+<choice correct='1'>Some support the proposals while others </choice>
+<choice>Some the proposals support while others </choice>
+<choice>Some they are supporting the proposals but the others </choice>
+</item>
+<item>
+<choice correct='1'>feel the wolves could cause great damage </choice>
+<choice>feeling wolves could cause great of damage </choice>
+<choice>feel wolves must have been causing them great damage</choice>
+</item>
+<item>
+<choice correct='1'>to the local sheep industry, and even threaten humans.</choice>
+<choice>of the local sheep industry, and also humans threaten. </choice>
+<choice>to the local industry of sheep, and even make threat for humans.</choice>
+</item>
+</activity>
+</DOC>

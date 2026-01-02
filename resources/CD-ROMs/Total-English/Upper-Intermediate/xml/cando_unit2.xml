@@ -1,0 +1,132 @@
+<DOC>
+<activity type='listening'>
+<cando>Talk about future plans and make predictions</cando>
+<instructions>Talk to a colleague about their future plans.</instructions>
+<item>
+<audiotext>What's this I hear about you changing jobs?</audiotext>
+<audio>CanDoAudio_UI_2_1.mp3</audio>
+<choice correct='1'>Yes, I'm thinking about leaving.</choice>
+<choice>Yes, I leave to move on.</choice>
+<choice>Yes, is true I am leaving.</choice>
+</item>
+<item>
+<audiotext>But I thought you really enjoyed working here?</audiotext>
+<audio>CanDoAudio_UI_2_2.mp3</audio>
+<choice correct='1'>I do. But I want to take on more responsibility.</choice>
+<choice>I enjoy working but more responsibility I want.</choice>
+<choice>I do enjoy. But I want being responsible.</choice>
+</item>
+<item>
+<audiotext>Have you resigned then?</audiotext>
+<audio>CanDoAudio_UI_2_3.mp3</audio>
+<choice correct='1'>No. But I'm thinking about it.</choice>
+<choice>No. But I thinking about it.</choice>
+<choice>No. But I think of it.</choice>
+</item>
+<item>
+<audiotext>Have you applied for other jobs?</audiotext>
+<audio>CanDoAudio_UI_2_4.mp3</audio>
+<choice correct='1'>Not yet. But I'm going to soon.</choice>
+<choice>Not yet. I going soon.</choice>
+<choice>Yes, I haven't yet.</choice>
+</item>
+<item>
+<audiotext>What sort of things are you looking for?</audiotext>
+<audio>CanDoAudio_UI_2_5.mp3</audio>
+<choice correct='1'>Well, one option is to work for a smaller company.</choice>
+<choice>One option is working of a small company.</choice>
+<choice>Well, one of options is a small company.</choice>
+</item>
+<item>
+<audiotext>Why would you do that?</audiotext>
+<audio>CanDoAudio_UI_2_6.mp3</audio>
+<choice correct='1'>I think there are better opportunities in small firms.</choice>
+<choice>I think opportunities make better in small firms.</choice>
+<choice>In small firms are the better opportunities.</choice>
+</item>
+<item>
+<audiotext>But isn't the pay worse in small companies?</audiotext>
+<audio>CanDoAudio_UI_2_7.mp3</audio>
+<choice correct='1'>It depends on the firm.</choice>
+<choice>It depends of the firm.</choice>
+<choice>Is depending of the company.</choice>
+</item>
+<item>
+<audiotext>Have you heard of any that you might want to work for?</audiotext>
+<audio>CanDoAudio_UI_2_8.mp3</audio>
+<choice correct='1'>Yes, I'm probably going to apply to a company in Glasgow. </choice>
+<choice>Yes, I'm going probably to apply in Glasgow.</choice>
+<choice>I'm certain I'm probably going to apply for one of Glasgow.</choice>
+</item>
+</activity>
+<activity type='email'>
+<cando>Write a formal email applying for a job</cando>
+<instructions>A friend has sent you an email containing a copy of a job advertisement she saw on the Internet. You want to apply for this job. Read your friend's email with the job advertisement and write your application.</instructions>
+<email>I saw this job advert today and I thought you might be interested:                            #Web designer required for new travel website. #We are looking for an enthusiastic web designer to work on our exciting new interactive site. The successful candidate will be imaginative and hard-working. At least two years experience of website design is required. Some experience of the travel industry is desirable, but not essential. #Send your application by email to: #Sheila_Bell@WebSolutions.org               #Good luck, Lucy</email>
+<item>
+<choice correct='1'>Dear Ms Bell,</choice>
+<choice>Dear Sheila,</choice>
+<choice>Hi Sheila Bell,</choice>
+</item>
+<item>
+<choice correct='1'>I am writing to apply for the job of website designer </choice>
+<choice>I would like to work for your company </choice>
+<choice>Please consider me for the job I saw on your website</choice>
+</item>
+<item>
+<choice correct='1'>you advertised on your website today. </choice>
+<choice>in the website designer job you advertised.</choice>
+<choice>that my friend sent me.</choice>
+</item>
+<item>
+<choice correct='1'>As you can see from my attached CV,</choice>
+<choice>It shows you in my CV </choice>
+<choice>Also I send you my CV which</choice>
+</item>
+<item>
+<choice correct='1'>I have five years experience as a website designer.</choice>
+<choice>for five years I have had designer jobs.</choice>
+<choice>shows you all my job experiences.</choice>
+</item>
+<item>
+<choice correct='1'>Before that I worked for two years</choice>
+<choice>And I had a brilliant job before</choice>
+<choice>But I had some experiences previous</choice>
+</item>
+<item>
+<choice correct='1'>for a leading travel agent. </choice>
+<choice>in a really fantastic travel company.</choice>
+<choice>for a travel job that was really good fun.</choice>
+</item>
+<item>
+<choice correct='1'>I feel that I would be suitable for the job because</choice>
+<choice>You've got to consider me because</choice>
+<choice>I would be really good for the job because</choice>
+</item>
+<item>
+<choice correct='1'>I have experience in both website design and travel.</choice>
+<choice>I really know lots and lots about travelling.</choice>
+<choice>I'm an absolutely brilliant website designer.</choice>
+</item>
+<item>
+<choice correct='1'>I can be contacted by email.</choice>
+<choice>Send me an email if you want to.</choice>
+<choice>You must only reply by email.</choice>
+</item>
+<item>
+<choice correct='1'>I look forward to hearing from you.</choice>
+<choice>I looking forward hear from you.</choice>
+<choice>Make sure you reply soon.</choice>
+</item>
+<item>
+<choice correct='1'>Yours sincerely,</choice>
+<choice>Yours,</choice>
+<choice>Yours faithfully,</choice>
+</item>
+<item>
+<choice correct='1'>Josh Morgan</choice>
+<choice>Josh</choice>
+<choice>Mr Morgan</choice>
+</item>
+</activity>
+</DOC>

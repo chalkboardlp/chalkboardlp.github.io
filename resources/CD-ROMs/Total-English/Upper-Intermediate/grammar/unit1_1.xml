@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Question tags</title>
+<sectiontitle>We usually put negative question tags after affirmative sentences and affirmative tags after negative sentences.</sectiontitle>
+<titlesound>Uint_Gram_1_1_1.mp3</titlesound>
+<sound1>Uint_Gram_1_1_2.mp3</sound1>
+<sound2>Uint_Gram_1_1_3.mp3</sound2>
+<text1></text1>
+<text1a>&lt;b&gt;It's&lt;/b&gt; warm today, &lt;b&gt;isn't it&lt;/b&gt;?</text1a>
+<text2></text2>
+<text2a>&lt;b&gt;He doesn't&lt;/b&gt; like me, &lt;b&gt;does he&lt;/b&gt;?</text2a>
+<sectiontitle2></sectiontitle2>
+<titlesound2></titlesound2>
+<sound3></sound3>
+<sound4></sound4>
+<text3></text3>
+<text3a></text3a>
+<text4></text4>
+<text4a></text4a>
+</section>
+<section>
+<title>Question tags </title>
+<sectiontitle>If the main sentence has an auxiliary verb e.g. &lt;i&gt;is, can&lt;/i&gt;, etc., this is repeated in the question tag.</sectiontitle>
+<titlesound>Uint_Gram_1_1_4.mp3</titlesound>
+<sound1>Uint_Gram_1_1_5.mp3</sound1>
+<sound2>Uint_Gram_1_1_6.mp3</sound2>
+<text1></text1>
+<text1a>You &lt;b&gt;can &lt;/b&gt;play tennis this evening, &lt;b&gt;can't&lt;/b&gt; you? </text1a>
+<text2> </text2>
+<text2a>He &lt;b&gt;is&lt;/b&gt; your boss, &lt;b&gt;isn't&lt;/b&gt; he?</text2a>
+<sectiontitle2>If the main sentence has no auxiliary verb, the question tag is a form of the verb &lt;i&gt;do&lt;/i&gt;.</sectiontitle2>
+<titlesound2>Uint_Gram_1_1_7.mp3</titlesound2>
+<sound3>Uint_Gram_1_1_8.mp3</sound3>
+<sound4>Uint_Gram_1_1_9.mp3</sound4>
+<text3></text3>
+<text3a>They &lt;b&gt;went &lt;/b&gt;to Australia last Christmas, &lt;b&gt;didn't&lt;/b&gt; they?</text3a>
+<text4></text4>
+<text4a>She &lt;b&gt;likes&lt;/b&gt; pop music, &lt;b&gt;doesn't &lt;/b&gt;she?</text4a>
+</section>
+<section>
+<title>Question tags</title>
+<sectiontitle>If the tag is a real question (we want to know something and are not sure of the answer), use a rising intonation. </sectiontitle>
+<titlesound>Uint_Gram_1_1_10.mp3</titlesound>
+<sound1>Uint_Gram_1_1_11.mp3</sound1>
+<sound2>Uint_Gram_1_1_12.mp3</sound2>
+<text1></text1>
+<text1a>They live in Manchester, &lt;b&gt;don't they&lt;/b&gt;? </text1a>
+<text2> </text2>
+<text2a>I'm next in the queue, &lt;b&gt;aren't I&lt;/b&gt;? </text2a>
+<sectiontitle2>If the tag is &lt;b&gt;not&lt;/b&gt; a real question (we already think we know the answer), use a falling intonation.</sectiontitle2>
+<titlesound2>Uint_Gram_1_1_13.mp3</titlesound2>
+<sound3>Uint_Gram_1_1_14.mp3</sound3>
+<sound4>Uint_Gram_1_1_15.mp3</sound4>
+<text3></text3>
+<text3a>It's warm today, &lt;b&gt;isn't it&lt;/b&gt;? </text3a>
+<text4></text4>
+<text4a>Those sunglasses are terribly expensive, &lt;b&gt;aren't they&lt;/b&gt;? </text4a>
+</section>
+<section>
+<title>Question tags</title>
+<sectiontitle>The question tag for &lt;i&gt;I am&lt;/i&gt; is &lt;i&gt;aren't I&lt;/i&gt;? The question tag for &lt;i&gt;let's&lt;/i&gt; is &lt;i&gt;shall we&lt;/i&gt;?.</sectiontitle>
+<titlesound>Uint_Gram_1_1_16.mp3</titlesound>
+<sound1>Uint_Gram_1_1_17.mp3</sound1>
+<sound2>Uint_Gram_1_1_18.mp3</sound2>
+<text1></text1>
+<text1a>I'm wrong, &lt;b&gt;aren't I?&lt;/b&gt;</text1a>
+<text2> </text2>
+<text2a>Let's walk along the beach, &lt;b&gt;shall we&lt;/b&gt;?</text2a>
+<sectiontitle2>After imperatives we often use &lt;i&gt;won't you?&lt;/i&gt; to invite people to do things. </sectiontitle2>
+<titlesound2>Uint_Gram_1_1_19.mp3</titlesound2>
+<sound3>Uint_Gram_1_1_20.mp3</sound3>
+<sound4>Uint_Gram_1_1_21.mp3</sound4>
+<text3></text3>
+<text3a>Have a seat,&lt;b&gt; won't you&lt;/b&gt;?</text3a>
+<text4></text4>
+<text4a>Take a copy of the brochure, &lt;b&gt;won't you&lt;/b&gt;?</text4a>
+</section>
+<section>
+<title>Question tags</title>
+<sectiontitle>After negative words like &lt;i&gt;never, no, hardly&lt;/i&gt;, etc., we use an affirmative question tag.</sectiontitle>
+<titlesound>Uint_Gram_1_1_22.mp3</titlesound>
+<sound1>Uint_Gram_1_1_23.mp3</sound1>
+<sound2>Uint_Gram_1_1_24.mp3</sound2>
+<text1></text1>
+<text1a>You &lt;b&gt;never&lt;/b&gt; want to go out to clubs, &lt;b&gt;do you&lt;/b&gt;?</text1a>
+<text2> </text2>
+<text2a>He &lt;b&gt;hardly&lt;/b&gt; knows her, &lt;b&gt;does he&lt;/b&gt;?</text2a>
+<sectiontitle2>After &lt;i&gt;nothing&lt;/i&gt; we use &lt;i&gt;it&lt;/i&gt; in question tags. After &lt;i&gt;nobody, somebody &lt;/i&gt;and&lt;i&gt; everybody&lt;/i&gt; we use &lt;i&gt;they&lt;/i&gt;. </sectiontitle2>
+<titlesound2>Uint_Gram_1_1_25.mp3</titlesound2>
+<sound3>Uint_Gram_1_1_26.mp3</sound3>
+<sound4>Uint_Gram_1_1_27.mp3</sound4>
+<text3></text3>
+<text3a>&lt;b&gt;Nothing&lt;/b&gt; happened, did &lt;b&gt;it&lt;/b&gt;?</text3a>
+<text4></text4>
+<text4a>&lt;b&gt;Nobody&lt;/b&gt; wants to go out tonight, do &lt;b&gt;they&lt;/b&gt;?</text4a>
+</section>
+</grammar>

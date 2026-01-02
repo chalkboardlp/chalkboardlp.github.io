@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<data>
+<settings leftStartx="240" rightStartx="400" starty="55" spaceBox="45" boxsize="1"/>
+<righthandWords words="Some of the children were badly-behaved.|We took all the children to Disneyland.|I didn't take all the books to the charity shop.|I took all the books to the charity shop.|There was only one bank in the town.|There were several banks in the town.|I have more than one camera.|I only have one camera."/>
+<lefthandWords words="We took the children who were well-behaved to Disneyland.|We took the children, who were well-behaved, to Disneyland.|I took the books I didn't like to the charity shop.|I took the books, which I didn't like, to the charity shop.|We cashed our cheques at the bank, which was on Main Street.|We cashed our cheques at the bank which was on Main Street.|The camera I bought on the Internet didn't work well.|The camera, which I bought on the Internet, didn't work well."/>
+</data>

@@ -1,0 +1,127 @@
+<DOC>
+<activity type='listening'>
+<cando>Communicate interactively - asking for opinions</cando>
+<instructions>Have a discussion about the five most important things in life.</instructions>
+<item>
+<audiotext>Right. We have to decide on the five most important things in life. Any ideas? </audiotext>
+<audio>CanDoAudio_UI_3_1.mp3</audio>
+<choice correct='1'>I'm not sure. What do you think?</choice>
+<choice>Not sure. What think you?</choice>
+<choice>Not certain. For you?</choice>
+</item>
+<item>
+<audiotext>For me number one is definitely good health. What about you?</audiotext>
+<audio>CanDoAudio_UI_3_2.mp3</audio>
+<choice correct='1'>I disagree. I think happiness is more important.</choice>
+<choice>I'm disagreeing. I think health not important.</choice>
+<choice>I have a disagree that health is important.</choice>
+</item>
+<item>
+<audiotext>Why do you think that? </audiotext>
+<audio>CanDoAudio_UI_3_3.mp3</audio>
+<choice correct='1'>Well, you can be really healthy but be very unhappy.</choice>
+<choice>Well, it can be healthy but very unhappy.</choice>
+<choice>Because maybe you really healthy but unhappy.</choice>
+</item>
+<item>
+<audiotext>I suppose so.</audiotext>
+<audio>CanDoAudio_UI_3_4.mp3</audio>
+<choice correct='1'>Isn't it true that happy people are usually healthy anyway?</choice>
+<choice>Is true happy people are usually healthy?</choice>
+<choice>True isn't it that happy people are healthy anyway?</choice>
+</item>
+<item>
+<audiotext>Yes, perhaps you are right. </audiotext>
+<audio>CanDoAudio_UI_3_5.mp3</audio>
+<choice correct='1'>So, do you agree that happiness is more important?</choice>
+<choice>So, are you of agree happiness is more important?</choice>
+<choice>Is agreeing me happiness is more important?</choice>
+</item>
+<item>
+<audiotext>Yes. OK. Let's put happiness as number one then. </audiotext>
+<audio>CanDoAudio_UI_3_6.mp3</audio>
+<choice correct='1'>Now, what else do you think is important? </choice>
+<choice>Now, how else is important then?</choice>
+<choice>Now other things important what are?</choice>
+</item>
+<item>
+<audiotext>I'd say a happy family life.</audiotext>
+<audio>CanDoAudio_UI_3_7.mp3</audio>
+<choice correct='1'>OK. But how do you feel about friendship?</choice>
+<choice>OK. But how feel you about friendship?</choice>
+<choice>Yes, but how is you feel about friendship?</choice>
+</item>
+<item>
+<audiotext>That's pretty important in life.</audiotext>
+<audio>CanDoAudio_UI_3_8.mp3</audio>
+<choice correct='1'>Yes, you're right. I think friendship is really important.</choice>
+<choice>Yes, is right. Friendship is being important.</choice>
+<choice>OK, you right. Friendship is important.</choice>
+</item>
+</activity>
+<activity type='email'>
+<cando>Give a presentation about a place</cando>
+<instructions>You are a tourist guide. A client has sent you this email. Read the email and write the reply.</instructions>
+<email>I have a group of clients who are thinking about visiting Edinburgh. #Can you send me some information on the city, its history and main attractions etc. that I can forward to them to help them make up their minds? #Thanks #Celia</email>
+<item>
+<choice correct='1'>Edinburgh is the capital of Scotland.</choice>
+<choice>Of Scotland Edinburgh is the capital.</choice>
+<choice>Edinburgh is the city of Scotland's capital.</choice>
+</item>
+<item>
+<choice correct='1'>The city covers 260 square kilometres and has a population of 450,000.</choice>
+<choice>Edinburgh has population of 450,000 and size of 260 square kilometres.</choice>
+<choice>450,000 people are in the city and the size is 260 square kilometres.</choice>
+</item>
+<item>
+<choice correct='1'>Although the city dates from 1000 BC,</choice>
+<choice>Even it dates from 1000 BC</choice>
+<choice>However, it dates of 1000 BC</choice>
+</item>
+<item>
+<choice correct='1'>it only became the capital of Scotland in 1437.</choice>
+<choice>it is in 1437 becoming the capital.</choice>
+<choice>the city is the capital since 1437 of Scotland.</choice>
+</item>
+<item>
+<choice correct='1'>More than two million tourists visit the city every year.</choice>
+<choice>Visiting the city two million tourists every year.</choice>
+<choice>Two millions of tourists come to the city in the year.</choice>
+</item>
+<item>
+<choice correct='1'>Every summer there is a famous arts festival in the city</choice>
+<choice>In summers is a festival of the city</choice>
+<choice>Every summer is a festival famous of the arts</choice>
+</item>
+<item>
+<choice correct='1'>which attracts visitors from all over the world.</choice>
+<choice>that is attraction of visitors from all the world.</choice>
+<choice>for attracting of visitors from all over the world.</choice>
+</item>
+<item>
+<choice correct='1'>There is an excellent selection of restaurants and hotels</choice>
+<choice>Many hotels and restaurants are selections</choice>
+<choice>Selections of hotels and restaurants there is excellent</choice>
+</item>
+<item>
+<choice correct='1'>and there are many museums and cultural attractions.</choice>
+<choice>and of museums and cultural many exist.</choice>
+<choice>and some cultural things like of museums.</choice>
+</item>
+<item>
+<choice correct='1'>In fact the city has been declared a cultural heritage site by UNESCO. </choice>
+<choice>Of the fact is the city is a cultural heritage site of UNESCO.</choice>
+<choice>UNESCO has been declared a cultural heritage site of Edinburgh.</choice>
+</item>
+<item>
+<choice correct='1'>The most famous monument is the castle, </choice>
+<choice>Of monuments the most famous of them is the castle,</choice>
+<choice>Most famous monument is the castle,</choice>
+</item>
+<item>
+<choice correct='1'>built at the top of a huge rock in the centre of the city.</choice>
+<choice>built it on the huge rock of the central city.</choice>
+<choice>building of which is the huge rock in centre of city.</choice>
+</item>
+</activity>
+</DOC>

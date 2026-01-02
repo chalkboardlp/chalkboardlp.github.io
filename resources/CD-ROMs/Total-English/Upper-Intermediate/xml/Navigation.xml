@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+  <navigation>
+  <folder label="Units">
+<folder label="Unit 1" title="Unit 1">
+  		<file activityFile="Gram1_1.xml" url="Grammar.swf" lesson="1" activity="0" label="Grammar"/>
+  		<file activityFile="Ui1-Activ1_1.xml" url="preview.swf" lesson="1" activity="1" label="Question tags" />
+  		<file activityFile="Ui1-Activ1_2.xml" url="preview.swf" lesson="1" activity="2" label="Question tags" />
+  		<file activityFile="Gram1_2.xml" url="Grammar.swf" lesson="2" activity="0" label="Grammar"/>
+  		<file activityFile="Ui1-Activ2_1.xml" url="preview.swf" lesson="2" activity="1" label="any/every/no/some" />
+  		<file activityFile="Ui1-Activ2_2.xml" url="preview.swf" lesson="2" activity="2" label="any/every/no/some" />
+  		<file activityFile="Gram1_3.xml" url="Grammar.swf" lesson="3" activity="0" label="Grammar"/>
+  		<file activityFile="preview1_1.xml" url="matching.swf" lesson="3" activity="1" label="Present/future modals of possibility" header="Modals of possibility" rubric="Match the sentence halves to make correct sentences." />
+  		<file activityFile="Ui1-Activ3_2.xml" url="preview.swf" lesson="3" activity="2" label="Present/future modals of possibility" />
+  		<file activityFile="cando_unit1.xml" url="cando.swf" lesson="99" activity="99"  label="Can do game" />
+  	</folder>
+<folder label="Unit 2" title="Unit 2">
+  		<file activityFile="Gram2_1.xml" url="Grammar.swf" lesson="1" activity="0" label="Grammar"/>
+  		<file activityFile="Ui2-Activ1_1.xml" url="preview.swf" lesson="1" activity="1" label="Futures overview" />
+  		<file activityFile="Ui2-Activ1_2.xml" url="preview.swf" lesson="1" activity="2" label="Futures overview" />
+  		<file activityFile="Gram2_2.xml" url="Grammar.swf" lesson="2" activity="0" label="Grammar"/>
+  		<file activityFile="preview2_1.xml" url="matching.swf" lesson="2" activity="1" label="Future Continuous and Future Perfect" header="&lt;B&gt;Future Continuous and Future Perfect&lt;/B&gt;" rubric="Match the sentence halves to make correct sentences." />
+  		<file activityFile="Ui2-Activ2_2.xml" url="preview.swf" lesson="2" activity="2" label="Future Continuous and Future Perfect" />
+  		<file activityFile="Gram2_3.xml" url="Grammar.swf" lesson="3" activity="0" label="Grammar"/>
+  		<file activityFile="preview3_1.xml" url="matching.swf" lesson="3" activity="1" label="in case" header="&lt;B&gt;&lt;I&gt;in case&lt;/I&gt;&lt;/B&gt;" rubric="Match the sentence halves to make correct sentences." />
+  		<file activityFile="Ui2-Activ3_2.xml" url="preview.swf" lesson="3" activity="2" label="in case" />
+  		<file activityFile="cando_unit2.xml" url="cando.swf" lesson="99" activity="99"  label="Can do game" />
+  	</folder>
+<folder label="Unit 3" title="Unit 3">
+  		<file activityFile="Gram3_1.xml" url="Grammar.swf" lesson="1" activity="0" label="Grammar"/>
+  		<file activityFile="Ui3-Activ1_1.xml" url="preview.swf" lesson="1" activity="1" label="Narrative tenses" />
+  		<file activityFile="Ui3-Activ1_2.xml" url="preview.swf" lesson="1" activity="2" label="Narrative tenses" />
+  		<file activityFile="Gram3_2.xml" url="Grammar.swf" lesson="2" activity="0" label="Grammar"/>
+  		<file activityFile="Ui3-Activ2_1.xml" url="preview.swf" lesson="2" activity="1" label="Articles" />
+  		<file activityFile="Ui3-Activ2_2.xml" url="preview.swf" lesson="2" activity="2" label="Articles" />
+  		<file activityFile="Gram3_3.xml" url="Grammar.swf" lesson="3" activity="0" label="Grammar"/>
+  		<file activityFile="Ui3-Activ3_1.xml" url="preview.swf" lesson="3" activity="1" label="Adjectives and adverbs" />
+  		<file activityFile="Ui3-Activ3_2.xml" url="preview.swf" lesson="3" activity="2" label="Adjectives and adverbs" />
+  		<file activityFile="cando_unit3.xml" url="cando.swf" lesson="99" activity="99"  label="Can do game" />
+  	</folder>
+<folder label="Unit 4" title="Unit 4">
+  		<file activityFile="Gram4_1.xml" url="Grammar.swf" lesson="1" activity="0" label="Grammar"/>
+  		<file activityFile="Ui4-Activ1_1.xml" url="preview.swf" lesson="1" activity="1" label="If structures (1)" />
+  		<file activityFile="preview4_1.xml" url="matching.swf" lesson="1" activity="2" label="If structures (1)" header="&lt;B&gt;&lt;I&gt;If&lt;/I&gt; structures (1)&lt;/B&gt;" rubric="Match the sentences with the meanings." />
+  		<file activityFile="Gram4_2.xml" url="Grammar.swf" lesson="2" activity="0" label="Grammar"/>
+  		<file activityFile="Ui4-Activ2_1.xml" url="preview.swf" lesson="2" activity="1" label="Expressing obligation" />
+  		<file activityFile="Ui4-Activ2_2.xml" url="preview.swf" lesson="2" activity="2" label="Expressing obligation" />
+  		<file activityFile="Gram4_3.xml" url="Grammar.swf" lesson="3" activity="0" label="Grammar"/>
+		<file activityFile="Ui4-Activ3_1.xml" url="preview.swf" lesson="3" activity="1" label="Emphasis" />
+  		<file activityFile="Ui4-Activ3_2.xml" url="preview.swf" lesson="3" activity="2" label="Emphasis" />
+    		<file activityFile="cando_unit4.xml" url="cando.swf" lesson="99" activity="99"  label="Can do game" />
+  	</folder>
+<folder label="Unit 5" title="Unit 5">
+  		<file activityFile="Gram5_1.xml" url="Grammar.swf" lesson="1" activity="0" label="Grammar"/>
+  		<file activityFile="Ui5-Activ1_1.xml" url="preview.swf" lesson="1" activity="1" label="used to/get used to/would" />
+  		<file activityFile="Ui5-Activ1_2.xml" url="preview.swf" lesson="1" activity="2" label="used to/get used to/would" />
+  		<file activityFile="Gram5_2.xml" url="Grammar.swf" lesson="2" activity="0" label="Grammar"/>
+  		<file activityFile="Ui5-Activ2_1.xml" url="preview.swf" lesson="2" activity="1" label="Expressing ability" />
+  		<file activityFile="Ui5-Activ2_2.xml" url="preview.swf" lesson="2" activity="2" label="Expressing ability" />
+  		<file activityFile="Gram5_3.xml" url="Grammar.swf" lesson="3" activity="0" label="Grammar"/>
+  		<file activityFile="Ui5-Activ3_1.xml" url="preview.swf" lesson="3" activity="1" label="although, but, however, nevertheless" />
+  		<file activityFile="preview5_1.xml" url="matching.swf" lesson="3" activity="2" label="although, but, however, nevertheless" 
+header="although, but, however, nevertheless" rubric="Match the sentence halves." />
+  		<file activityFile="cando_unit5.xml" url="cando.swf" lesson="99" activity="99"  label="Can do game" />
+  	</folder>
+<folder label="Unit 6" title="Unit 6">
+  		<file activityFile="Gram6_1.xml" url="Grammar.swf" lesson="1" activity="0" label="Grammar"/>
+  		<file activityFile="Ui6-Activ1_1.xml" url="preview.swf" lesson="1" activity="1" label="Present Perfect Simple and Continuous" />
+  		<file activityFile="Ui6-Activ1_2.xml" url="preview.swf" lesson="1" activity="2" label="Present Perfect Simple and Continuous" />
+  		<file activityFile="Gram6_2.xml" url="Grammar.swf" lesson="2" activity="0" label="Grammar"/>
+  		<file activityFile="Ui6-Activ2_1.xml" url="preview.swf" lesson="2" activity="1" label="Questions" />
+  		<file activityFile="Ui6-Activ2_2.xml" url="preview.swf" lesson="2" activity="2" label="Questions" />
+  		<file activityFile="Gram6_3.xml" url="Grammar.swf" lesson="3" activity="0" label="Grammar"/>
+  		<file activityFile="Ui6-Activ3_1.xml" url="preview.swf" lesson="3" activity="1" label="Comparitive and superlative adjectives and adverbs" />
+  		<file activityFile="Ui6-Activ3_2.xml" url="preview.swf" lesson="3" activity="2" label="Comparitive and superlative adjectives and adverbs" />
+  		<file activityFile="cando_unit6.xml" url="cando.swf" lesson="99" activity="99"  label="Can do game" />
+  	</folder>
+<folder label="Unit 7" title="Unit 7">
+  		<file activityFile="Gram7_1.xml" url="Grammar.swf" lesson="1" activity="0" label="Grammar"/>
+  		<file activityFile="Ui7-Activ1_1.xml" url="preview.swf" lesson="1" activity="1" label="Countable and uncountable nouns" />
+  		<file activityFile="Ui7-Activ1_2.xml" url="preview.swf" lesson="1" activity="2" label="Countable and uncountable nouns" />
+  		<file activityFile="Gram7_2.xml" url="Grammar.swf" lesson="2" activity="0" label="Grammar"/>
+  		<file activityFile="Ui7-Activ2_1.xml" url="preview.swf" lesson="2" activity="1" label="Passives" />
+  		<file activityFile="Ui7-Activ2_2.xml" url="preview.swf" lesson="2" activity="2" label="Passives" />
+  		<file activityFile="Gram7_3.xml" url="Grammar.swf" lesson="3" activity="0" label="Grammar"/>
+  		<file activityFile="preview6_1.xml" url="matching.swf" lesson="3" activity="1" label="have/get something done" header="&lt;B&gt;&lt;I&gt;have&lt;/I&gt;/&lt;I&gt;get something done&lt;/I&gt;&lt;/B&gt;" rubric="Match the sentence halves to make correct sentences." />
+  		<file activityFile="Ui7-Activ3_2.xml" url="preview.swf" lesson="3" activity="2" label="have/get something done" />
+  		<file activityFile="cando_unit7.xml" url="cando.swf" lesson="99" activity="99"  label="Can do game" />
+  	</folder>
+<folder label="Unit 8" title="Unit 8">
+  		<file activityFile="Gram8_1.xml" url="Grammar.swf" lesson="1" activity="0" label="Grammar"/>
+  		<file activityFile="Ui8-Activ1_1.xml" url="preview.swf" lesson="1" activity="1" label="It's time, I'd rather, I'd better" />
+                <file activityFile="Ui8-Activ1_2.xml" url="preview.swf" lesson="1" activity="2" label="It's time, I'd rather, I'd better" />
+  		<file activityFile="Gram8_2.xml" url="Grammar.swf" lesson="2" activity="0" label="Grammar"/>
+  		<file activityFile="Ui8-Activ2_1.xml" url="preview.swf" lesson="2" activity="1" label="Reported speech" />
+  		<file activityFile="Ui8-Activ2_2.xml" url="preview.swf" lesson="2" activity="2" label="Reported speech" />
+  		<file activityFile="Gram8_3.xml" url="Grammar.swf" lesson="3" activity="0" label="Grammar"/>
+  		<file activityFile="Ui8-Activ3_1.xml" url="preview.swf" lesson="3" activity="1" label="hard and hardly" />
+  		<file activityFile="Ui8-Activ3_2.xml" url="preview.swf" lesson="3" activity="2" label="hard and hardly" />
+  		<file activityFile="cando_unit8.xml" url="cando.swf" lesson="99" activity="99"  label="Can do game" />
+  	</folder>
+<folder label="Unit 9" title="Unit 9">
+  		<file activityFile="Gram9_1.xml" url="Grammar.swf" lesson="1" activity="0" label="Grammar"/>
+  		<file activityFile="Ui9-Activ1_1.xml" url="preview.swf" lesson="1" activity="1" label="Sequencing devices" />
+  		<file activityFile="Ui9-Activ1_2.xml" url="preview.swf" lesson="1" activity="2" label="Sequencing devices" />
+  		<file activityFile="Gram9_2.xml" url="Grammar.swf" lesson="2" activity="0" label="Grammar"/>
+  		<file activityFile="Ui9-Activ2_1.xml" url="preview.swf" lesson="2" activity="1" label="must/might/can't have" />
+  		<file activityFile="Ui9-Activ2_2.xml" url="preview.swf" lesson="2" activity="2" label="must/might/can't have" />
+  		<file activityFile="Gram9_3.xml" url="Grammar.swf" lesson="3" activity="0" label="Grammar"/>
+  		<file activityFile="preview7_1.xml" url="matching.swf" lesson="3" activity="1" label="Relative clauses" header="&lt;B&gt;Relative clauses&lt;/B&gt;" rubric="Match the sentences with the closest meanings." />
+  		<file activityFile="Ui9-Activ3_2.xml" url="preview.swf" lesson="3" activity="2" label="Relative clauses" />
+  		<file activityFile="cando_unit9.xml" url="cando.swf" lesson="99" activity="99"  label="Can do game" />
+  	</folder>
+<folder label="Unit 10" title="Unit 10">
+  		<file activityFile="Gram10_1.xml" url="Grammar.swf" lesson="1" activity="0" label="Grammar"/>
+  		<file activityFile="Ui10-Activ1_1.xml" url="preview.swf" lesson="1" activity="1" label="Reflexive pronouns" />
+  		<file activityFile="Ui10-Activ1_2.xml" url="preview.swf" lesson="1" activity="2" label="Reflexive pronouns" />
+  		<file activityFile="Gram10_2.xml" url="Grammar.swf" lesson="2" activity="0" label="Grammar"/>
+  		<file activityFile="Ui10-Activ2_1.xml" url="preview.swf" lesson="2" activity="1" label="Gerunds and infinitives" />
+  		<file activityFile="Ui10-Activ2_2.xml" url="preview.swf" lesson="2" activity="2" label="Gerunds and infinitives" />
+  		<file activityFile="Gram10_3.xml" url="Grammar.swf" lesson="3" activity="0" label="Grammar"/>
+  		<file activityFile="preview8_1.xml" url="matching.swf" lesson="3" activity="1" label="If structures (2)" header="&lt;B&gt;&lt;I&gt;If&lt;/I&gt; structures (2)&lt;/B&gt;" rubric="Match the sentence halves." />
+  		<file activityFile="Ui10-Activ3_2.xml" url="preview.swf" lesson="3" activity="2" label="If structures (2)" />
+  		<file activityFile="cando_unit10.xml" url="cando.swf" lesson="99" activity="99"  label="Can do game" />
+  	</folder>
+  </folder>
+  <file url="phonetic.swf" label="Phonetic Chart" activity="98" />
+  </navigation>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Emphasis</title>
+<sectiontitle>To emphasise a noun use the structure: &lt;i&gt;It is / was&lt;/i&gt; ... &lt;i&gt;which / that&lt;/i&gt; </sectiontitle>
+<titlesound>Uint_Gram_4_3_1.mp3</titlesound>
+<sound1>Uint_Gram_4_3_2.mp3</sound1>
+<sound2>Uint_Gram_4_3_3.mp3</sound2>
+<text1>I particularly like the kitchen in that house.</text1>
+<text1a>&lt;b&gt;It's&lt;/b&gt; the kitchen &lt;b&gt;that&lt;/b&gt; I particularly like about that house.</text1a>
+<text2>He was most proud of his first novel </text2>
+<text2a>&lt;b&gt;It was&lt;/b&gt; his first novel &lt;b&gt;that&lt;/b&gt; he was most proud of.</text2a>
+<sectiontitle2>To emphasise a verb use an appropriate form of &lt;i&gt;do&lt;/i&gt;.</sectiontitle2>
+<titlesound2>Uint_Gram_4_3_4.mp3</titlesound2>
+<sound3>Uint_Gram_4_3_5.mp3</sound3>
+<sound4>Uint_Gram_4_3_6.mp3</sound4>
+<text3>I wish you could stay a bit longer.</text3>
+<text3a>I &lt;b&gt;do&lt;/b&gt; wish you could stay a bit longer.</text3a>
+<text4>They enjoyed themselves very much.</text4>
+<text4a>They &lt;b&gt;did&lt;/b&gt; enjoy themselves very much.</text4a>
+</section>
+<section>
+<title>Emphasis</title>
+<sectiontitle>Use repetition to emphasise an intensifier such as &lt;i&gt;very&lt;/i&gt; or &lt;i&gt;really&lt;/i&gt;.</sectiontitle>
+<titlesound>Uint_Gram_4_3_7.mp3</titlesound>
+<sound1>Uint_Gram_4_3_8.mp3</sound1>
+<sound2>Uint_Gram_4_3_9.mp3</sound2>
+<text1>She's a very nice person.</text1>
+<text1a>She's a &lt;b&gt;very, very&lt;/b&gt; nice person.</text1a>
+<text2>It was a really expensive gift.</text2>
+<text2a>It was a &lt;b&gt;really, really&lt;/b&gt; expensive gift.</text2a>
+<sectiontitle2>Use emphasising words e.g. &lt;i&gt;such a, really, just&lt;/i&gt; and &lt;i&gt;so.&lt;/i&gt; </sectiontitle2>
+<titlesound2>Uint_Gram_4_3_10.mp3</titlesound2>
+<sound3>Uint_Gram_4_3_11.mp3</sound3>
+<sound4>Uint_Gram_4_3_12.mp3</sound4>
+<text3>I was pleased to meet your sister.</text3>
+<text3a>I was &lt;b&gt;so&lt;/b&gt; pleased to meet your sister.</text3a>
+<text4>They are a nice couple.</text4>
+<text4a>They are &lt;b&gt;such &lt;/b&gt;a nice couple.</text4a>
+</section>
+</grammar>

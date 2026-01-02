@@ -1,0 +1,132 @@
+<DOC>
+<activity type='listening'>
+<cando>Ask about and give your own beliefs and opinions</cando>
+<instructions>Have a discussion about military service.</instructions>
+<item>
+<audiotext>What are your views on compulsory military service?</audiotext>
+<audio>CanDoAudio_UI_10_1.mp3</audio>
+<choice correct='1'>I am against it.</choice>
+<choice>I am being against that.</choice>
+<choice>Against it is my feeling.</choice>
+</item>
+<item>
+<audiotext>I didn't know that.</audiotext>
+<audio>CanDoAudio_UI_10_2.mp3</audio>
+<choice correct='1'>What about you? Do you have any strong feelings about it?</choice>
+<choice>And you? Are you having strong feelings about it?</choice>
+<choice>For you? What feelings are you having about it?</choice>
+</item>
+<item>
+<audiotext>Yes, I'm in favour of it. Why are you against it?</audiotext>
+<audio>CanDoAudio_UI_10_3.mp3</audio>
+<choice correct='1'>Well, I've always suspected it is just a way to reduce unemployment.</choice>
+<choice>I am suspected always it is a way to reduce the unemployment.</choice>
+<choice>Well, I have always suspicions it is against unemployment.</choice>
+</item>
+<item>
+<audiotext>I disagree. I think it gives young people confidence. </audiotext>
+<audio>CanDoAudio_UI_10_4.mp3</audio>
+<choice correct='1'>Oh, I'm sceptical about that.</choice>
+<choice>It is sceptical of that.</choice>
+<choice>Oh, I have sceptical about that.</choice>
+</item>
+<item>
+<audiotext>Don't you think it makes them more mature?</audiotext>
+<audio>CanDoAudio_UI_10_5.mp3</audio>
+<choice correct='1'>No, I reckon it just makes them easy to manipulate.</choice>
+<choice>No, I am reckon it makes them easier to manipulate.</choice>
+<choice>No, it is reckon to make them easy to manipulate.</choice>
+</item>
+<item>
+<audiotext>But don't you agree it makes people less selfish?</audiotext>
+<audio>CanDoAudio_UI_10_6.mp3</audio>
+<choice correct='1'>I have my doubts about that.</choice>
+<choice>I am having my doubts of that.</choice>
+<choice>Of that I have doubts.</choice>
+</item>
+<item>
+<audiotext>I think it helps people learn to accept discipline.</audiotext>
+<audio>CanDoAudio_UI_10_7.mp3</audio>
+<choice correct='1'>But I'm against people being told what to do.</choice>
+<choice>But is my opinion that is against people being told what to do.</choice>
+<choice>But against people being told what to do is my feeling.</choice>
+</item>
+<item>
+<audiotext>And it helps to control people's aggressive feelings.</audiotext>
+<audio>CanDoAudio_UI_10_8.mp3</audio>
+<choice correct='1'>No, I'm convinced it makes people more aggressive.</choice>
+<choice>No, it is convincing it makes people aggressive.</choice>
+<choice>No, I have convinced it makes people more aggressive.</choice>
+</item>
+</activity>
+<activity type='email'>
+<cando>Write the arguments for and against a point of view</cando>
+<instructions>Read the email from your teacher and write an email in reply.</instructions>
+<email>#The topic for this week's essay is 'Children should not be allowed to have mobile phones.' #Please write your essay and email it to me at the college. #Best wishes #Carla Taylor #English Teacher</email>
+<item>
+<choice correct='1'>In this essay I will consider the question</choice>
+<choice>This essay is discussing the question</choice>
+<choice>The question of this essay is being</choice>
+</item>
+<item>
+<choice correct='1'>of whether children should be allowed to have mobile phones.</choice>
+<choice>of that children should be allowed to have mobile phones.</choice>
+<choice>of should children be allowed the mobile phones to have.</choice>
+</item>
+<item>
+<choice correct='1'>This is an important issue with strong feelings on both sides of the argument.</choice>
+<choice>Is an important argument with many feelings on the different sides of it.</choice>
+<choice>This is an important issue with feelings very strong about it.</choice>
+</item>
+<item>
+<choice correct='1'>Firstly, many parents want their children to have mobiles</choice>
+<choice>Of the first, many parents want their children to have them</choice>
+<choice>The first is, many parents want their children to have mobiles</choice>
+</item>
+<item>
+<choice correct='1'>so that the children can contact them if they are in trouble.</choice>
+<choice>so of the fact the children can be contacting when in trouble.</choice>
+<choice>for that the children can contact of them if they are in trouble.</choice>
+</item>
+<item>
+<choice correct='1'>Another reason children should be allowed to have them</choice>
+<choice>Other reason being children should be allowed to have is</choice>
+<choice>Another opinion children should be allowed to have them</choice>
+</item>
+<item>
+<choice correct='1'>is that they are able to travel and do lots of things because the phone </choice>
+<choice>is for they can travel and do so many things because the phone</choice>
+<choice>is because they can do so many things and travelling also</choice>
+</item>
+<item>
+<choice correct='1'>allows them to stay in contact with their family wherever they are.</choice>
+<choice>allowing them to stay in contact with family where they are.</choice>
+<choice>for that it allows staying in contact with their family they are where.</choice>
+</item>
+<item>
+<choice correct='1'>On the other hand, some people argue that mobile phones</choice>
+<choice>On other hands, some people say that mobile phones</choice>
+<choice>For the other side is that some people argue mobile phones</choice>
+</item>
+<item>
+<choice correct='1'>distract children from studying, and can be very expensive. </choice>
+<choice>distraction children of studying and can to be expensive.</choice>
+<choice>distract the children of studying and also expensive.</choice>
+</item>
+<item>
+<choice correct='1'>On balance, I think that there are more advantages than disadvantages.</choice>
+<choice>Balancing is I think there are more advantage than disadvantage.</choice>
+<choice>Of the balance, I think that there are more advantages.</choice>
+</item>
+<item>
+<choice correct='1'>In conclusion, therefore,</choice>
+<choice>On conclusion, therefore,</choice>
+<choice>Therefore, of the conclusion,</choice>
+</item>
+<item>
+<choice correct='1'>I think children should be allowed to have mobile phones.</choice>
+<choice>I am thinking children should be allowed for have mobile phones.</choice>
+<choice>I am disagree of children shouldn't be allowed to have mobile phones.</choice>
+</item>
+</activity>
+</DOC>

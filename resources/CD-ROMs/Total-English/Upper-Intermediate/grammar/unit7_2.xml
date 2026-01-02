@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Passives</title>
+<sectiontitle>We can use active constructions when the subject is the person or thing that does the action.</sectiontitle>
+<titlesound>Uint_Gram_7_2_1.mp3</titlesound>
+<sound1>Uint_Gram_7_2_2.mp3</sound1>
+<sound2>Uint_Gram_7_2_3.mp3</sound2>
+<text1></text1>
+<text1a>&lt;b&gt;I bought&lt;/b&gt; a really fantastic party dress on eBay. </text1a>
+<text2> </text2>
+<text2a>&lt;b&gt;He travelled&lt;/b&gt; all over the world.</text2a>
+<sectiontitle2>We can use passive constructions when who or what causes the action is unknown or unimportant.</sectiontitle2>
+<titlesound2>Uint_Gram_7_2_4.mp3</titlesound2>
+<sound3>Uint_Gram_7_2_5.mp3</sound3>
+<sound4>MIssing</sound4>
+<text3>It doesn't matter who found the dog.</text3>
+<text3a>The dog &lt;b&gt;was found&lt;/b&gt; three days after it went missing. </text3a>
+<text4></text4>
+<text4a></text4a>
+</section>
+<section>
+<title>Passives</title>
+<sectiontitle>We can use passive constructions when we want to put new information or longer expressions later in the sentence. </sectiontitle>
+<titlesound>Uint_Gram_7_2_6.mp3</titlesound>
+<sound1>Uint_Gram_7_2_7.mp3</sound1>
+<sound2>missing</sound2>
+<text1></text1>
+<text1a>The shopping centre &lt;b&gt;was opened&lt;/b&gt; by &lt;b&gt;the actress who is in that new film&lt;/b&gt;. </text1a>
+<text2> </text2>
+<text2a></text2a>
+<sectiontitle2>Also use the passive when the object of the active sentence is the main focus. Use &lt;i&gt;by&lt;/i&gt; to say who did the action. </sectiontitle2>
+<titlesound2>Uint_Gram_7_2_8.mp3</titlesound2>
+<sound3>Uint_Gram_7_2_9.mp3</sound3>
+<sound4>missing</sound4>
+<text3>What was sold?</text3>
+<text3a>&lt;b&gt;A Picasso painting was sold by &lt;/b&gt;a wealthy businessman last week. </text3a>
+<text4></text4>
+<text4a></text4a>
+</section>
+<section>
+<title>Passives</title>
+<sectiontitle>We can use the passive in any tense and with modal verbs. We use a form of the verb &lt;i&gt;to be&lt;/i&gt; + past participle. </sectiontitle>
+<titlesound>Uint_Gram_7_2_10.mp3</titlesound>
+<sound1>Uint_Gram_7_2_11.mp3</sound1>
+<sound2>Uint_Gram_7_2_12.mp3</sound2>
+<text1></text1>
+<text1a>The papers &lt;b&gt;hadn't been touched&lt;/b&gt; for years. </text1a>
+<text2> </text2>
+<text2a>That chair &lt;b&gt;must have been bought&lt;/b&gt; by someone with a lot of money.</text2a>
+<sectiontitle2>We often use passive constructions in writing or in more formal speech. The passive is common in news stories, scientific and academic writing.   </sectiontitle2>
+<titlesound2>Uint_Gram_7_2_13.mp3</titlesound2>
+<sound3>Uint_Gram_7_2_14.mp3</sound3>
+<sound4>Uint_Gram_7_2_15.mp3</sound4>
+<text3></text3>
+<text3a>Shots &lt;b&gt;were fired&lt;/b&gt; and police &lt;b&gt;were called&lt;/b&gt; to the scene.</text3a>
+<text4></text4>
+<text4a>This species &lt;b&gt;is found&lt;/b&gt; in coastal areas.</text4a>
+</section>
+</grammar>

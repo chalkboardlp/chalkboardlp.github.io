@@ -1,0 +1,112 @@
+<DOC>
+<activity type='email'>
+<cando>Explain how to do something</cando>
+<instructions>You recently bought a DVD recorder. A friend has sent you this email. Read the email and write the reply.</instructions>
+<email>I've just bought the same DVD recorder that you've got. #I looked at the instruction manual but it is quite difficult to understand. Can you tell me how to set the machine to record a TV programme? #Thanks very much. #Alex</email>
+<item>
+<choice correct='1'>Hi Alex. This is how you record a TV programme.</choice>
+<choice>Dear Mr Alex. How to record TV is like this.</choice>
+<choice>Dear Alex. How to make recordings this is.</choice>
+</item>
+<item>
+<choice correct='1'>First, make sure the recorder is tuned to the TV channel you want to record.</choice>
+<choice>The first one is tune the TV to the channel you are wanting.</choice>
+<choice>First you could be tune the recorder to the TV channel you want to record.</choice>
+</item>
+<item>
+<choice correct='1'>Put a blank DVD into the tray and close it.</choice>
+<choice>Putting of a blank DVD into the tray and closing.</choice>
+<choice>If you want, put a blank DVD into the tray.</choice>
+</item>
+<item>
+<choice correct='1'>Press 'timer record' on the remote control.</choice>
+<choice>You have pressed 'timer record' on remote control.</choice>
+<choice>Please to press the 'timer record' of remote control.</choice>
+</item>
+<item>
+<choice correct='1'>On the TV you will see a screen called 'timer settings'. </choice>
+<choice>On the TV a screen called 'timer settings' you see.</choice>
+<choice>Will be on the screen of TV 'timer settings'.</choice>
+</item>
+<item>
+<choice correct='1'>Use the keys on the remote control to type in the date of the programme.</choice>
+<choice>You must using keys on remote control to type in date of the programme.</choice>
+<choice>Is possible typing date of the programme on the remote control.</choice>
+</item>
+<item>
+<choice correct='1'>Then type in the start time. Use the 24-hour clock.</choice>
+<choice>Then is to type the start time using 24-hours clock.</choice>
+<choice>Then you have typed in the start time. Use 24 hours.</choice>
+</item>
+<item>
+<choice correct='1'>Then type in the end time of the programme.</choice>
+<choice>After of this, must type in end time of the programme.</choice>
+<choice>Then is necessary type in end time of programme.</choice>
+</item>
+<item>
+<choice correct='1'>The last thing you need to do is press the 'OK' button on the remote control.</choice>
+<choice>Last things is pressing of 'OK' button on remote control.</choice>
+<choice>Last of thing you need doing is press of 'OK' button of remote control.</choice>
+</item>
+</activity>
+<activity type='listening'>
+<cando>Compare and contrast photographs</cando>
+<instructions>Have a conversation with a friend about some photos of hotels in a travel brochure.</instructions>
+<item>
+<audiotext>These two hotels look interesting. </audiotext>
+<audio>CanDoAudio_UI_4_1.mp3</audio>
+<choice correct='1'>Yes. They both look quite nice.</choice>
+<choice>Yes. Both looking nice.</choice>
+<choice>Yes. Both of look quite nice.</choice>
+</item>
+<item>
+<audiotext>The first one's got a swimming pool.</audiotext>
+<audio>CanDoAudio_UI_4_2.mp3</audio>
+<choice correct='1'>It doesn't seem to be very big.</choice>
+<choice>It not seems very big.</choice>
+<choice>It seeming not to be big.</choice>
+</item>
+<item>
+<audiotext>That's true. There aren't many sun beds.</audiotext>
+<audio>CanDoAudio_UI_4_3.mp3</audio>
+<choice correct='1'>Mind you, it is right next to the beach.</choice>
+<choice>You mind it is right next to the beach.</choice>
+<choice>Mind of you it is right next to beach.</choice>
+</item>
+<item>
+<audiotext>Yes. What about the second one? I think it's in the middle of a park.</audiotext>
+<audio>CanDoAudio_UI_4_4.mp3</audio>
+<choice correct='1'>It could be a large garden.</choice>
+<choice>It a big garden could be.</choice>
+<choice>It could to be a big garden.</choice>
+</item>
+<item>
+<audiotext>It seems to be in the middle of the countryside. That's a bit inconvenient.</audiotext>
+<audio>CanDoAudio_UI_4_5.mp3</audio>
+<choice correct='1'>But, on the other hand, it would be nice and quiet.</choice>
+<choice>On other hands, it will be nice and quiet.</choice>
+<choice>But on the hand, it could be nice and quiet.</choice>
+</item>
+<item>
+<audiotext>I suppose so. What about the rooms?</audiotext>
+<audio>CanDoAudio_UI_4_6.mp3</audio>
+<choice correct='1'>They both seem to have nice rooms.</choice>
+<choice>They both seems to have nice rooms.</choice>
+<choice>Seeming both to have nice rooms.</choice>
+</item>
+<item>
+<audiotext>Yes, they do. But the rooms in the first one look as if they've got balconies.</audiotext>
+<audio>CanDoAudio_UI_4_7.mp3</audio>
+<choice correct='1'>The second one's got them as well, but they look quite small.</choice>
+<choice>The second one's got them as too, but look quite small.</choice>
+<choice>The second one's got balconies both, but they look small.</choice>
+</item>
+<item>
+<audiotext>Does it matter?</audiotext>
+<audio>CanDoAudio_UI_4_8.mp3</audio>
+<choice correct='1'>Yes. I think I'd prefer to be in a room with a large balcony.</choice>
+<choice>Yes. I'm preferring a room with a large balcony.</choice>
+<choice>Yes. But I'd prefer of a room with large balcony.</choice>
+</item>
+</activity>
+</DOC>

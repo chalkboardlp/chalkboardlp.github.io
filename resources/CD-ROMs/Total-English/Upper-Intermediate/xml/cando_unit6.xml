@@ -1,0 +1,132 @@
+<DOC>
+<activity type='email'>
+<cando>Write an informal email </cando>
+<instructions>Read the email from a friend and write your reply.</instructions>
+<email>I haven't heard from you for a long time. How are things? What have you been doing? #Send me a message soon. #Lots of love, Carrie</email>
+<item>
+<choice correct='1'>Hi Carrie,</choice>
+<choice>Dear Ms Jamie,</choice>
+<choice>Dear Madam,</choice>
+</item>
+<item>
+<choice correct='1'>Where do I start!</choice>
+<choice>Of what do I start!</choice>
+<choice>Starting of where!</choice>
+</item>
+<item>
+<choice correct='1'>Did I tell you about this fantastic holiday I'm having?</choice>
+<choice>Will I tell you of this amazing holiday I have had?</choice>
+<choice>Am I telling you yet of my fantastic holiday?</choice>
+</item>
+<item>
+<choice correct='1'>I've been on holiday in Australia for two months and</choice>
+<choice>I've been being on holiday in Australia and </choice>
+<choice>I am in Australia since two months for holiday and</choice>
+</item>
+<item>
+<choice correct='1'>I've spent the last month working on a sheep farm.</choice>
+<choice>it has been spending the last month on a sheep farm.</choice>
+<choice>I am the last month a sheep farm spending on.</choice>
+</item>
+<item>
+<choice correct='1'>I have to look after the sheep and cut off their wool.</choice>
+<choice>I must to look after the sheep and cutting their wool.</choice>
+<choice>My job is sheep looking and cutting of wool.</choice>
+</item>
+<item>
+<choice correct='1'>I was a bit daunted at first but now I love it.</choice>
+<choice>I was being daunted at beginning but now I like it.</choice>
+<choice>At first the job was daunted but now I love it.</choice>
+</item>
+<item>
+<choice correct='1'>It has been great to experience a new culture and</choice>
+<choice>There has been great to experience new culture and</choice>
+<choice>It has been to experience a new culture great, and </choice>
+</item>
+<item>
+<choice correct='1'>to see places I've only read about in books.</choice>
+<choice>for seeing of places only read of in books.</choice>
+<choice>to be seen places I've only read about in books.</choice>
+</item>
+<item>
+<choice correct='1'>I've only got five more days to go.</choice>
+<choice>To go now only is left five more days.</choice>
+<choice>I had only five more days to go.</choice>
+</item>
+<item>
+<choice correct='1'>I'm looking forward to seeing you all, </choice>
+<choice>I am look forward to see you all,</choice>
+<choice>I'm looking forward see you all.</choice>
+</item>
+<item>
+<choice correct='1'>but I don't want to leave this place!</choice>
+<choice>but this place leaving I don't want!</choice>
+<choice>but I don't want leaving of this place!</choice>
+</item>
+<item>
+<choice correct='1'>See you soon, Jo</choice>
+<choice>Yours sincerely, Jo</choice>
+<choice>I embrace you, Jo</choice>
+</item>
+</activity>
+<activity type='listening'>
+<cando>Ask and answer questions about unusual places</cando>
+<instructions>Have a discussion about travel and places.</instructions>
+<item>
+<audiotext>Do you like travelling?</audiotext>
+<audio>CanDoAudio_UI_6_1.mp3</audio>
+<choice correct='1'>Yes, I was bitten by the travel bug a few years ago.</choice>
+<choice>Yes, I am travelling much.</choice>
+<choice>Yes, I am biting the travel bug a few years since.</choice>
+</item>
+<item>
+<audiotext>So, where have you been? </audiotext>
+<audio>CanDoAudio_UI_6_2.mp3</audio>
+<choice correct='1'>I spent six months travelling around South America.</choice>
+<choice>I will go to South American next month.</choice>
+<choice>It is six months I went to South America.</choice>
+</item>
+<item>
+<audiotext>Did you go with a group?</audiotext>
+<audio>CanDoAudio_UI_6_3.mp3</audio>
+<choice correct='1'>Oh no. I wanted to be an independent traveller.</choice>
+<choice>No, because I wanted to be part of a tour.</choice>
+<choice>Oh no. I don't want to be an independent traveller.</choice>
+</item>
+<item>
+<audiotext>What was the best part of the trip?</audiotext>
+<audio>CanDoAudio_UI_6_4.mp3</audio>
+<choice correct='1'>The most exciting part was in the Amazon jungle, in Brazil.</choice>
+<choice>The Amazon was as exciting as that.</choice>
+<choice>The more better part was the Amazon river in Brazil.</choice>
+</item>
+<item>
+<audiotext>And what was the worst part?</audiotext>
+<audio>CanDoAudio_UI_6_5.mp3</audio>
+<choice correct='1'>I'm scared of heights, so crossing the Andes was terrifying.</choice>
+<choice>I like heights, so crossing the Andes was petrifying.</choice>
+<choice>To cross the mountains is very frightening.</choice>
+</item>
+<item>
+<audiotext>You obviously have a real sense of adventure.</audiotext>
+<audio>CanDoAudio_UI_6_6.mp3</audio>
+<choice correct='1'>Yes, I am quite adventurous.</choice>
+<choice>Yes, I am really loving adventures.</choice>
+<choice>Of course, is really true.</choice>
+</item>
+<item>
+<audiotext>Did you get homesick?</audiotext>
+<audio>CanDoAudio_UI_6_7.mp3</audio>
+<choice correct='1'>Yes, I did. I missed my family a lot.</choice>
+<choice>Yes, I was. I was missed my friends so much.</choice>
+<choice>No, I haven't got it very much.</choice>
+</item>
+<item>
+<audiotext>How long did you stay in each place?</audiotext>
+<audio>CanDoAudio_UI_6_8.mp3</audio>
+<choice correct='1'>Not long. I've got itchy feet so I like to move on.</choice>
+<choice>Not so long. My feet hurt so I have to move on.</choice>
+<choice>Not long times. I like moving on because of my feet.</choice>
+</item>
+</activity>
+</DOC>

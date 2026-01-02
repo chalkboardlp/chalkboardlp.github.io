@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Present/Future modals of possibility</title>
+<sectiontitle>Use &lt;i&gt;could&lt;/i&gt;, &lt;i&gt;may&lt;/i&gt; or &lt;i&gt;might&lt;/i&gt; to talk about present or future possibility.</sectiontitle>
+<titlesound>Uint_Gram_1_3_1.mp3</titlesound>
+<sound1>Uint_Gram_1_3_2.mp3</sound1>
+<sound2>Uint_Gram_1_3_3.mp3</sound2>
+<text1>Where's Jean? </text1>
+<text1a>I'm not sure but she &lt;b&gt;might&lt;/b&gt; be in the garden.</text1a>
+<text2>Do you think there'll be an election soon? </text2>
+<text2a>Possibly. There &lt;b&gt;could&lt;/b&gt; be one next September.</text2a>
+<sectiontitle2>Use &lt;i&gt;can&lt;/i&gt; to talk about more general or theoretical possibility. </sectiontitle2>
+<titlesound2>Uint_Gram_1_3_4.mp3</titlesound2>
+<sound3>Uint_Gram_1_3_5.mp3</sound3>
+<sound4>Uint_Gram_1_3_6.mp3</sound4>
+<text3></text3>
+<text3a>The weather &lt;b&gt;can&lt;/b&gt; be quite bad this time of year.</text3a>
+<text4></text4>
+<text4a>You &lt;b&gt;can&lt;/b&gt; often find bargains in the shops around here.</text4a>
+</section>
+<section>
+<title>Present/Future modals of possibility</title>
+<sectiontitle>Use &lt;i&gt;must&lt;/i&gt; to say that you believe something is certain.</sectiontitle>
+<titlesound>Uint_Gram_1_3_7.mp3</titlesound>
+<sound1>Uint_Gram_1_3_8.mp3</sound1>
+<sound2>Uint_Gram_1_3_9.mp3</sound2>
+<text1></text1>
+<text1a>You haven't had anything to eat all day. You &lt;b&gt;must&lt;/b&gt; be starving. </text1a>
+<text2> </text2>
+<text2a>He's wearing a scarf. He &lt;b&gt;must&lt;/b&gt; be cold. </text2a>
+<sectiontitle2>Use &lt;i&gt;can't&lt;/i&gt; to say that you believe something is not possible.</sectiontitle2>
+<titlesound2>Uint_Gram_1_3_10.mp3</titlesound2>
+<sound3>Uint_Gram_1_3_11.mp3</sound3>
+<sound4>Uint_Gram_1_3_12.mp3</sound4>
+<text3> </text3>
+<text3a>They &lt;b&gt;can't &lt;/b&gt;know many people. They've only just moved here. </text3a>
+<text4> </text4>
+<text4a>She &lt;b&gt;can't&lt;/b&gt; be his mother. She's much too young.</text4a>
+</section>
+</grammar>

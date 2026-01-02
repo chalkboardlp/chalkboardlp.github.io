@@ -1,0 +1,63 @@
+<DOC>
+<activity type="listening"><cando>Express agreement/disagreement</cando><instructions>Talk about family relationships.</instructions>
+<item><audiotext>I'm really glad I'm an only child.</audiotext><audio>CanDoAudio_UI_1_1.mp3</audio><choice correct='1'>Are you? Why's that?</choice><choice>Why are that?</choice><choice>For why you are thinking that?</choice></item><item><audiotext>Well, it makes you very independent.</audiotext><audio>CanDoAudio_UI_1_2.mp3</audio><choice correct='1'>I'm not sure if I agree with that.</choice><choice>I'm not agreeing with that.</choice><choice>I don't to agree with that.</choice></item><item><audiotext>Really? Why not?</audiotext><audio>CanDoAudio_UI_1_3.mp3</audio><choice correct='1'>Well, I've got two brothers and I'm quite independent.</choice><choice>For that I have two brothers but I'm independent.</choice><choice>I'm not only child and I'm independent.</choice></item>
+<item><audiotext>But if you're on your own it forces you to be independent.</audiotext><audio>CanDoAudio_UI_1_4.mp3</audio><choice correct='1'>I totally disagree. </choice><choice>I am disagreeing with that.</choice><choice>I am not agree.</choice></item><item><audiotext>You don't have any brothers or sisters to help you do things, so you have to rely on your own resources.</audiotext><audio>CanDoAudio_UI_1_5.mp3</audio><choice correct='1'>That's probably true.</choice><choice>Is true probably.</choice><choice>That's true at all.</choice></item><item><audiotext>Of course, there are some negative aspects as well. It can be quite lonely.</audiotext><audio>CanDoAudio_UI_1_6.mp3</audio><choice correct='1'>That's absolutely right.</choice><choice>That absolutely is.</choice><choice>Yes, is right.</choice></item>
+<item><audiotext>And it makes it more difficult to adapt to living with other people when you're older.</audiotext><audio>CanDoAudio_UI_1_7.mp3</audio><choice correct='1'>I couldn't agree more.</choice><choice>I am agreeing more.</choice><choice>I can agree more.</choice></item><item><audiotext>And I suppose people who are only children tend to be a bit bossy.</audiotext><audio>CanDoAudio_UI_1_8.mp3</audio><choice correct='1'>I don't think that's completely true.</choice><choice>I think that's true completely.</choice><choice>I don't think is true.</choice></item><item><audiotext>I'm certainly quite a bossy person!</audiotext><audio>CanDoAudio_UI_1_9.mp3</audio><choice correct='1'>I think there's some truth in that.</choice><choice>I don't thinking that's so true.</choice><choice>Some truth is in that.</choice></item></activity><activity type="listening"><cando>Make speculations</cando><instructions>Speculate about people at a party.</instructions>
+<item>
+<audiotext>Who's that girl over there?</audiotext>
+<audio>CanDoAudio_UI_1_10.mp3</audio>
+<choice correct='1'>I'm not sure. She might be John's new girlfriend.</choice>
+<choice>I'm not sure. She could to be John's new girlfriend.</choice>
+<choice>I don't know. She must be John's new girlfriend.</choice>
+</item>
+<item>
+<audiotext>No, I think she's his sister.</audiotext>
+<audio>CanDoAudio_UI_1_11.mp3</audio>
+<choice correct='1'>She can't be his sister, she's too dark.</choice>
+<choice>She must be his sister, she's too dark.</choice>
+<choice>She might be his sister, she's too dark.</choice>
+</item>
+<item>
+<audiotext>Sorry, I meant his step-sister.</audiotext>
+<audio>CanDoAudio_UI_1_12.mp3</audio>
+<choice correct='1'>Oh, yes. I suppose she could be his step-sister.</choice>
+<choice>Perhaps she must be his step-sister.</choice>
+<choice>Yes, she can't be his step-sister.</choice>
+</item>
+<item>
+<audiotext>She's very pretty. Do you think she's married?</audiotext>
+<audio>CanDoAudio_UI_1_13.mp3</audio>
+<choice correct='1'>Yes, she must be. Look, she's wearing a wedding ring.</choice>
+<choice>She can be. Look, she's wearing a wedding ring.</choice>
+<choice>Yes, maybe she must be married.</choice>
+</item>
+<item>
+<audiotext>You're right. I didn't notice that. Do you think she's older or younger than John?</audiotext>
+<audio>CanDoAudio_UI_1_14.mp3</audio>
+<choice correct='1'>He hasn't got any younger sisters so she must be older.</choice>
+<choice>He hasn't got any younger sisters so she might be older.</choice>
+<choice>Maybe she can't be younger than him.</choice>
+</item>
+<item>
+<audiotext>And who is that man standing next to her? Is he her husband?</audiotext>
+<audio>CanDoAudio_UI_1_15.mp3</audio>
+<choice correct='1'>No, he can't be. He's Anna's boyfriend.</choice>
+<choice>No, he can be. He's Anna's boyfriend.</choice>
+<choice>Yes, he might be. He's Anna's boyfriend.</choice>
+</item>
+<item>
+<audiotext>I remember now. He's the one that's going to take her to New York for her birthday, isn't he?</audiotext>
+<audio>CanDoAudio_UI_1_16.mp3</audio>
+<choice correct='1'>I'm not really sure. He might be.</choice>
+<choice>I'm not really sure. He can't be.</choice>
+<choice>No, he definitely could be.</choice>
+</item>
+<item>
+<audiotext>You know I'd love to go to New York.</audiotext>
+<audio>CanDoAudio_UI_1_17.mp3</audio>
+<choice correct='1'>Well, New York can get pretty cold this time of year.</choice>
+<choice>Well, maybe it must be cold in New York this year. </choice>
+<choice>Perhaps it can't be cold in New York.</choice>
+</item>
+</activity>
+</DOC>

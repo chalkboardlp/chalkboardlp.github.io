@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Expressing ability</title>
+<sectiontitle>Use &lt;i&gt;can&lt;/i&gt; to talk about present or 'general' ability.</sectiontitle>
+<titlesound>Uint_Gram_5_2_1.mp3</titlesound>
+<sound1>Uint_Gram_5_2_2.mp3</sound1>
+<sound2>Uint_Gram_5_2_3.mp3</sound2>
+<text1></text1>
+<text1a>She &lt;b&gt;can&lt;/b&gt; speak Russian quite well.</text1a>
+<text2> </text2>
+<text2a>&lt;b&gt;Can&lt;/b&gt; you play any musical instruments?</text2a>
+<sectiontitle2>Use &lt;i&gt;will be able to&lt;/i&gt; to talk about future ability.</sectiontitle2>
+<titlesound2>Uint_Gram_5_2_4.mp3</titlesound2>
+<sound3>Uint_Gram_5_2_5.mp3</sound3>
+<sound4>Uint_Gram_5_2_6.mp3</sound4>
+<text3></text3>
+<text3a>She&lt;b&gt;'ll be able to &lt;/b&gt;run 100 metres in under 11 seconds by the end of the year.</text3a>
+<text4></text4>
+<text4a>I&lt;b&gt;'ll be able to &lt;/b&gt;set up my own business when I've finished the course.</text4a>
+</section>
+<section>
+<title>Expressing ability</title>
+<sectiontitle>Use &lt;i&gt;could&lt;/i&gt; or &lt;i&gt;was / were able to&lt;/i&gt; to talk about past or 'general' ability.</sectiontitle>
+<titlesound>Uint_Gram_5_2_7.mp3</titlesound>
+<sound1>Uint_Gram_5_2_8.mp3</sound1>
+<sound2>Uint_Gram_5_2_9.mp3</sound2>
+<text1></text1>
+<text1a>They &lt;b&gt;could &lt;/b&gt;both ski quite well by the time they were seven or eight years old.</text1a>
+<text2> </text2>
+<text2a>She &lt;b&gt;was able to&lt;/b&gt; communicate effectively in Arabic after working in Egypt for a year.</text2a>
+<sectiontitle2>Use &lt;i&gt;was / were able to&lt;/i&gt; or &lt;i&gt;managed to&lt;/i&gt; or &lt;i&gt;succeeded in&lt;/i&gt; (+ -&lt;i&gt;ing&lt;/i&gt;) to say what someone could do on a particular occasion.</sectiontitle2>
+<titlesound2>Uint_Gram_5_2_10.mp3</titlesound2>
+<sound3>Uint_Gram_5_2_11.mp3</sound3>
+<sound4>Uint_Gram_5_2_12.mp3</sound4>
+<text3></text3>
+<text3a>They &lt;b&gt;were able to &lt;/b&gt;get into the house by forcing open the back door.</text3a>
+<text4></text4>
+<text4a>We &lt;b&gt;succeeded in cleaning&lt;/b&gt; up the whole house before my parents got back.</text4a>
+</section>
+<section>
+<title>Expressing ability</title>
+<sectiontitle>Use &lt;i&gt;know how to&lt;/i&gt; and &lt;i&gt;great at, good at, bad at&lt;/i&gt; and &lt;i&gt;hopeless at&lt;/i&gt; to describe different levels of ability. </sectiontitle>
+<titlesound>Uint_Gram_5_2_13.mp3</titlesound>
+<sound1>Uint_Gram_5_2_14.mp3</sound1>
+<sound2>Uint_Gram_5_2_15.mp3</sound2>
+<text1></text1>
+<text1a>She &lt;b&gt;knows how to&lt;/b&gt; count to ten in Japanese.</text1a>
+<text2> </text2>
+<text2a>I'm &lt;b&gt;hopeless at&lt;/b&gt; cooking. I usually get a take-away on the way home from work.</text2a>
+<sectiontitle2></sectiontitle2>
+<titlesound2></titlesound2>
+<sound3></sound3>
+<sound4></sound4>
+<text3></text3>
+<text3a></text3a>
+<text4></text4>
+<text4a></text4a>
+</section>
+</grammar>
