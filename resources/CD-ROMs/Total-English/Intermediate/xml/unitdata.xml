@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<data> 
+  <unit value="1" title="Friends" /> 
+  <unit value="2" title="Media" /> 
+  <unit value="3" title="Lifestyle" /> 
+  <unit value="4" title="Wealth" /> 
+  <unit value="5" title="Spare time" /> 
+  <unit value="6" title="Holidays " /> 
+  <unit value="7" title="Education" /> 
+  <unit value="8" title="Change" /> 
+  <unit value="9" title="Jobs" /> 
+  <unit value="10" title="Memories" /> 
+</data>
