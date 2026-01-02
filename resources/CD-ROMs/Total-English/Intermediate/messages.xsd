@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema targetNamespace="urn:schemas-xtrabass-com:xmessages" xmlns:msg="urn:schemas-xtrabass-com:xmessages" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:group name="Messages">
+		<xs:all>
+			<xs:element ref="msg:messageBox"/>
+			<xs:element ref="msg:messageBoxReturn"/>
+			<xs:element ref="msg:openFile"/>
+			<xs:element ref="msg:openFileReturn"/>
+			<xs:element ref="msg:saveFile"/>
+			<xs:element ref="msg:saveFileReturn"/>
+			<xs:element ref="msg:validateXML"/>
+			<xs:element ref="msg:validateXMLReturn"/>
+			<xs:element ref="msg:getFolder"/>
+			<xs:element ref="msg:getFolderReturn"/>
+			<xs:element ref="msg:getSpecialFolder"/>
+			<xs:element ref="msg:getSpecialFolderReturn"/>
+			<xs:element ref="msg:setTitlebar"/>
+			<xs:element ref="msg:setTitlebarReturn"/>
+			<xs:element ref="msg:close"/>
+			<xs:element ref="msg:makeFullscreen"/>
+			<xs:element ref="msg:makeFullscreenReturn"/>
+			<xs:element ref="msg:launchFile"/>
+			<xs:element ref="msg:launchFileReturn"/>
+			<xs:element ref="msg:maximizeWindow"/>
+			<xs:element ref="msg:maximizeWindowReturn"/>
+			<xs:element ref="msg:minimizeWindow"/>
+			<xs:element ref="msg:minimizeWindowReturn"/>
+			<xs:element ref="msg:restoreWindow"/>
+			<xs:element ref="msg:restoreWindowReturn"/>
+			<xs:element ref="msg:moveWindow"/>
+			<xs:element ref="msg:moveWindowReturn"/>
+			<xs:element ref="msg:showWindow"/>
+			<xs:element ref="msg:showWindowReturn"/>
+			<xs:element ref="msg:getWindowSizePos"/>
+			<xs:element ref="msg:getWindowSizePosReturn"/>
+			<xs:element ref="msg:saveCopy"/>
+			<xs:element ref="msg:saveCopyReturn"/>
+			<xs:element ref="msg:StartRecording"/>
+			<xs:element ref="msg:StopRecording"/>
+			<xs:element ref="msg:StopRecordingReturn"/>
+			<xs:element ref="msg:PlayRecording"/>
+			<xs:element ref="msg:StopPlayback"/>
+			<xs:element ref="msg:ClearBuffers"/>
+		</xs:all>
+	</xs:group>
+	<xs:element name="messageBox">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:strTitle"/>
+				<xs:element ref="msg:strMessage"/>
+				<xs:element ref="msg:intButtons"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="strMessage" type="xs:string"/>
+	<xs:element name="intButtons" type="xs:integer"/>
+	<xs:element name="validateXML">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:bIsFile"/>
+				<xs:element ref="msg:strData"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="strPathName" type="xs:string"/>
+	<xs:element name="bPathNameOnly" type="xs:boolean"/>
+	<xs:element name="bIsFile" type="xs:boolean"/>
+	<xs:element name="strData" type="xs:string"/>
+	<xs:element name="openFile">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:strPathName"/>
+				<xs:element ref="msg:bPathNameOnly"/>
+				<xs:element ref="msg:strMask"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="saveFile">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:strPathName"/>
+				<xs:element ref="msg:strData"/>
+				<xs:element ref="msg:strMask"/>
+				<xs:element ref="msg:strType"/>
+				<xs:element ref="msg:strCreator"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="messageBoxReturn">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:status"/>
+				<xs:element ref="msg:intButton" minOccurs="0"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="status">
+		<xs:simpleType>
+			<xs:restriction base="xs:NCName">
+				<xs:enumeration value="ok"/>
+				<xs:enumeration value="cancelled"/>
+				<xs:enumeration value="error"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="intButton" type="xs:int"/>
+	<xs:element name="openFileReturn">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:status"/>
+				<xs:element ref="msg:strPathName" minOccurs="0"/>
+				<xs:element ref="msg:strData" minOccurs="0"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="saveFileReturn">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:status"/>
+				<xs:element ref="msg:strPathName" minOccurs="0"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="strError" type="xs:string"/>
+	<xs:element name="validateXMLReturn">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:status"/>
+				<xs:element ref="msg:strError" minOccurs="0"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="getFolder">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:strPath" minOccurs="0"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="strPath"/>
+	<xs:element name="getFolderReturn">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:status"/>
+				<xs:element ref="msg:strPath" minOccurs="0"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="strValue" type="xs:string"/>
+	<xs:element name="setTitlebar">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:strValue"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="setTitlebarReturn">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:status"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="close"/>
+	<xs:element name="makeFullscreen">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:bFullscreen"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="bFullscreen" type="xs:boolean"/>
+	<xs:element name="makeFullscreenReturn">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:status"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+<!-- 
+Start Audio messages
+-->
+	<xs:element name="StartRecording"/>
+	<xs:element name="StopRecording"/>
+	<xs:element name="StopRecordingReturn">
+		<xs:complexType>
+			<xs:all>
+				<xs:element name="Buffer" type="xs:int"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="PlayRecording">
+		<xs:complexType>
+			<xs:all>
+				<xs:element name="Buffer" type="xs:int"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="StopPlayback"/>
+	<xs:element name="ClearBuffers"/>
+<!-- 
+End Audio messages
+-->
+	<xs:element name="buildProjector">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:strData"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="buildProjectorReturn">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:status"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="strMask" type="xs:string"/>
+	<xs:element name="strTitle" type="xs:string"/>
+	<xs:element name="getSpecialFolder">
+		<xs:complexType>
+			<xs:all>
+				<xs:element name="intWhich">
+					<xs:simpleType>
+						<xs:restriction base="xs:int">
+							<xs:minInclusive value="1"/>
+							<xs:maxInclusive value="4"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="getSpecialFolderReturn">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:strPath"/>
+				<xs:element ref="msg:status"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="strType" type="xs:string"/>
+	<xs:element name="strCreator" type="xs:string"/>
+	<xs:element name="launchFile">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:strPathName"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="launchFileReturn">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:status"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="maximizeWindow">
+		<xs:complexType/>
+	</xs:element>
+	<xs:element name="maximizeWindowReturn">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:status"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="minimizeWindowReturn">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:status"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="minimizeWindow"/>
+	<xs:element name="restoreWindow"/>
+	<xs:element name="restoreWindowReturn">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:status"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="windowPosition" nillable="false">
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:pattern value="-?\d+,-?\d+"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="windowSize" nillable="false">
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:pattern value="-?\d+,-?\d+"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="moveWindow">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:windowPosition" minOccurs="0"/>
+				<xs:element ref="msg:windowSize" minOccurs="0"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="moveWindowReturn">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:status"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="showWindow">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:bShow"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="bShow" type="xs:boolean" nillable="false"/>
+	<xs:element name="showWindowReturn">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:status"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="getWindowSizePos">
+		<xs:complexType/>
+	</xs:element>
+	<xs:element name="getWindowSizePosReturn">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:status"/>
+				<xs:element ref="msg:left"/>
+				<xs:element ref="msg:top"/>
+				<xs:element ref="msg:right"/>
+				<xs:element ref="msg:bottom"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="left" type="xs:decimal"/>
+	<xs:element name="top" type="xs:decimal"/>
+	<xs:element name="right" type="xs:decimal"/>
+	<xs:element name="bottom" type="xs:decimal"/>
+	<xs:element name="saveCopy">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:strPathName"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="saveCopyReturn">
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="msg:status"/>
+				<xs:element ref="msg:strPathName" minOccurs="0"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
