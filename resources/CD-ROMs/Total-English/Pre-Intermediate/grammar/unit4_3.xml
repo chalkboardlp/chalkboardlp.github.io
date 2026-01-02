@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<grammar>
+<bgcolour>FFFFFF</bgcolour>
+<darkcolour>A6416E</darkcolour><section><title>Indirect questions</title><sectiontitle>Use indirect questions to sound more polite. Start the questions with &lt;I&gt;Can you tell me&lt;/I&gt; or &lt;I&gt;Do you know&lt;/I&gt;. Use the same word order as positive statements.</sectiontitle>
+<titlesound>Pre-intGRAM_4_3_1.mp3</titlesound>
+<text1>She lives in Madrid.</text1>
+<sound1>Pre-intGRAM_4_3_2.mp3</sound1>
+<text1a>Can you tell me where &lt;B&gt;&lt;Font color='#A6416E'&gt;she lives&lt;/Font&gt;&lt;/B&gt;?</text1a>
+<text2>The film starts at ten.</text2>
+<sound2>Pre-intGRAM_4_3_3.mp3</sound2>
+<text2a>Do you know when &lt;B&gt;&lt;Font color='#A6416E'&gt;the film starts&lt;/Font&gt;&lt;/B&gt;?</text2a>
+<titlesound2>Pre-intGRAM_4_3_4.mp3</titlesound2><sectiontitle2>Use &lt;I&gt;if&lt;/I&gt; or &lt;I&gt;whether&lt;/I&gt; for &lt;I&gt;Yes/No&lt;/I&gt; questions. </sectiontitle2><text3>Is Mr Smith there?</text3><sound3>Pre-intGRAM_4_3_5.mp3</sound3><text3a>Do you know &lt;B&gt;&lt;Font color='#A6416E'&gt;if&lt;/Font&gt;&lt;/B&gt; Mr Smith is there?</text3a><text4>Does Mary live here?</text4><sound4>Pre-intGRAM_4_3_6.mp3</sound4><text4a>Can you tell me &lt;B&gt;&lt;Font color='#A6416E'&gt;whether&lt;/Font&gt;&lt;/B&gt; Mary lives here?</text4a></section></grammar>
