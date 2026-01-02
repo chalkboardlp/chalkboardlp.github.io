@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+  <navigation>
+  <folder label="Units">
+<folder label="Unit 1" title="Unit 1">
+  		<file activityFile="Gram1_1.xml" url="Grammar.swf" lesson="1" activity="0" />
+  		<file activityFile="Unit1-Activ1-1.xml" url="player.swf" lesson="1" activity="1" label="The verb &lt;I&gt;to be&lt;/I&gt;" />
+  		<file activityFile="Unit1-Activ1-2.xml" url="player.swf" lesson="1" activity="2" label="The verb &lt;I&gt;to be&lt;/I&gt;" />
+  		<file activityFile="Gram1_2.xml" url="Grammar.swf" lesson="2" activity="0" />
+  		<file activityFile="Unit1-Activ2-1.xml" url="player.swf" lesson="2" activity="1" label="Possessive adjectives" />
+  		<file activityFile="Unit1-Activ2-2.xml" url="player.swf" lesson="2" activity="2" label="Possessive &lt;I&gt;'s&lt;/I&gt;" />
+  		<file activityFile="Unit1-Activ2-3.xml" url="player.swf" lesson="2" activity="3" label="The verb &lt;I&gt;to be&lt;/I&gt;: &lt;I&gt;Yes/No &lt;/I&gt;questions." />
+  		<file activityFile="Gram1_3.xml" url="Grammar.swf" lesson="3" activity="0" />
+  		<file activityFile="Unit1-Activ3-1.xml" url="player.swf" lesson="3" activity="1" label="The verb &lt;I&gt;to be&lt;/I&gt;: negative" />
+  		<file activityFile="Unit1-Activ3-2.xml" url="player.swf" lesson="3" activity="2" label="The verb &lt;I&gt;to be&lt;/I&gt;: &lt;I&gt;Wh&lt;/I&gt;- questions" />
+  		<file activityFile="Unit1-Activ3-3.xml" url="player.swf" lesson="3" activity="3" label="Indefinite article &lt;I&gt;a/an&lt;/I&gt;" />
+  		<file activityFile="GAME1-Activ0.xml" url="Game.swf" lesson="99" activity="99" />
+  	</folder>
+<folder label="Unit 2" title="Unit 2">
+  		<file activityFile="Gram2_1.xml" url="Grammar.swf" lesson="1" activity="0" />
+  		<file activityFile="Unit2-Activ1-1.xml" url="player.swf" lesson="1" activity="1" label="Present Simple with &lt;I&gt;I&lt;/I&gt;, &lt;I&gt;you &lt;/I&gt;and &lt;I&gt;we&lt;/I&gt;" />
+  		<file activityFile="Unit2-Activ1-2.xml" url="player.swf" lesson="1" activity="2" label="Present Simple with &lt;I&gt;I&lt;/I&gt;, &lt;I&gt;you &lt;/I&gt;and &lt;I&gt;we&lt;/I&gt;" />
+  		<file activityFile="Gram2_2.xml" url="Grammar.swf" lesson="2" activity="0" />
+  		<file activityFile="Unit2-Activ2-1.xml" url="player.swf" lesson="2" activity="1" label="Present Simple with &lt;I&gt;he&lt;/I&gt;, &lt;I&gt;she &lt;/I&gt;and &lt;I&gt;it&lt;/I&gt;" />
+  		<file activityFile="Unit2-Activ2-2.xml" url="player.swf" lesson="2" activity="2" label="Present Simple with &lt;I&gt;he&lt;/I&gt;, &lt;I&gt;she &lt;/I&gt;and &lt;I&gt;it&lt;/I&gt;" />
+  		<file activityFile="Gram2_3.xml" url="Grammar.swf" lesson="3" activity="0" />
+  		<file activityFile="Unit2-Activ3-1.xml" url="player.swf" lesson="3" activity="1" label="&lt;I&gt;This&lt;/I&gt;, &lt;I&gt;that&lt;/I&gt;, &lt;I&gt;these&lt;/I&gt;, &lt;I&gt;those&lt;/I&gt;" />
+  		<file activityFile="Unit2-Activ3-2.xml" url="player.swf" lesson="3" activity="2" label="Noun plurals" />
+  		<file activityFile="GAME2-Activ0.xml" url="Game.swf" lesson="99" activity="99" />
+  	</folder>
+<folder label="Unit 3" title="Unit 3">
+  		<file activityFile="Gram3_1.xml" url="Grammar.swf" lesson="1" activity="0" />
+  		<file activityFile="Unit3-Activ1-1.xml" url="player.swf" lesson="1" activity="1" label="Present Simple negative" />
+  		<file activityFile="Unit3-Activ1-2.xml" url="player.swf" lesson="1" activity="2" label="Present Simple negative" />
+  		<file activityFile="Gram3_2.xml" url="Grammar.swf" lesson="2" activity="0" />
+  		<file activityFile="Unit3-Activ2-1.xml" url="player.swf" lesson="2" activity="1" label="&lt;I&gt;Can&lt;/I&gt;/&lt;I&gt;can't&lt;/I&gt;" />
+  		<file activityFile="Unit3-Activ2-2.xml" url="player.swf" lesson="2" activity="2" label="&lt;I&gt;Can&lt;/I&gt;/&lt;I&gt;can't&lt;/I&gt;" />
+  		<file activityFile="Gram3_3.xml" url="Grammar.swf" lesson="3" activity="0" />
+  		<file activityFile="Unit3-Activ3-1.xml" url="player.swf" lesson="3" activity="1" label="Requests and suggestions" />
+  		<file activityFile="Unit3-Activ3-2.xml" url="player.swf" lesson="3" activity="2" label="Requests and suggestions" />
+  		<file activityFile="GAME3-Activ0.xml" url="Game.swf" lesson="99" activity="99" />
+  	</folder>
+<folder label="Unit 4" title="Unit 4">
+  		<file activityFile="Gram4_1.xml" url="Grammar.swf" lesson="1" activity="0" />
+  		<file activityFile="Unit4-Activ1-1.xml" url="player.swf" lesson="1" activity="1" label="Countable and uncountable nouns" />
+  		<file activityFile="Unit4-Activ1-2.xml" url="player.swf" lesson="1" activity="2" label="Countable and uncountable nouns" />
+  		<file activityFile="Gram4_2.xml" url="Grammar.swf" lesson="2" activity="0" />
+  		<file activityFile="Unit4-Activ2-1.xml" url="player.swf" lesson="2" activity="1" label="&lt;I&gt;A&lt;/I&gt;/&lt;I&gt;an&lt;/I&gt;, &lt;I&gt;some &lt;/I&gt;and &lt;I&gt;any&lt;/I&gt;" />
+  		<file activityFile="Unit4-Activ2-2.xml" url="player.swf" lesson="2" activity="2" label="&lt;I&gt;A&lt;/I&gt;/&lt;I&gt;an&lt;/I&gt;, &lt;I&gt;some &lt;/I&gt;and &lt;I&gt;any&lt;/I&gt;" />
+  		<file activityFile="Gram4_3.xml" url="Grammar.swf" lesson="3" activity="0" />
+  		<file activityFile="Unit4-Activ3-1.xml" url="player.swf" lesson="3" activity="1" label="Object pronouns" />
+  		<file activityFile="Unit4-Activ3-2.xml" url="player.swf" lesson="3" activity="2" label="Object pronouns" />
+  		<file activityFile="GAME4-Activ0.xml" url="Game.swf" lesson="99" activity="99" />
+  	</folder>
+<folder label="Unit 5" title="Unit 5">
+  		<file activityFile="Gram5_1.xml" url="Grammar.swf" lesson="1" activity="0" />
+  		<file activityFile="Unit5-Activ1-1.xml" url="player.swf" lesson="1" activity="1" label="&lt;I&gt;There is&lt;/I&gt;/&lt;I&gt;are&lt;/I&gt;" />
+  		<file activityFile="Unit5-Activ1-2.xml" url="player.swf" lesson="1" activity="2" label="&lt;I&gt;There is&lt;/I&gt;/&lt;I&gt;are&lt;/I&gt;" />
+  		<file activityFile="Gram5_2.xml" url="Grammar.swf" lesson="2" activity="0" />
+  		<file activityFile="Unit5-Activ2-1.xml" url="player.swf" lesson="2" activity="1" label="&lt;I&gt;Have got&lt;/I&gt;" />
+  		<file activityFile="Unit5-Activ2-2.xml" url="player.swf" lesson="2" activity="2" label="&lt;I&gt;Have got&lt;/I&gt;" />
+  		<file activityFile="Gram5_3.xml" url="Grammar.swf" lesson="3" activity="0" />
+  		<file activityFile="Unit5-Activ3-1.xml" url="player.swf" lesson="3" activity="1" label="Modifiers: &lt;I&gt;very&lt;/I&gt;, &lt;I&gt;really&lt;/I&gt;, &lt;I&gt;quite&lt;/I&gt;, &lt;I&gt;not very&lt;/I&gt;" />
+  		<file activityFile="Unit5-Activ3-2.xml" url="player.swf" lesson="3" activity="2" label="Modifiers: &lt;I&gt;very&lt;/I&gt;, &lt;I&gt;really&lt;/I&gt;, &lt;I&gt;quite&lt;/I&gt;, &lt;I&gt;not very&lt;/I&gt;" />
+  		<file activityFile="GAME5-Activ0.xml" url="Game.swf" lesson="99" activity="99" />
+  	</folder>
+<folder label="Unit 6" title="Unit 6">
+  		<file activityFile="Gram6_1.xml" url="Grammar.swf" lesson="1" activity="0" />
+  		<file activityFile="Unit6-Activ1-1.xml" url="player.swf" lesson="1" activity="1" label="Past Simple of &lt;I&gt;to be&lt;/I&gt;" />
+  		<file activityFile="Unit6-Activ1-2.xml" url="player.swf" lesson="1" activity="2" label="Past Simple of &lt;I&gt;to be&lt;/I&gt;" />
+  		<file activityFile="Gram6_2.xml" url="Grammar.swf" lesson="2" activity="0" />
+  		<file activityFile="Unit6-Activ2-1.xml" url="player.swf" lesson="2" activity="1" label="Past Simple questions " />
+  		<file activityFile="Unit6-Activ2-2.xml" url="player.swf" lesson="2" activity="2" label="Past Simple questions " />
+  		<file activityFile="Gram6_3.xml" url="Grammar.swf" lesson="3" activity="0" />
+  		<file activityFile="Unit6-Activ3-1.xml" url="player.swf" lesson="3" activity="1" label="Past Simple negative" />
+  		<file activityFile="Unit6-Activ3-2.xml" url="player.swf" lesson="3" activity="2" label="Past Simple negative" />
+  		<file activityFile="GAME6-Activ0.xml" url="Game.swf" lesson="99" activity="99" />
+  	</folder>
+<folder label="Unit 7" title="Unit 7">
+  		<file activityFile="Gram7_1.xml" url="Grammar.swf" lesson="1" activity="0" />
+  		<file activityFile="Unit7-Activ1-1.xml" url="player.swf" lesson="1" activity="1" label="Pronoun &lt;I&gt;one&lt;/I&gt;/&lt;I&gt;ones&lt;/I&gt;" />
+  		<file activityFile="Unit7-Activ1-2.xml" url="player.swf" lesson="1" activity="2" label="Pronoun &lt;I&gt;one&lt;/I&gt;/&lt;I&gt;ones&lt;/I&gt;" />
+  		<file activityFile="Gram7_2.xml" url="Grammar.swf" lesson="2" activity="0" />
+  		<file activityFile="Unit7-Activ2-1.xml" url="player.swf" lesson="2" activity="1" label="Possessive pronouns" />
+  		<file activityFile="Unit7-Activ2-2.xml" url="player.swf" lesson="2" activity="2" label="Possessive pronouns" />
+  		<file activityFile="Gram7_3.xml" url="Grammar.swf" lesson="3" activity="0" />
+  		<file activityFile="Unit7-Activ3-1.xml" url="player.swf" lesson="3" activity="1" label="Past Simple of irregular verbs" />
+  		<file activityFile="Unit7-Activ3-2.xml" url="player.swf" lesson="3" activity="2" label="Past Simple of irregular verbs" />
+  		<file activityFile="GAME7-Activ0.xml" url="Game.swf" lesson="99" activity="99" />
+  	</folder>
+<folder label="Unit 8" title="Unit 8">
+  		<file activityFile="Gram8_1.xml" url="Grammar.swf" lesson="1" activity="0" />
+  		<file activityFile="Unit8-Activ1-1.xml" url="player.swf" lesson="1" activity="1" label="Present Simple with adverbs of frequency" />
+  		<file activityFile="Unit8-Activ1-2.xml" url="player.swf" lesson="1" activity="2" label="Present Simple with adverbs of frequency" />
+  		<file activityFile="Gram8_2.xml" url="Grammar.swf" lesson="2" activity="0" />
+  		<file activityFile="Unit8-Activ2-1.xml" url="player.swf" lesson="2" activity="1" label="Present Continuous" />
+  		<file activityFile="Unit8-Activ2-2.xml" url="player.swf" lesson="2" activity="2" label="Present Continuous" />
+  		<file activityFile="Gram8_3.xml" url="Grammar.swf" lesson="3" activity="0" />
+  		<file activityFile="Unit8-Activ3-1.xml" url="player.swf" lesson="3" activity="1" label="Present Simple and Present Continuous" />
+  		<file activityFile="Unit8-Activ3-2.xml" url="player.swf" lesson="3" activity="2" label="Present Simple and Present Continuous" />
+  		<file activityFile="GAME8-Activ0.xml" url="Game.swf" lesson="99" activity="99" />
+  	</folder>
+<folder label="Unit 9" title="Unit 9">
+  		<file activityFile="Gram9_1.xml" url="Grammar.swf" lesson="1" activity="0" />
+  		<file activityFile="Unit9-Activ1-1.xml" url="player.swf" lesson="1" activity="1" label="Comparative adjectives" />
+  		<file activityFile="Unit9-Activ1-2.xml" url="player.swf" lesson="1" activity="2" label="Comparative adjectives" />
+  		<file activityFile="Gram9_2.xml" url="Grammar.swf" lesson="2" activity="0" />
+  		<file activityFile="Unit9-Activ2-1.xml" url="player.swf" lesson="2" activity="1" label="Superlative adjectives " />
+  		<file activityFile="Unit9-Activ2-2.xml" url="player.swf" lesson="2" activity="2" label="Superlative adjectives" />
+  		<file activityFile="Gram9_3.xml" url="Grammar.swf" lesson="3" activity="0" />
+  		<file activityFile="Unit9-Activ3-1.xml" url="player.swf" lesson="3" activity="1" label="&lt;I&gt;Prefer &lt;/I&gt;+ noun/-&lt;I&gt;ing&lt;/I&gt;" />
+  		<file activityFile="Unit9-Activ3-2.xml" url="player.swf" lesson="3" activity="2" label="&lt;I&gt;Prefer &lt;/I&gt;+ noun/-&lt;I&gt;ing&lt;/I&gt;" />
+  		<file activityFile="GAME9-Activ0.xml" url="Game.swf" lesson="99" activity="99" />
+  	</folder>
+<folder label="Unit 10" title="Unit 10">
+  		<file activityFile="Gram10_1.xml" url="Grammar.swf" lesson="1" activity="0" />
+  		<file activityFile="Unit10-Activ1-1.xml" url="player.swf" lesson="1" activity="1" label="Present Perfect (&lt;I&gt;I&lt;/I&gt;, &lt;I&gt;you&lt;/I&gt;, &lt;I&gt;we&lt;/I&gt;, &lt;I&gt;they&lt;/I&gt;) with &lt;I&gt;been&lt;/I&gt;" />
+  		<file activityFile="Unit10-Activ1-2.xml" url="player.swf" lesson="1" activity="2" label="Present Perfect (&lt;I&gt;I&lt;/I&gt;, &lt;I&gt;you&lt;/I&gt;, &lt;I&gt;we&lt;/I&gt;, &lt;I&gt;they&lt;/I&gt;) with &lt;I&gt;been&lt;/I&gt;" />
+  		<file activityFile="Gram10_2.xml" url="Grammar.swf" lesson="2" activity="0" />
+  		<file activityFile="Unit10-Activ2-1.xml" url="player.swf" lesson="2" activity="1" label="The Present Perfect with &lt;I&gt;he&lt;/I&gt;/&lt;I&gt;she&lt;/I&gt;/&lt;I&gt;it&lt;/I&gt;" />
+  		<file activityFile="Unit10-Activ2-2.xml" url="player.swf" lesson="2" activity="2" label="The Present Perfect with &lt;I&gt;he&lt;/I&gt;/&lt;I&gt;she&lt;/I&gt;/&lt;I&gt;it&lt;/I&gt;" />
+  		<file activityFile="Gram10_3.xml" url="Grammar.swf" lesson="3" activity="0" />
+  		<file activityFile="Unit10-Activ3-1.xml" url="player.swf" lesson="3" activity="1" label="-&lt;I&gt;ing &lt;/I&gt;form as noun" />
+  		<file activityFile="Unit10-Activ3-2.xml" url="player.swf" lesson="3" activity="2" label="-&lt;I&gt;ing &lt;/I&gt;form as noun" />
+  		<file activityFile="GAME10-Activ0.xml" url="Game.swf" lesson="99" activity="99" />
+  	</folder>
+<folder label="Unit 11" title="Unit 11">
+  		<file activityFile="Gram11_1.xml" url="Grammar.swf" lesson="1" activity="0" />
+  		<file activityFile="Unit11-Activ1-1.xml" url="player.swf" lesson="1" activity="1" label="&lt;I&gt;Can&lt;/I&gt;/&lt;I&gt;can’t&lt;/I&gt;, &lt;I&gt;have to&lt;/I&gt;/&lt;I&gt;don’t have to&lt;/I&gt;" />
+  		<file activityFile="Unit11-Activ1-2.xml" url="player.swf" lesson="1" activity="2" label="&lt;I&gt;Can&lt;/I&gt;/&lt;I&gt;can’t&lt;/I&gt;, &lt;I&gt;have to&lt;/I&gt;/&lt;I&gt;don’t have to&lt;/I&gt;" />
+  		<file activityFile="Gram11_2.xml" url="Grammar.swf" lesson="2" activity="0" />
+  		<file activityFile="Unit11-Activ2-1.xml" url="player.swf" lesson="2" activity="1" label="Review of &lt;I&gt;Wh&lt;/I&gt;-questions" />
+  		<file activityFile="Unit11-Activ2-2.xml" url="player.swf" lesson="2" activity="2" label="Review of &lt;I&gt;Wh&lt;/I&gt;-questions" />
+  		<file activityFile="Gram11_3.xml" url="Grammar.swf" lesson="3" activity="0" />
+  		<file activityFile="Unit11-Activ3-1.xml" url="player.swf" lesson="3" activity="1" label="Present Continuous as future" />
+  		<file activityFile="Unit11-Activ3-2.xml" url="player.swf" lesson="3" activity="2" label="Present Continuous as future" />
+  		<file activityFile="GAME11-Activ0.xml" url="Game.swf" lesson="99" activity="99" />
+  	</folder>
+<folder label="Unit 12" title="Unit 12">
+  		<file activityFile="Gram12_1.xml" url="Grammar.swf" lesson="1" activity="0" />
+  		<file activityFile="Unit12-Activ1-1.xml" url="player.swf" lesson="1" activity="1" label="&lt;I&gt;Be going to&lt;/I&gt;" />
+  		<file activityFile="Unit12-Activ1-2.xml" url="player.swf" lesson="1" activity="2" label="&lt;I&gt;Be going to&lt;/I&gt;" />
+  		<file activityFile="Gram12_2.xml" url="Grammar.swf" lesson="2" activity="0" />
+  		<file activityFile="Unit12-Activ2-1.xml" url="player.swf" lesson="2" activity="1" label="Infinitive of purpose" />
+  		<file activityFile="Unit12-Activ2-2.xml" url="player.swf" lesson="2" activity="2" label="Infinitive of purpose" />
+  		<file activityFile="Gram12_3.xml" url="Grammar.swf" lesson="3" activity="0" />
+  		<file activityFile="Unit12-Activ3-1.xml" url="player.swf" lesson="3" activity="1" label="Verbs + infinitive/-&lt;I&gt;ing &lt;/I&gt;form" />
+  		<file activityFile="Unit12-Activ3-2.xml" url="player.swf" lesson="3" activity="2" label="Verbs + infinitive/-&lt;I&gt;ing &lt;/I&gt;form" />
+  		<file activityFile="GAME12-Activ0.xml" url="Game.swf" lesson="99" activity="99" />
+  	</folder>
+  </folder>
+  <file url="phonetic.swf" label="Phonetic Chart" activity="98" />
+  </navigation>
