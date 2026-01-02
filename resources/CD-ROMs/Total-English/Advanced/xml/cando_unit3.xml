@@ -1,0 +1,129 @@
+<DOC>
+<activity type='listening'>
+<cando>Describe a person in detail</cando>
+<instructions>Describe some colleagues</instructions>
+<item>
+<audiotext>So what's your new boss like?</audiotext>
+<audio>CanDoAudio_ad_3_1.mp3</audio>
+<choice correct='1'>The thing that strikes you about him is how tall he is!</choice>
+<choice>The thing strikes you about him is how tall he is! </choice>
+<choice>He likes a lot of things about the company.</choice>
+</item>
+<item>
+<audiotext>But what's his character like?</audiotext>
+<audio>CanDoAudio_ad_3_2.mp3</audio>
+<choice correct='1'>He comes across as a nice guy.</choice>
+<choice>He comes across a nice guy.</choice>
+<choice>He came across a very good company.</choice>
+</item>
+<item>
+<audiotext>But you really liked your old boss, didn't you?</audiotext>
+<audio>CanDoAudio_ad_3_3.mp3</audio>
+<choice correct='1'>Yes. She was such a good manager.</choice>
+<choice>Yes. She was a such good manager.</choice>
+<choice>Yes. She was a so good manager</choice>
+</item>
+<item>
+<audiotext>Why do you say that?</audiotext>
+<audio>CanDoAudio_ad_3_4.mp3</audio>
+<choice correct='1'>She was so generous with her time.</choice>
+<choice>She was such generous with her time.</choice>
+<choice>She wasn't so generous with her time.</choice>
+</item>
+<item>
+<audiotext>Yes, I remember you saying that before.</audiotext>
+<audio>CanDoAudio_ad_3_5.mp3</audio>
+<choice correct='1'>The thing I really liked about her was that she always listened.</choice>
+<choice>The real thing I liked about her was that she always listened. </choice>
+<choice>What thing I liked about her was that she always listened.</choice>
+</item>
+<item>
+<audiotext>That's good. Not all managers are like that, are they?</audiotext>
+<audio>CanDoAudio_ad_3_6.mp3</audio>
+<choice correct='1'>No. A lot of them can be a bit stand-offish.</choice>
+<choice>No. A lot of them can be bit stand-offish.</choice>
+<choice>No. A lot of them can't.</choice>
+</item>
+<item>
+<audiotext>But she was pretty strict, wasn't she?</audiotext>
+<audio>CanDoAudio_ad_3_7.mp3</audio>
+<choice correct='1'>Well, once you got to know her, she wasn't really. </choice>
+<choice>Well, once you got know her, she wasn't really.</choice>
+<choice>Well, you once got to know her, she wasn't really.</choice>
+</item>
+</activity>
+<activity type='listening'>
+<cando>Distinguish between synonyms in academic English</cando>
+<instructions>Give the synonym</instructions>
+<item>
+<audiotext>Can you help me with his crossword? I need a word for "liberated". </audiotext>
+<audio>CanDoAudio_ad_3_8.mp3</audio>
+<choice correct='1'>It could be "freed".</choice>
+<choice>It could be "saved".</choice>
+<choice>It could be "helped".</choice>
+</item>
+<item>
+<audiotext>Oh yes. The next word is "isolated". Five letters.</audiotext>
+<audio>CanDoAudio_ad_3_9.mp3</audio>
+<choice correct='1'>"Alone". </choice>
+<choice>"Stranded".</choice>
+<choice>"Single".</choice>
+</item>
+<item>
+<audiotext>Well done! Now I need a word for "fight". Six letters, ending with "t".</audiotext>
+<audio>CanDoAudio_ad_3_10.mp3</audio>
+<choice correct='1'>How about "combat"?</choice>
+<choice>How about "destroy"?</choice>
+<choice>How about "battle"? </choice>
+</item>
+<item>
+<audiotext>This one's difficult. A word for "started". Nine letters.</audiotext>
+<audio>CanDoAudio_ad_3_11.mp3</audio>
+<choice correct='1'>It might be "initiated". </choice>
+<choice>It might be "began".</choice>
+<choice>It might be "inspired".</choice>
+</item>
+<item>
+<audiotext>Now I need a word for "stop something from happening".</audiotext>
+<audio>CanDoAudio_ad_3_12.mp3</audio>
+<choice correct='1'>That's easy. "Prevent".</choice>
+<choice>That's easy. "Not allow".</choice>
+<choice>That's easy. "Legalise".</choice>
+</item>
+<item>
+<audiotext>OK. The definition is "extremely old".</audiotext>
+<audio>CanDoAudio_ad_3_13.mp3</audio>
+<choice correct='1'>"Ancient".</choice>
+<choice>"Elderly".</choice>
+<choice>"Run-down"</choice>
+</item>
+<item>
+<audiotext>You're good at these! The next one is "lead to". Beginning with c.</audiotext>
+<audio>CanDoAudio_ad_3_14.mp3</audio>
+<choice correct='1'>It could be "cause".</choice>
+<choice>It could be "create".</choice>
+<choice>It could be "continue".</choice>
+</item>
+<item>
+<audiotext>Yes, it is. What could this be? A formal word for "buy", as in "buy something in the shops". </audiotext>
+<audio>CanDoAudio_ad_3_15.mp3</audio>
+<choice correct='1'>How about "purchase"?</choice>
+<choice>How about "bargain".</choice>
+<choice>How about "sell"?</choice>
+</item>
+<item>
+<audiotext>Yes, that fits. Just a couple more. "Fake". A verb beginning with p.</audiotext>
+<audio>CanDoAudio_ad_3_16.mp3</audio>
+<choice correct='1'>"Pretend".</choice>
+<choice>"Hoax".</choice>
+<choice>"Presume".</choice>
+</item>
+<item>
+<audiotext>Last one. A word for "formal discussions".</audiotext>
+<audio>CanDoAudio_ad_3_17.mp3</audio>
+<choice correct='1'>I think it's probably "talks".</choice>
+<choice>I think it's probably "chat".</choice>
+<choice>I think it's probably "arguments".</choice>
+</item>
+</activity>
+</DOC>

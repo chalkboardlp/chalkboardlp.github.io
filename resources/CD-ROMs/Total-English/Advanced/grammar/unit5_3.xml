@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Emphasis</title>
+<sectiontitle>Passive constructions can be used to emphasise information at the beginning of a sentence.</sectiontitle>
+<titlesound>ad_gram5_3_1.mp3</titlesound>
+<text1>The police arrested the suspect.</text1>
+<text1a>The suspect &lt;b&gt;was arrested&lt;/b&gt; by police.</text1a>
+<sound1>ad_gram5_3_2.mp3</sound1>
+<text2>Someone threw an egg which hit the Prime Minister.</text2>
+<text2a>The Prime Minister &lt;b&gt;was hit&lt;/b&gt; with an egg.</text2a>
+<sound2>ad_gram5_3_3.mp3</sound2>
+<sectiontitle2>&lt;b&gt;Fronting&lt;/b&gt;: You can change the order of clauses in a sentence to put a clause at the beginning which would not normally be there.</sectiontitle2>
+<titlesound2>ad_gram5_3_4.mp3</titlesound2>
+<text3></text3>
+<text3a>What she thinks she is doing, I don't know! </text3a>
+<sound3>ad_gram5_3_5.mp3</sound3>
+<text4></text4>
+<text4a>How we will manage is a mystery.</text4a>
+<sound4>ad_gram5_3_6.mp3</sound4>
+</section>
+<section>
+<title>Emphasis</title>
+<sectiontitle>&lt;b&gt;Cleft sentences.&lt;/b&gt; Sentences introduced with &lt;i&gt;It is/It was&lt;/i&gt;, or by a clause beginning with &lt;i&gt;what&lt;/i&gt; can be used to emphasise different parts of the sentence.</sectiontitle>
+<titlesound>ad_gram5_3_7.mp3</titlesound>
+<text1></text1>
+<text1a>&lt;b&gt;It was&lt;/b&gt; me who spotted the mistake.</text1a>
+<sound1>ad_gram5_3_8.mp3</sound1>
+<text2></text2>
+<text2a>&lt;b&gt;What&lt;/b&gt; we need to do is focus on the positive.</text2a>
+<sound2>ad_gram5_3_9.mp3</sound2>
+<sectiontitle2>&lt;b&gt;Adding words for emphasis: &lt;/b&gt;&lt;i&gt;own, indeed, in the least bit, at all, even, utterly, sheer, wherever, do.&lt;/i&gt;</sectiontitle2>
+<titlesound2>ad_gram5_3_10.mp3</titlesound2>
+<text3></text3>
+<text3a>They aren't &lt;b&gt;in the least bit&lt;/b&gt; scared.</text3a>
+<sound3>ad_gram5_3_11.mp3</sound3>
+<text4></text4>
+<text4a>It was &lt;b&gt;utterly&lt;/b&gt; pointless us being there.</text4a>
+<sound4>ad_gram5_3_12.mp3</sound4>
+</section>
+</grammar>

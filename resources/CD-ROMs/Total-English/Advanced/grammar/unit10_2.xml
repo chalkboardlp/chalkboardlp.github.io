@@ -1,0 +1,41 @@
+﻿<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Modals of deduction (past)</title>
+<sectiontitle>Use &lt;i&gt;must have (been)&lt;/i&gt; for things which were certain, and &lt;i&gt;might have (been)&lt;/i&gt; for a possibility.</sectiontitle>
+<titlesound>ad_gram10_2_1.mp3</titlesound>
+<text1></text1>
+<text1a>It &lt;b&gt;must have been&lt;/b&gt; terrifying.</text1a>
+<sound1>ad_gram10_2_2.mp3</sound1>
+<text2></text2>
+<text2a>There &lt;b&gt;might have been&lt;/b&gt; lots of reasons for them leaving.</text2a>
+<sound2>ad_gram10_2_3.mp3</sound2>
+<sectiontitle2>Use &lt;i&gt;can't have (been)/couldn't have (been)&lt;/i&gt; for impossibility.</sectiontitle2>
+<titlesound2>ad_gram10_2_4.mp3</titlesound2>
+<text3></text3>
+<text3a>He &lt;b&gt;can't have finished&lt;/b&gt; already!</text3a>
+<sound3>ad_gram10_2_5.mp3</sound3>
+<text4></text4>
+<text4a>They &lt;b&gt;couldn't have come&lt;/b&gt; this far.</text4a>
+<sound4>ad_gram10_2_6.mp3</sound4>
+</section>
+<section>
+<title>Modals of deduction (past)</title>
+<sectiontitle>Use &lt;i&gt;could have been/may have been&lt;/i&gt; for possibility.</sectiontitle>
+<titlesound>ad_gram10_2_7.mp3</titlesound>
+<text1></text1>
+<text1a>We &lt;b&gt;could have been left&lt;/b&gt; there for ages.</text1a>
+<sound1>ad_gram10_2_8.mp3</sound1>
+<text2></text2>
+<text2a>There &lt;b&gt;may have been&lt;/b&gt; a good reason for the delay, but we were angry nevertheless.</text2a>
+<sound2>ad_gram10_2_9.mp3</sound2>
+<sectiontitle2>Use &lt;i&gt;will have been&lt;/i&gt; when we are fairly certain.</sectiontitle2>
+<titlesound2>ad_gram10_2_10.mp3</titlesound2>
+<text3></text3>
+<text3a>That &lt;b&gt;will have been&lt;/b&gt; Jim. He always calls at this time.</text3a>
+<sound3>ad_gram10_2_11.mp3</sound3>
+<text4></text4>
+<text4a></text4a>
+<sound4></sound4>
+</section>
+</grammar>

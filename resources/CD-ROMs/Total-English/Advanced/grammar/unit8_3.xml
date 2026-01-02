@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Fronting</title>
+<sectiontitle>We can start a sentence with a complement (object, verb, adjective or adverb) to emphasise the complement.</sectiontitle>
+<titlesound>ad_gram8_3_1.mp3</titlesound>
+<text1>The film was long but it wasn't interesting!</text1>
+<text1a>&lt;b&gt;Long&lt;/b&gt; the film &lt;b&gt;was&lt;/b&gt;, but &lt;b&gt;interesting&lt;/b&gt; it &lt;b&gt;wasn't&lt;/b&gt;!</text1a>
+<sound1>ad_gram8_3_2.mp3</sound1>
+<text2>She sang softly.</text2>
+<text2a>&lt;b&gt;Softly&lt;/b&gt; she sang.</text2a>
+<sound2>ad_gram8_3_3.mp3</sound2>
+<sectiontitle2>We can use &lt;i&gt;what&lt;/i&gt; or another question word to begin the sentence.</sectiontitle2>
+<titlesound2>ad_gram8_3_4.mp3</titlesound2>
+<text3>It's impossible to say what she wants.</text3>
+<text3a>&lt;b&gt;What&lt;/b&gt; she wants &lt;b&gt;is impossible to say&lt;/b&gt;.</text3a>
+<sound3>ad_gram8_3_5.mp3</sound3>
+<text4>I've no idea why you're telling me this!</text4>
+<text4a>&lt;b&gt;Why&lt;/b&gt; you're telling me this &lt;b&gt;I've no idea&lt;/b&gt;!</text4a>
+<sound4>ad_gram8_3_6.mp3</sound4>
+</section>
+<section>
+<title> Fronting</title>
+<sectiontitle>We can front verbs and adjectives with &lt;i&gt;as&lt;/i&gt; and &lt;i&gt;though&lt;/i&gt;.</sectiontitle>
+<titlesound>ad_gram8_3_7.mp3</titlesound>
+<text1>I was hungry, but I didn't eat until everyone had finished.</text1>
+<text1a>&lt;b&gt;Hungry though I was&lt;/b&gt;, I didn't eat until everyone had finished.</text1a>
+<sound1>ad_gram8_3_8.mp3</sound1>
+<text2>He tried to find a job, but he couldn't.</text2>
+<text2a>&lt;b&gt;Try as he did&lt;/b&gt;, he couldn't find a job.</text2a>
+<sound2>ad_gram8_3_9.mp3</sound2>
+<sectiontitle2>There are many common 'fronting phrases' which are used for emphasis: &lt;i&gt;the trouble is ..., the fact remains that ..., the question is ...&lt;/i&gt; </sectiontitle2>
+<titlesound2>ad_gram8_3_10.mp3</titlesound2>
+<text3></text3>
+<text3a>&lt;b&gt;The question is&lt;/b&gt;, do we want to sell the company?</text3a>
+<sound3>ad_gram8_3_11.mp3</sound3>
+<text4></text4>
+<text4a>&lt;b&gt;The trouble is&lt;/b&gt;, he's never really understood the business.</text4a>
+<sound4>ad_gram8_3_12.mp3</sound4>
+</section>
+<section>
+<title> Fronting</title>
+<sectiontitle>We can use fronting to link what we are saying to information that was given earlier. This sounds quite formal.</sectiontitle>
+<titlesound>ad_gram8_3_13.mp3</titlesound>
+<text1></text1>
+<text1a>David mentioned changing the laws. But &lt;b&gt;that idea we've already tried&lt;/b&gt;.</text1a>
+<sound1>ad_gram8_3_14.mp3</sound1>
+<text2></text2>
+<text2a>I know you've seen our old paintings, but &lt;b&gt;these you probably haven't seen&lt;/b&gt;.</text2a>
+<sound2>ad_gram8_3_15.mp3</sound2>
+<sectiontitle2></sectiontitle2>
+<titlesound2></titlesound2>
+<text3></text3>
+<text3a></text3a>
+<sound3></sound3>
+<text4></text4>
+<text4a></text4a>
+<sound4></sound4>
+</section>
+</grammar>

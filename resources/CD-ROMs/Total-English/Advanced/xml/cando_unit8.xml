@@ -1,0 +1,100 @@
+<DOC>
+<activity type='listening'>
+<cando>Stall for time</cando>
+<instructions>Give yourself time to think before answering questions</instructions>
+<item>
+<audiotext>James Dawson, you are an actor, writer and broadcaster. What has been your greatest achievement?</audiotext>
+<audio>CanDoAudio_ad_8_1.mp3</audio>
+<choice correct='1'>That's a good question.</choice>
+<choice>That's the best achievement.</choice>
+<choice>Yes, I suppose it has. </choice>
+</item>
+<item>
+<audiotext>Maybe one of your books or one of the TV series?</audiotext>
+<audio>CanDoAudio_ad_8_2.mp3</audio>
+<choice correct='1'>It's not easy. I'd have to think about that.</choice>
+<choice>It's not easy. I'd have to think of that.</choice>
+<choice>It's a TV series.</choice>
+</item>
+<item>
+<audiotext>OK, let me put it another way. If you could be remembered for one thing, what would it be?</audiotext>
+<audio>CanDoAudio_ad_8_3.mp3</audio>
+<choice correct='1'>That's a difficult question.</choice>
+<choice>Yes, it would be one.</choice>
+<choice>What would I think?</choice>
+</item>
+<item>
+<audiotext>OK, which was your favourite of all the films you starred in?</audiotext>
+<audio>CanDoAudio_ad_8_4.mp3</audio>
+<choice correct='1'>Let me see.</choice>
+<choice>Let me to see.</choice>
+<choice>Allow me to see.</choice>
+</item>
+<item>
+<audiotext>Did you prefer the early films or the later ones?</audiotext>
+<audio>CanDoAudio_ad_8_5.mp3</audio>
+<choice correct='1'>That's a tricky question. It's difficult to say.</choice>
+<choice>That's a trick question. It's difficult to say.</choice>
+<choice>That's not a tricky question. It's difficult to say.</choice>
+</item>
+<item>
+<audiotext>And of your books, do you have a favourite?</audiotext>
+<audio>CanDoAudio_ad_8_6.mp3</audio>
+<choice correct='1'>Well, I like them all, so I really can't choose.</choice>
+<choice>Yes, I like them all, so I really can't choose.</choice>
+<choice>Very well. I like them all, so I really can't choose.</choice>
+</item>
+<item>
+<audiotext>It's been wonderful interviewing you. Thank you very much.</audiotext>
+<audio>CanDoAudio_ad_8_7.mp3</audio>
+<choice correct='1'>Thanks. Hi to all my fans.</choice>
+<choice>Bye, fans.</choice>
+<choice>Wonderful.</choice>
+</item>
+</activity>
+<activity type='email'>
+<cando>Write an email describing a problem</cando>
+<instructions>Read the website notice and write an email about problems with your computer</instructions>
+<email>Dear customer,# Could you please explain the problems you have been having with your XM Pentium 200 Computer? We will try to post a solution on this web site within two working days.#Larry, XM Pentium Office</email>
+<item>
+<choice correct='1'>Dear Larry,</choice>
+<choice>Dear Larry XM Pentium Office</choice>
+<choice>Hello Larry</choice>
+</item>
+<item>
+<choice correct='1'>The first problem is that the computer keeps freezing.</choice>
+<choice>The first problem is that the computer keeps to freeze.</choice>
+<choice>The first problem is that the computer will keeps freezing. </choice>
+</item>
+<item>
+<choice correct='1'>It seems to do this whenever I access the Internet</choice>
+<choice>It seems doing this whenever I access the Internet</choice>
+<choice>There seems to do this whenever I access the Internet</choice>
+</item>
+<item>
+<choice correct='1'>and I can't get it to shut down without unplugging it.</choice>
+<choice>and I can't help it to shut down without unplugging it.</choice>
+<choice>and I can't get it shutting down without unplugging it.</choice>
+</item>
+<item>
+<choice correct='1'>Also, the computer is always overheating,</choice>
+<choice>Also, the computer is overheating,</choice>
+<choice>Also, the computer will always be overheating,</choice>
+</item>
+<item>
+<choice correct='1'>and I don't know how to make it cool down.</choice>
+<choice>and I don't know how to stop it cool down.</choice>
+<choice>and I don't know how to make it cooling down.</choice>
+</item>
+<item>
+<choice correct='1'>When it's hot, it won't shut down properly.</choice>
+<choice>When it's hot, it can shut down properly.</choice>
+<choice>When it's hot, it shuts down badly.</choice>
+</item>
+<item>
+<choice correct='1'>I look forward to reading your response.</choice>
+<choice>I look forward to read your response.</choice>
+<choice>I look forward to the response now.</choice>
+</item>
+</activity>
+</DOC>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<Skin file="Skins1.swf" folder="skins/"/>
+	<ActivitySettings selectableText="0"/>
+	<ActivityFont face="verdana" font-size="12" fg-colour="000000"/>
+	<TitleFont face="MetaPlusBold" font-size="18" fg-colour="D94D37"/>
+	<RubricFont face="verdana" font-size="14" fg-colour="000000"/>
+	<HintFont face="verdana" font-size="14" fg-colour="000000"/>
+	<Blank face="verdana" bg-colour="86C9E3" fg-colour="000000" border-colour="000000" min-width="8" max-width="80"/>
+	<WordPoolText face="verdana" fg-colour="000000" bg-colour="ffffff" border-colour="D94D37" max-lines="6"/>
+	<CorrectBlank face="verdana" fg-colour="000000" bg-colour="99ffcc" border-colour="000000"/>
+	<IncorrectBlank face="verdana" fg-colour="000000" bg-colour="ff9999" border-colour="000000"/>
+	<ColourWords face="verdana" highlight-colour="D94D37" correct-highlight-colour="99ffcc" incorrect-highlight-colour="ff9999"/>
+	<LabelPicture pointer-colour="000000" pointer-width="1" pointer-radius="1"/>
+</CDPreferences>

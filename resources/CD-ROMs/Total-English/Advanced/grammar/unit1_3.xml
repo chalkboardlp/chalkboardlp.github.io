@@ -1,0 +1,79 @@
+﻿<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Perfect Aspect</title>
+<sectiontitle>We use the perfect aspect to refer from one point in time to another point in time before that. It shows that the speaker sees one event as (1) linked to a later event, or (2) finished by a certain time.</sectiontitle>
+<titlesound>ad_gram1_3_1.mp3</titlesound>
+<text1></text1>
+<text1a>She&lt;b&gt;'d lost&lt;/b&gt; her ticket so she missed the show.</text1a>
+<sound1>ad_gram1_3_2.mp3</sound1>
+<text2></text2>
+<text2a>By 6.00 I &lt;b&gt;will have finished&lt;/b&gt; work.</text2a>
+<sound2>ad_gram1_3_3.mp3</sound2>
+<sectiontitle2></sectiontitle2>
+<titlesound2></titlesound2>
+<text3></text3>
+<text3a></text3a>
+<sound3></sound3>
+<text4></text4>
+<text4a></text4a>
+<sound4></sound4>
+</section>
+<section>
+<title>Perfect Aspect</title>
+<sectiontitle>We use the Present Perfect to describe something that happened during a period that includes past and present.</sectiontitle>
+<titlesound>ad_gram1_3_4.mp3</titlesound>
+<text1></text1>
+<text1a>&lt;b&gt;We've been&lt;/b&gt; here since 8.00 a.m. (in the past but when the exact time isn't relevant to this discussion or isn't known). </text1a>
+<sound1>ad_gram1_3_5.mp3</sound1>
+<text2></text2>
+<text2a>Oh no! &lt;b&gt;I've lost&lt;/b&gt; my passport. (In the past but has a result or effect in the present).</text2a>
+<sound2>ad_gram1_3_6.mp3</sound2>
+<sectiontitle2> We use the Present Perfect to talk about the very recent past (especially with &lt;i&gt;just&lt;/i&gt;).</sectiontitle2>
+<titlesound2>ad_gram1_3_7.mp3</titlesound2>
+<text3></text3>
+<text3a>&lt;b&gt;I've just heard&lt;/b&gt;  the news.</text3a>
+<sound3>ad_gram1_3_8.mp3</sound3>
+<text4></text4>
+<text4a>Your team &lt;b&gt;has just scored&lt;/b&gt; a goal!</text4a>
+<sound4>ad_gram1_3_9.mp3</sound4>
+</section>
+<section>
+<title>Perfect Aspect</title>
+<sectiontitle>We use the Past Perfect to talk about completed actions that happened before another action in the past.</sectiontitle>
+<titlesound>ad_gram1_3_10.mp3</titlesound>
+<text1></text1>
+<text1a>She wanted to go to the castle, but we&lt;b&gt;'d already been&lt;/b&gt; there.</text1a>
+<sound1>ad_gram1_3_11.mp3</sound1>
+<text2></text2>
+<text2a>Most people &lt;b&gt;had left&lt;/b&gt; by the time we arrived.</text2a>
+<sound2>ad_gram1_3_12.mp3</sound2>
+<sectiontitle2>We use the Future Perfect with time phrases with &lt;i&gt;by&lt;/i&gt;, e.g. &lt;i&gt;by that time&lt;/i&gt;, &lt;i&gt;by this time next week&lt;/i&gt;, &lt;i&gt;by the end of February&lt;/i&gt;,&lt;i&gt; by the end of the day, etc.&lt;/i&gt;</sectiontitle2>
+<titlesound2>ad_gram1_3_13.mp3</titlesound2>
+<text3></text3>
+<text3a>By June we &lt;b&gt;will have finished&lt;/b&gt; the project.</text3a>
+<sound3>ad_gram1_3_14.mp3</sound3>
+<text4></text4>
+<text4a>By this time next week, I&lt;b&gt;'ll have started&lt;/b&gt; my new job.</text4a>
+<sound4>ad_gram1_3_15.mp3</sound4>
+</section>
+<section>
+<title>Perfect Aspect</title>
+<sectiontitle>We often use the perfect aspect with &lt;i&gt;for&lt;/i&gt;, &lt;i&gt;since&lt;/i&gt; and &lt;i&gt;just&lt;/i&gt;.</sectiontitle>
+<titlesound>ad_gram1_3_16.mp3</titlesound>
+<text1></text1>
+<text1a>By January, I&lt;b&gt; will have been&lt;/b&gt; here &lt;b&gt;for&lt;/b&gt; a year.</text1a>
+<sound1>ad_gram1_3_17.mp3</sound1>
+<text2></text2>
+<text2a>I&lt;b&gt;'ve just been&lt;/b&gt; speaking to Mickey.</text2a>
+<sound2>ad_gram1_3_18.mp3</sound2>
+<sectiontitle2></sectiontitle2>
+<titlesound2></titlesound2>
+<text3></text3>
+<text3a></text3a>
+<sound3></sound3>
+<text4></text4>
+<text4a></text4a>
+<sound4></sound4>
+</section>
+</grammar>
