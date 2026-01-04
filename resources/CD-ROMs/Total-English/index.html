@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Chalkboard CD-ROMs</title>
+	<link rel="icon" href="favicon.png" type="image/x-icon" />
+	<style>
+	@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Kode+Mono:wght@400..700&display=swap');
+	</style>
+	
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+        .container {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+        }
+        .sidebar {
+            width: 250px;
+            background-color: #2C2C2C;
+            overflow-y: auto;
+            border-right: 1px solid #ccc;
+        }
+        .sidebar-item {
+            padding: 10px;
+            border-bottom: 1px solid #f0bf00;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+        }
+        .sidebar-item img {
+            width: 45px;
+            height: 45px;
+            object-fit: cover;
+            margin-right: 10px;
+            border-radius: 4px;
+        }
+        .sidebar-item:hover {
+            background-color: #187d5d;
+        }
+        .iframe-container {
+            flex: 1;
+        }
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+        h2 {
+            margin: 0;
+            font-size: 13px;
+			color: #FFFFFF;
+			font-family: "Exo 2", sans-serif;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="sidebar">
+	
+	<div class="sidebar-header" align="center" style="border-bottom: 2px solid #FFFFFF;">
+        <img src="logo.png" alt="Logo" width="100"/>
+		</br>
+        <span style="color: #f0bf00; font-size: 12px; font-family: 'Exo 2', sans-serif; font-weight: 700;">Total English CD-ROMs</span>
+		</br>
+    </div>
+	
+        <div class="sidebar-item" onclick="loadIframe('Elementary/main.html')">
+            <img src="https://www.pearson.com/uk/content/dam/one-dot-com/one-dot-com/Belgium/Wallonia/images/Total%20English%20Elementary9781408267158.jpg"/>
+            <h2>Total English Elementary (A1-A2)</h2>
+        </div>
+        <div class="sidebar-item" onclick="loadIframe('Pre-Intermediate/main.html')">
+            <img src="https://www.pearson.com/uk/content/dam/one-dot-com/one-dot-com/Belgium/Wallonia/images/Total%20English%20pre-intermediate%209781408267196.jpg"/>
+            <h2>Total English -Pre-Intermediate (A2-B1)</h2>
+        </div>
+        <div class="sidebar-item" onclick="loadIframe('Intermediate/main.html')">
+            <img src="https://www.pearson.com/uk/content/dam/one-dot-com/one-dot-com/Belgium/Wallonia/images/Total%20English%20intermediate%209781408267172.jpg"/>
+            <h2>Total English Intermediate (B1-B2)</h2>
+        </div>
+		<div class="sidebar-item" onclick="loadIframe('Upper-Intermediate/main.html')">
+            <img src="https://www.pearson.com/uk/content/dam/one-dot-com/one-dot-com/Belgium/Wallonia/images/Total%20English%20upper%20intermediate9781408267233.jpg"/>
+            <h2>Total English Upper-Intermediate (B2-C1)</h2>
+        </div>
+		<div class="sidebar-item" onclick="loadIframe('Advanced/main.html')">
+            <img src="https://www.pearson.com/uk/content/dam/one-dot-com/one-dot-com/Belgium/Wallonia/images/Total%20English%20Advanced9781408267141.jpg"/>
+            <h2>Total English Advanced (C1)</h2>
+        </div>
+    </div>
+
+    <div class="iframe-container">
+        <iframe id="mainIframe" src="Total_English_Elementary/TEE.html" allowfullscreen allow="fullscreen"></iframe>
+    </div>
+</div>
+
+<script>
+    function loadIframe(url) {
+        document.getElementById("mainIframe").src = url;
+    }
+</script>
+
+<script> 
+document.oncontextmenu = function() { 
+    return false; 
+};
+</script>
+
+</body>
+</html>
