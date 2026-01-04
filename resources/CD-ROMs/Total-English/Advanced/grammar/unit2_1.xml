@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Verb patterns</title>
+<sectiontitle>When one verb follows another, the second verb is either the &lt;i&gt;-ing&lt;/i&gt; form or an infinitive.</sectiontitle>
+<titlesound>ad_gram2_1_1.mp3</titlesound>
+<text1></text1>
+<text1a>I love &lt;b&gt;dancing&lt;/b&gt; salsa.</text1a>
+<sound1>ad_gram2_1_2.mp3</sound1>
+<text2></text2>
+<text2a>I wanted &lt;b&gt;to play&lt;/b&gt; cards.</text2a>
+<sound2>ad_gram2_1_3.mp3</sound2>
+<sectiontitle2>Verbs of 'personal taste' are often followed by the &lt;i&gt;-ing&lt;/i&gt; form: e.g. &lt;i&gt;adore, fancy, don't mind, dislike, detest, can't stand.&lt;/i&gt;</sectiontitle2>
+<titlesound2>ad_gram2_1_4.mp3</titlesound2>
+<text3></text3>
+<text3a>I don't mind &lt;b&gt;taking&lt;/b&gt; the bus.</text3a>
+<sound3>ad_gram2_1_5.mp3</sound3>
+<text4></text4>
+<text4a>I can't stand &lt;b&gt;smoking&lt;/b&gt;.</text4a>
+<sound4>ad_gram2_1_6.mp3</sound4>
+</section>
+<section>
+<title>Verb patterns</title>
+<sectiontitle>Some verbs take an object + infinitive. Verbs that show one person (or thing) influencing the actions of another often follow this pattern, e.g. &lt;i&gt;warn, tell, advise, urge, order, persuade, encourage, force, forbid, allow.&lt;/i&gt;</sectiontitle>
+<titlesound>ad_gram2_1_7.mp3</titlesound>
+<text1></text1>
+<text1a>I warned &lt;b&gt;her&lt;/b&gt; not &lt;b&gt;to go&lt;/b&gt; there.</text1a>
+<sound1>ad_gram2_1_8.mp3</sound1>
+<text2></text2>
+<text2a>They persuaded &lt;b&gt;us to meet&lt;/b&gt; them at the airport.</text2a>
+<sound2>ad_gram2_1_9.mp3</sound2>
+<sectiontitle2>Verbs which are followed by a preposition use the &lt;i&gt;-ing&lt;/i&gt; form, e.g. &lt;i&gt;look forward to, subjected to, succeed in, benefit from&lt;/i&gt;.</sectiontitle2>
+<titlesound2>ad_gram2_1_10.mp3</titlesound2>
+<text3></text3>
+<text3a>I look forward to &lt;b&gt;seeing&lt;/b&gt; you soon.</text3a>
+<sound3>ad_gram2_1_11.mp3</sound3>
+<text4></text4>
+<text4a>She kept on &lt;b&gt;running&lt;/b&gt; even though she was tired.</text4a>
+<sound4>ad_gram2_1_12.mp3</sound4>
+</section>
+</grammar>

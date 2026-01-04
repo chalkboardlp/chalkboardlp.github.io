@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration xmlns="urn:schemas-xtrabass-com:configuration" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:schemas-xtrabass-com:configuration configuration.xsd" PID="XPPlayer">
+	<License>
+		<Name>Pearson Education</Name>
+		<Organization>Pearson Education</Organization>
+		<Type>FULL</Type>
+		<Key>F200-2663-4773</Key>
+	</License>
+	<RuntimeSettings>
+		<EmbedParams>src=main.swf LOOP=false MENU=false QUALITY=high SCALE=exactfit SALIGN=LT BGCOLOR=#ffffff width=800 height=600 type=application/x-shockwave-flash</EmbedParams>
+		<WindowTitle>Pearson Education</WindowTitle>
+		<WindowPosition>-1,-1</WindowPosition>
+		<WindowSize>800,600</WindowSize>
+	</RuntimeSettings>
+</Configuration>
+<!--2ff1d6a0c3b8287a44feccbb27cee020-->

@@ -1,0 +1,186 @@
+﻿<DOC>
+<activity type='listening'>
+<cando>Make recommendations about places</cando>
+<instructions>Make positive and negative points about a place</instructions>
+<item>
+<audiotext>Everyone tells me I should visit the Tate Modern art gallery when I go to London. What do you think? </audiotext>
+<audio>CanDoAudio_ad_2_1.mp3</audio>
+<choice correct='1'>Oh yes, it's a must-see.</choice>
+<choice>Oh yes, it's a see-must.</choice>
+<choice>No, I couldn't go there. </choice>
+</item>
+<item>
+<audiotext>And the wax museum, Madame Tussaud's, is supposed to be great too, but a bit expensive.</audiotext>
+<audio>CanDoAudio_ad_2_2.mp3</audio>
+<choice correct='1'>I thought it was good value for money.</choice>
+<choice>It's a lot of value.</choice>
+<choice>I thought it was good value of money.</choice>
+</item>
+<item>
+<audiotext>And my friend was raving about Camden Market.</audiotext>
+<audio>CanDoAudio_ad_2_3.mp3</audio>
+<choice correct='1'>Really? I think it's a bit overrated.</choice>
+<choice>Really? I think it's too rated.</choice>
+<choice>Yes, it's terrible.</choice>
+</item>
+<item>
+<audiotext>Why do you think that?</audiotext>
+<audio>CanDoAudio_ad_2_4.mp3</audio>
+<choice correct='1'>It's not all it's cracked up to be.</choice>
+<choice>There's a great selection of stuff on sale.</choice>
+<choice>It's not all it's cracked around to be.</choice>
+</item>
+<item>
+<audiotext>I heard you can get cheap clothes there.</audiotext>
+<audio>CanDoAudio_ad_2_5.mp3</audio>
+<choice correct='1'>Maybe, but a lot of the stuff is overpriced.</choice>
+<choice>Most of the clothes are priced over.</choice>
+<choice>Maybe, but the prices are high.</choice>
+</item>
+<item>
+<audiotext>Well, at least London is safe, isn't it?</audiotext>
+<audio>CanDoAudio_ad_2_6.mp3</audio>
+<choice correct='1'>Yes, it is, but watch out for pickpockets.</choice>
+<choice>Yes, but watch for pickpockets.</choice>
+<choice>No, the centre is very crowded.</choice>
+</item>
+<item>
+<audiotext>And I've heard it's got great nightlife.</audiotext>
+<audio>CanDoAudio_ad_2_7.mp3</audio>
+<choice correct='1'>Yes, it certainly isn't dull.</choice>
+<choice>Yes, it's a bit dull.</choice>
+<choice>Yes, everything closes early.</choice>
+</item>
+<item>
+<audiotext>And what about the London Eye?</audiotext>
+<audio>CanDoAudio_ad_2_8.mp3</audio>
+<choice correct='1'>It's a must.</choice>
+<choice>Yes, you must.</choice>
+<choice>It really must.</choice>
+</item>
+</activity>
+<activity type='email'>
+<cando>Write a formal email </cando>
+<instructions>A business associate has sent you an email inviting you to speak at a conference. You want to go but you have some questions. Read the email and write your reply.</instructions>
+<email>Dear Ms Brown#Fox Associates is pleased to invite you to be one of the key speakers at our annual conference, this year entitled Making Change Happen. The conference takes place from 7th – 11th of July. #We would be grateful if you could let us know of your participation by 15th May at the latest. # Yours sincerely, # Colin Granger (events organiser, Fox Associates)</email>
+<item>
+<choice correct='1'>Dear Mr Granger,</choice>
+<choice>Dear Granger,</choice>
+<choice>Dear Colin,</choice>
+</item>
+<item>
+<choice correct='1'>Thank you very much for the invitation to speak at the conference.</choice>
+<choice>Thanks for the invitation to speak at the conference.</choice>
+<choice>Thank you for inviting me along to speak at the conference. </choice>
+</item>
+<item>
+<choice correct='1'>I would be very pleased to accept your offer.</choice>
+<choice>I'd be very pleased to accept.</choice>
+<choice>I'd love to accept the offer.</choice>
+</item>
+<item>
+<choice correct='1'>I do, however, have a number of queries.</choice>
+<choice>I'd like to ask you some questions first.</choice>
+<choice>I do, however, need to check a few things.</choice>
+</item>
+<item>
+<choice correct='1'>Firstly, could you let me know if the company is willing to pay expenses?</choice>
+<choice>Firstly, I want to know if the company can pay my expenses.</choice>
+<choice>Firstly, could you let me know if the company is paying me?</choice>
+</item>
+<item>
+<choice correct='1'>Secondly, could you confirm the date and time of my talk?</choice>
+<choice>The second thing is I need to know when I'm speaking.</choice>
+<choice>Secondly, when exactly is my talk? </choice>
+</item>
+<item>
+<choice correct='1'>Finally, I would be very grateful for an itinerary.</choice>
+<choice>Finally, I need to have an itinerary.</choice>
+<choice>Finally, could you please send me an itinerary immediately?</choice>
+</item>
+<item>
+<choice correct='1'>I look forward to hearing from you soon.</choice>
+<choice>I'm looking forward to hear from you.</choice>
+<choice>Hope to hear from you soon.</choice>
+</item>
+<item>
+<choice correct='1'>Yours sincerely, Mabel Brown</choice>
+<choice>Yours, Mabel Brown</choice>
+<choice>All the best, Mabel Brown</choice>
+</item>
+</activity>
+<activity type='listening'>
+<cando>Describing places</cando>
+<instructions>Tell someone about a place</instructions>
+<item>
+<audiotext>So how was your trip to Rome? Did you like the city?</audiotext>
+<audio>CanDoAudio_ad_2_9.mp3</audio>
+<choice correct='1'>I thought Rome was absolutely stunning.</choice>
+<choice>I thought Rome was absolutely stunned.</choice>
+<choice>I thought Rome was too stunning.</choice>
+</item>
+<item>
+<audiotext>Wow! Wasn't it really crowded at this time of year?</audiotext>
+<audio>CanDoAudio_ad_2_10.mp3</audio>
+<choice correct='1'>Well, the centre was packed.</choice>
+<choice>Well, the centre was pack.</choice>
+<choice>Well, the centre was packing.</choice>
+</item>
+<item>
+<audiotext>Didn't that spoil it?</audiotext>
+<audio>CanDoAudio_ad_2_11.mp3</audio>
+<choice correct='1'>No, because it was quieter off the beaten track.</choice>
+<choice>No, because it was quieter on the beaten track.</choice>
+<choice>No, because we went to the beaten track.</choice>
+</item>
+<item>
+<audiotext>Oh, so you found some quiet areas?</audiotext>
+<audio>CanDoAudio_ad_2_12.mp3</audio>
+<choice correct='1'>Yes. Parts of Rome are really tranquil.</choice>
+<choice>Yes. Parts of Rome are really tranquillised.</choice>
+<choice>Yes. It was really noisy.</choice>
+</item>
+<item>
+<audiotext>Like the Trastevere area?</audiotext>
+<audio>CanDoAudio_ad_2_13.mp3</audio>
+<choice correct='1'>That's right. It's absolutely charming there.</choice>
+<choice>That's right. It charmed me.</choice>
+<choice>That's right. It's absolutely charmed there.</choice>
+</item>
+<item>
+<audiotext>So what did you do then?</audiotext>
+<audio>CanDoAudio_ad_2_14.mp3</audio>
+<choice correct='1'>I strolled a lot and gazed at the architecture.</choice>
+<choice>I gazed a lot and strolled at the architecture.</choice>
+<choice>I strolled the architecture a lot. </choice>
+</item>
+<item>
+<audiotext>There are lots of ancient buildings, aren't there?</audiotext>
+<audio>CanDoAudio_ad_2_15.mp3</audio>
+<choice correct='1'>Yes, but they aren't run-down at all.</choice>
+<choice>Yes, but they aren't down-run at all.</choice>
+<choice>Yes, but they aren't running down at all. </choice>
+</item>
+<item>
+<audiotext>And where were you staying?</audiotext>
+<audio>CanDoAudio_ad_2_16.mp3</audio>
+<choice correct='1'>In the Gloria Hotel, in the heart of the city.</choice>
+<choice>In the Gloria Hotel, in heart of the city.</choice>
+<choice>In the Gloria Hotel hearted in the city.</choice>
+</item>
+<item>
+<audiotext>Oh yes, isn't that close to the Vittoria Hotel?</audiotext>
+<audio>CanDoAudio_ad_2_17.mp3</audio>
+<choice correct='1'>That's right. They are side by side.</choice>
+<choice>That's right. They are side of side.</choice>
+<choice>That's right. They are beside.</choice>
+</item>
+<item>
+<audiotext>I stayed there once. The rooms are enormous, aren't they?</audiotext>
+<audio>CanDoAudio_ad_2_18.mp3</audio>
+<choice correct='1'>Absolutely vast.</choice>
+<choice>Absolutely the vast.</choice>
+<choice>They are in vast.</choice>
+</item>
+</activity>
+</DOC>

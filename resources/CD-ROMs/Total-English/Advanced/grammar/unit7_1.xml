@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Relative clauses</title>
+<sectiontitle>Defining relative clauses make it clear who/what we are referring to. They cannot be omitted from the sentence.</sectiontitle>
+<titlesound>ad_gram7_1_1.mp3</titlesound>
+<text1></text1>
+<text1a>That's the team &lt;b&gt;which won the tournament&lt;/b&gt;.</text1a>
+<sound1>ad_gram7_1_2.mp3</sound1>
+<text2></text2>
+<text2a>He's the man &lt;b&gt;who sold me this guitar&lt;/b&gt;.</text2a>
+<sound2>ad_gram7_1_3.mp3</sound2>
+<sectiontitle2>If the relative pronoun (&lt;i&gt;who/what/which&lt;/i&gt;, etc.) is the object of the clause, it can be omitted.</sectiontitle2>
+<titlesound2>ad_gram7_1_4.mp3</titlesound2>
+<text3>He's the man who we saw yesterday!</text3>
+<text3a>He's the man we saw yesterday!</text3a>
+<sound3>ad_gram7_1_5.mp3</sound3>
+<text4>That's the cake which I wanted.</text4>
+<text4a>That's the cake I wanted.</text4a>
+<sound4>ad_gram7_1_6.mp3</sound4>
+</section>
+<section>
+<title>Relative clauses</title>
+<sectiontitle>With defining relative clauses, &lt;i&gt;that&lt;/i&gt; can replace &lt;i&gt;who&lt;/i&gt; or &lt;i&gt;which&lt;/i&gt;.</sectiontitle>
+<titlesound>ad_gram7_1_7.mp3</titlesound>
+<text1>The woman who I met was a spy!</text1>
+<text1a>The woman &lt;b&gt;that&lt;/b&gt; I met was a spy!</text1a>
+<sound1>ad_gram7_1_8.mp3</sound1>
+<text2>Those coins which you've been collecting are worthless.</text2>
+<text2a>Those coins &lt;b&gt;that&lt;/b&gt; you've been collecting are worthless.</text2a>
+<sound2>ad_gram7_1_9.mp3</sound2>
+<sectiontitle2>Non-defining relative clauses give extra information. The sentence still makes sense if we omit the extra information.</sectiontitle2>
+<titlesound2>ad_gram7_1_10.mp3</titlesound2>
+<text3>We went on a boat trip, which was fun.</text3>
+<text3a>We went on a boat trip.</text3a>
+<sound3>ad_gram7_1_11.mp3</sound3>
+<text4>I bumped into Donald, who was wearing his hat as usual.</text4>
+<text4a>I bumped into Donald.</text4a>
+<sound4>ad_gram7_1_12.mp3</sound4>
+</section>
+<section>
+<title>Relative clauses</title>
+<sectiontitle>With non-defining relative clauses, &lt;i&gt;that&lt;/i&gt; cannot replace &lt;i&gt;who&lt;/i&gt; or &lt;i&gt;which&lt;/i&gt;.  The relative pronoun cannot be omitted.</sectiontitle>
+<titlesound>ad_gram7_1_13.mp3</titlesound>
+<text1></text1>
+<text1a>I saw your brother, who was already late.</text1a>
+<sound1>ad_gram7_1_14.mp3</sound1>
+<text2></text2>
+<text2a></text2a>
+<sound2></sound2>
+<sectiontitle2>When the relative clause uses &lt;i&gt;verb + dependent preposition&lt;/i&gt; the preposition usually goes at the end of the clause, but in formal English it can go at the beginning.</sectiontitle2>
+<titlesound2>ad_gram7_1_15.mp3</titlesound2>
+<text3>That's the theory which my thesis was based on.</text3>
+<text3a>That's the theory &lt;b&gt;on which my thesis was based&lt;/b&gt;.</text3a>
+<sound3>ad_gram7_1_16.mp3</sound3>
+<text4>That's the radio programme which she listens to.</text4>
+<text4a>That's the radio programme &lt;b&gt;to which she listens&lt;/b&gt;.</text4a>
+<sound4>ad_gram7_1_17.mp3</sound4>
+</section>
+<section>
+<title>Relative clauses</title>
+<sectiontitle>We can use &lt;i&gt;one/some/all/either/neither ... of which/whom&lt;/i&gt;. This pattern is slightly formal.</sectiontitle>
+<titlesound>ad_gram7_1_18.mp3</titlesound>
+<text1></text1>
+<text1a>I met the five Davies brothers, &lt;b&gt;all of whom&lt;/b&gt; swim well.</text1a>
+<sound1>ad_gram7_1_19.mp3</sound1>
+<text2></text2>
+<text2a>She visited two flats, &lt;b&gt;neither of which&lt;/b&gt; she liked.</text2a>
+<sound2>ad_gram7_1_20.mp3</sound2>
+<sectiontitle2></sectiontitle2>
+<titlesound2></titlesound2>
+<text3></text3>
+<text3a></text3a>
+<sound3></sound3>
+<text4></text4>
+<text4a></text4a>
+<sound4></sound4>
+</section>
+</grammar>

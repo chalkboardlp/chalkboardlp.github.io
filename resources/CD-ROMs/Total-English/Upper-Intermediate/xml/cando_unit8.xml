@@ -1,0 +1,129 @@
+<DOC>
+<activity type='listening'>
+<cando>Describing different types of people</cando>
+<instructions>Talk about the personalities of your work colleagues.</instructions>
+<item>
+<audiotext>What's your new boss like?</audiotext>
+<audio>CanDoAudio_UI_8_1.mp3</audio>
+<choice correct='1'>Miriam? She's a typical boss. She's very single-minded.</choice>
+<choice>Miriam? She's a boss typical - very open-minded.</choice>
+<choice> Miriam? She's very one-minded, a typical boss.</choice>
+</item>
+<item>
+<audiotext>Really. In what way?</audiotext>
+<audio>CanDoAudio_UI_8_2.mp3</audio>
+<choice correct='1'>Well, she thinks about work all the time and she's very determined. </choice>
+<choice>Well, she thinks of working all times, she's very determined.</choice>
+<choice>Well, she is thinking always about work, so determination.</choice>
+</item>
+<item>
+<audiotext>Does she let you do things your own way?</audiotext>
+<audio>CanDoAudio_UI_8_3.mp3</audio>
+<choice correct='1'>No. She's very manipulative. Somehow she gets us all to do what she wants! </choice>
+<choice>Yes. She's very manipulative so she lets us do what we want.</choice>
+<choice>No. She has manipulation. Somehow she gets us all to do what she wants!</choice>
+</item>
+<item>
+<audiotext>Not like your old boss, then?</audiotext>
+<audio>CanDoAudio_UI_8_4.mp3</audio>
+<choice correct='1'>No, he was very easy-going. </choice>
+<choice>Yes, he makes also very easy-going. </choice>
+<choice>No, he has very easy-going.</choice>
+</item>
+<item>
+<audiotext>He made you laugh all the time, didn't he?</audiotext>
+<audio>CanDoAudio_UI_8_5.mp3</audio>
+<choice correct='1'>Yes, he was witty. But he did like to be the centre of attention. </choice>
+<choice>No, he was very witty and he liked to be at attention centre.</choice>
+<choice>Yes, he had witty. But he liked to be the centre of attention.</choice>
+</item>
+<item>
+<audiotext>I remember you had a lot of fun when he was around.</audiotext>
+<audio>CanDoAudio_UI_8_6.mp3</audio>
+<choice correct='1'>Yes, he was a real party animal! </choice>
+<choice>Yes, he was an animal of parties!</choice>
+<choice>No, he didn't make a party animal!</choice>
+</item>
+<item>
+<audiotext>What about your new assistant, Patricia?</audiotext>
+<audio>CanDoAudio_UI_8_7.mp3</audio>
+<choice correct='1'>She's great. She's very proactive and gets on with things. </choice>
+<choice>She's nice. She's very headstrong and gets on with things. </choice>
+<choice>She's great. She has proactive and gets on with everything.</choice>
+</item>
+<item>
+<audiotext>And how are you getting on with Carlos?</audiotext>
+<audio>CanDoAudio_UI_8_8.mp3</audio>
+<choice correct='1'>He's a bit irritating. He's so opinionated. </choice>
+<choice>He's opinionated so he isn't annoying. </choice>
+<choice>He's a bit irritating of me because he has so much opinions.</choice>
+</item>
+<item>
+<audiotext>Do you disagree a lot?</audiotext>
+<audio>CanDoAudio_UI_8_9.mp3</audio>
+<choice correct='1'>Yes, I prefer people who are more open-minded. </choice>
+<choice>Yes, I am preferring the people more open-minded. </choice>
+<choice>Yes, I prefer people who are more wide-minded.</choice>
+</item>
+</activity>
+<activity type='listening'>
+<cando>Report and describe what people say to you</cando>
+<instructions>Talk about your experiences at an art class.</instructions>
+<item>
+<audiotext>Tell me about your new art class. Who's the teacher?</audiotext>
+<audio>CanDoAudio_UI_8_10.mp3</audio>
+<choice correct='1'>His name's Walter. He's excellent. </choice>
+<choice>He has name Walter. He's excellent. </choice>
+<choice>His name it is Walter. He is being excellent.</choice>
+</item>
+<item>
+<audiotext>What did he say about your paintings?</audiotext>
+<audio>CanDoAudio_UI_8_11.mp3</audio>
+<choice correct='1'>He said he liked them, but that I needed to improve my technique. </choice>
+<choice>He saying he was liked them, but I need improve my technique. </choice>
+<choice>He said he liking them, but I needed to improve my technique.</choice>
+</item>
+<item>
+<audiotext>Did he give you lots of useful advice?</audiotext>
+<audio>CanDoAudio_UI_8_12.mp3</audio>
+<choice correct='1'>Yes. He advised me not to work so fast. </choice>
+<choice>Yes. He advised not to work me so fast. </choice>
+<choice>Yes. He advised me not working so fast.</choice>
+</item>
+<item>
+<audiotext>But you always work very quickly.</audiotext>
+<audio>CanDoAudio_UI_8_13.mp3</audio>
+<choice correct='1'>I know. But he explained that my work wasn't careful enough. </choice>
+<choice>I know. But he explained me my work wasn't careful enough. </choice>
+<choice>I know. But he explained of my work not careful enough.</choice>
+</item>
+<item>
+<audiotext>Are you still using oil paints?</audiotext>
+<audio>CanDoAudio_UI_8_14.mp3</audio>
+<choice correct='1'>Yes. But Walter asked me to try acrylic paints as well. </choice>
+<choice>Yes. But Walter asked me trying acrylic paints as well. </choice>
+<choice>Yes. But Walter asked trying me the acrylic paints also.</choice>
+</item>
+<item>
+<audiotext>Are you going to start painting people?</audiotext>
+<audio>CanDoAudio_UI_8_15.mp3</audio>
+<choice correct='1'>Yes. Walter promised to get a model for the next class. </choice>
+<choice>Yes. Walter promised getting a model for the next class. </choice>
+<choice>Yes. Walter promised a model to get for the next class.</choice>
+</item>
+<item>
+<audiotext>People are really difficult to paint, aren't they?</audiotext>
+<audio>CanDoAudio_UI_8_16.mp3</audio>
+<choice correct='1'>Yes. Walter warned us that it would be quite challenging. </choice>
+<choice>Yes. Walter warned to us it would be quite challenging. </choice>
+<choice>Yes. Walter is warning that it would be for us quite challenging.</choice>
+</item>
+<item>
+<audiotext>It sounds like you're enjoying the classes.</audiotext>
+<audio>CanDoAudio_UI_8_17.mp3</audio>
+<choice correct='1'>Yes, I am. I've decided to enrol for ten more lessons.</choice>
+<choice>Yes, I am. I've decided enrolling for ten more lessons.</choice>
+<choice>Yes, I am. I've decided me to enrol for ten more lessons.</choice>
+</item>
+</activity>
+</DOC>

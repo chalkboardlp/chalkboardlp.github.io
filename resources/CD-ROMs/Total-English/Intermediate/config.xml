@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Installer.xsd">
+<AppName>Total English Intermediate</AppName>
+<Caption>Total English - Install</Caption>
+<WelcomeText>Welcome to the installation of the
+Total English Cd-Rom. Please follow all on Screen instructions,
+press the "Next" button to proceed.</WelcomeText>
+<LicenseText>Single User Licence Agreement: Total English
+
+IMPORTANT: READ CAREFULLY
+
+This is a legally binding agreement between You (the user or purchaser) and Pearson Education Limited.  By retaining this licence, any software media or accompanying written materials or carrying out any of the permitted activities You agree to be bound by the terms of the licence agreement below.
+
+If You do not agree to these terms then promptly return the entire publication (this licence and all software, written materials, packaging and any other components received with it) with Your sales receipt to Your supplier for a full refund.
+
+ONE COPY ONLY
+
+This licence is for a single user copy of the software
+
+
+YOU ARE PERMITTED TO:
+
+Use (load into temporary memory or permanent storage) a single copy of the software on only one computer at a time. If this computer is linked to a network then the software may only be installed in a manner such that it is not accessible to other machines on the network. If You want to use the software on a network or across a whole site, You need to read the Network version of the User Licence or the Site Licence. You can get these from the email address at the end of this licence
+
+Use the software with a class provided it is only installed on one computer
+
+Transfer the software from one computer to another provided that you only use it one computer at a time
+
+Print out individual screen extracts from the disk for (a) private study or (b) to include in Your essays or classwork with students
+
+Photocopy individual screen extracts for Your schoolwork or classwork with students
+
+
+YOU MAY NOT: 
+
+Rent, lease or sell the software or any part of the publication
+
+Copy any part of the documentation , except where specifically indicated otherwise
+
+Make copies of the software, even for backup purposes
+
+Reverse engineer, decompile or disassemble the software or create a derivative product from the contents of the databases or any software included in them
+
+Use the software on more than one computer at a time
+
+Install the software on any networked computer or server in a way that could allow access to it from more than one machine in a network
+
+Include any special material or software from the disk in any other product or software materials, except as allowed under "You are permitted to"
+
+Use the software in any way not specified above without the prior written consent of Pearson Education Limited
+
+Print out more than one page at a time
+
+Print, download or save any pictures  
+
+
+PEARSON EDUCATION LIMITED RESERVES THE RIGHT TO TERMINATE THIS LICENCE BY WRITTEN NOTICE AND TO TAKE ACTION TO RECOVER ANY DAMAGES SUFFERED BY PEARSON EDUCATION LIMITED IF YOU BREACH ANY PROVISION OF THIS AGREEMENT.
+
+Pearson Education Limited owns the software. You only own the disk on which the software is supplied.
+
+LIMITED WARRANTY
+
+Pearson Education Limited warrants that the disk or CD ROM on which the software is supplied is free from defects in materials and workmanship under normal use for ninety (90) days from the date You receive it. This warranty is limited to You and is not transferable. Pearson Education Limited does not warrant that the functions of the software meet Your requirements or that the media is compatible with any computer system on which it is used or that the operation of the software will be unlimited or error-free.
+
+You assume responsibility for selecting the software to achieve Your intended results and for the installation of, the use of and the results obtained from the software. The entire liability of Pearson Education Limited and your only remedy shall be replacement free of charge of the components that do not meet this warranty.
+
+This limited warranty is void if any damage has resulted from accident, abuse, misapplication, service or modification by someone other than Pearson Education Limited. In no event shall Pearson Education Limited be liable for any damages whatsoever arising out of installation of the software, even if advised of the possibility of such damages. Pearson Education Limited will not be liable for any loss or damage of any nature suffered by any party as a result of reliance upon or reproduction of or any errors in the content of the publication.
+
+Pearson Education Limited does not limit its liability for death or personal injury caused by its negligence. 
+
+This licence agreement shall be governed by and interpreted and construed in accordance with English law. 
+
+Technical support: only registered users are entitled to free technical help and advice. As a registered user, You may receive technical help by writing to elt-support@pearson.com or your local agent.
+
+New releases and updates: as a registered user You may be able to get new releases and updates, or upgrade to a network version of the software at reduced prices.
+
+Registration: to register as a user, please write to us at the address shown below or email us at elt-support@pearson.com
+
+Multimedia Team (ELT Division)
+Pearson Education Limited
+Edinburgh Gate
+Harlow
+Essex
+CM20 2JE
+England</LicenseText>
+<LocationText>c:\program files\Longman\TotalEnglish\Intermediate</LocationText>
+<EXEPath>TotalEnglish.exe</EXEPath>
+<OSXEXEPath>TotalEnglish_OSX.app</OSXEXEPath>
+<OS9EXEPath>TotalEnglish_OS9</OS9EXEPath>
+<ShortcutPath>Longman\Total English\Intermediate</ShortcutPath>
+</Installer>

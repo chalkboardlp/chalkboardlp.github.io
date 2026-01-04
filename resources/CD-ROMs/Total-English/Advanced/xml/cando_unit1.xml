@@ -1,0 +1,89 @@
+<DOC>
+<activity type='listening'>
+
+<cando>Say how much you know/don't know about things.</cando>
+<instructions>Answer the general knowledge questions.</instructions>
+<item>
+<audiotext>Do you know what year Kennedy came to power?</audiotext>
+<audio>CanDoAudio_ad_1_1.mp3</audio>
+<choice correct='1'>I haven't got a clue.</choice>
+<choice>I'm not a clue.</choice>
+<choice>I'm off the top of my head.</choice>
+</item>
+<item>
+<audiotext>I'm pretty sure it was 1961, but I could be wrong.</audiotext>
+<audio>CanDoAudio_ad_1_2.mp3</audio>
+<choice correct='1'>Sorry, I know next to nothing about American history.</choice>
+<choice>Sorry, I've never heard of American history.</choice>
+<choice>Sorry, I don't know history like the back of my hand. </choice>
+</item>
+<item>
+<audiotext>Who was the actress who plays with Tom Cruise in Top Gun?</audiotext>
+<audio>CanDoAudio_ad_1_3.mp3</audio>
+<choice correct='1'>I don't know offhand. </choice>
+<choice>I don't know the back of my head.</choice>
+<choice>I'm not offhand.</choice>
+</item>
+<item>
+<audiotext>Was it Meg Ryan?</audiotext>
+<audio>CanDoAudio_ad_1_4.mp3</audio>
+<choice correct='1'>Who? I've never heard of her.</choice>
+<choice>Who? I know her like the back of my hand.</choice>
+<choice>Who? I know next to nothing about her. </choice>
+</item>
+<item>
+<audiotext>What is the largest lake in Africa?</audiotext>
+<audio>CanDoAudio_ad_1_5.mp3</audio>
+<choice correct='1'>I'm fairly positive it's Lake Victoria.</choice>
+<choice>I'm fairly sure of it's Lake Victoria.</choice>
+<choice>I have a clue it's Lake Victoria.</choice>
+</item>
+<item>
+<audiotext>What countries does it cover?</audiotext>
+<audio>CanDoAudio_ad_1_6.mp3</audio>
+<choice correct='1'>I haven't the faintest idea.</choice>
+<choice>I never have an idea.</choice>
+<choice>I'm pretty clue.</choice>
+</item>
+</activity>
+<activity type='email'>
+<cando>Talk about an achievement</cando>
+<instructions>A friend has sent you an email asking about a cycle ride you did for charity. Read her email and write a reply describing the experience.</instructions>
+<email>Hi Ben, #Congratulations on completing the bike ride! It sounds fantastic. What a great thing to do, and good way to raise money for charity too. I would love to sponsor you. Please tell me more about exactly what you did, and how it went.#Helga</email>
+<item>
+<choice correct='1'>Hi Helga, The ride was from Oxford to Cambridge, which is 86 miles. </choice>
+<choice>Hi Helga, The ride was completed and it was only 86 miles.</choice>
+<choice>Hi Helga, I am writing to inform you about how we rode and where we went.</choice>
+</item>
+<item>
+<choice correct='1'>I'd never done anything like that before, so I didn't really know what to expect.</choice>
+<choice>I have always riden bicycles so it was a fantastic experience.</choice>
+<choice>I've learnt a lot.</choice>
+</item>
+<item>
+<choice correct='1'>I'd done some training obviously, but the distance was quite a challenge.</choice>
+<choice>I have trained so it was a real culture shock.</choice>
+<choice>It was incredibly training, so I felt we had accomplished something.</choice>
+</item>
+<item>
+<choice correct='1'>It was very tough, especially the uphill parts.</choice>
+<choice>It was incredible hard, especially going up the hill.</choice>
+<choice>It was very tough experience up hills.</choice>
+</item>
+<item>
+<choice correct='1'>I couldn't move for a few hours after we'd finished.</choice>
+<choice>I've learnt about how to move my muscles.</choice>
+<choice>I've never experienced the tired feeling like this.</choice>
+</item>
+<item>
+<choice correct='1'>But there was a great atmosphere, and everyone was very supportive.</choice>
+<choice>But the whole thing was quite challenge.</choice>
+<choice>However, it was exceeding my expectations.</choice>
+</item>
+<item>
+<choice correct='1'>Now I'm planning to do another even longer ride!</choice>
+<choice>Now I couldn't move at all!</choice>
+<choice>Now it was a fantastic experience!</choice>
+</item>
+</activity>
+</DOC>

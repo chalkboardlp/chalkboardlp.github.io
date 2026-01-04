@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>&lt;i&gt;any/every/no/some&lt;/i&gt;</title>
+<sectiontitle>&lt;i&gt;Any&lt;/i&gt; and &lt;i&gt;every&lt;/i&gt; can both be used to talk in general about all the members of a group.</sectiontitle>
+<titlesound>Uint_Gram_1_2_1.mp3</titlesound>
+<sound1>Uint_Gram_1_2_2.mp3</sound1>
+<sound2>Uint_Gram_1_2_3.mp3</sound2>
+<text1></text1>
+<text1a>You can get an excellent meal in &lt;b&gt;any &lt;/b&gt;restaurant in this street.</text1a>
+<text2> </text2>
+<text2a>You can get an excellent meal in &lt;b&gt;every&lt;/b&gt; restaurant in this street.</text2a>
+<sectiontitle2>&lt;i&gt;Every&lt;/i&gt; looks at things together. It means &lt;i&gt;all&lt;/i&gt; or &lt;i&gt;this and that and the other&lt;/i&gt;.</sectiontitle2>
+<titlesound2>Uint_Gram_1_2_4.mp3</titlesound2>
+<sound3>Uint_Gram_1_2_5.mp3</sound3>
+<sound4>Uint_Gram_1_2_6.mp3</sound4>
+<text3>Do all your products have guarantees?</text3>
+<text3a>Yes. We guarantee &lt;b&gt;every&lt;/b&gt; product we sell.</text3a>
+<text4>Is there enough food for me and my four friends?</text4>
+<text4a>Yes. There's enough food for &lt;b&gt;everybody&lt;/b&gt;. </text4a>
+</section>
+<section>
+<title>&lt;i&gt;any/every/no/some&lt;/i&gt;</title>
+<sectiontitle>&lt;i&gt;Any&lt;/i&gt; looks at things separately, one at a time. It means &lt;i&gt;this or that or the other&lt;/i&gt;.</sectiontitle>
+<titlesound>Uint_Gram_1_2_7.mp3</titlesound>
+<sound1>Uint_Gram_1_2_8.mp3</sound1>
+<sound2></sound2>
+<text1></text1>
+<text1a>Will &lt;b&gt;any&lt;/b&gt; of those shoes fit me?</text1a>
+<text2></text2>
+<text2a></text2a>
+<sectiontitle2>&lt;i&gt;Any&lt;/i&gt; can also mean 'It doesn't matter which one'.</sectiontitle2>
+<titlesound2>Uint_Gram_1_2_9.mp3</titlesound2>
+<sound3>Uint_Gram_1_2_10.mp3</sound3>
+<sound4></sound4>
+<text3>Which bag shall I bring? </text3>
+<text3a>I don't mind. &lt;b&gt;Any&lt;/b&gt; of them are fine.</text3a>
+<text4></text4>
+<text4a></text4a>
+</section>
+<section>
+<title>&lt;i&gt;any/every/no/some&lt;/i&gt;</title>
+<sectiontitle>&lt;i&gt;Nothing&lt;/i&gt; means &lt;i&gt;not anything&lt;/i&gt;.</sectiontitle>
+<titlesound>Uint_Gram_1_2_11.mp3</titlesound>
+<sound1>Uint_Gram_1_2_12.mp3</sound1>
+<sound2>Uint_Gram_1_2_13.mp3</sound2>
+<text1></text1>
+<text1a>There's &lt;b&gt;nothing&lt;/b&gt; we can do to change his mind. </text1a>
+<text2></text2>
+<text2a>There's &lt;b&gt;nothing&lt;/b&gt; in my size.</text2a>
+<sectiontitle2>&lt;i&gt;Some&lt;/i&gt; is used in questions when we expect people to answer 'Yes'. </sectiontitle2>
+<titlesound2>Uint_Gram_1_2_14.mp3</titlesound2>
+<sound3>Uint_Gram_1_2_15.mp3</sound3>
+<sound4>Uint_Gram_1_2_16.mp3</sound4>
+<text3></text3>
+<text3a>Would you like &lt;b&gt;some&lt;/b&gt; more coffee?</text3a>
+<text4></text4>
+<text4a></text4a>
+</section>
+</grammar>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Compound words</title>
+<sectiontitle>Compound adjectives often use a hyphen (-) between the words.</sectiontitle>
+<titlesound>ad_gram3_2_1.mp3</titlesound>
+<text1></text1>
+<text1a>He's &lt;b&gt;kind-hearted&lt;/b&gt;.</text1a>
+<sound1>ad_gram3_2_2.mp3</sound1>
+<text2></text2>
+<text2a>She's &lt;b&gt;strong-willed&lt;/b&gt;.</text2a>
+<sound2>ad_gram3_2_3.mp3</sound2>
+<sectiontitle2>Compound adjectives often end in &lt;i&gt;-ed&lt;/i&gt; or &lt;i&gt;-ing&lt;/i&gt;.</sectiontitle2>
+<titlesound2>ad_gram3_2_4.mp3</titlesound2>
+<text3></text3>
+<text3a>It was a &lt;b&gt;slow-moving&lt;/b&gt; cloud on the horizon.</text3a>
+<sound3>ad_gram3_2_5.mp3</sound3>
+<text4></text4>
+<text4a>It's a &lt;b&gt;rough-edged&lt;/b&gt; diamond.</text4a>
+<sound4>ad_gram3_2_6.mp3</sound4>
+</section>
+</grammar>

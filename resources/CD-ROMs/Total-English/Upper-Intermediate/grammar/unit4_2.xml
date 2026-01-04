@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Expressing obligation </title>
+<sectiontitle>Use &lt;i&gt;must / mustn't&lt;/i&gt; to talk about present and future strong obligations that come from the speaker.</sectiontitle>
+<titlesound>Uint_Gram_4_2_1.mp3</titlesound>
+<sound1>Uint_Gram_4_2_2.mp3</sound1>
+<sound2>Uint_Gram_4_2_3.mp3</sound2>
+<text1></text1>
+<text1a>I &lt;b&gt;must&lt;/b&gt; go to bed early tonight.</text1a>
+<text2> </text2>
+<text2a>We &lt;b&gt;mustn't&lt;/b&gt; be late for the meeting.</text2a>
+<sectiontitle2>Use &lt;i&gt;have to / have got to &lt;/i&gt;to talk about present and future strong obligations that often come from outside the speaker.</sectiontitle2>
+<titlesound2>Uint_Gram_4_2_4.mp3</titlesound2>
+<sound3>Uint_Gram_4_2_5.mp3</sound3>
+<sound4>Uint_Gram_4_2_6.mp3</sound4>
+<text3></text3>
+<text3a>We &lt;b&gt;have to&lt;/b&gt; wear uniforms at our school.</text3a>
+<text4></text4>
+<text4a>You&lt;b&gt;'ve got to &lt;/b&gt;show your ID before they will let you in this club.</text4a>
+</section>
+<section>
+<title>Expressing obligation </title>
+<sectiontitle>Use &lt;i&gt;don't have to&lt;/i&gt;, &lt;i&gt;don't need to&lt;/i&gt; or &lt;i&gt;needn't&lt;/i&gt; to talk about a lack of obligation in the present or future.</sectiontitle>
+<titlesound>Uint_Gram_4_2_7.mp3</titlesound>
+<sound1>Uint_Gram_4_2_8.mp3</sound1>
+<sound2>Uint_Gram_4_2_9.mp3</sound2>
+<text1></text1>
+<text1a>You &lt;b&gt;don't have to&lt;/b&gt; come shopping with me if you don't want to.</text1a>
+<text2> </text2>
+<text2a>We &lt;b&gt;don't need to&lt;/b&gt; check in until an hour before the plane leaves</text2a>
+<sectiontitle2></sectiontitle2>
+<titlesound2></titlesound2>
+<sound3></sound3>
+<sound4></sound4>
+<text3></text3>
+<text3a></text3a>
+<text4></text4>
+<text4a></text4a>
+</section>
+<section>
+<title>Expressing obligation </title>
+<sectiontitle>Use &lt;i&gt;should &lt;/i&gt;(or &lt;i&gt;ought to&lt;/i&gt;) to talk about obligations and duties in the future, present or past, and to give advice.</sectiontitle>
+<titlesound>Uint_Gram_4_2_10.mp3</titlesound>
+<sound1>Uint_Gram_4_2_11.mp3</sound1>
+<sound2>Uint_Gram_4_2_12.mp3</sound2>
+<text1></text1>
+<text1a>I really &lt;b&gt;should&lt;/b&gt; go and visit my cousins in Wales.</text1a>
+<text2> </text2>
+<text2a>You &lt;b&gt;ought to&lt;/b&gt; take a bit more exercise.</text2a>
+<sectiontitle2>Use &lt;i&gt;should&lt;/i&gt; + &lt;i&gt;have&lt;/i&gt; + past participle to criticise your own or other people's behaviour in the past.</sectiontitle2>
+<titlesound2>Uint_Gram_4_2_13.mp3</titlesound2>
+<sound3>Uint_Gram_4_2_14.mp3</sound3>
+<sound4>Uint_Gram_4_2_15.mp3</sound4>
+<text3></text3>
+<text3a>I &lt;b&gt;shouldn't have spoken&lt;/b&gt; to Brian like that.</text3a>
+<text4></text4>
+<text4a>She &lt;b&gt;should have asked&lt;/b&gt; me before borrowing my car.</text4a>
+</section>
+<section>
+<title>Expressing obligation </title>
+<sectiontitle>Use &lt;i&gt;supposed to&lt;/i&gt; to talk about what people have to do according to rules or about what is expected to happen.</sectiontitle>
+<titlesound>Uint_Gram_4_2_16.mp3</titlesound>
+<sound1>Uint_Gram_4_2_17.mp3</sound1>
+<sound2>Uint_Gram_4_2_18.mp3</sound2>
+<text1></text1>
+<text1a>You're &lt;b&gt;supposed to &lt;/b&gt;wear a tie at work.</text1a>
+<text2> </text2>
+<text2a>They weren't &lt;b&gt;supposed to&lt;/b&gt; arrive until after 8 p.m.</text2a>
+<sectiontitle2>Use &lt;i&gt;had to&lt;/i&gt; to talk about past and reported obligations.</sectiontitle2>
+<titlesound2>Uint_Gram_4_2_19.mp3</titlesound2>
+<sound3>Uint_Gram_4_2_20.mp3</sound3>
+<sound4>Uint_Gram_4_2_21.mp3</sound4>
+<text3></text3>
+<text3a>When I was at school we all &lt;b&gt;had to&lt;/b&gt; stand up when the teacher came in.</text3a>
+<text4></text4>
+<text4a>&lt;b&gt;Did &lt;/b&gt;you&lt;b&gt; have to&lt;/b&gt; wait long for the bus this morning?</text4a>
+</section>
+</grammar>

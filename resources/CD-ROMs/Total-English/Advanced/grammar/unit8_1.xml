@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Reporting verbs</title>
+<sectiontitle>Reporting verbs show the function of the original piece of speech. </sectiontitle>
+<titlesound>ad_gram8_1_1.mp3</titlesound>
+<text1>&quot;It was your fault!&quot;</text1>
+<text1a>She &lt;b&gt;blamed&lt;/b&gt; him.</text1a>
+<sound1>ad_gram8_1_2.mp3</sound1>
+<text2>&quot;You shouldn't go to that club. It's dangerous there.&quot;</text2>
+<text2a>He &lt;b&gt;warned&lt;/b&gt; them not to go to the club.</text2a>
+<sound2>ad_gram8_1_3.mp3</sound2>
+<sectiontitle2>Reporting verbs use different patterns (e.g. verb&lt;i&gt; + ing, &lt;/i&gt;verb&lt;i&gt; + &lt;/i&gt;object &lt;i&gt;+ that &lt;/i&gt;clause). The majority use verb&lt;i&gt; + that &lt;/i&gt;clause. Some reporting verbs can use more than one pattern.</sectiontitle2>
+<titlesound2>ad_gram8_1_4.mp3</titlesound2>
+<text3>He &lt;b&gt;recommended that&lt;/b&gt; we stay near the beach.</text3>
+<text3a>He &lt;b&gt;recommended staying&lt;/b&gt; near the beach.</text3a>
+<sound3>ad_gram8_1_5.mp3</sound3>
+<text4>She &lt;b&gt;advised us to go&lt;/b&gt; to the museum.</text4>
+<text4a>She &lt;b&gt;advised going&lt;/b&gt; to the museum.</text4a>
+<sound4>ad_gram8_1_6.mp3</sound4>
+</section>
+</grammar>

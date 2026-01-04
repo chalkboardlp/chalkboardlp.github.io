@@ -1,0 +1,163 @@
+<DOC>
+<activity type='email'>
+<cando>Write an email expressing a degree of certainty</cando>
+<instructions>Read the email and write a reply expressing doubt about the project</instructions>
+<email>Dear Markus,#Following our conversation last week, I am writing to sound you out further about the contract for building the Sky View flats. We are looking at a 2012 completion date. Please let me know further developments your end.#Regards,#Gus</email>
+<item>
+<choice correct='1'>Dear Gus,</choice>
+<choice>My friend, Gus</choice>
+<choice>Hi Gus</choice>
+</item>
+<item>
+<choice correct='1'>The building project is undeniably an attractive proposition;</choice>
+<choice>The building project is undeniable an attractive proposition;</choice>
+<choice>The building project undeniably is an attractive proposition;</choice>
+</item>
+<item>
+<choice correct='1'>there is irrefutable evidence that this area is developing fast,</choice>
+<choice>there is refutable evidence that this area of is developing fast,</choice>
+<choice>there is evidence irrefutable that this area is developing fast,</choice>
+</item>
+<item>
+<choice correct='1'>and without a doubt the proposed flats will be in demand. </choice>
+<choice>and without the doubt the proposed flats will be in demand. </choice>
+<choice>and without doubts the proposed flats will be in demand. </choice>
+</item>
+<item>
+<choice correct='1'>However, it is debatable whether we can complete the project in such a short time.</choice>
+<choice>However, it is in debate whether we can complete the project in such a short time.</choice>
+<choice>However, we are debatable whether we can complete the project in such a short time.</choice>
+</item>
+<item>
+<choice correct='1'>The exact design of the flats is not yet clear-cut, and of course </choice>
+<choice>The exact design of the flats is not clearly cut, and of course </choice>
+<choice>The exact design of the flats is not yet cut clear, and of course </choice>
+</item>
+<item>
+<choice correct='1'>we are not 100% certain that we will get planning permission.</choice>
+<choice>we are not 99% certain that we will get planning permission.</choice>
+<choice>we are not 100% that we will get planning permission.</choice>
+</item>
+<item>
+<choice correct='1'>In other words, it's questionable whether we can go ahead.</choice>
+<choice>In other words, it's the question whether we can go ahead.</choice>
+<choice>In other words, it's unquestionable whether we can go ahead.</choice>
+</item>
+<item>
+<choice correct='1'>I'll get back to you as soon as I can.</choice>
+<choice>I'll get back to you as often as I can.</choice>
+<choice>I'll get back to you as soon when I can.</choice>
+</item>
+<item>
+<choice correct='1'>Yours sincerely, Markus Weinberger</choice>
+<choice>Yours regards, Markus Weinberger</choice>
+<choice>Your sincerely, Markus Weinberger</choice>
+</item>
+</activity>
+<activity type='listening'>
+<cando>Use colloquial expressions to explain your tastes</cando>
+<instructions>Say what type of books you do/don't like</instructions>
+<item>
+<audiotext>So, what did you think of the book?</audiotext>
+<audio>CanDoAudio_ad_9_1.mp3</audio>
+<choice correct='1'>It's not my kind of thing at all.</choice>
+<choice>It's not the kind of thing at all.</choice>
+<choice>It's not my kind thing at all.</choice>
+</item>
+<item>
+<audiotext>Really? I thought you'd like it.</audiotext>
+<audio>CanDoAudio_ad_9_2.mp3</audio>
+<choice correct='1'>No, it's really not my taste.</choice>
+<choice>No, it's really not my flavour.</choice>
+<choice>No, it's really not the taste.</choice>
+</item>
+<item>
+<audiotext>Didn't you find it romantic, the love story?</audiotext>
+<audio>CanDoAudio_ad_9_3.mp3</audio>
+<choice correct='1'>Not particularly. I can't relate to that type of thing.</choice>
+<choice>Not particularly. I can't relate for that type of thing.</choice>
+<choice>Not particularly. I can't stand to that type of thing.</choice>
+</item>
+<item>
+<audiotext>It's well-written though, isn't it?</audiotext>
+<audio>CanDoAudio_ad_9_4.mp3</audio>
+<choice correct='1'>Yes, but it's just not my cup of tea.</choice>
+<choice>Yes, but it's just not my tea-cup.</choice>
+<choice>Yes, but it's just not a cup of tea.</choice>
+</item>
+<item>
+<audiotext>What about The Butterfly, the other book on the list?</audiotext>
+<audio>CanDoAudio_ad_9_5.mp3</audio>
+<choice correct='1'>I've read it before and it's one of my all-time favourites.</choice>
+<choice>I've read it before and it's one of my all-world favourites.</choice>
+<choice>I've read it before and it's one of my all-time favourite.</choice>
+</item>
+<item>
+<audiotext>Great. Do you know any of her other books?</audiotext>
+<audio>CanDoAudio_ad_9_6.mp3</audio>
+<choice correct='1'>I know all of them. I'm a big fan of her stuff.</choice>
+<choice>I know all of them. I'm a big fan to her stuff.</choice>
+<choice>I know all of them. I'm the best fan of her stuff.</choice>
+</item>
+<item>
+<audiotext>I didn't know that.</audiotext>
+<audio>CanDoAudio_ad_9_7.mp3</audio>
+<choice correct='1'>Yes, I've always admired her work.</choice>
+<choice>Yes, I've always thought of her work.</choice>
+<choice>Yes, I've always admired of her work.</choice>
+</item>
+<item>
+<audiotext>Really? Even with all that stuff about philosophy?</audiotext>
+<audio>CanDoAudio_ad_9_8.mp3</audio>
+<choice correct='1'>Oh yes, I'm really into that type of thing.</choice>
+<choice>Oh yes, I'm really onto that type of thing.</choice>
+<choice>Oh yes, I'm really in with that type of thing.</choice>
+</item>
+</activity>
+<activity type='listening'>
+<cando>Respond to hypothetical questions</cando>
+<instructions>Say what you would/wouldn't do</instructions>
+<item>
+<audiotext>This questionnaire's great. It's about dilemmas. Let me ask you some of the questions. If your neighbour was being noisy, would you call the police?</audiotext>
+<audio>CanDoAudio_ad_9_9.mp3</audio>
+<choice correct='1'>No, I probably wouldn't do that.</choice>
+<choice>No, I wouldn't probably do that.</choice>
+<choice>No, I probably shouldn't do that.</choice>
+</item>
+<item>
+<audiotext>If a dog bit you, would you sue the owner?</audiotext>
+<audio>CanDoAudio_ad_9_10.mp3</audio>
+<choice correct='1'>It depends, but I would consider it.</choice>
+<choice>It depends, but I consider it.</choice>
+<choice>It depends, but I would consider.</choice>
+</item>
+<item>
+<audiotext>Here's a good one. If a shop undercharged you, would you give the money back?</audiotext>
+<audio>CanDoAudio_ad_9_11.mp3</audio>
+<choice correct='1'>I suppose I might do. </choice>
+<choice>I'm suppose I might do.</choice>
+<choice>I'll suppose I might do.</choice>
+</item>
+<item>
+<audiotext>If you were offered your best friend's job, would you accept it?</audiotext>
+<audio>CanDoAudio_ad_9_12.mp3</audio>
+<choice correct='1'>If my best friend was getting fired, there's no way I'd do that.</choice>
+<choice>If my best friend was getting fired, there's not a way I'd do that.</choice>
+<choice>If my best friend was getting fired, there's a way I'd do that.</choice>
+</item>
+<item>
+<audiotext>If your boss offered you a four-day week for 80% of your pay, would you accept?</audiotext>
+<audio>CanDoAudio_ad_9_13.mp3</audio>
+<choice correct='1'>Oh yes, it's highly likely I'd agree to that. Fantastic!</choice>
+<choice>Oh yes, it's high likely I'd agree to that. Fantastic!</choice>
+<choice>Oh yes, it's highly like I'd agree to that. Fantastic!</choice>
+</item>
+<item>
+<audiotext>And what if your boss offered you a three-day week for 60% of your pay?</audiotext>
+<audio>CanDoAudio_ad_9_14.mp3</audio>
+<choice correct='1'>It's unlikely I'd be able to do that.</choice>
+<choice>It's an unlikely way I'd be able to do that.</choice>
+<choice>It's unlikely for I'd be able to do that.</choice>
+</item>
+</activity>
+</DOC>

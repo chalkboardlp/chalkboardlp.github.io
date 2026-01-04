@@ -1,0 +1,100 @@
+<DOC>
+<activity type='listening'>
+<cando>Express priorities</cando>
+<instructions>Talk about what is important in a job</instructions>
+<item>
+<audiotext>So how important are promotion prospects to you?</audiotext>
+<audio>CanDoAudio_ad_5_1.mp3</audio>
+<choice correct='1'>My main priority is job satisfaction. I need to feel happy in my job.</choice>
+<choice>I couldn't do absolutely without promotion prospects. This is really important.</choice>
+<choice>This isn't an essential priority.</choice>
+</item>
+<item>
+<audiotext>And does your working environment affect this?</audiotext>
+<audio>CanDoAudio_ad_5_2.mp3</audio>
+<choice correct='1'>I'm not too bothered about the environment, but supportive colleagues are essential.</choice>
+<choice>I don't care at all about the job satisfaction.</choice>
+<choice>This isn't a major priority when you consider perks.</choice>
+</item>
+<item>
+<audiotext>How about the boss? Should he or she be supportive too?</audiotext>
+<audio>CanDoAudio_ad_5_3.mp3</audio>
+<choice correct='1'>Yes, I think that is absolutely vital.</choice>
+<choice>She needs to be a priority.</choice>
+<choice>I couldn't do without a boss.</choice>
+</item>
+<item>
+<audiotext>And what about working hours?</audiotext>
+<audio>CanDoAudio_ad_5_4.mp3</audio>
+<choice correct='1'>This isn't a major priority for me. I am quite flexible about the hours.</choice>
+<choice>The essential thing for me is to be flexible.</choice>
+<choice>I couldn't do without working hours.</choice>
+</item>
+<item>
+<audiotext>Is a good salary important?</audiotext>
+<audio>CanDoAudio_ad_5_5.mp3</audio>
+<choice correct='1'>The essential thing for me is that I am not underpaid for what I do.</choice>
+<choice>This salary is absolutely vital.</choice>
+<choice>This isn't a major priority. A good salary is essential.</choice>
+</item>
+<item>
+<audiotext>How about a pension plan?</audiotext>
+<audio>CanDoAudio_ad_5_6.mp3</audio>
+<choice correct='1'>I'm not really concerned about my pension.</choice>
+<choice>I couldn't do without getting old.</choice>
+<choice>Getting a pension is not concerning me.</choice>
+</item>
+<item>
+<audiotext>Do you think professional development is an issue?</audiotext>
+<audio>CanDoAudio_ad_5_7.mp3</audio>
+<choice correct='1'>I couldn't do without some kind of personal and professional development in my job. This is essential.</choice>
+<choice>I could do without a professional development issue.</choice>
+<choice>Professional and personal development is essentially for me.</choice>
+</item>
+</activity>
+<activity type='email'>
+<cando>Talk about business relationships</cando>
+<instructions>A friend has sent you an email asking for advice.  Write a reply.</instructions>
+<email>Hi Martin, # My friend Tara and I are thinking of starting up a small flower business together and wondered if you had any advice. Thanks.</email>
+<item>
+<choice correct='1'>First of all, you need to be sure of your business plan.</choice>
+<choice>First of all, can you roll up your sleeves?</choice>
+<choice>Firstly, do you strike the right balance? </choice>
+</item>
+<item>
+<choice correct='1'>Make sure you've done some thorough market research, and perhaps hire a consultant to help you crunch the numbers.</choice>
+<choice>You need to have a product design to make the business work.</choice>
+<choice>If you buy someone out of the business it could be an expensive proposition.</choice>
+</item>
+<item>
+<choice correct='1'>Then look at how you want to divide the business.</choice>
+<choice>You could hold back information.</choice>
+<choice>Then execute the strategy.</choice>
+</item>
+<item>
+<choice correct='1'>Are you going to be 50-50 partners?</choice>
+<choice>Is it a family-owned business?</choice>
+<choice>Do you hire a consultant?</choice>
+</item>
+<item>
+<choice correct='1'>Have you thought about how going into business together could jeopardise your friendship?</choice>
+<choice>There is a start-up phase afterwards.</choice>
+<choice>Have you got an attractive job offer?</choice>
+</item>
+<item>
+<choice correct='1'>Make sure you can communicate directly and honestly with each other, otherwise the business may suffer.</choice>
+<choice>Make sure you can do a contract negotiation.</choice>
+<choice>Be sure this is a life-changing event.</choice>
+</item>
+<item>
+<choice correct='1'>Think about your roles. Who is the strategic 'big thinker'? Who is going to execute the strategy?</choice>
+<choice>Think about holding back information. You might buy someone out of the business.</choice>
+<choice>Think about your roles. Who can roll up their sleeves? Who can think?</choice>
+</item>
+<item>
+<choice correct='1'>And when the going gets tough, make sure you can still laugh about it. Good luck. Let me know how things work out.</choice>
+<choice>Martin</choice>
+<choice>And it is a life-changing event, enjoy it. Good luck. Martin</choice>
+</item>
+</activity>
+</DOC>

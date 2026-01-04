@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Articles </title>
+<sectiontitle>Use the definite article &lt;i&gt;the&lt;/i&gt; with previously mentioned nouns.</sectiontitle>
+<titlesound>Uint_Gram_3_2_1.mp3</titlesound>
+<sound1>Uint_Gram_3_2_2.mp3</sound1>
+<sound2>Uint_Gram_3_2_3.mp3</sound2>
+<text1>Their house has got &lt;b&gt;a garden&lt;/b&gt;.</text1>
+<text1a>Is &lt;b&gt;the&lt;/b&gt; garden large?</text1a>
+<text2></text2>
+<text2a>Would you like an apple or &lt;b&gt;a banana&lt;/b&gt;? &lt;b&gt;The&lt;/b&gt; banana is very ripe.</text2a>
+<sectiontitle2>Use the definite article &lt;i&gt;the&lt;/i&gt; when specifying which one we mean, or when it is clear what we are referring to.</sectiontitle2>
+<titlesound2>Uint_Gram_3_2_4.mp3</titlesound2>
+<sound3>Uint_Gram_3_2_5.mp3</sound3>
+<sound4>Uint_Gram_3_2_6.mp3</sound4>
+<text3>There are lots of &lt;b&gt;books&lt;/b&gt; on the shelf.</text3>
+<text3a>Yes, but where is &lt;b&gt;the&lt;/b&gt; book I lent you?</text3a>
+<text4></text4>
+<text4a>Can you turn off &lt;b&gt;the&lt;/b&gt; light please?</text4a>
+</section>
+<section>
+<title>Articles </title>
+<sectiontitle>Use the definite article when there is only one of something, and with superlatives.</sectiontitle>
+<titlesound>Uint_Gram_3_2_7.mp3</titlesound>
+<sound1>Uint_Gram_3_2_8.mp3</sound1>
+<sound2>Uint_Gram_3_2_9.mp3</sound2>
+<text1></text1>
+<text1a>&lt;b&gt;the&lt;/b&gt; sun, &lt;b&gt;the&lt;/b&gt; Earth, &lt;b&gt;the&lt;/b&gt; moon, &lt;b&gt;the&lt;/b&gt; sky</text1a>
+<text2></text2>
+<text2a>It's &lt;b&gt;the&lt;/b&gt; highest mountain in the Himalayas.</text2a>
+<sectiontitle2>Use the definitive article for groups of islands or mountains, and for countries with plural names or the words &lt;i&gt;state&lt;/i&gt;, &lt;i&gt;republic&lt;/i&gt; or &lt;i&gt;kingdom&lt;/i&gt; in their names.</sectiontitle2>
+<titlesound2>Uint_Gram_3_2_10.mp3</titlesound2>
+<sound3>Uint_Gram_3_2_11.mp3</sound3>
+<sound4>Uint_Gram_3_2_12.mp3</sound4>
+<text3></text3>
+<text3a>Have you ever been to &lt;b&gt;the&lt;/b&gt; Canary Islands?</text3a>
+<text4></text4>
+<text4a>She moved from &lt;b&gt;the&lt;/b&gt; Netherlands to &lt;b&gt;the&lt;/b&gt; United States.</text4a>
+</section>
+<section>
+<title>Articles </title>
+<sectiontitle>Use the definite article with rivers, oceans and seas; and with national groups.</sectiontitle>
+<titlesound>Uint_Gram_3_2_13.mp3</titlesound>
+<sound1>Uint_Gram_3_2_14.mp3</sound1>
+<sound2>Uint_Gram_3_2_15.mp3</sound2>
+<text1></text1>
+<text1a>&lt;b&gt;The&lt;/b&gt; River Nile flows into &lt;b&gt;the&lt;/b&gt; Mediterranean Sea.</text1a>
+<text2></text2>
+<text2a>&lt;b&gt;The&lt;/b&gt; Romans took many ideas from &lt;b&gt;the&lt;/b&gt; ancient Greeks.</text2a>
+<sectiontitle2>We also use the definite article with inventions and species of animal.</sectiontitle2>
+<titlesound2>Uint_Gram_3_2_16.mp3</titlesound2>
+<sound3>Uint_Gram_3_2_17.mp3</sound3>
+<sound4>Uint_Gram_3_2_18.mp3</sound4>
+<text3></text3>
+<text3a>&lt;b&gt;The &lt;/b&gt;computer was invented in the 20th century</text3a>
+<text4></text4>
+<text4a>&lt;b&gt;The&lt;/b&gt; giant panda is an endangered species</text4a>
+</section>
+<section>
+<title>Articles</title>
+<sectiontitle>Use the indefinite article &lt;i&gt;a / an&lt;/i&gt; with singular countable nouns mentioned for the first time, or when it doesn't matter which one we are referring to.</sectiontitle>
+<titlesound>Uint_Gram_3_2_19.mp3</titlesound>
+<sound1>Uint_Gram_3_2_20.mp3</sound1>
+<sound2>Uint_Gram_3_2_21.mp3</sound2>
+<text1>What would you like?</text1>
+<text1a>I'd like &lt;b&gt;an&lt;/b&gt; apple and &lt;b&gt;a&lt;/b&gt; glass of water.</text1a>
+<text2></text2>
+<text2a>I'd like to have &lt;b&gt;a&lt;/b&gt; cup of coffee in &lt;b&gt;a&lt;/b&gt; friendly caf&#233;.</text2a>
+<sectiontitle2>Use the indefinite article with jobs.</sectiontitle2>
+<titlesound2>Uint_Gram_3_2_22.mp3</titlesound2>
+<sound3>Uint_Gram_3_2_23.mp3</sound3>
+<sound4>Uint_Gram_3_2_24.mp3</sound4>
+<text3></text3>
+<text3a>Jim's &lt;b&gt;a&lt;/b&gt; teacher and his wife is &lt;b&gt;an&lt;/b&gt; engineer.</text3a>
+<text4></text4>
+<text4a>She wants to be &lt;b&gt;a&lt;/b&gt; film director.</text4a>
+</section>
+<section>
+<title>Articles </title>
+<sectiontitle>Use no article (the zero article) with uncountable, plural and abstract nouns used in their general sense.</sectiontitle>
+<titlesound>Uint_Gram_3_2_25.mp3</titlesound>
+<sound1>Uint_Gram_3_2_26.mp3</sound1>
+<sound2>Uint_Gram_3_2_27.mp3</sound2>
+<text1></text1>
+<text1a>Accommodation is difficult to find and hotels are expensive.</text1a>
+<text2></text2>
+<text2a>I think travelling is good fun.</text2a>
+<sectiontitle2>Use no article with most countries, streets, villages, towns, cities, lakes and mountains. </sectiontitle2>
+<titlesound2>Uint_Gram_3_2_28.mp3</titlesound2>
+<sound3>Uint_Gram_3_2_29.mp3</sound3>
+<sound4>Uint_Gram_3_2_30.mp3</sound4>
+<text3></text3>
+<text3a>He lives in Estoril but he works in Lisbon.</text3a>
+<text4></text4>
+<text4a>Lake Windermere is in the north east of England.</text4a>
+</section>
+</grammar>

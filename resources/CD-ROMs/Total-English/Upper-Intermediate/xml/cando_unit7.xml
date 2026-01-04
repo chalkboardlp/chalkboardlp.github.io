@@ -1,0 +1,136 @@
+<DOC>
+<activity type='email'>
+<cando>Write a formal email of complaint</cando>
+<instructions>Read the email from a camera manufacturer and write an email in reply.</instructions>
+<email>Dear Mr Smith #Thank you for your phone call to our customer services department. #Please send us an email with full details of your complaint and we will attempt to resolve this matter. #Yours faithfully, #Customer Services Team. </email>
+<item>
+<choice correct='1'>Dear Sir,</choice>
+<choice>Dear Customer Service,</choice>
+<choice>Dear Department,</choice>
+</item>
+<item>
+<choice correct='1'>I am writing to complain about the compact disc </choice>
+<choice>I am writing for complain about the compact disc</choice>
+<choice>I write to make complain about the compact disc</choice>
+</item>
+<item>
+<choice correct='1'>I ordered from your website (order number 678678). </choice>
+<choice>I have been ordered your website (order number 678678). </choice>
+<choice>I ordering on your website (order number 678678).</choice>
+</item>
+<item>
+<choice correct='1'>I ordered the CD on 12th October and </choice>
+<choice>I make the order of the CD on 12th October and </choice>
+<choice>I have ordered the CD on 12th October and </choice>
+</item>
+<item>
+<choice correct='1'>I was promised it would arrive in three days</choice>
+<choice>I promised me it would arrive in three days</choice>
+<choice>I was promised it would arriving in three days</choice>
+</item>
+<item>
+<choice correct='1'>but it wasn't sent to me for over two weeks.</choice>
+<choice>but wasn't been sent to me for over two weeks. </choice>
+<choice>but it didn't send to me for more two weeks.</choice>
+</item>
+<item>
+<choice correct='1'>Then, when it arrived and I opened the box, </choice>
+<choice>Then, when it is arriving and I open the box, </choice>
+<choice>Then, when did it arrive and I opened the box,</choice>
+</item>
+<item>
+<choice correct='1'>I was shocked to see that the CD was broken. </choice>
+<choice>I was shocking for to see that the CD was broken. </choice>
+<choice>it was shocked to see that the CD been broken.</choice>
+</item>
+<item>
+<choice correct='1'>I would be grateful if you could send me a replacement CD </choice>
+<choice>I am being grateful if you could send me a replacement CD </choice>
+<choice>I would have been grateful if you send me a replacement CD</choice>
+</item>
+<item>
+<choice correct='1'>as soon as possible, or if this is not possible,</choice>
+<choice>as soon it is possible, or if this not possible,</choice>
+<choice>as soon as possibly, or if this is not possibly,</choice>
+</item>
+<item>
+<choice correct='1'>I would like a full refund of my money. </choice>
+<choice>I want full refund of the money. </choice>
+<choice>I would like to make you a full refund of my money.</choice>
+</item>
+<item>
+<choice correct='1'>Thank you for your help with this matter. </choice>
+<choice>Thanks for helping me about this matter. </choice>
+<choice>Thank you for assistance of this matter.</choice>
+</item>
+<item>
+<choice correct='1'>Yours faithfully,</choice>
+<choice>Your faithful,</choice>
+<choice>See you soon,</choice>
+</item>
+<item>
+<choice correct='1'>Jason Smith</choice>
+<choice>Jason</choice>
+<choice>Jason XX</choice>
+</item>
+</activity>
+<activity type='listening'>
+<cando>Talk about services</cando>
+<instructions>Talk about services available in your area.</instructions>
+<item>
+<audiotext>You must be our new neighbour. Welcome to the town.</audiotext>
+<audio>CanDoAudio_UI_7_1.mp3</audio>
+<choice correct='1'>Thank you. Can I ask you some questions about the area? </choice>
+<choice>Thanks you. Can I asking some questions about the area?</choice>
+<choice>Thank you. Can I ask questions of you about the area?</choice>
+</item>
+<item>
+<audiotext>Of course. What would you like to know?</audiotext>
+<audio>CanDoAudio_UI_7_2.mp3</audio>
+<choice correct='1'>Where can I get my car serviced? </choice>
+<choice>Where my car can I get serviced? </choice>
+<choice>Where can I get service of my car?</choice>
+</item>
+<item>
+<audiotext>There's a garage on Grimshaw Road that's very good.</audiotext>
+<audio>CanDoAudio_UI_7_3.mp3</audio>
+<choice correct='1'>I need to have my hair cut. Is there a hairdresser near here?</choice>
+<choice>My hair it needs to cut. Is there a hairdresser near of here? </choice>
+<choice>I need having my hair cut. Is there a hairdresser near of?</choice>
+</item>
+<item>
+<audiotext>Yes. There's one next to the Post Office.</audiotext>
+<audio>CanDoAudio_UI_7_4.mp3</audio>
+<choice correct='1'>Is there an optician's? I want to have my eyes tested. </choice>
+<choice>Is there an optician's? My eyes, they want to have tested. </choice>
+<choice>Is there optician's? I am wanting to test my eyes.</choice>
+</item>
+<item>
+<audiotext>I think there's an optician opposite the bank.</audiotext>
+<audio>CanDoAudio_UI_7_5.mp3</audio>
+<choice correct='1'>And I'd like to have some dry cleaning done. </choice>
+<choice>And I'd like to have done some dry cleaning. </choice>
+<choice>And I'd like to make some dry cleaning done.</choice>
+</item>
+<item>
+<audiotext>They have a dry cleaning service at the supermarket.</audiotext>
+<audio>CanDoAudio_UI_7_6.mp3</audio>
+<choice correct='1'>Great. Is there a place I can get my TV repaired? </choice>
+<choice>Great. Is there a place I my TV can repaired get? </choice>
+<choice>Great. Is there a place I having to get my TV repaired?</choice>
+</item>
+<item>
+<audiotext>Yes. There's an electrical shop just around the corner.</audiotext>
+<audio>CanDoAudio_UI_7_7.mp3</audio>
+<choice correct='1'>One more thing. I need to have my carpets cleaned. </choice>
+<choice>One more thing. I my carpets cleaned need to have. </choice>
+<choice>One more thing. I have the need of my carpets cleaned.</choice>
+</item>
+<item>
+<audiotext>I've got the phone number of a local company that does that.</audiotext>
+<audio>CanDoAudio_UI_7_8.mp3</audio>
+<choice correct='1'>That would be very useful. Thanks very much for your help.</choice>
+<choice>That would be such useful. Thanks very much of your help.</choice>
+<choice>That would to be useful. Thanking very much for your help.</choice>
+</activity>
+</DOC>

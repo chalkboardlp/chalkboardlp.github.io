@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Narrative tenses</title>
+<sectiontitle>Use the Past Simple to talk about completed actions in the past.</sectiontitle>
+<titlesound>Uint_Gram_3_1_1.mp3</titlesound>
+<sound1>Uint_Gram_3_1_2.mp3</sound1>
+<sound2>Uint_Gram_3_1_3.mp3</sound2>
+<text1></text1>
+<text1a>We &lt;b&gt;got up&lt;/b&gt; early and &lt;b&gt;caught&lt;/b&gt; the 11 o'clock train.</text1a>
+<text2></text2>
+<text2a>I &lt;b&gt;liked&lt;/b&gt; him the moment I &lt;b&gt;saw&lt;/b&gt; him. </text2a>
+<sectiontitle2>Use the Past Continuous to talk about actions in progress at a particular time in the past. Use &lt;i&gt;was &lt;/i&gt;or&lt;i&gt; were&lt;/i&gt; + present participle.</sectiontitle2>
+<titlesound2>Uint_Gram_3_1_4.mp3</titlesound2>
+<sound3>Uint_Gram_3_1_5.mp3</sound3>
+<sound4>Uint_Gram_3_1_6.mp3</sound4>
+<text3></text3>
+<text3a>I &lt;b&gt;was walking&lt;/b&gt; to work when I tripped and fell.</text3a>
+<text4></text4>
+<text4a>She met her husband while they &lt;b&gt;were living&lt;/b&gt; in Canada.</text4a>
+</section>
+<section>
+<title>Narrative tenses</title>
+<sectiontitle>Use the Past Perfect Simple to talk about completed actions that happened &lt;b&gt;before&lt;/b&gt; another action in the past. Use &lt;i&gt;had&lt;/i&gt; + past participle.</sectiontitle>
+<titlesound>Uint_Gram_3_1_7.mp3</titlesound>
+<sound1>Uint_Gram_3_1_8.mp3</sound1>
+<sound2>Uint_Gram_3_1_9.mp3</sound2>
+<text1></text1>
+<text1a>I&lt;b&gt;'d&lt;/b&gt; just &lt;b&gt;finished&lt;/b&gt; my lunch when the doorbell rang. </text1a>
+<text2></text2>
+<text2a>As soon as he got to the airport, he realised he &lt;b&gt;had forgotten&lt;/b&gt; his passport.</text2a>
+<sectiontitle2>Use the Past Perfect Continuous to talk about actions or situations which continued up to the past moment we are talking about. Use &lt;i&gt;had&lt;/i&gt; + &lt;i&gt;been&lt;/i&gt; + present participle.</sectiontitle2>
+<titlesound2>Uint_Gram_3_1_10.mp3</titlesound2>
+<sound3>Uint_Gram_3_1_11.mp3</sound3>
+<sound4>Uint_Gram_3_1_12.mp3</sound4>
+<text3></text3>
+<text3a>Before they moved to this country, they &lt;b&gt;had been living&lt;/b&gt; in Australia. </text3a>
+<text4></text4>
+<text4a>I&lt;b&gt;'d been travelling &lt;/b&gt;for several weeks when I finally arrived in Machu Picchu. </text4a>
+</section>
+</grammar>

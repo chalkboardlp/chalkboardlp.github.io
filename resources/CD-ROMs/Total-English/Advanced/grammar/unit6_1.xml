@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Use of articles</title>
+<sectiontitle>Use &lt;i&gt;a/an&lt;/i&gt; to introduce something new or unexpected. It indicates that the reader/listener does not know what we are talking about.</sectiontitle>
+<titlesound>ad_gram6_1_1.mp3</titlesound>
+<text1></text1>
+<text1a>I just bumped into &lt;b&gt;an&lt;/b&gt; old friend. (This is news)</text1a>
+<sound1>ad_gram6_1_2.mp3</sound1>
+<text2></text2>
+<text2a></text2a>
+<sound2></sound2>
+<sectiontitle2>Use &lt;i&gt;the&lt;/i&gt; to indicate 'common ground'. It may refer the listener/reader to shared experience, or general knowledge and the context will be important to establish exactly which noun is being referred to.</sectiontitle2>
+<titlesound2>ad_gram6_1_3.mp3</titlesound2>
+<text3></text3>
+<text3a>I went to see &lt;b&gt;the&lt;/b&gt; house this morning.  (I told you about this house. Shared experience)</text3a>
+<sound3>ad_gram6_1_4.mp3</sound3>
+<text4></text4>
+<text4a></text4a>
+<sound4></sound4>
+</section>
+<section>
+<title>Use of articles</title>
+<sectiontitle>Use no article to refer to something general.</sectiontitle>
+<titlesound>ad_gram6_1_5.mp3</titlesound>
+<text1></text1>
+<text1a>I enjoy talking to taxi drivers. (taxi drivers in general)</text1a>
+<sound1>ad_gram6_1_6.mp3</sound1>
+<text2></text2>
+<text2a></text2a>
+<sound2></sound2>
+<sectiontitle2></sectiontitle2>
+<titlesound2></titlesound2>
+<text3></text3>
+<text3a></text3a>
+<sound3></sound3>
+<text4></text4>
+<text4a></text4a>
+<sound4></sound4>
+</section>
+</grammar>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>&lt;i&gt;although, but, however, nevertheless&lt;/i&gt;</title>
+<sectiontitle>Use all of these linking words to show that what you are saying is surprising or unexpected in relation to something else you know to be true. Use &lt;i&gt;but&lt;/i&gt; to join two clauses with contrasting information (clause + &lt;i&gt;but&lt;/i&gt; + clause).</sectiontitle>
+<titlesound>Uint_Gram_5_3_1.mp3</titlesound>
+<sound1>Uint_Gram_5_3_2.mp3</sound1>
+<sound2>Uint_Gram_5_3_3.mp3</sound2>
+<text1>She was late. We decided to wait for her.</text1>
+<text1a>She was late &lt;b&gt;but &lt;/b&gt;we decided to wait for her.</text1a>
+<text2>&lt;i&gt;But&lt;/i&gt; is not usually used to begin a sentence.</text2>
+<text2a>He fell over &lt;b&gt;but&lt;/b&gt; he didn't hurt himself.</text2a>
+<sectiontitle2>&lt;i&gt;Although&lt;/i&gt; comes before a clause. Use either &lt;i&gt;Although&lt;/i&gt; + clause, clause &lt;b&gt;or &lt;/b&gt;clause, + &lt;i&gt;although&lt;/i&gt; + clause. </sectiontitle2>
+<titlesound2>Uint_Gram_5_3_4.mp3</titlesound2>
+<sound3>Uint_Gram_5_3_5.mp3</sound3>
+<sound4>Uint_Gram_5_3_6.mp3</sound4>
+<text3></text3>
+<text3a>&lt;b&gt;Although &lt;/b&gt;she was half an hour late, they decided to wait a bit longer.</text3a>
+<text4></text4>
+<text4a>They decided to wait a bit longer, &lt;b&gt;although&lt;/b&gt; she was half an hour late.</text4a>
+</section>
+<section>
+<title>&lt;i&gt;although, but, however, nevertheless&lt;/i&gt;</title>
+<sectiontitle>&lt;i&gt;Though&lt;/i&gt; can be used as a shortened form of &lt;i&gt;although&lt;/i&gt;. It is more common in informal speech.</sectiontitle>
+<titlesound>Uint_Gram_5_3_7.mp3</titlesound>
+<sound1>Uint_Gram_5_3_8.mp3</sound1>
+<sound2>Uint_Gram_5_3_9.mp3</sound2>
+<text1></text1>
+<text1a>&lt;b&gt;Though&lt;/b&gt; I was angry with him, I didn't say anything.</text1a>
+<text2> </text2>
+<text2a>Though it was raining, he didn't take an umbrella.</text2a>
+<sectiontitle2>Use &lt;i&gt;even though&lt;/i&gt; to emphasise a contrast.</sectiontitle2>
+<titlesound2>Uint_Gram_5_3_10.mp3</titlesound2>
+<sound3>Uint_Gram_5_3_11.mp3</sound3>
+<sound4>Uint_Gram_5_3_12.mp3</sound4>
+<text3></text3>
+<text3a>&lt;b&gt;Even though&lt;/b&gt; I was very angry with him, I didn't say anything.</text3a>
+<text4></text4>
+<text4a>&lt;b&gt;Even though&lt;/b&gt; it was pouring with rain, he didn't take an umbrella.</text4a>
+</section>
+<section>
+<title>&lt;i&gt;although, but, however, nevertheless &lt;/i&gt;</title>
+<sectiontitle>Use &lt;i&gt;however, &lt;/i&gt;or &lt;i&gt;nevertheless&lt;/i&gt;, to start a sentence that contains information contrasting with the previous sentence. </sectiontitle>
+<titlesound>Uint_Gram_5_3_13.mp3</titlesound>
+<sound1>Uint_Gram_5_3_14.mp3</sound1>
+<sound2>Uint_Gram_5_3_15.mp3</sound2>
+<text1></text1>
+<text1a>She was half an hour late. &lt;b&gt;However&lt;/b&gt;, they decided to wait a bit longer.</text1a>
+<text2> </text2>
+<text2a>The shop was very crowded. &lt;b&gt;However&lt;/b&gt;, we pushed our way in.</text2a>
+<sectiontitle2> Use &lt;i&gt;nevertheless&lt;/i&gt; in formal situations.</sectiontitle2>
+<titlesound2>Uint_Gram_5_3_16.mp3</titlesound2>
+<sound3>Uint_Gram_5_3_17.mp3</sound3>
+<sound4>Uint_Gram_5_3_18.mp3</sound4>
+<text3></text3>
+<text3a>Your work has not been of a very high standard recently. &lt;b&gt;Nevertheless&lt;/b&gt;, I am still going to give you a 5 per cent pay increase.</text3a>
+<text4></text4>
+<text4a>She was very tired. &lt;b&gt;Nevertheless&lt;/b&gt;, she went to the party.</text4a>
+</section>
+</grammar>

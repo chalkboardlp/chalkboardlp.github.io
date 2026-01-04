@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Questions</title>
+<sectiontitle>There are two main types of &lt;b&gt;direct questions&lt;/b&gt;: &lt;i&gt;Yes / No&lt;/i&gt; questions and &lt;i&gt;Wh&lt;/i&gt;- questions.</sectiontitle>
+<titlesound>Uint_Gram_6_2_1.mp3</titlesound>
+<sound1>Uint_Gram_6_2_2.mp3</sound1>
+<sound2>Uint_Gram_6_2_3.mp3</sound2>
+<text1>&lt;i&gt;Yes / No&lt;/i&gt; questions:</text1>
+<text1a>&lt;b&gt;Are you going&lt;/b&gt; to Danka's party on Saturday? </text1a>
+<text2>&lt;i&gt;Wh&lt;/i&gt;- questions: </text2>
+<text2a>&lt;b&gt;Where did she learn&lt;/b&gt; to speak such good Spanish?</text2a>
+<sectiontitle2>&lt;b&gt;Subject questions&lt;/b&gt; are used when the question word (e.g. &lt;i&gt;who&lt;/i&gt;) refers to the subject of the sentence. When a &lt;i&gt;wh-&lt;/i&gt; word replaces the subject in a question we do not use the auxiliary verb. </sectiontitle2>
+<titlesound2>Uint_Gram_6_2_4.mp3</titlesound2>
+<sound3>Uint_Gram_6_2_5.mp3</sound3>
+<sound4>Uint_Gram_6_2_6.mp3</sound4>
+<text3>The teacher told us to go.</text3>
+<text3a>&lt;b&gt;Who told&lt;/b&gt; you to go?</text3a>
+<text4>A book fell on the floor.</text4>
+<text4a>&lt;b&gt;What fell&lt;/b&gt; on the floor?</text4a>
+</section>
+<section>
+<title>Questions</title>
+<sectiontitle>Use &lt;b&gt;indirect questions&lt;/b&gt; when you want to be polite (e.g. when you don't know someone). Use the word order of positive statements. Use &lt;i&gt;if&lt;/i&gt; or &lt;i&gt;whether&lt;/i&gt; for indirect &lt;i&gt;Yes / No&lt;/i&gt; questions.</sectiontitle>
+<titlesound>Uint_Gram_6_2_7.mp3</titlesound>
+<sound1>Uint_Gram_6_2_8.mp3</sound1>
+<sound2>Uint_Gram_6_2_9.mp3</sound2>
+<text1>Where is the nearest bank?</text1>
+<text1a>Can you tell me &lt;b&gt;where the nearest bank is&lt;/b&gt;?</text1a>
+<text2>Does this bus go to Oxford? </text2>
+<text2a>I'd like to know &lt;b&gt;whether&lt;/b&gt; this bus goes to Oxford.</text2a>
+<sectiontitle2></sectiontitle2>
+<titlesound2>Uint_Gram_6_2_10.mp3</titlesound2>
+<sound3>Uint_Gram_6_2_11.mp3</sound3>
+<sound4>Uint_Gram_6_2_12.mp3</sound4>
+<text3> </text3>
+<text3a></text3a>
+<text4> </text4>
+<text4a></text4a>
+</section>
+</grammar>

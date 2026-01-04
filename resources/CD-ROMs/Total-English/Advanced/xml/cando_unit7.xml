@@ -1,0 +1,111 @@
+<DOC>
+<activity type='listening'>
+<cando>Explain procedures</cando>
+<instructions>Explain how to set up a blog </instructions>
+<item>
+<audiotext>So how do I set up my own blog?</audiotext>
+<audio>CanDoAudio_ad_7_1.mp3</audio>
+<choice correct='1'>It's pretty straightforward.</choice>
+<choice>It's pretty straight ahead.</choice>
+<choice>It has straightforward.</choice>
+</item>
+<item>
+<audiotext>Really? So how do I get started?</audiotext>
+<audio>CanDoAudio_ad_7_2.mp3</audio>
+<choice correct='1'>The first thing you've got to do is choose your package.</choice>
+<choice>The first one you've got to do is choose your package.</choice>
+<choice>The firstly thing you've got to do is choose your package.</choice>
+</item>
+<item>
+<audiotext>You mean there are packages available on the net?  </audiotext>
+<audio>CanDoAudio_ad_7_3.mp3</audio>
+<choice correct='1'>That's right. Secondly, you have to follow the instructions.</choice>
+<choice>That's right. Second thing, you have to follow the instructions.</choice>
+<choice>That's right. The second is to follow the instructions.</choice>
+</item>
+<item>
+<audiotext>So I don't need any technical expertise?</audiotext>
+<audio>CanDoAudio_ad_7_4.mp3</audio>
+<choice correct='1'>None at all. You just do what the blog page tells you to do.</choice>
+<choice>None at all. Just doing what the blog page tells you.</choice>
+<choice>None at all. To do what the blog page tells you to do.</choice>
+</item>
+<item>
+<audiotext>It can't be that simple!</audiotext>
+<audio>CanDoAudio_ad_7_5.mp3</audio>
+<choice correct='1'>It's a piece of cake.</choice>
+<choice>It's a cake.</choice>
+<choice>It's pieces of cake.</choice>
+</item>
+<item>
+<audiotext>So, I just visit the homepage of the blog and do what it says.</audiotext>
+<audio>CanDoAudio_ad_7_6.mp3</audio>
+<choice correct='1'>But once you've set it up, you need to update it regularly.</choice>
+<choice>But as you've set it up, you need to update it regularly.</choice>
+<choice>But once you'll set it up, you need to update it regularly.</choice>
+</item>
+<item>
+<audiotext>You mean write it once or twice a week?</audiotext>
+<audio>CanDoAudio_ad_7_7.mp3</audio>
+<choice correct='1'>If you don't do that, no one will read it.</choice>
+<choice>Unless you don't do that, no one will read it.</choice>
+<choice>If you have done that, no one will read it.</choice>
+</item>
+<item>
+<audiotext>Of course.</audiotext>
+<audio>CanDoAudio_ad_7_8.mp3</audio>
+<choice correct='1'>Any questions?</choice>
+<choice>Some questions?</choice>
+<choice>Ask a question.</choice>
+</item>
+</activity>
+<activity type='email'>
+<cando>Write an email advertising an object</cando>
+<instructions>An acquaintance has heard you want to sell your bicycle. She has asked you to describe the bicycle. Read the email and write the description.</instructions>
+<email>Hi there, # Hope you're well. I heard you were interested in selling your bike. Would you be able to give me a description of the bike, plus cost? # Best wishes, # Lola</email>
+<item>
+<choice correct='1'>Hi Lola,</choice>
+<choice>Dear Mrs Lola,</choice>
+<choice>Dear Madam,</choice>
+</item>
+<item>
+<choice correct='1'>The bike is in excellent condition.</choice>
+<choice>The bike is on excellent condition.</choice>
+<choice>The bike is out of condition.</choice>
+</item>
+<item>
+<choice correct='1'>Even though it's obviously second-hand.</choice>
+<choice>Even though it's obviously a second hand.</choice>
+<choice>Even though I haven't ridden it much.</choice>
+</item>
+<item>
+<choice correct='1'>It has some wear and tear on the frame,</choice>
+<choice>It has some tear on the frame,</choice>
+<choice>It has some wears and tears on the frame, </choice>
+</item>
+<item>
+<choice correct='1'>but apart from that it's as good as new,</choice>
+<choice>but apart from that it's better than new,</choice>
+<choice>but apart from that it's as well as new,</choice>
+</item>
+<item>
+<choice correct='1'>and the tyres are brand new. </choice>
+<choice>and the tyres are new brand.</choice>
+<choice>and the tyres are the brand new. </choice>
+</item>
+<item>
+<choice correct='1'>It costs £250 on the market, but I'm selling it for £100, </choice>
+<choice>It costs £250 off the market, but I'm selling it for £100,</choice>
+<choice>It costs £250 in the market, but I'm selling it for £100,</choice>
+</item>
+<item>
+<choice correct='1'>and it's available now if you want to try it out.</choice>
+<choice>and it's accessible now if you want to try it out.</choice>
+<choice>and it's buyable now if you want to try it out. </choice>
+</item>
+<item>
+<choice correct='1'>Best wishes, Vicky</choice>
+<choice>Yours faithfully, Vicky</choice>
+<choice>I look forward to hearing from you at your earliest convenience, Vicky</choice>
+</item>
+</DOC>

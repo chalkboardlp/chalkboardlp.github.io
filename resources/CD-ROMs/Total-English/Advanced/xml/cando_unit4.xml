@@ -1,0 +1,110 @@
+<DOC>
+<activity type='listening'>
+<cando>Be vague or imprecise</cando>
+<instructions>Your friend telephones you. Tell her what you are doing and arrange to meet up with her later.</instructions>
+<item>
+<audiotext>Hi Rachel. It's Eve. I thought I'd see what you are up to.</audiotext>
+<audio>CanDoAudio_ad_4_1.mp3</audio>
+<choice correct='1'>I'm at home, doing a few bits and pieces. </choice>
+<choice>Where am I up to?</choice>
+<choice>I'm up to home once in a blue moon.</choice>
+</item>
+<item>
+<audiotext>What are you doing?</audiotext>
+<audio>CanDoAudio_ad_4_2.mp3</audio>
+<choice correct='1'>I'm trying to sort out my desk and that kind of thing.</choice>
+<choice>I'm more or less at my desk.</choice>
+<choice>I'm sorting out my desk from time to time. </choice>
+</item>
+<item>
+<audiotext>Well, I wondered if you wanted to come over to mine.</audiotext>
+<audio>CanDoAudio_ad_4_3.mp3</audio>
+<choice correct='1'>That would be nice. I'd love to.</choice>
+<choice>Why did you wonder?</choice>
+<choice>I wanted to. Thanks.</choice>
+</item>
+<item>
+<audiotext>When do you want to come?</audiotext>
+<audio>CanDoAudio_ad_4_4.mp3</audio>
+<choice correct='1'>In a while. In an hour or so.</choice>
+<choice>From time to time.</choice>
+<choice>Once in a blue moon.</choice>
+</item>
+<item>
+<audiotext>We could have something to eat, and watch a film.</audiotext>
+<audio>CanDoAudio_ad_4_5.mp3</audio>
+<choice correct='1'>Great. I've got loads of new DVDs. I'll bring some.</choice>
+<choice>We could do what kind of thing?</choice>
+<choice>I love watching films more or less.</choice>
+</item>
+<item>
+<audiotext>Excellent. I'll see you at about 7-ish then?</audiotext>
+<audio>CanDoAudio_ad_4_6.mp3</audio>
+<choice correct='1'>Actually, can we make it 8? That would be better for me.</choice>
+<choice>I could come at sort of 7.</choice>
+<choice>In a way. That would be better for me.</choice>
+</item>
+<item>
+<audiotext>Fine. In a way, 8 o'clock's better for me too.</audiotext>
+<audio>CanDoAudio_ad_4_7.mp3</audio>
+<choice correct='1'>OK. See you at 8 then. Bye.</choice>
+<choice>That's more or less right. Bye.</choice>
+<choice>Good night. See you tomorrow.</choice>
+</item>
+</activity>
+<activity type='email'>
+<cando>Talk about plans and arrangements</cando>
+<instructions>A friend has sent you an e-mail to invite you on a trip this weekend. Read the e-mail and write a reply with your answer.</instructions>
+<email>Hi Matt, #I hope things are good with you. I don't know what you're up to at the weekend. But Jamie and I and a few of the boys are going up to the mountains for a couple of days. The weather is supposed to be good, so we thought we could take the bikes, and stay in that youth hostel we stayed in last time. It would be great to see you and catch up on your news. Let us know if you can make it. Send my love to Madge. #Tim</email>
+<item>
+<choice correct='1'>Hi Tim,  Great to hear from you. Sorry I didn't get back to you straight away.</choice>
+<choice>Dear Tim,  Thank you very much for your email of 21.03.08.</choice>
+<choice>Hi Tim,  I'm sorry I didn't get back to you. I've been very busy and at a loose end.</choice>
+</item>
+<item>
+<choice correct='1'>I've been a bit tied up with work. </choice>
+<choice>I've been going ahead with work.</choice>
+<choice>I'm calling off work. </choice>
+</item>
+<item>
+<choice correct='1'>Your mountain trip sounds good fun.</choice>
+<choice>Your holiday sounds like it was great.</choice>
+<choice>Your mountain trip was completely snowed under. </choice>
+</item>
+<item>
+<choice correct='1'>Is it still going ahead?</choice>
+<choice>Is it still tied up?</choice>
+<choice>Can you get out of it?</choice>
+</item>
+<item>
+<choice correct='1'>I thought you might have called it off on account the the rain.</choice>
+<choice>I thought you might be winding down because of the rain.</choice>
+<choice>I wondered if it was lined up because of the rain.</choice>
+</item>
+<item>
+<choice correct='1'>There have been a few floods around there.</choice>
+<choice>It has been snowed under there.</choice>
+<choice>You can put your feet up there.</choice>
+</item>
+<item>
+<choice correct='1'>I can't come this time anyway, which is a shame.</choice>
+<choice>I've cropped up anyway this time.</choice>
+<choice>I'm at a loose end anyway this time.</choice>
+</item>
+<item>
+<choice correct='1'>Madge has got a few family things lined up for the weekend, and I don't think I can get out of them!</choice>
+<choice>Madge has got some family things falling through so I can't wind down.</choice>
+<choice>Madge has called off a few family arrangements so we're snowed under. </choice>
+</item>
+<item>
+<choice correct='1'>Still, I'm hoping that on Sunday I can wind down in front of the match, and put my feet up for the afternoon.</choice>
+<choice>I'm hoping that the match will crop up on Sunday so I can wind down.</choice>
+<choice>Still, I'm hoping the match on Sunday will go ahead, so I can be at a loose end for the afternoon. </choice>
+</item>
+<item>
+<choice correct='1'>I'll be thinking of you all!  Later, Matt</choice>
+<choice>I'll think to you.  Bye, Matt</choice>
+<choice>See you soon,  Yours sincerely, Matt</choice>
+</item>
+</activity>
+</DOC>

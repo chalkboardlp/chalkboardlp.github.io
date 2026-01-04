@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Adjectives and adverbs </title>
+<sectiontitle>Adjectives are used to describe nouns. They usually come directly before the noun.</sectiontitle>
+<titlesound>Uint_Gram_3_3_1.mp3</titlesound>
+<sound1>Uint_Gram_3_3_2.mp3</sound1>
+<sound2>Uint_Gram_3_3_3.mp3</sound2>
+<text1>I live in a city.</text1>
+<text1a>I live in a &lt;b&gt;beautiful &lt;/b&gt;city. </text1a>
+<text2>There is a school in the village.</text2>
+<text2a>There is a &lt;b&gt;small&lt;/b&gt; school in the village.</text2a>
+<sectiontitle2>Adverbs (and adverbial phrases) are used to modify verbs, adjectives and other adverbs. </sectiontitle2>
+<titlesound2>Uint_Gram_3_3_4.mp3</titlesound2>
+<sound3>Uint_Gram_3_3_5.mp3</sound3>
+<sound4>Uint_Gram_3_3_6.mp3</sound4>
+<text3>She lifted the heavy stone.</text3>
+<text3a>She &lt;b&gt;carefully&lt;/b&gt; lifted the &lt;b&gt;incredibly&lt;/b&gt; heavy stone.</text3a>
+<text4>She runs &lt;b&gt;fast&lt;/b&gt;.</text4>
+<text4a>She runs &lt;b&gt;incredibly fast&lt;/b&gt;.</text4a>
+</section>
+<section>
+<title>Adjectives and adverbs </title>
+<sectiontitle>&lt;b&gt;Connecting adverbs&lt;/b&gt;, (e.g. &lt;i&gt;nevertheless, then, however, besides&lt;/i&gt;) which join a clause to what came before, can come at the beginning of a sentence.</sectiontitle>
+<titlesound>Uint_Gram_3_3_7.mp3</titlesound>
+<sound1>Uint_Gram_3_3_8.mp3</sound1>
+<sound2>Uint_Gram_3_3_9.mp3</sound2>
+<text1>We were impressed by your CV.</text1>
+<text1a>&lt;b&gt;Nevertheless&lt;/b&gt;, we are unable to offer you the post.</text1a>
+<text2>We applied for the tickets well in advance.</text2>
+<text2a>&lt;b&gt;However&lt;/b&gt;, there were no seats left.</text2a>
+<sectiontitle2>If the adverb is &lt;b&gt;not&lt;/b&gt; the main focus of the message we can put &lt;b&gt;time adverbs&lt;/b&gt; (e.g. &lt;i&gt;tomorrow, last year, recently, yesterday&lt;/i&gt;) at the beginning of the sentence.</sectiontitle2>
+<titlesound2>Uint_Gram_3_3_10.mp3</titlesound2>
+<sound3>Uint_Gram_3_3_11.mp3</sound3>
+<sound4>Uint_Gram_3_3_12.mp3</sound4>
+<text3>I've noticed he's been behaving strangely.</text3>
+<text3a>&lt;b&gt;Recently&lt;/b&gt; I've noticed he's been behaving strangely.</text3a>
+<text4>I passed my driving test.</text4>
+<text4a>&lt;b&gt;Last year&lt;/b&gt; I passed my driving test.</text4a>
+</section>
+<section>
+<title>Adjectives and adverbs </title>
+<sectiontitle>&lt;b&gt;Adverbs of certainty and completeness&lt;/b&gt; (e.g. &lt;i&gt;probably, nearly) &lt;/i&gt;and &lt;b&gt;adverbs of indefinite frequency&lt;/b&gt; (e.g. &lt;i&gt;often, sometimes&lt;/i&gt;) can come in the middle of a sentence, before the main verb.</sectiontitle>
+<titlesound>Uint_Gram_3_3_13.mp3</titlesound>
+<sound1>Uint_Gram_3_3_14.mp3</sound1>
+<sound2>Uint_Gram_3_3_15.mp3</sound2>
+<text1></text1>
+<text1a>I think the witness &lt;b&gt;probably&lt;/b&gt; lied to the jury.</text1a>
+<text2></text2>
+<text2a>At this time of year it &lt;b&gt;often &lt;/b&gt;rains in the afternoons.</text2a>
+<sectiontitle2>&lt;b&gt;Adverbs of comment&lt;/b&gt; (e.g. &lt;i&gt;stupidly, ignorantly, wildly, brilliantly&lt;/i&gt;) can come in the middle of a sentence.</sectiontitle2>
+<titlesound2>Uint_Gram_3_3_16.mp3</titlesound2>
+<sound3>Uint_Gram_3_3_17.mp3</sound3>
+<sound4>Uint_Gram_3_3_18.mp3</sound4>
+<text3></text3>
+<text3a>The young doctor &lt;b&gt;stupidly&lt;/b&gt; forgot to take the patient's temperature.</text3a>
+<text4></text4>
+<text4a>He &lt;b&gt;arrogantly&lt;/b&gt; told us he always got the best results.</text4a>
+</section>
+<section>
+<title>Adjectives and adverbs </title>
+<sectiontitle>&lt;b&gt;Adverbs of manner&lt;/b&gt; (e.g. &lt;i&gt;slowly, rudely, with interest, carefully, in a friendly way&lt;/i&gt;) can come at the end of a sentence.</sectiontitle>
+<titlesound>Uint_Gram_3_3_19.mp3</titlesound>
+<sound1>Uint_Gram_3_3_20.mp3</sound1>
+<sound2>Uint_Gram_3_3_21.mp3</sound2>
+<text1>He smiled at her.</text1>
+<text1a>He smiled at her &lt;b&gt;in a friendly way&lt;/b&gt;.</text1a>
+<text2>She read the article.</text2>
+<text2a>She read the article &lt;b&gt;with interest&lt;/b&gt;.</text2a>
+<sectiontitle2>But if the &lt;b&gt;adverb of manner&lt;/b&gt; is &lt;b&gt;not&lt;/b&gt; the main focus of the message it usually comes in the middle of the sentence, before the main verb.</sectiontitle2>
+<titlesound2>Uint_Gram_3_3_22.mp3</titlesound2>
+<sound3>Uint_Gram_3_3_23.mp3</sound3>
+<sound4>Uint_Gram_3_3_24.mp3</sound4>
+<text3>He opened the box with a sense of mounting curiosity.</text3>
+<text3a>He &lt;b&gt;slowly&lt;/b&gt; opened the box with a sense of mounting curiosity.</text3a>
+<text4>She got up and went to answer the door.</text4>
+<text4a>She &lt;b&gt;reluctantly&lt;/b&gt; got up and went to answer the door.</text4a>
+</section>
+<section>
+<title>Adjectives and adverbs </title>
+<sectiontitle>&lt;b&gt;Adverbs of place&lt;/b&gt; (e.g. &lt;i&gt;upstairs, in the corner, throughout the world, over there&lt;/i&gt;) can come at the end of a sentence. </sectiontitle>
+<titlesound>Uint_Gram_3_3_25.mp3</titlesound>
+<sound1>Uint_Gram_3_3_26.mp3</sound1>
+<sound2>Uint_Gram_3_3_27.mp3</sound2>
+<text1></text1>
+<text1a>I think I left my keys &lt;b&gt;over there&lt;/b&gt;.</text1a>
+<text2></text2>
+<text2a>I work in a room &lt;b&gt;upstairs&lt;/b&gt;.</text2a>
+<sectiontitle2>&lt;b&gt;Adverbs of time&lt;/b&gt; (e.g. &lt;i&gt;this morning, a while ago, all the time)&lt;/i&gt; can also come at the end of a sentence if they are the main focus of the message.</sectiontitle2>
+<titlesound2>Uint_Gram_3_3_28.mp3</titlesound2>
+<sound3>Uint_Gram_3_3_29.mp3</sound3>
+<sound4>Uint_Gram_3_3_30.mp3</sound4>
+<text3>He arrives late for work.</text3>
+<text3a>He does it &lt;b&gt;all the time&lt;/b&gt;.</text3a>
+<text4>I can't remember exactly when I sent John the letter.</text4>
+<text4a>I sent John that letter &lt;b&gt;a while ago&lt;/b&gt;.</text4a>
+</section>
+<section>
+<title>Adjectives and adverbs </title>
+<sectiontitle>Many adverbs end in &lt;i&gt;-ly&lt;/i&gt;, but some words ending in &lt;i&gt;-ly&lt;/i&gt; are &lt;b&gt;adjectives&lt;/b&gt; not adverbs, e.g.&lt;i&gt; friendly, lively, lonely, lovely, silly, ugly, unlikely, deadly.&lt;/i&gt;</sectiontitle>
+<titlesound>Uint_Gram_3_3_31.mp3</titlesound>
+<sound1>Uint_Gram_3_3_32.mp3</sound1>
+<sound2>Uint_Gram_3_3_33.mp3</sound2>
+<text1></text1>
+<text1a>My teacher is really kind and &lt;b&gt;friendly&lt;/b&gt;.</text1a>
+<text2></text2>
+<text2a>Life in a big city can be &lt;b&gt;lonely&lt;/b&gt;.</text2a>
+<sectiontitle2>There are also many &lt;b&gt;adverbs&lt;/b&gt; which do not end in &lt;i&gt;-ly&lt;/i&gt;. Some common ones are &lt;i&gt;late, fast, fine, hard, high &lt;/i&gt;and &lt;i&gt;well.&lt;/i&gt; </sectiontitle2>
+<titlesound2>Uint_Gram_3_3_34.mp3</titlesound2>
+<sound3>Uint_Gram_3_3_35.mp3</sound3>
+<sound4>Uint_Gram_3_3_36.mp3</sound4>
+<text3></text3>
+<text3a>He was in a hurry so he drove &lt;b&gt;fast&lt;/b&gt;.</text3a>
+<text4></text4>
+<text4a>She felt &lt;b&gt;fine&lt;/b&gt; despite her recent accident.</text4a>
+</section>
+<section>
+<title>Adjectives and adverbs </title>
+<sectiontitle>Sometimes the adjective and adverb have the same form. Some common ones are &lt;i&gt;fast, hard, fine, early&lt;/i&gt; and &lt;i&gt;daily.&lt;/i&gt;</sectiontitle>
+<titlesound>Uint_Gram_3_3_37.mp3</titlesound>
+<sound1>Uint_Gram_3_3_38.mp3</sound1>
+<sound2>Uint_Gram_3_3_39.mp3</sound2>
+<text1>Adverb:</text1>
+<text1a>He's worked really &lt;b&gt;hard&lt;/b&gt; for his exam.</text1a>
+<text2>Adjective:</text2>
+<text2a>This chair is too &lt;b&gt;hard&lt;/b&gt; to sit on all day. </text2a>
+<sectiontitle2></sectiontitle2>
+<titlesound2></titlesound2>
+<sound3></sound3>
+<sound4></sound4>
+<text3></text3>
+<text3a></text3a>
+<text4></text4>
+<text4a></text4a>
+</section>
+</grammar>

@@ -1,0 +1,103 @@
+<DOC>
+<activity type='email'>
+<cando>Discuss how feelings affect you</cando>
+<instructions>You receive this email from an old friend. Write her a reply.</instructions>
+<email>Hi, #Well, you asked how things are, and actually they aren't very good. Paul and I split up eight months ago, and since then I just haven't been able to pull myself together. I feel like I've lost my direction, and I don't know what I want anymore.  Even at work things are getting difficult. Most days I can't face going into the office. When I am there, I don't seem to be able to focus on anything. I think perhaps I should just give up, and start afresh doing something different. Sorry to sound so down. Hope things are better for you. # Eve</email>
+<item>
+<choice correct='1'>Dear Eve,  I'm so sorry to hear about you and Paul. It must be a difficult time for you. </choice>
+<choice>Dear Eve,  It was great to get your message, and hear all your news!</choice>
+<choice>Dear Eve,  I am sorry to hear about you and Paul, but to be honest, the chances of that relationship working were very slim.</choice>
+</item>
+<item>
+<choice correct='1'>I had a hunch that things weren't quite right the last time we met, but I didn't want to say anything. </choice>
+<choice>I have always had gut feelings about you.</choice>
+<choice>I knew things wouldn't work out in the long run, but I was always careful not to say anything.</choice>
+</item>
+<item>
+<choice correct='1'>I have a tendency to get too involved in other people's relationships. </choice>
+<choice>I have a tendency to give advice when it isn't needed.</choice>
+<choice>I have a tendency to dwell on things.</choice>
+</item>
+<item>
+<choice correct='1'>I am surprised to hear you talk about losing your direction. </choice>
+<choice>I don't know why you can't find a direction.</choice>
+<choice>I am surprised to hear you are going in a new direction.</choice>
+</item>
+<item>
+<choice correct='1'>You are someone who really knows how to get what they want from life. </choice>
+<choice>You have made so many mistakes in the past.</choice>
+<choice>The chances of your success have always seemed slim.</choice>
+</item>
+<item>
+<choice correct='1'>You may be open to new experiences, but you have always loved your job. </choice>
+<choice>You should try to boost your intuition.</choice>
+<choice>Make the most of a chance encounter.</choice>
+</item>
+<item>
+<choice correct='1'>It sounds to me like you need to stop dwelling on the past, and start to look on the bright side again.</choice>
+<choice>It sounds to me like you are incredibly depressed.</choice>
+<choice>It sounds like you are enjoying your first year of university.</choice>
+</item>
+<item>
+<choice correct='1'>You are a popular, talented young woman with all the best chances of success. </choice>
+<choice>You are an intuitive woman, with poor chances of success.</choice>
+<choice>You are very popular and nice. I like you.</choice>
+</item>
+<item>
+<choice correct='1'>Stop moping around and start smiling again. </choice>
+<choice>Try not to be so negative always.</choice>
+<choice>Trust your gut feelings.</choice>
+</item>
+<item>
+<choice correct='1'>Give me a call, and maybe we can go out one night and do something fun.  Lots of love, Pete   </choice>
+<choice>Call me so we can discuss the matter in more detail.  Love,  Pete.</choice>
+<choice>Try not to look on the bright side. Call me.  Love,  Pete</choice>
+</item>
+</activity>
+<activity type='listening'>
+<cando>Make guesses about imaginary situations</cando>
+<instructions>Your friend phones to talk about the recent airport delays. You weren't involved, but talk to her about what it must have been like.</instructions>
+<item>
+<audiotext>Did you hear about the terrible airport delays?</audiotext>
+<audio>CanDoAudio_ad_10_1.mp3</audio>
+<choice correct='1'>Yes, it must have been awful for all those people trying to go home after their holidays. </choice>
+<choice>Yes, I am flying to Morocco on Sunday 26th.</choice>
+<choice>Yes, we landed in New York after a 4-hour delay, so we missed our transfer.</choice>
+</item>
+<item>
+<audiotext>Imagine spending 72 hours in an airport!</audiotext>
+<audio>CanDoAudio_ad_10_2.mp3</audio>
+<choice correct='1'>Horrible. It can't have been easy for the staff either.</choice>
+<choice>I can imagine lying on a beach.</choice>
+<choice>The flight is nearly 24 hours long.</choice>
+</item>
+<item>
+<audiotext>True. But the airlines weren't helping at all.</audiotext>
+<audio>CanDoAudio_ad_10_3.mp3</audio>
+<choice correct='1'>I know. They should have at least given people free food and drink. </choice>
+<choice>Yes, they should have been on strike for a week.</choice>
+<choice>Yes, they can be very helpful in these kinds of situations.</choice>
+</item>
+<item>
+<audiotext>The air-conditioning wasn't working either.</audiotext>
+<audio>CanDoAudio_ad_10_4.mp3</audio>
+<choice correct='1'>It must have been really hot and uncomfortable. </choice>
+<choice>Air-conditioning tends to make the atmosphere very dry.</choice>
+<choice>The staff are never working when you need them.</choice>
+</item>
+<item>
+<audiotext>I bet they were relieved when they were moved into hotels.</audiotext>
+<audio>CanDoAudio_ad_10_5.mp3</audio>
+<choice correct='1'>Absolutely. They might have wanted to go home, but a hotel is better than staying in the airport!</choice>
+<choice>The hotels have a reputation for being very expensive.</choice>
+<choice>We prefer to stay in our campervan because it offers us more freedom.</choice>
+</item>
+<item>
+<audiotext>I'm glad we didn't buy those tickets in the end.</audiotext>
+<audio>CanDoAudio_ad_10_6.mp3</audio>
+<choice correct='1'>Me too. It could have been us sitting there all this time!</choice>
+<choice>We could get two tickets to Tobego.</choice>
+<choice>Yes, the weather has improved recently.</choice>
+</item>
+</activity>
+</DOC>
