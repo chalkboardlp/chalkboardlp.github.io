@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct word to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+		<question>
+			<sentence><![CDATA[<font color="#000000">I am writing to you to complain </font>[#]<font color="#000000"> the late delivery of our order.</font>]]></sentence>
+			<options>
+				<option>of</option>
+				<option>for</option>
+				<option answer="correct">about</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I am writing in reference to the </font>[#]<font color="#000000"> order.</font>]]></sentence>
+			<options>
+				<option>upper</option>
+				<option>over</option>
+				<option answer="correct">above</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We expect your company to </font>[#]<font color="#000000"> these additional costs.</font>]]></sentence>
+			<options>
+				<option>compensate</option>
+				<option answer="correct">cover</option>
+				<option>obey</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">If you do not comply with the terms of the contract, we will be </font>[#]<font color="#000000"> to contact our lawyers.</font>]]></sentence>
+			<options>
+				<option>force</option>
+				<option answer="correct">forced</option>
+				<option>forcing</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I very much </font>[#]<font color="#000000"> the inconvenience we have caused.</font>]]></sentence>
+			<options>
+				<option answer="correct">regret</option>
+				<option>apologize</option>
+				<option>explain</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">As a sign of </font>[#] <font color="#000000">, I would like to offer a further discount of 2%.</font>]]></sentence>
+			<options>
+				<option>good</option>
+				<option>goodness</option>
+				<option answer="correct">goodwill</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Please </font>[#] <font color="#000000"> my apologies for the mistake.</font>]]></sentence>
+			<options>
+				<option answer="correct">accept</option>
+				<option>agree</option>
+				<option>approve</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Please be assured </font>[#]<font color="#000000"> we are doing everything we can to solve the problem.</font>]]></sentence>
+			<options>
+				<option>it</option>
+				<option>what</option>
+				<option answer="correct">that</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

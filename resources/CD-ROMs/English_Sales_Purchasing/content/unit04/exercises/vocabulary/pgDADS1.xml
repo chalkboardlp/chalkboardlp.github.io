@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+  <rubric>
+    <![CDATA[<font color="#000000">Complete the sentences with the words on the right.</font>]]>
+  </rubric>
+  <questions>
+    <sentence>
+      <![CDATA[<font color="#000000">The offer is </font>[competitive]<font color="#000000">. It's similar to offers from other companies.</font>]]>
+    </sentence>
+    <sentence>
+      <![CDATA[<font color="#000000">The </font>[duration]<font color="#000000"> of the contract is two years.</font>]]>
+    </sentence>
+    <sentence>
+      <![CDATA[<font color="#000000">If you want 24-hour delivery, you'll need to pay an additional </font>[fee]<font color="#000000">.</font>]]>
+    </sentence>
+    <sentence>
+      <![CDATA[<font color="#000000">We'll send an </font>[interim]<font color="#000000"> report for you to read before making a final decision.</font>]]>
+    </sentence>
+    <sentence>
+      <![CDATA[<font color="#000000">The price is a little high. Is it possible to arrange a 3% </font>[discount]<font color="#000000"> ?</font>]]>
+    </sentence>
+    <sentence>
+      <![CDATA[<font color="#000000">Terms and </font>[conditions] <font color="#000000">are the specific parts of a contract agreed by all parties.</font>]]>
+    </sentence>
+    <sentence>
+      <![CDATA[<font color="#000000">I need to do a </font>[calculation]<font color="#000000"> to find out how much we actually have to pay.</font>]]>
+    </sentence>
+  </questions>
+</exercise>

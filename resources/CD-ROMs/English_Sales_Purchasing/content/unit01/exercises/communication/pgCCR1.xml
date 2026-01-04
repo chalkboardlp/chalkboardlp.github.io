@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What do you do?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">I work by the Purchasing Department.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I work at the Purchasing Department.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">I work in the Purchasing Department.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Tell me about your department in the company.</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">Well, the department is divided into Strategic Purchasing and Operational Purchasing.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Well, the department divided into Strategic Purchasing and Operational Purchasing.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Well, the department divide into Strategic Purchasing and Operational Purchasing.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">Which other departments do you work with?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">We liaise close with Global Sourcing at HQ.</font>]]></option>
+				<option><![CDATA[<font color="#000000">We liaise closed with Global Sourcing at HQ.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">We liaise closely with Global Sourcing at HQ.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What do you do in your job?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">I'm charge of several key accounts.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">I'm in charge of several key accounts.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I'm in charge from several key accounts.</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

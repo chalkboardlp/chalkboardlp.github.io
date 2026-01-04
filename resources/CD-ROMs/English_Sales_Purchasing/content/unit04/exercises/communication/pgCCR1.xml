@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I think we need to look at the big picture.</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">I'm share your views completely.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I share your views complete.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">I share your views completely.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I'm sure you'll see that the additional fees aren't such a big issue.</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">I see you a little differently.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">I see it a little differently.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I see a little differently it.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">We can reduce the price and extend the delivery times.</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Yes, I'm absolute in favour of that option.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Yes, I'm absolutely on favour of that option.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Yes, I'm absolutely in favour of that option.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We think these special terms and conditions should meet your needs.</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">Up to a point we could accept that, but there are problems.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Up to the point we could accept that, but there are problems.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Up to point we could accept that, but there are problems.</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

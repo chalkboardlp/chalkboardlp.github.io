@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Match the descriptions with the words on the right.</font>]]></rubric>
+	<questions>
+		<sentence><![CDATA[<font color="#000000">British sales tax </font>[VAT]</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">This is the money of a country, such as the dollar or the euro.</font>[currency]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">A building to store goods before they are delivered </font>[warehouse]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">A letter, email, or message that proves something has happened </font>[confirmation]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">A person in a company that you usually talk to. </font>[contact]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">When you send goods, you include this document with the order.</font>[delivery note]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">You agree these conditions for the transfer of money. </font>[payment terms]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">Stock-keeping unit, a technical term for 'item number' </font>[SKU]]]></sentence>
+	</questions>
+</exercise>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">The sunglasses are excellent, but your price is too high.</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">So you'd like the sunglasses, but only if the price is 10% lower. Is right?</font>]]></option>
+				<option><![CDATA[<font color="#000000">So you'd like the sunglasses, but if only the price is 10% lower. Is that right?</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">So you'd like the sunglasses, but only if the price is 10% lower. Is that right?</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Their bid is very high but they are the best manufacturer of DVDs.</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">I know your point.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">I see your point.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I believe your point.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">Perhaps we can arrange a special price.</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">So, you'll get back to me on that.</font>]]></option>
+				<option><![CDATA[<font color="#000000">So, you'll return back to me on that.</font>]]></option>
+				<option><![CDATA[<font color="#000000">So, you'll make back to me on that.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We need a three-year agreement to replace anything that is broken.</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">So, if I understand you correctly, you need a warranty.</font>]]></option>
+				<option><![CDATA[<font color="#000000">So, if I understand correctly you, you need a warranty.</font>]]></option>
+				<option><![CDATA[<font color="#000000">So, if correctly I understand you, you need a warranty.</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

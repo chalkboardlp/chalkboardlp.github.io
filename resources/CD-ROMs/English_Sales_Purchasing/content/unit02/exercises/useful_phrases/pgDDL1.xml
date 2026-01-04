@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct word to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+		<question>
+			<sentence><![CDATA[<font color="#000000">I'm Daniel Ross. Please </font> [#] <font color="#000000"> me Dan.</font>]]></sentence>
+			<options>
+				<option>name</option>
+				<option answer="correct">call</option>
+				<option>say</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[[#] <font color="#000000"> I introduce myself? I'm Daniel Ross.</font>]]></sentence>
+			<options>
+				<option answer="correct">May</option>
+				<option>Do</option>
+				<option>Would</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Have you found anything of </font>[#]<font color="#000000"> at the trade fair?</font>]]></sentence>
+			<options>
+				<option answer="correct">interest</option>
+				<option>interested</option>
+				<option>interesting</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Would it be possible to </font>[#]<font color="#000000"> up a meeting with your company?</font>]]></sentence>
+			<options>
+				<option>make</option>
+				<option answer="correct">set</option>
+				<option>do</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Perhaps I could send you </font>[#]<font color="#000000">.</font>]]></sentence>
+			<options>
+				<option>some informations</option>
+				<option answer="correct">some information</option>
+				<option>any information</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What </font>[#] <font color="#000000"> of business are you in?</font>]]></sentence>
+			<options>
+				<option>list</option>
+				<option>lane</option>
+				<option answer="correct">line</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Let me </font> [#] <font color="#000000"> you my business card.</font>]]></sentence>
+			<options>
+				<option answer="correct">give</option>
+				<option>to give</option>
+				<option>giving</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Could I call you in the next </font>[#] <font color="#000000"> days?</font>]]></sentence>
+			<options>
+				<option>some</option>
+				<option answer="correct">few</option>
+				<option>couple</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We've received the wrong shipment and now we can't fulfil our orders!</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">I understand your situation. I'll see what I can do.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I'm understand your situation. I'll see what I can do.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I'm understanding your situation. I'll see what I can do.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">This is the second time that our order has not arrived!</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">I realize this must be frustrating for you.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I regret this must be frustrating for you.</font>]]></option>
+				<option><![CDATA[<font color="#000000">I confirm this must be frustrating for you.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">I don't know when the goods will be delivered.</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">May ask I if you've used the tracking facility on our website?</font>]]></option>
+				<option><![CDATA[<font color="#000000">Do I may ask if you've used the tracking facility on our website?</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">May I ask if you've used the tracking facility on our website?</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Can you let me know what is happening as soon as possible?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Yes, I'll get back to you immediate thing tomorrow morning.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Yes, I'll get back to you first thing tomorrow morning.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Yes, I'll get back to you early thing tomorrow morning.</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

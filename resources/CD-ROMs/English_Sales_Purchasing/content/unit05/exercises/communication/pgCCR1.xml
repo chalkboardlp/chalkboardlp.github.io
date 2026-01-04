@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I need confirmation of the order.</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">You'll receive an automatically confirmation email.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">You'll automatically receive a confirmation email.</font>]]></option>
+				<option><![CDATA[<font color="#000000">You'll automatic receive a confirmation email.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I need to change an item in the order. Can you do that for me?</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">Of course, it's no problem.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Not at all, it's no problem.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Sorry, it's no problem.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">I need to talk to you about some mistakes in our latest order.</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Certainly. Could you say me which items are incorrect?</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Certainly. Could you tell me which items are incorrect?</font>]]></option>
+				<option><![CDATA[<font color="#000000">Certainly. Could you repeat me which items are incorrect?</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I'll need to change the order.</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">OK. I can take care of that for you.</font>]]></option>
+				<option><![CDATA[<font color="#000000">OK. I can make care of that for you.</font>]]></option>
+				<option><![CDATA[<font color="#000000">OK. I can put care of that for you.</font>]]></option>
+			</options>
+		</question>
+	</questions>
+</exercise>

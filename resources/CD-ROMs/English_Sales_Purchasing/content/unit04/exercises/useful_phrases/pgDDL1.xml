@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct word or phrase to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+		<question>
+			<sentence><![CDATA[<font color="#000000">We hope to come to an  [#] <font color="#000000"> conclusion for both of us.</font>]]></sentence>
+			<options>
+				<option>accept</option>
+				<option>accepting</option>
+				<option answer="correct">acceptable</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">I'd like to </font> [#] <font color="#000000"> some of the details in the offer.</font>]]></sentence>
+			<options>
+				<option>speak</option>
+				<option answer="correct">discuss</option>
+				<option>talk</option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">Great! We agree. So that </font>[#]<font color="#000000"> it up.</font>]]></sentence>
+			<options>
+				<option answer="correct">wraps</option>
+				<option>ends</option>
+				<option>finalizes</option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">We'd like to </font>[#]<font color="#000000"> your proposals before we tell you what we can offer.</font>]]></sentence>
+			<options>
+				<option>catch</option>
+				<option answer="correct">hear</option>
+				<option>listen</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">That sums </font>[#]<font color="#000000"> our side then.</font>]]></sentence>
+			<options>
+				<option>down</option>
+				<option answer="correct">up</option>
+				<option>out</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">There you have our proposal. I'm afraid that's as far as we can </font>[#]<font color="#000000">.</font>]]></sentence>
+			<options>
+				<option>make</option>
+				<option>do</option>
+				<option answer="correct">go</option>
+
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[[#] <font color="#000000"> me get back to you.</font>]]></sentence>
+			<options>
+				<option answer="correct">Let</option>
+				<option>Let's</option>
+				<option>Letting</option>
+			</options>
+		</question>
+
+
+	</questions>
+</exercise>

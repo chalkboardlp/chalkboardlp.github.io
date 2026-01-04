@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct word or phrase to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+		<question>
+			<sentence><![CDATA[<font color="#000000">Would you be interested </font>[#]<font color="#000000"> trying our new sparkling wine?</font>]]></sentence>
+			<options>
+				<option>on</option>
+				<option answer="correct">in</option>
+				<option>about</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Perhaps I could </font> [#] <font color="#000000"> you to sample our new range of French cheese?</font>]]></sentence>
+			<options>
+				<option answer="correct">tempt</option>
+				<option>trick</option>
+				<option>tender</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Could you send me a sample </font>[#]<font color="#000000"> your new fruit juice?</font>]]></sentence>
+			<options>
+				<option>about</option>
+				<option>to</option>
+				<option answer="correct">of</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We like your new products and we might sell them in our stores. But that depends <font>[#]<font color="#000000"> your price.</font>]]></sentence>
+			<options>
+				<option answer="correct">on</option>
+				<option>in</option>
+				<option>by</option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">Your new range of cookers might be exactly </font>[#] <font color="#000000">.</font>]]></sentence>
+			<options>
+				<option>for what we are looking</option>
+				<option>what we are looking</option>
+				<option answer="correct">what we are looking for</option>
+
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Thanks but we're not interested in a new supplier at this </font>[#]<font color="#000000">.</font>]]></sentence>
+			<options>
+				<option>period</option>
+				<option answer="correct">stage</option>
+				<option>hour</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">You have a new range of printers? That </font>[#]<font color="#000000"> interesting.</font>]]></sentence>
+			<options>
+				<option>makes</option>
+				<option answer="correct">sounds</option>
+				<option>takes</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

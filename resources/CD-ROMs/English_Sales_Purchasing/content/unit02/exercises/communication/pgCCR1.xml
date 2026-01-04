@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct response.</font>]]></rubric>
+
+	<questions>
+		<question>
+			<sentence><![CDATA[<font color="#000000">What do you think of the conference so far?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">It's my first time here and I really enjoy it.</font>]]></option>
+				<option><![CDATA[<font color="#000000">It's my first time here and I'm really enjoying.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">It's my first time here and I'm really enjoying it.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Have you been to the annual clothes fair in Barcelona?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Yes, I'm there twice now.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Yes, I'm being there twice now.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Yes, I've been there twice now.</font>]]></option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">How is the weather in Porto at the moment?</font>]]></sentence>
+			<options>
+				<option><![CDATA[<font color="#000000">Not more good than here actually.</font>]]></option>
+				<option answer="correct"><![CDATA[<font color="#000000">Not much better than here actually.</font>]]></option>
+				<option><![CDATA[<font color="#000000">Not much better as here actually.</font>]]></option>
+			</options>
+		</question>
+
+		<question>
+			<sentence><![CDATA[<font color="#000000">Have you had a chance to look around London?</font>]]></sentence>
+			<options>
+				<option answer="correct"><![CDATA[<font color="#000000">Not yet, no. Can you recommend some things for me to see?</font>]]></option>
+				<option><![CDATA[<font color="#000000">Not yet, no. Can you recommend some things for me seeing?</font>]]></option>
+				<option><![CDATA[<font color="#000000">Not yet, no. Can you recommend some things for me see?</font>]]></option>
+			</options>
+		</question>
+
+	</questions>
+</exercise>

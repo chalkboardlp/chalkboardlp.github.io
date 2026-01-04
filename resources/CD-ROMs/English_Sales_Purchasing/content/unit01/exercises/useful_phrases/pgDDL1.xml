@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Choose the correct word to complete the sentences.</font>]]></rubric>
+	<questions>
+		
+		<question>
+			<sentence><![CDATA[<font color="#000000">We are going to </font>[#] <font color="#000000"> the new sales targets in January.</font>]]></sentence>
+			<options>
+				<option>go</option>
+				<option answer="correct">set</option>
+				<option>put</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Management are not happy. Sales are </font>[#] <font color="#000000"> target.</font>]]></sentence>
+			<options>
+				<option answer="correct">below</option>
+				<option>down</option>
+				<option>low</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We need to make $3 million. So if we get $4 million from the US contract, we will be </font>[#]<font color="#000000"> target.</font>]]></sentence>
+			<options>
+				<option>more than</option>
+				<option>below</option>
+				<option answer="correct">above</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We need to sell 2,000 units in June. We sold 1,000 by June 15 so we are </font>[#]<font color="#000000"> target.</font>]]></sentence>
+			<options>
+				<option>in</option>
+				<option>at</option>
+				<option answer="correct">on</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We have to make changes and </font>[#]<font color="#000000"> our targets because of the economic crisis.</font>]]></sentence>
+			<options>
+				<option answer="correct">revise</option>
+				<option>repay</option>
+				<option>reply</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">Tony had to sell 4,000 books this year and he sold 8,000. So he really </font>[#] <font color="#000000"> his targets.</font>]]></sentence>
+			<options>
+				<option>expanded</option>
+				<option answer="correct">exceeded</option>
+				<option>examined</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[<font color="#000000">We need sales of €200,000. Sales are now €5,000. We need to sell a lot more to </font>[#]<font color="#000000"> our target.</font>]]></sentence>
+			<options>
+				<option answer="correct">reach</option>
+				<option>arrive</option>
+				<option>arrange</option>
+			</options>
+		</question>
+
+	</questions>
+</exercise>

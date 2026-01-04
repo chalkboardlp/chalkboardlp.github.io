@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Match the descriptions with the words on the right.</font>]]></rubric>
+	<questions>
+		<sentence><![CDATA[<font color="#000000">An agreement by the seller to replace or repair damaged goods </font>[warranty]</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">A group of things (products) that are sold together </font>[batch]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">An agreement that the cost of something will not change </font>[fixed price]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">The supply of something </font>[provision]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">An exact description of a product </font>[specifications]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">A time when companies can tender for a product or service </font>[bidding period]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">The transportation of goods by train, boat, plane, road, etc. </font>[shipping]]]></sentence>
+		<sentence><![CDATA[<font color="#000000">The amount of money that is available for something </font>[budget]]]></sentence>
+		
+	</questions>
+</exercise>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric><![CDATA[<font color="#000000">Complete the sentences with the words on the right.</font>]]></rubric>
+	<questions>
+		<sentence><![CDATA[<font color="#000000">We have a wide </font>[range]<font color="#000000"> of different products.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">I'd like </font>[to brief]<font color="#000000"> you on our new products.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">I have </font>[attached]<font color="#000000"> a spreadsheet with the information you need.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">Here is my </font>[card]<font color="#000000">, it has my email address and phone number.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">It was a </font>[pleasure]<font color="#000000"> speaking to you.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">We really </font>[appreciated]<font color="#000000"> the time you took to explain the system.</font>]]></sentence>
+		<sentence><![CDATA[<font color="#000000">Would it be possible </font>[to fix]<font color="#000000"> a meeting to discuss this project?</font>]]></sentence>
+	</questions>
+</exercise>
