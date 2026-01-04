@@ -1,0 +1,102 @@
+<content>
+<question number="1" text="[gap] a piano in the living room." Correct="1">
+<answer number="1">There's</answer>
+<answer number="2">There are</answer>
+<answer number="3">There</answer>
+</question>
+<question number="2" text="There [gap] any pictures on the walls." Correct="2">
+<answer number="1">are</answer>
+<answer number="2">aren't</answer>
+<answer number="3">isn't</answer>
+</question>
+<question number="3" text="Is [gap] a shower in the bathroom?" Correct="2">
+<answer number="1">it</answer>
+<answer number="2">there</answer>
+<answer number="3">they</answer>
+</question>
+<question number="4" text="[A]Are there any plants in the hall?[B]Yes, [gap]." Correct="3">
+<answer number="1">there is</answer>
+<answer number="2">they are</answer>
+<answer number="3">there are</answer>
+</question>
+<question number="5" text="There are [gap] glasses in the cupboard." Correct="1">
+<answer number="1">some</answer>
+<answer number="2">any</answer>
+<answer number="3">a</answer>
+</question>
+<question number="6" text="There [gap] two ghosts in the hotel last night." Correct="1">
+<answer number="1">were</answer>
+<answer number="2">was</answer>
+<answer number="3">is</answer>
+</question>
+<question number="7" text="There [gap] TV in my room." Correct="1">
+<answer number="1">wasn't a</answer>
+<answer number="2">weren't a</answer>
+<answer number="3">weren't any</answer>
+</question>
+<question number="8" text="How many guests [gap] in the hotel?" Correct="2">
+<answer number="1">there were</answer>
+<answer number="2">were there</answer>
+<answer number="3">was there</answer>
+</question>
+<question number="9" text="[A]Was there a horror movie on TV last Friday?[B]No, there [gap]." Correct="3">
+<answer number="1">weren't</answer>
+<answer number="2">isn't</answer>
+<answer number="3">wasn't</answer>
+</question>
+<question number="10" text="There [gap] a good restaurant in that hotel." Correct="1">
+<answer number="1">was</answer>
+<answer number="2">were</answer>
+<answer number="3">are</answer>
+</question>
+<question number="11" text="Oh no! The neighbors [gap] a party again." Correct="3">
+<answer number="1">have</answer>
+<answer number="2">having</answer>
+<answer number="3">are having</answer>
+</question>
+<question number="12" text="Listen! He [gap] playing the violin." Correct="3">
+<answer number="1">are</answer>
+<answer number="2">does</answer>
+<answer number="3">is</answer>
+</question>
+<question number="13" text="[gap] the children doing their homework?" Correct="3">
+<answer number="1">Is</answer>
+<answer number="2">Do</answer>
+<answer number="3">Are</answer>
+</question>
+<question number="14" text="[A]What [gap]?[B]They're watching soccer, I think." Correct="3">
+<answer number="1">they are doing</answer>
+<answer number="2">they doing</answer>
+<answer number="3">are they doing</answer>
+</question>
+<question number="15" text="They [gap] arguing. They're talking." Correct="1">
+<answer number="1">aren't</answer>
+<answer number="2">not</answer>
+<answer number="3">don't</answer>
+</question>
+<question number="16" text="[A]What [gap]?[B]I'm a tour guide." Correct="2">
+<answer number="1">are you doing</answer>
+<answer number="2">do you do</answer>
+<answer number="3">you do</answer>
+</question>
+<question number="17" text="[A]What [gap]?[B]I'm listening to music." Correct="2">
+<answer number="1">do you do</answer>
+<answer number="2">are you doing</answer>
+<answer number="3">you do</answer>
+</question>
+<question number="18" text="He usually [gap] to work by bus." Correct="3">
+<answer number="1">is going</answer>
+<answer number="2">go</answer>
+<answer number="3">goes</answer>
+</question>
+<question number="19" text="[gap] on the phone right now." Correct="2">
+<answer number="1">She talks</answer>
+<answer number="2">She's talking</answer>
+<answer number="3">She does talk</answer>
+</question>
+<question number="20" text="He [gap] a jacket." Correct="1">
+<answer number="1">doesn't usually wear</answer>
+<answer number="2">isn't wearing usually</answer>
+<answer number="3">wears usually</answer>
+</question>
+</content>

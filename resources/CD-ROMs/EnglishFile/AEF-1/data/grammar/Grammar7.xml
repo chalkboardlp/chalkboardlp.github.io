@@ -1,0 +1,102 @@
+<content>
+<question number="1" text="There's [gap] tomato in the fridge." Correct="1">
+<answer number="1">a</answer>
+<answer number="2">any</answer>
+<answer number="3">some</answer>
+</question>
+<question number="2" text="We need [gap] eggs." Correct="2">
+<answer number="1">an</answer>
+<answer number="2">some</answer>
+<answer number="3">any</answer>
+</question>
+<question number="3" text="There isn't [gap] rice in the cupboard." Correct="2">
+<answer number="1">some</answer>
+<answer number="2">any</answer>
+<answer number="3">a</answer>
+</question>
+<question number="4" text="Do we need [gap] sugar?" Correct="3">
+<answer number="1">a</answer>
+<answer number="2">many</answer>
+<answer number="3">any</answer>
+</question>
+<question number="5" text="[A]Can you get me [gap] onion?[B]Of course." Correct="3">
+<answer number="1">any</answer>
+<answer number="2">a</answer>
+<answer number="3">an</answer>
+</question>
+<question number="6" text="How [gap] milk do you drink?" Correct="1">
+<answer number="1">much</answer>
+<answer number="2">many</answer>
+<answer number="3">lot</answer>
+</question>
+<question number="7" text="I don't eat [gap] vegetables." Correct="2">
+<answer number="1">a lot</answer>
+<answer number="2">many</answer>
+<answer number="3">not many</answer>
+</question>
+<question number="8" text="[A]How much soda did you drink?[B][gap]" Correct="3">
+<answer number="1">Any.</answer>
+<answer number="2">Not many.</answer>
+<answer number="3">None.</answer>
+</question>
+<question number="9" text="[A]How many cookies did you eat?[B][gap]" Correct="2">
+<answer number="1">Lot.</answer>
+<answer number="2">A lot.</answer>
+<answer number="3">Any.</answer>
+</question>
+<question number="10" text="I didn't eat [gap] fruit yesterday." Correct="3">
+<answer number="1">an</answer>
+<answer number="2">some</answer>
+<answer number="3">any</answer>
+</question>
+<question number="11" text="What [gap] do tomorrow?" Correct="2">
+<answer number="1">are you going</answer>
+<answer number="2">are you going to</answer>
+<answer number="3">do you go to</answer>
+</question>
+<question number="12" text="[gap] go on vacation soon." Correct="1">
+<answer number="1">They're going to</answer>
+<answer number="2">They going to</answer>
+<answer number="3">They go to</answer>
+</question>
+<question number="13" text="He [gap] have dinner with us." Correct="3">
+<answer number="1">isn't going</answer>
+<answer number="2">not going to</answer>
+<answer number="3">isn't going to</answer>
+</question>
+<question number="14" text="[A][gap] going to see her friends tonight?[B]Yes, she is." Correct="3">
+<answer number="1">She's</answer>
+<answer number="2">Is</answer>
+<answer number="3">Is she</answer>
+</question>
+<question number="15" text="[gap] stay at a friend's house." Correct="2">
+<answer number="1">I go to</answer>
+<answer number="2">I'm going to</answer>
+<answer number="3">I going</answer>
+</question>
+<question number="16" text="I think you're [gap] very happy." Correct="3">
+<answer number="1">going to</answer>
+<answer number="2">being</answer>
+<answer number="3">going to be</answer>
+</question>
+<question number="17" text="[gap] to get married?" Correct="1">
+<answer number="1">Are they going</answer>
+<answer number="2">Do they go</answer>
+<answer number="3">Are they go</answer>
+</question>
+<question number="18" text="She [gap] to leave her boyfriend." Correct="1">
+<answer number="1">isn't going</answer>
+<answer number="2">aren't going</answer>
+<answer number="3">doesn't go</answer>
+</question>
+<question number="19" text="Where are they going [gap]?" Correct="3">
+<answer number="1">live</answer>
+<answer number="2">living</answer>
+<answer number="3">to live</answer>
+</question>
+<question number="20" text="I think [gap] rain." Correct="1">
+<answer number="1">it's going to</answer>
+<answer number="2">going to</answer>
+<answer number="3">it's going</answer>
+</question>
+</content>

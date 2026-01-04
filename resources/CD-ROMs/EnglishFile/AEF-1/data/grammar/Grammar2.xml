@@ -1,0 +1,102 @@
+<content>
+<question number="1" text="I [gap] pizza." Correct="2">
+<answer number="1">doesn't like</answer>
+<answer number="2">don't like</answer>
+<answer number="3">don't likes</answer>
+</question>
+<question number="2" text="He [gap] every day." Correct="3">
+<answer number="1">cook</answer>
+<answer number="2">doesn't cooks</answer>
+<answer number="3">cooks</answer>
+</question>
+<question number="3" text="We [gap] in a restaurant." Correct="1">
+<answer number="1">work</answer>
+<answer number="2">works</answer>
+<answer number="3">are work</answer>
+</question>
+<question number="4" text="She [gap] live with her parents." Correct="3">
+<answer number="1">don't</answer>
+<answer number="2">do not</answer>
+<answer number="3">doesn't</answer>
+</question>
+<question number="5" text="Many people [gap] cappuccino." Correct="1">
+<answer number="1">drink</answer>
+<answer number="2">drinks</answer>
+<answer number="3">are drink</answer>
+</question>
+<question number="6" text="[gap] you like Korean food?" Correct="1">
+<answer number="1">Do</answer>
+<answer number="2">Does</answer>
+<answer number="3">Are</answer>
+</question>
+<question number="7" text="[A]Do your parents work?[B]Yes, they [gap]." Correct="3">
+<answer number="1">does</answer>
+<answer number="2">don't</answer>
+<answer number="3">do</answer>
+</question>
+<question number="8" text="Where [gap] live?" Correct="3">
+<answer number="1">do Sam</answer>
+<answer number="2">Sam does</answer>
+<answer number="3">does Sam</answer>
+</question>
+<question number="9" text="[gap] with your parents?" Correct="2">
+<answer number="1">Do live you</answer>
+<answer number="2">Do you live</answer>
+<answer number="3">Live you</answer>
+</question>
+<question number="10" text="[A]Does Sally like sushi?[B]Yes, she [gap]." Correct="2">
+<answer number="1">is</answer>
+<answer number="2">does</answer>
+<answer number="3">likes</answer>
+</question>
+<question number="11" text="[A]What [gap]?[B]I'm a teacher." Correct="2">
+<answer number="1">you do</answer>
+<answer number="2">do you do</answer>
+<answer number="3">do you</answer>
+</question>
+<question number="12" text="My brother's [gap]." Correct="1">
+<answer number="1">a builder</answer>
+<answer number="2">an builder</answer>
+<answer number="3">builder</answer>
+</question>
+<question number="13" text="They're [gap]." Correct="3">
+<answer number="1">an engineer</answer>
+<answer number="2">a engineers</answer>
+<answer number="3">engineers</answer>
+</question>
+<question number="14" text="That's Helen. She's [gap]." Correct="3">
+<answer number="1">a actress</answer>
+<answer number="2">actress</answer>
+<answer number="3">an actress</answer>
+</question>
+<question number="15" text="[A]What [gap]?[B]He's a bank manager." Correct="1">
+<answer number="1">does he do</answer>
+<answer number="2">does he work</answer>
+<answer number="3">he does</answer>
+</question>
+<question number="16" text="It's [gap] pen." Correct="2">
+<answer number="1">the Tom's</answer>
+<answer number="2">Tom's</answer>
+<answer number="3">Toms'</answer>
+</question>
+<question number="17" text="It's my [gap] car." Correct="2">
+<answer number="1">parents</answer>
+<answer number="2">parents'</answer>
+<answer number="3">parent</answer>
+</question>
+<question number="18" text="That's [gap]." Correct="1">
+<answer number="1">Jason's father</answer>
+<answer number="2">Jason father's</answer>
+<answer number="3">Jason father</answer>
+</question>
+<question number="19" text="I like the [gap]." Correct="2">
+<answer number="1">movie's begin</answer>
+<answer number="2">beginning of the movie</answer>
+<answer number="3">movie beginning</answer>
+</question>
+<question number="20" text="They're [gap] glasses." Correct="3">
+<answer number="1">Marcus</answer>
+<answer number="2">the Marcus's</answer>
+<answer number="3">Marcus's</answer>
+</question>
+</content>

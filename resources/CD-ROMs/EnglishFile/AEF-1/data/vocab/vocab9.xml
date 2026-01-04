@@ -1,0 +1,48 @@
+<content>
+<section number="1">
+<word number="1" answer="spring">/sprIN/</word>
+<word number="2" answer="summer">/"sVm@r/</word>
+<word number="3" answer="fall">/fOl/</word>
+<word number="4" answer="winter">/"wInt@r/</word>
+
+<word number="6" answer="Easter">/"ist@r/</word>
+<word number="7" answer="Christmas">/"krIsm@s/</word>
+<word number="8" answer="New Year">/nu yIr/</word>
+
+<word number="10" answer="January">/"dZ&nyuEri/</word>
+<word number="11" answer="February">/"fEbyuEri/</word>
+<word number="12" answer="March">/mArtS/</word>
+<word number="13" answer="April">/"eIpr@l/</word>
+<word number="14" answer="May">/meI/</word>
+<word number="15" answer="June">/dZun/</word>
+<word number="16" answer="July">/dZU"laI/</word>
+<word number="17" answer="August">/"Og@st/</word>
+<word number="18" answer="September">/sEp"tEmb@r/</word>
+<word number="19" answer="October">/Ak"toUb@r/</word>
+<word number="20" answer="November">/noU"vEmb@r/</word>
+<word number="21" answer="December">/dI"sEmb@r/</word>
+</section>
+<section number="2">
+<word number="1" answer="first">1st</word>
+<word number="2" answer="second">2nd</word>
+<word number="3" answer="third">3rd</word>
+<word number="4" answer="fourth">4th</word>
+<word number="5" answer="fifth">5th</word>
+<word number="6" answer="sixth">6th</word>
+<word number="7" answer="seventh">7th</word>
+<word number="8" answer="eighth">8th</word>
+<word number="9" answer="ninth">9th</word>
+<word number="10" answer="tenth">10th</word>
+<word number="11" answer="eleventh">11th</word>
+<word number="12" answer="twelfth">12th</word>
+<word number="13" answer="thirteenth">13th</word>
+<word number="14" answer="fourteenth">14th</word>
+<word number="15" answer="twentieth">20th</word>
+<word number="16" answer="twenty-first">21st</word>
+<word number="17" answer="twenty-second">22nd</word>
+<word number="18" answer="twenty-third">23rd</word>
+<word number="19" answer="twenty-fourth">24th</word>
+<word number="20" answer="thirtieth">30th</word>
+<word number="21" answer="thirty-first">31st</word>
+</section>
+</content>

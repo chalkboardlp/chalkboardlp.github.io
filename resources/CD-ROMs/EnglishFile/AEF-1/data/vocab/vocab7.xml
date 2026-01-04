@@ -1,0 +1,34 @@
+<content>
+<section number="1">
+<word number="1" answer="black">colour</word>
+<word number="2" answer="blue">colour</word>
+<word number="3" answer="brown">colour</word>
+<word number="4" answer="green">colour</word>
+<word number="5" answer="gray">colour</word>
+<word number="6" answer="orange">colour</word>
+<word number="7" answer="pink">colour</word>
+<word number="8" answer="red">colour</word>
+<word number="9" answer="white">colour</word>
+<word number="10" answer="yellow">colour</word>
+</section>
+<section number="2">
+<word number="1" answer="bad">good</word>
+<word number="2" answer="beautiful">ugly</word>
+<word number="3" answer="big">small</word>
+<word number="4" answer="blond">dark (hair)</word>
+<word number="5" answer="dangerous">safe</word>
+<word number="6" answer="dirty">clean</word>
+<word number="7" answer="easy">difficult</word>
+<word number="8" answer="empty">full</word>
+<word number="9" answer="expensive">cheap</word>
+<word number="10" answer="fast">slow</word>
+<word number="11" answer="heavy / fat">thin</word>
+<word number="12" answer="high">low</word>
+<word number="13" answer="long">short</word>
+<word number="14" answer="old">new</word>
+<word number="15" answer="old">young</word>
+<word number="16" answer="rich">poor</word>
+<word number="17" answer="tall">short</word>
+<word number="18" answer="wet">dry</word>
+</section>
+</content>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<content>
+	<section number="1">
+		<word number="1" answer="bathroom">/"b&Trum/</word>
+		<word number="2" answer="bedroom">/"bEdrum/</word>
+		<word number="3" answer="dining room">/"daInIN rum/</word>
+		<word number="4" answer="garage">/g@"rAZ/</word>
+		<word number="5" answer="hall">/hOl/</word>
+		<word number="6" answer="kitchen">/"kItS@n/</word>
+		<word number="7" answer="living room">/"lIvIN rum/</word>
+		<word number="8" answer="study">/"stVdi/</word>
+		<word number="9" answer="yard">/yArd/</word>
+	</section>
+	<section number="2">
+		<word number="1" answer="armchair">/"ArmtSEr/</word>
+		<word number="2" answer="bathtub">/"b&TtVb/</word>
+		<word number="3" answer="bed">/bEd/</word>
+		<word number="4" answer="carpet">/"kArp@t/</word>
+		<word number="5" answer="clock">/klAk/</word>
+		<word number="6" answer="cupboard">/"kVb@rd/</word>
+		<word number="7" answer="desk">/dEsk/</word>
+		<word number="8" answer="fireplace">/"faI@rpleIs/</word>
+		<word number="9" answer="floor">/flOr/</word>
+		<word number="10" answer="lamp">/l&mp/</word>
+		<word number="11" answer="light">/laIt/</word>
+		<word number="12" answer="mirror">/"mIr@r/</word>
+		<word number="13" answer="picture">/"pIktS@r/</word>
+		<word number="14" answer="plant">/pl&nt/</word>
+		<word number="15" answer="radiator">/"reIdieIt@r/</word>
+		<word number="16" answer="refrigerator">/rI"frIdZ@reIt@r/</word>
+		<word number="17" answer="shelves">/SElvz/</word>
+		<word number="18" answer="shower">/"SaU@r/</word>
+		<word number="19" answer="sofa">/"soUf@/</word>
+		<word number="20" answer="stairs">/stErz/</word>
+		<word number="21" answer="stove">/stoUv/</word>
+		<word number="22" answer="wall">/wOl/</word>
+	</section>
+</content>
+
+

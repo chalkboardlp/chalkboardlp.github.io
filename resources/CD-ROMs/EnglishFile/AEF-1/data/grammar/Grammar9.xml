@@ -1,0 +1,102 @@
+<content>
+<question number="1" text="[gap] to Buenos Aires." Correct="2">
+<answer number="1">I been</answer>
+<answer number="2">I've been</answer>
+<answer number="3">I be</answer>
+</question>
+<question number="2" text="[gap] you been to Thailand?" Correct="1">
+<answer number="1">Have</answer>
+<answer number="2">Has</answer>
+<answer number="3">Do</answer>
+</question>
+<question number="3" text="We [gap] to the US." Correct="3">
+<answer number="1">haven't be</answer>
+<answer number="2">hasn't been</answer>
+<answer number="3">haven't been</answer>
+</question>
+<question number="4" text="[gap] been to an opera before?" Correct="2">
+<answer number="1">He has</answer>
+<answer number="2">Has he</answer>
+<answer number="3">Have he</answer>
+</question>
+<question number="5" text="[gap] to New Zealand three times." Correct="1">
+<answer number="1">They've been</answer>
+<answer number="2">They've be</answer>
+<answer number="3">They been</answer>
+</question>
+<question number="6" text="I [gap] to Barcelona or Madrid." Correct="3">
+<answer number="1">not been</answer>
+<answer number="2">didn't be</answer>
+<answer number="3">haven't been</answer>
+</question>
+<question number="7" text="[A]Has your boyfriend been to Las Vegas?[B]No, [gap]." Correct="1">
+<answer number="1">he hasn't</answer>
+<answer number="2">he haven't</answer>
+<answer number="3">hasn't</answer>
+</question>
+<question number="8" text="[A]Have you been to that hotel?[B]Yes, we [gap]." Correct="1">
+<answer number="1">have</answer>
+<answer number="2">do</answer>
+<answer number="3">have been</answer>
+</question>
+<question number="9" text="She [gap] been to Canada." Correct="2">
+<answer number="1">isn't</answer>
+<answer number="2">hasn't</answer>
+<answer number="3">haven't</answer>
+</question>
+<question number="10" text="[A]Is Jack here?[B]No, he's [gap] to Chile on vacation." Correct="2">
+<answer number="1">went</answer>
+<answer number="2">gone</answer>
+<answer number="3">go</answer>
+</question>
+<question number="11" text="I haven't [gap] this movie before." Correct="3">
+<answer number="1">see</answer>
+<answer number="2">saw</answer>
+<answer number="3">seen</answer>
+</question>
+<question number="12" text="Have you ever [gap] during a movie?" Correct="2">
+<answer number="1">cry</answer>
+<answer number="2">cried</answer>
+<answer number="3">cryed</answer>
+</question>
+<question number="13" text="[gap] my leg three times." Correct="2">
+<answer number="1">I've broke</answer>
+<answer number="2">I've broken</answer>
+<answer number="3">I break</answer>
+</question>
+<question number="14" text="[gap] to that man before." Correct="1">
+<answer number="1">We've spoken</answer>
+<answer number="2">We spoken</answer>
+<answer number="3">We've spoke</answer>
+</question>
+<question number="15" text="Have you ever [gap] eight glasses of water in a day?" Correct="2">
+<answer number="1">drink</answer>
+<answer number="2">drunk</answer>
+<answer number="3">drank</answer>
+</question>
+<question number="16" text="I haven't [gap] an e-mail in English before." Correct="3">
+<answer number="1">wrote</answer>
+<answer number="2">writen</answer>
+<answer number="3">written</answer>
+</question>
+<question number="17" text="When [gap] that movie?" Correct="1">
+<answer number="1">did you see</answer>
+<answer number="2">do you see</answer>
+<answer number="3">have you seen</answer>
+</question>
+<question number="18" text="[gap] this book before?" Correct="3">
+<answer number="1">Do you read</answer>
+<answer number="2">Are you reading</answer>
+<answer number="3">Have you read</answer>
+</question>
+<question number="19" text="I [gap] my new job last week." Correct="2">
+<answer number="1">have begun</answer>
+<answer number="2">began</answer>
+<answer number="3">begin</answer>
+</question>
+<question number="20" text="[gap] you ever been to Australia?" Correct="1">
+<answer number="1">Have</answer>
+<answer number="2">Did</answer>
+<answer number="3">Do</answer>
+</question>
+</content>
