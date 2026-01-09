@@ -26,7 +26,7 @@ body {
 
 /* ===== PLAYLIST GRID ===== */
 #playlist {
-  max-height: 320px;
+  max-height: auto;
   overflow-y: auto;
   margin-top: 8px;
   padding: 6px;
@@ -108,21 +108,28 @@ Escoge un canal de la lista y dale click
 
 <div id="playlist">
 
-<!-- ===== CHANNELS ===== -->
+<!-- ===== CHANNELS ===== 
+VH1:	https://fl1.moveonjoy.com/VH1/index.m3u8
+-->
 
 <div class="playlist-item" data-src="https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8" title="Live Classes">
   <img src="https://english-club.tv/wp-content/uploads/2015/09/Logo_ECTV_big.png">
   <span>EnglishTV</span>
 </div>
 
-<div class="playlist-item" data-src="https://fl1.moveonjoy.com/history_channel/index.m3u8" title="Documentaries & Science">
-  <img src="https://yt3.googleusercontent.com/WRT3nzkXXvD7CYXS2p_6pEZpPL9g2gJfOAFE-f0PTMawVdXJhaXvoIXpVOeb6qAlSENwfzVvMnQ=s900-c-k-c0x00ffffff-no-rj">
-  <span>History</span>
+<div class="playlist-item" data-src="http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8" title="Documentaries & Science">
+  <img src="https://yt3.googleusercontent.com/Dvm8dAjrfdOOIuPZ8LBRk4JR7cIWmO7flgIDpEFLvA3oRxYST0ZnvJIeV2iaMv3MkJZu0QH9=s900-c-k-c0x00ffffff-no-rj">
+  <span>Discovery</span>
 </div>
 
 <div class="playlist-item" data-src="https://fl1.moveonjoy.com/National_Geographic/index.m3u8" title="Documentaries & Science">
   <img src="https://yt3.googleusercontent.com/GC-FpT0nbV0nuF_QXKzaNHTV545TR1gQfULZaZOYgf58D8AfDxWanLlaQU366UKq44DadPMC=s900-c-k-c0x00ffffff-no-rj">
   <span>NatGeo</span>
+</div>
+
+<div class="playlist-item" data-src="http://fl1.moveonjoy.com/Discovery_Science/index.m3u8" title="Documentaries & Science">
+  <img src="https://www.bellmedia.ca/lede/wp-content/uploads/2024/12/CTVNature_500x500_White.png">
+  <span>CTV Nature</span>
 </div>
 
 <div class="playlist-item" data-src="https://amg01597-wnetnewyorkpubl-pbsnature-localnow-4gv0j.amagi.tv/playlist.m3u8" title="Nature">
@@ -141,13 +148,18 @@ Escoge un canal de la lista y dale click
 </div>
 
 <div class="playlist-item" data-src="https://lds-timeline-plex.amagi.tv/playlist.m3u8" title="History">
-  <img src="https://static.wikia.nocookie.net/twitch_gamepedia/images/7/7f/Timeline_-_World_History_Documentaries.jpg/revision/latest/scale-to-width-down/176?cb=20210924184054">
+  <img src="https://static.wikia.nocookie.net/twitch_gamepedia/images/7/7f/Timeline_-_World_History_Documentaries.jpg">
   <span>Timeline</span>
 </div>
 
 <div class="playlist-item" data-src="https://linear-188.frequency.stream/dist/localnow/188/hls/master/playlist.m3u8" title="History">
   <img src="https://image.xumo.com/v1/channels/channel/99991650/600x600.webp?type=color_onBlack">
   <span>True History</span>
+</div>
+
+<div class="playlist-item" data-src="https://fl1.moveonjoy.com/HBO/index.m3u8" title="Movies">
+  <img src="https://yt3.googleusercontent.com/xrXPx6zj9lXDumnGmxo1BMS3NhyOjHaO3io8FXK1yqbojj3eMJpbJ-b92ODieH2hsY8KYuXs_w=s900-c-k-c0x00ffffff-no-rj">
+  <span>HBO</span>
 </div>
 
 <div class="playlist-item" data-src="https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8" title="Movies">
@@ -160,6 +172,11 @@ Escoge un canal de la lista y dale click
   <span>Cinevault 80's</span>
 </div>
 
+<div class="playlist-item" data-src="https://fl2.moveonjoy.com/TCM/index.m3u8" title="Movies">
+  <img src="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png">
+  <span>TCM</span>
+</div>
+
 <div class="playlist-item" data-src="https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8" title="Cop Movies">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZFBgOkTEeiG3K74bep775XK2_TC-F37Z2Iw&s">
   <span>Charge</span>
@@ -168,6 +185,11 @@ Escoge un canal de la lista y dale click
 <div class="playlist-item" data-src="https://bonappetit-samsung.amagi.tv/playlist.m3u8" title="Cooking">
   <img src="https://yt3.googleusercontent.com/cXS_yturdFtxAvqzJRnbMtZRYKCv3CDD7VHqHmhGZ2jgM8PYnOAbAbhZaK-Wb1NWgIrxrUjJiA=s160-c-k-c0x00ffffff-no-rj">
   <span>Bon Appetit</span>
+</div>
+
+<div class="playlist-item" data-src="https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8" title="Entertainment">
+  <img src="https://yt3.googleusercontent.com/DOBPQOBJxtHFJmxkmuLX-fvGX_XLfDmXn6uongpVzM4bEphxrva-DxTQvIviIEEf0fSBJ0hI=s900-c-k-c0x00ffffff-no-rj">
+  <span>Paramount</span>
 </div>
 
 <div class="playlist-item" data-src="https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8" title="Celebrities">
@@ -205,9 +227,9 @@ Escoge un canal de la lista y dale click
   <span>TVS Travel</span>
 </div>
 
-<div class="playlist-item" data-src="https://fl1.moveonjoy.com/VH1/index.m3u8" title="Music">
-  <img src="https://yt3.googleusercontent.com/ytc/AIdro_mW7jkV8hiWOE69rn2cK9Z_ibCwAsmQbB6mNoU9ud0vDA=s900-c-k-c0x00ffffff-no-rj">
-  <span>VH1</span>
+<div class="playlist-item" data-src="https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8" title="Handcrafts">
+  <img src="https://yt3.googleusercontent.com/ytc/AIdro_me6Y19YHkGWhmfR_vVAwjgKk3zJZe4U1o3dvR4IOou-Uo=s900-c-k-c0x00ffffff-no-rj">
+  <span>Craftsy</span>
 </div>
 
 <div class="playlist-item" data-src="https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8" title="Music">
@@ -238,6 +260,11 @@ Escoge un canal de la lista y dale click
 <div class="playlist-item" data-src="https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8" title="World News">
   <img src="https://yt3.googleusercontent.com/NSOdTQTWlqMy8O_j32dx-ftfTCHMOt04Hm7KZ4pfAK6-eQzQSZMWvvss90kG8KQfJ7iNP3phyA=s900-c-k-c0x00ffffff-no-rj">
   <span>DW News</span>
+</div>
+
+<div class="playlist-item" data-src="https://fl1.moveonjoy.com/ESPN_U/index.m3u8" title="Sports">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png">
+  <span>ESPN U</span>
 </div>
 
 
