@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Acceso automático a Britannica Escolar</title>
+</head>
+<body>
+  <h2>Te estamos redirigiendo</h2>
+
+  <form id="loginForm" method="POST" action="https://escolar.eb.com/?target=%2Flevels%2Fprimaria" style="display: none;">
+    <input type="text" name="user" value="howardco">
+    <input type="password" name="pass" value="howardco">
+    <input type="submit" value="Login">
+  </form>
+
+  <script>
+    // Espera unos milisegundos por si la página necesita cargar
+    setTimeout(function() {
+      document.getElementById('loginForm').submit();
+    }, 500);
+  </script>
+  
+  <script> 
+document.oncontextmenu = function() { 
+    return false; 
+};
+</script>
+
+</body>
+</html>
