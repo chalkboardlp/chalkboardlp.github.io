@@ -41,7 +41,7 @@
             divFeed.append('<img src="loader.gif" alt="Loading..." />');
 
             $.ajax({
-                url: "news.json",
+                url: "../../../news.json",
                 dataType: "json",
                 cache: false,
 
