@@ -27,7 +27,9 @@
 <script>
 $(document).ready(function(){
     
-   $('#divRss').FeedEk();
+    $('#divRss').FeedEk({
+    FeedUrl : 'https://feeds.bbci.co.uk/news/world/rss.xml'
+});
     
     var r = Math.floor(Math.random()*256);
  	var g = Math.floor(Math.random()*256);

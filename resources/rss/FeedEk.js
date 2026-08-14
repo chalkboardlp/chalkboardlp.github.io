@@ -49,15 +49,17 @@
 
                     divFeed.empty();
 
-                    if (!result || !Array.isArray(result)) {
-                        def.Error("Invalid news.json format.");
-                        return;
-                    }
+                    var data = result.articles;
 
-                    /*
-                     * Apply offset if requested
-                     */
-                    var data = result.slice(def.Offset);
+					if (!Array.isArray(data)) {
+					def.Error("Invalid news.json format.");
+					return;
+				}
+
+				/*
+				* Apply offset if requested
+				*/
+				data = data.slice(def.Offset);
 
                     /*
                      * Limit the number of news items
