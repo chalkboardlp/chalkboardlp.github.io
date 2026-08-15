@@ -6,7 +6,12 @@
   },
   {
     "name": "The City Paper",
-    "url": "https://thecitypaperbogota.com/culture/feed/",
+    "url": "https://thecitypaperbogota.com/feed/",
     "file": "resources/rss/data/city_paper.json"
+  },
+  {
+    "name": "The Bogota Post",
+    "url": "https://thebogotapost.com/feed/",
+    "file": "resources/rss/data/bogota_post.json"
   }
 ]
