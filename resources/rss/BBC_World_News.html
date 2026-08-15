@@ -2,7 +2,7 @@
 <html lang="en">
 <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>BBC World News RSS</title>
-<link rel="icon" href="https://chalkboardlp.com/radio/favicon.png" type="image/x-icon">
+<link rel="icon" href="https://chalkboardlp.github.io/img/favicon.png" type="image/x-icon">
 
 <script type="text/javascript" src="jquery-1.9.1.js"></script>
 <script type="text/javascript" src="FeedEk.js"></script>
@@ -28,7 +28,7 @@
 $(document).ready(function(){
     
     $('#divRss').FeedEk({
-    FeedUrl : 'https://feeds.bbci.co.uk/news/world/rss.xml'
+    FeedFile: 'data/bbc_world_news.json'
 });
     
     var r = Math.floor(Math.random()*256);

@@ -1,5 +1,5 @@
 /* FeedEk jQuery RSS/ATOM Feed Plugin v3.2.0
- * Adapted to read a local news.json file
+ * Adapted to read local JSON news feeds
  * Original plugin by Engin KIZIL
  */
 
@@ -8,6 +8,7 @@
     $.fn.FeedEk = function (options) {
 
         var def = $.extend({
+            FeedFile: "data/bbc_world_news.json",
             MaxCount: 3,
             ShowDesc: true,
             ShowPubDate: true,
@@ -25,23 +26,18 @@
         var divFeed = this;
 
         var init = function () {
-
-            /*
-             * The RSS feed is now converted automatically by
-             * GitHub Actions into news.json.
-             *
-             * news.json is located in the same folder as index.html.
-             */
             getFeedData();
         };
 
         var getFeedData = function () {
 
             divFeed.empty();
-            divFeed.append('<img src="loader.gif" alt="Loading..." />');
+            divFeed.append(
+                '<img src="loader.gif" alt="Loading..." />'
+            );
 
             $.ajax({
-                url: "../../../news.json",
+                url: def.FeedFile,
                 dataType: "json",
                 cache: false,
 
@@ -49,25 +45,32 @@
 
                     divFeed.empty();
 
+                    /*
+                     * Our JSON structure contains the
+                     * articles inside the "articles" property.
+                     */
                     var data = result.articles;
 
-					if (!Array.isArray(data)) {
-					def.Error("Invalid news.json format.");
-					return;
-				}
-
-				/*
-				* Apply offset if requested
-				*/
-				data = data.slice(def.Offset);
+                    if (!Array.isArray(data)) {
+                        def.Error("Invalid news feed format.");
+                        return;
+                    }
 
                     /*
-                     * Limit the number of news items
+                     * Apply offset
+                     */
+                    data = data.slice(def.Offset);
+
+                    /*
+                     * Limit number of articles
                      */
                     if (def.MaxCount > 0) {
                         data = data.slice(0, def.MaxCount);
                     }
 
+                    /*
+                     * Generate and display HTML
+                     */
                     divFeed.append(generateHtml(data));
 
                     def.Success(data);
@@ -98,10 +101,17 @@
                  * Title
                  */
                 s += '<div class="itemTitle">';
-                s += '<a href="' + escapeHtml(itm.link) +
-                     '" target="' + def.TitleLinkTarget + '">';
+
+                s += '<a href="' +
+                    escapeHtml(itm.link) +
+                    '" target="' +
+                    def.TitleLinkTarget +
+                    '">';
+
                 s += escapeHtml(itm.title);
+
                 s += '</a>';
+
                 s += '</div>';
 
                 /*
@@ -118,15 +128,21 @@
                         if (!isNaN(date.getTime())) {
 
                             if ($.trim(def.DateFormat).length > 0) {
+
                                 s += formatDate(date);
+
                             } else {
+
                                 s += date.toLocaleDateString(
                                     def.DateFormatLang
                                 );
+
                             }
 
                         } else {
+
                             s += escapeHtml(itm.pubDate);
+
                         }
                     }
 
@@ -139,7 +155,11 @@
                 if (def.ShowDesc) {
 
                     s += '<div class="itemContent">';
-                    s += getDescription(itm.description || "");
+
+                    s += getDescription(
+                        itm.description || ""
+                    );
+
                     s += '</div>';
                 }
 
@@ -149,8 +169,17 @@
                 if (def.ShowAuthor && itm.author) {
 
                     s += '<div class="itemAuthor">';
-                    s += escapeHtml(def.AuthorLabel) + ' ';
-                    s += escapeHtml(itm.author);
+
+                    s += escapeHtml(
+                        def.AuthorLabel
+                    );
+
+                    s += ' ';
+
+                    s += escapeHtml(
+                        itm.author
+                    );
+
                     s += '</div>';
                 }
 
@@ -169,6 +198,7 @@
                 def.DescCharacterLimit > 0 &&
                 desc.length > def.DescCharacterLimit
             ) {
+
                 desc = desc.substring(
                     0,
                     def.DescCharacterLimit
@@ -179,11 +209,14 @@
         };
 
         /*
-         * Basic HTML escaping for titles and links
+         * Basic HTML escaping
          */
         var escapeHtml = function (text) {
 
-            if (text === undefined || text === null) {
+            if (
+                text === undefined ||
+                text === null
+            ) {
                 return "";
             }
 
@@ -196,7 +229,7 @@
         };
 
         /*
-         * Simple date formatting
+         * Date formatting
          */
         var formatDate = function (date) {
 
