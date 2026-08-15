@@ -1,13 +1,25 @@
 {
-  "updated": "2026-08-15T06:57:52.174060+00:00",
+  "updated": "2026-08-15T07:44:07.052324+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-      "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-      "description": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
-      "pubDate": "Fri, 14 Aug 2026 19:20:43 GMT"
+      "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
+      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "description": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
+      "pubDate": "Sat, 15 Aug 2026 07:22:22 GMT"
+    },
+    {
+      "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+      "link": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+      "description": "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on Friday.",
+      "pubDate": "Sat, 15 Aug 2026 01:41:24 GMT"
+    },
+    {
+      "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
+      "description": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
+      "pubDate": "Fri, 14 Aug 2026 18:54:58 GMT"
     },
     {
       "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
@@ -16,10 +28,28 @@
       "pubDate": "Sat, 15 Aug 2026 00:01:53 GMT"
     },
     {
-      "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
-      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-      "description": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
-      "pubDate": "Sat, 15 Aug 2026 06:21:31 GMT"
+      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
+      "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+      "description": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "pubDate": "Fri, 14 Aug 2026 17:36:27 GMT"
+    },
+    {
+      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+      "description": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+      "pubDate": "Fri, 14 Aug 2026 17:03:17 GMT"
+    },
+    {
+      "title": "France's top court blocks social media ban for under-15s",
+      "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+      "description": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
+      "pubDate": "Fri, 14 Aug 2026 16:35:06 GMT"
+    },
+    {
+      "title": "'Unprecedented' rain in Japan kills eight people",
+      "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "description": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+      "pubDate": "Fri, 14 Aug 2026 10:36:14 GMT"
     },
     {
       "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
@@ -28,10 +58,10 @@
       "pubDate": "Fri, 14 Aug 2026 18:25:38 GMT"
     },
     {
-      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-      "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-      "description": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-      "pubDate": "Fri, 14 Aug 2026 17:36:27 GMT"
+      "title": "Dozens injured and thousands evacuated in Croatia wildfire",
+      "link": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+      "description": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
+      "pubDate": "Fri, 14 Aug 2026 20:22:56 GMT"
     },
     {
       "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
@@ -46,58 +76,28 @@
       "pubDate": "Fri, 14 Aug 2026 13:18:08 GMT"
     },
     {
-      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-      "description": "Two families have been trapped in their homes in the occupied West Bank for several days.",
-      "pubDate": "Fri, 14 Aug 2026 17:03:17 GMT"
-    },
-    {
-      "title": "'Unprecedented' rain in Japan kills eight people",
-      "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-      "description": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
-      "pubDate": "Fri, 14 Aug 2026 10:36:14 GMT"
-    },
-    {
-      "title": "Dozens injured and thousands evacuated in Croatia wildfire",
-      "link": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
-      "description": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
-      "pubDate": "Fri, 14 Aug 2026 20:22:56 GMT"
-    },
-    {
-      "title": "France's top court blocks social media ban for under-15s",
-      "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-      "description": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
-      "pubDate": "Fri, 14 Aug 2026 16:35:06 GMT"
-    },
-    {
-      "title": "Stolen Matisse artworks recovered by police in Brazil",
-      "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-      "description": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
-      "pubDate": "Fri, 14 Aug 2026 10:55:39 GMT"
-    },
-    {
-      "title": "Trump asks US Supreme Court to allow ballroom work to continue",
-      "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
-      "description": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
-      "pubDate": "Fri, 14 Aug 2026 19:05:22 GMT"
-    },
-    {
       "title": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
       "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
       "description": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
       "pubDate": "Fri, 14 Aug 2026 16:28:59 GMT"
     },
     {
-      "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
-      "link": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
-      "description": "Civil servants are entitled to extra money for working in difficult or dangerous cities around the world.",
-      "pubDate": "Fri, 14 Aug 2026 17:00:46 GMT"
+      "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
+      "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
+      "description": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
+      "pubDate": "Fri, 14 Aug 2026 23:16:43 GMT"
     },
     {
-      "title": "US says dozens of countries helped China dodge Trump's tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "description": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
-      "pubDate": "Fri, 14 Aug 2026 08:39:46 GMT"
+      "title": "Five years after the Taliban swept to power, does the West have any influence?",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
+      "description": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left",
+      "pubDate": "Fri, 14 Aug 2026 17:00:14 GMT"
+    },
+    {
+      "title": "I wish I had been a more rebellious teenager, says Bella Ramsey",
+      "link": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o?at_medium=RSS&at_campaign=rss",
+      "description": "Ramsey stars in a new film about a cancer survivor who attends “chemo camp” and finds friendship, love and freedom.",
+      "pubDate": "Sat, 15 Aug 2026 00:10:47 GMT"
     },
     {
       "title": "Europe's scorched landscapes seen from space after summer heatwaves",
@@ -112,40 +112,10 @@
       "pubDate": "Fri, 14 Aug 2026 23:17:22 GMT"
     },
     {
-      "title": "Air India pilot's reported cannabis test: What it can and can't tell investigators",
-      "link": "https://www.bbc.co.uk/news/articles/c74gdgly3g3o?at_medium=RSS&at_campaign=rss",
-      "description": "A reported cannabis-positive test involving an Air India pilot raises questions about what such a result can actually tell investigators.",
-      "pubDate": "Sat, 15 Aug 2026 00:01:44 GMT"
-    },
-    {
-      "title": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
-      "link": "https://www.bbc.co.uk/news/articles/c9v42m3430vo?at_medium=RSS&at_campaign=rss",
-      "description": "Deivi Delfín and his brother moved to Colombia after a quake in Venezuela killed their mother, but were caught in another deadly disaster.",
-      "pubDate": "Fri, 14 Aug 2026 08:02:35 GMT"
-    },
-    {
-      "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
-      "link": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
-      "description": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?",
-      "pubDate": "Fri, 14 Aug 2026 02:13:27 GMT"
-    },
-    {
-      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-      "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-      "pubDate": "Thu, 13 Aug 2026 04:55:58 GMT"
-    },
-    {
-      "title": "Who could replace White House Press Secretary Karoline Leavitt?",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
-      "description": "The job requires managing a complex relationship with the media - as well Trump's high expectations.",
-      "pubDate": "Thu, 13 Aug 2026 14:56:19 GMT"
-    },
-    {
-      "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
-      "link": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
-      "description": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
-      "pubDate": "Wed, 12 Aug 2026 23:19:28 GMT"
+      "title": "How is parkour helping these seniors avoid injuries?",
+      "link": "https://www.bbc.co.uk/news/videos/c7vg06pjdmqo?at_medium=RSS&at_campaign=rss",
+      "description": "In one of the world's fastest aging countries, older people are finding creative ways to stay healthy.",
+      "pubDate": "Fri, 14 Aug 2026 23:08:13 GMT"
     },
     {
       "title": "Why is Selena Gomez being sued?",
