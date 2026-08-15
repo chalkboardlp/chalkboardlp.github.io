@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T13:43:49.081370+00:00",
+  "updated": "2026-08-15T14:38:57.457294+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -8,6 +8,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
       "description": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
       "pubDate": "Sat, 15 Aug 2026 13:35:57 GMT"
+    },
+    {
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers.",
+      "pubDate": "Sat, 15 Aug 2026 13:38:53 GMT"
     },
     {
       "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
@@ -20,12 +26,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
       "description": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
       "pubDate": "Fri, 14 Aug 2026 17:36:27 GMT"
-    },
-    {
-      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers.",
-      "pubDate": "Sat, 15 Aug 2026 13:38:53 GMT"
     },
     {
       "title": "South Korea proposes talks to officially end war with North",
@@ -46,16 +46,16 @@
       "pubDate": "Fri, 14 Aug 2026 16:35:06 GMT"
     },
     {
-      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-      "description": "Two families have been trapped in their homes in the occupied West Bank for several days.",
-      "pubDate": "Fri, 14 Aug 2026 17:03:17 GMT"
-    },
-    {
       "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
       "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
       "description": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
       "pubDate": "Fri, 14 Aug 2026 18:25:38 GMT"
+    },
+    {
+      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+      "description": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+      "pubDate": "Fri, 14 Aug 2026 17:03:17 GMT"
     },
     {
       "title": "Dozens injured and thousands evacuated in Croatia wildfire",
@@ -88,16 +88,28 @@
       "pubDate": "Fri, 14 Aug 2026 12:19:21 GMT"
     },
     {
+      "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
+      "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
+      "description": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
+      "pubDate": "Fri, 14 Aug 2026 23:16:43 GMT"
+    },
+    {
+      "title": "Five years after the Taliban swept to power, does the West have any influence?",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
+      "description": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left",
+      "pubDate": "Fri, 14 Aug 2026 17:00:14 GMT"
+    },
+    {
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "description": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.",
+      "pubDate": "Sat, 15 Aug 2026 11:25:32 GMT"
+    },
+    {
       "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
       "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
       "description": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
       "pubDate": "Fri, 14 Aug 2026 18:54:58 GMT"
-    },
-    {
-      "title": "The Polygamist's creator says women see themselves reflected in her Netflix hit",
-      "link": "https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss",
-      "description": "Zimbabwean novelist Sue Nyathi self-funded her debut novel and now asks who can afford to write at all.",
-      "pubDate": "Fri, 14 Aug 2026 23:17:22 GMT"
     },
     {
       "title": "Europe's scorched landscapes seen from space after summer heatwaves",
@@ -106,16 +118,22 @@
       "pubDate": "Sat, 15 Aug 2026 05:01:13 GMT"
     },
     {
-      "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
-      "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
-      "description": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
-      "pubDate": "Fri, 14 Aug 2026 23:16:43 GMT"
+      "title": "The Polygamist's creator says women see themselves reflected in her Netflix hit",
+      "link": "https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss",
+      "description": "Zimbabwean novelist Sue Nyathi self-funded her debut novel and now asks who can afford to write at all.",
+      "pubDate": "Fri, 14 Aug 2026 23:17:22 GMT"
     },
     {
       "title": "I wish I had been a more rebellious teenager, says Bella Ramsey",
       "link": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o?at_medium=RSS&at_campaign=rss",
       "description": "Ramsey stars in a new film about a cancer survivor who attends “chemo camp” and finds friendship, love and freedom.",
       "pubDate": "Sat, 15 Aug 2026 00:10:47 GMT"
+    },
+    {
+      "title": "World's Ugliest Dog contest crowns 2026 winner",
+      "link": "https://www.bbc.co.uk/news/videos/c39eekgv79ko?at_medium=RSS&at_campaign=rss",
+      "description": "The annual contest has been taking place in Santa Rosa, California.",
+      "pubDate": "Sat, 15 Aug 2026 13:41:08 GMT"
     },
     {
       "title": "Moment family rescued after 16 hours floating on jet ski off Thailand",
