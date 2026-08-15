@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-15T21:34:38.249897+00:00",
+  "updated": "2026-08-15T22:36:56.238203+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-      "description": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
-      "pubDate": "Sat, 15 Aug 2026 20:00:15 GMT"
+      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "description": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+      "pubDate": "Sat, 15 Aug 2026 21:49:12 GMT"
     },
     {
       "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
@@ -43,19 +43,25 @@
       "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
       "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
       "description": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
-      "pubDate": "Sat, 15 Aug 2026 21:27:28 GMT"
+      "pubDate": "Sat, 15 Aug 2026 21:56:10 GMT"
     },
     {
-      "title": "Why is Australia's mushroom killer back in court this week?",
-      "link": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC’s Katy Watson explains why triple-murder Erin Patterson is back in court this week trying to overturn her conviction.",
-      "pubDate": "Sat, 15 Aug 2026 18:02:30 GMT"
+      "title": "Australian state to launch gun buyback after Bondi Beach attack",
+      "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+      "description": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
+      "pubDate": "Sat, 15 Aug 2026 21:41:43 GMT"
     },
     {
       "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
       "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
       "description": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
       "pubDate": "Sat, 15 Aug 2026 13:41:09 GMT"
+    },
+    {
+      "title": "Why is Australia's mushroom killer back in court this week?",
+      "link": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC’s Katy Watson explains why triple-murder Erin Patterson is back in court this week trying to overturn her conviction.",
+      "pubDate": "Sat, 15 Aug 2026 18:02:30 GMT"
     },
     {
       "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
