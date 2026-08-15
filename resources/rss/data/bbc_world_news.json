@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T19:33:50.499634+00:00",
+  "updated": "2026-08-15T20:38:05.731657+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -7,31 +7,31 @@
       "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
       "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
       "description": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
-      "pubDate": "Sat, 15 Aug 2026 13:35:57 GMT"
+      "pubDate": "Sat, 15 Aug 2026 20:00:15 GMT"
+    },
+    {
+      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+      "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+      "pubDate": "Sat, 15 Aug 2026 20:32:33 GMT"
     },
     {
       "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
       "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
       "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-      "pubDate": "Sat, 15 Aug 2026 16:02:49 GMT"
+      "pubDate": "Sat, 15 Aug 2026 20:21:14 GMT"
     },
     {
-      "title": "Morocco detains dozens of migrants trying to cross into Ceuta",
-      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-      "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-      "pubDate": "Sat, 15 Aug 2026 19:16:40 GMT"
+      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+      "description": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
+      "pubDate": "Sat, 15 Aug 2026 19:41:57 GMT"
     },
     {
       "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
       "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
       "description": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
       "pubDate": "Fri, 14 Aug 2026 17:36:27 GMT"
-    },
-    {
-      "title": "South Korea proposes talks to officially end war with North",
-      "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "description": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
-      "pubDate": "Sat, 15 Aug 2026 14:40:15 GMT"
     },
     {
       "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
@@ -43,7 +43,7 @@
       "title": "Multiple suspects at large after five shot at Virginia State University, police say",
       "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
       "description": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
-      "pubDate": "Sat, 15 Aug 2026 17:42:36 GMT"
+      "pubDate": "Sat, 15 Aug 2026 19:34:22 GMT"
     },
     {
       "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
@@ -62,6 +62,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
       "description": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
       "pubDate": "Fri, 14 Aug 2026 16:35:06 GMT"
+    },
+    {
+      "title": "South Korea proposes talks to officially end war with North",
+      "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "description": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
+      "pubDate": "Sat, 15 Aug 2026 14:40:15 GMT"
     },
     {
       "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
