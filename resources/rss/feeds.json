@@ -6,7 +6,7 @@
   },
   {
     "name": "The City Paper",
-    "url": "https://thecitypaperbogota.com/feed/",
+    "url": "https://thecitypaperbogota.com/culture/feed/",
     "file": "resources/rss/data/city_paper.json"
   }
 ]
