@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T20:38:05.731657+00:00",
+  "updated": "2026-08-15T21:34:38.249897+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -13,7 +13,7 @@
       "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
       "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
       "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-      "pubDate": "Sat, 15 Aug 2026 20:32:33 GMT"
+      "pubDate": "Sat, 15 Aug 2026 20:58:31 GMT"
     },
     {
       "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
@@ -28,10 +28,28 @@
       "pubDate": "Sat, 15 Aug 2026 19:41:57 GMT"
     },
     {
-      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-      "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-      "description": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-      "pubDate": "Fri, 14 Aug 2026 17:36:27 GMT"
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+      "pubDate": "Sat, 15 Aug 2026 21:03:57 GMT"
+    },
+    {
+      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "description": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
+      "pubDate": "Sat, 15 Aug 2026 19:34:22 GMT"
+    },
+    {
+      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "description": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
+      "pubDate": "Sat, 15 Aug 2026 21:27:28 GMT"
+    },
+    {
+      "title": "Why is Australia's mushroom killer back in court this week?",
+      "link": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC’s Katy Watson explains why triple-murder Erin Patterson is back in court this week trying to overturn her conviction.",
+      "pubDate": "Sat, 15 Aug 2026 18:02:30 GMT"
     },
     {
       "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
@@ -40,10 +58,10 @@
       "pubDate": "Sat, 15 Aug 2026 13:41:09 GMT"
     },
     {
-      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "description": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
-      "pubDate": "Sat, 15 Aug 2026 19:34:22 GMT"
+      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
+      "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+      "description": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "pubDate": "Fri, 14 Aug 2026 17:36:27 GMT"
     },
     {
       "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
