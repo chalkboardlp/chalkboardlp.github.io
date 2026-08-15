@@ -1,4 +1,4 @@
-name: Update News Feed
+name: Update News Feeds
 
 on:
   workflow_dispatch:
@@ -18,72 +18,237 @@ jobs:
       - name: Download repository
         uses: actions/checkout@v4
 
-      - name: Download BBC RSS
-        run: |
-          curl -L \
-            -A "Mozilla/5.0" \
-            "https://feeds.bbci.co.uk/news/world/rss.xml" \
-            -o news.xml
-
-      - name: Convert RSS to JSON
+      - name: Update RSS feeds
         run: |
 
           python - <<'PY'
 
-          import xml.etree.ElementTree as ET
           import json
+          import os
+          import urllib.request
+          import xml.etree.ElementTree as ET
           from datetime import datetime, timezone
 
-          tree = ET.parse("news.xml")
-          root = tree.getroot()
+          CONFIG_FILE = "resources/rss/feeds.json"
 
-          articles = []
+          with open(CONFIG_FILE, "r", encoding="utf-8") as f:
+              feeds = json.load(f)
 
-          for item in root.findall(".//item"):
+          os.makedirs("resources/rss/data", exist_ok=True)
 
-              title = item.findtext("title", "")
-              link = item.findtext("link", "")
-              description = item.findtext("description", "")
-              pub_date = item.findtext("pubDate", "")
+          USER_AGENT = "Mozilla/5.0 (compatible; Chalkboard News Reader/1.0)"
 
-              articles.append({
-                  "title": title,
-                  "link": link,
-                  "description": description,
-                  "pubDate": pub_date
-              })
+          def get_text(element, name, default=""):
+              if element is None:
+                  return default
 
-          data = {
-              "updated": datetime.now(timezone.utc).isoformat(),
-              "source": "BBC News",
-              "articles": articles
-          }
+              child = element.find(name)
 
-          with open("news.json", "w", encoding="utf-8") as f:
+              if child is not None and child.text:
+                  return child.text.strip()
 
-              json.dump(
-                  data,
-                  f,
-                  ensure_ascii=False,
-                  indent=2
+              return default
+
+
+          def parse_feed(xml_data):
+
+              root = ET.fromstring(xml_data)
+
+              articles = []
+
+              # ---------------------------------------
+              # RSS 2.0
+              # ---------------------------------------
+
+              rss_items = root.findall(".//item")
+
+              if rss_items:
+
+                  for item in rss_items:
+
+                      title = get_text(item, "title")
+                      link = get_text(item, "link")
+                      description = get_text(item, "description")
+                      pub_date = get_text(item, "pubDate")
+
+                      articles.append({
+                          "title": title,
+                          "link": link,
+                          "description": description,
+                          "pubDate": pub_date
+                      })
+
+                  return articles
+
+
+              # ---------------------------------------
+              # Atom
+              # ---------------------------------------
+
+              namespace = ""
+
+              if root.tag.startswith("{"):
+                  namespace = root.tag.split("}")[0] + "}"
+
+              for entry in root.findall(f".//{namespace}entry"):
+
+                  title = get_text(
+                      entry,
+                      f"{namespace}title"
+                  )
+
+                  description = (
+                      get_text(entry, f"{namespace}summary")
+                      or get_text(entry, f"{namespace}content")
+                  )
+
+                  pub_date = (
+                      get_text(entry, f"{namespace}published")
+                      or get_text(entry, f"{namespace}updated")
+                  )
+
+                  link = ""
+
+                  for link_element in entry.findall(
+                      f"{namespace}link"
+                  ):
+
+                      href = link_element.attrib.get("href", "")
+
+                      rel = link_element.attrib.get(
+                          "rel",
+                          "alternate"
+                      )
+
+                      if href and rel == "alternate":
+                          link = href
+                          break
+
+                      if href and not link:
+                          link = href
+
+                  articles.append({
+                      "title": title,
+                      "link": link,
+                      "description": description,
+                      "pubDate": pub_date
+                  })
+
+              return articles
+
+
+          successful = 0
+          failed = 0
+
+          for feed in feeds:
+
+              name = feed["name"]
+              url = feed["url"]
+              output_file = feed["file"]
+
+              print("")
+              print("========================================")
+              print(f"Updating: {name}")
+              print(f"URL: {url}")
+              print(f"Output: {output_file}")
+              print("========================================")
+
+              try:
+
+                  request = urllib.request.Request(
+                      url,
+                      headers={
+                          "User-Agent": USER_AGENT
+                      }
+                  )
+
+                  with urllib.request.urlopen(
+                      request,
+                      timeout=30
+                  ) as response:
+
+                      xml_data = response.read()
+
+                  articles = parse_feed(xml_data)
+
+                  data = {
+                      "updated": datetime.now(
+                          timezone.utc
+                      ).isoformat(),
+
+                      "source": name,
+
+                      "feedUrl": url,
+
+                      "articles": articles
+                  }
+
+                  output_path = output_file
+
+                  output_directory = os.path.dirname(
+                      output_path
+                  )
+
+                  if output_directory:
+                      os.makedirs(
+                          output_directory,
+                          exist_ok=True
+                      )
+
+                  with open(
+                      output_path,
+                      "w",
+                      encoding="utf-8"
+                  ) as f:
+
+                      json.dump(
+                          data,
+                          f,
+                          ensure_ascii=False,
+                          indent=2
+                      )
+
+                  print(
+                      f"SUCCESS: {len(articles)} articles saved."
+                  )
+
+                  successful += 1
+
+              except Exception as e:
+
+                  print(
+                      f"ERROR updating {name}: {e}"
+                  )
+
+                  failed += 1
+
+
+          print("")
+          print("========================================")
+          print("UPDATE SUMMARY")
+          print("========================================")
+          print(f"Successful feeds: {successful}")
+          print(f"Failed feeds: {failed}")
+          print("========================================")
+
+          if successful == 0:
+
+              raise SystemExit(
+                  "No feeds were updated successfully."
               )
-
-          print(
-              f"Saved {len(articles)} articles."
-          )
 
           PY
 
-      - name: Save updated news
+      - name: Save updated news feeds
         run: |
 
           git config user.name "github-actions[bot]"
 
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add news.json
+          git add resources/rss/data/
 
           git diff --cached --quiet || \
-            git commit -m "Update news feed"
+            git commit -m "Update news feeds"
 
           git push
