@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Chalkboard RSS News</title>
-<link rel="icon" href="https://chalkboardlp.com/radio/favicon.png" type="image/x-icon">
+<title>The City Paper News RSS</title>
+<link rel="icon" href="https://chalkboardlp.github.io/img/favicon.png" type="image/x-icon">
 
 <script type="text/javascript" src="jquery-1.9.1.js"></script>
 <script type="text/javascript" src="FeedEk.js"></script>
@@ -20,14 +20,6 @@
 .itemDate{font-size:11px;color:#046f4b;}
 
 <!-- The quantity of posts in feed is set in FeedEK.js -->
-<!-- Links to RSS:
-		FOX BUSINESS:		https://moxie.foxbusiness.com/google-publisher/economy.xml
-		BBC BUSINESS:		https://feeds.bbci.co.uk/news/business/rss.xml
-		MERRIAM WEBSTER:	https://www.merriam-webster.com/wotd/feed/rss2
-		
-	
-	
--->	
 
 #example { font-weight: bold; cursor: pointer;}
 </style>
@@ -36,8 +28,8 @@
 $(document).ready(function(){
     
     $('#divRss').FeedEk({
-      FeedUrl : 'https://thecitypaperbogota.com/feed/'
-    });
+    FeedFile: 'data/city_paper.json'
+});
     
     var r = Math.floor(Math.random()*256);
  	var g = Math.floor(Math.random()*256);
@@ -67,14 +59,12 @@ $(document).ready(function(){
 
 </head>
 <body>
-<div style="position: abosolute; margin: 0px 0px 10px 0px;">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpGwCKFxPavGyD3lOfQ5le-b_cEQcWoz2tYQ&s"
 height="70px" style="float: left; border-radius: 10px; margin-right: 20px;"></img></br>
 <p style="font-size: 30px; color:#333333; font-family: 'DM Serif Display', serif; float: left; margin-top: 3px; line-height: 20px;">The City Paper - Bogota News Feed</p> 
 </div>
 </br></br>
 <div id="divRss"></div>
-
 
 <script> 
 document.oncontextmenu = function() { 
