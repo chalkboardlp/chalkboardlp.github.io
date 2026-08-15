@@ -1,0 +1,12 @@
+[
+  {
+    "name": "BBC World News",
+    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "file": "resources/rss/data/bbc_world_news.json"
+  },
+  {
+    "name": "The City Paper",
+    "url": "https://thecitypaperbogota.com/feed/",
+    "file": "resources/rss/data/city_paper.json"
+  }
+]
