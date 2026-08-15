@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-15T08:45:10.238800+00:00",
+  "updated": "2026-08-15T09:40:12.833609+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Powerful 7.7-magnitude earthquake kills at least 20 in Indonesia",
+      "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
       "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
       "description": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
-      "pubDate": "Sat, 15 Aug 2026 08:21:01 GMT"
+      "pubDate": "Sat, 15 Aug 2026 08:52:55 GMT"
     },
     {
       "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
@@ -28,10 +28,10 @@
       "pubDate": "Fri, 14 Aug 2026 17:36:27 GMT"
     },
     {
-      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-      "description": "Two families have been trapped in their homes in the occupied West Bank for several days.",
-      "pubDate": "Fri, 14 Aug 2026 17:03:17 GMT"
+      "title": "South Korea proposes talks to officially end war with North",
+      "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "description": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
+      "pubDate": "Sat, 15 Aug 2026 09:35:23 GMT"
     },
     {
       "title": "France's top court blocks social media ban for under-15s",
@@ -44,6 +44,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
       "description": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes.",
       "pubDate": "Fri, 14 Aug 2026 13:18:08 GMT"
+    },
+    {
+      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+      "description": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+      "pubDate": "Fri, 14 Aug 2026 17:03:17 GMT"
     },
     {
       "title": "'Unprecedented' rain in Japan kills eight people",
@@ -64,16 +70,16 @@
       "pubDate": "Fri, 14 Aug 2026 20:22:56 GMT"
     },
     {
-      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-      "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
-      "description": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
-      "pubDate": "Fri, 14 Aug 2026 12:19:21 GMT"
-    },
-    {
       "title": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
       "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
       "description": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
       "pubDate": "Fri, 14 Aug 2026 16:28:59 GMT"
+    },
+    {
+      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+      "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+      "description": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
+      "pubDate": "Fri, 14 Aug 2026 12:19:21 GMT"
     },
     {
       "title": "The Polygamist's creator says women see themselves reflected in her Netflix hit",
@@ -84,7 +90,7 @@
     {
       "title": "Europe's scorched landscapes seen from space after summer heatwaves",
       "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Verify examines the impact of drought and extreme heat on western European rivers, fields and mountains.",
+      "description": "From glaciers shrinking to an exposed shipwreck,  satellites capture the impact of extreme heat and drought.",
       "pubDate": "Sat, 15 Aug 2026 05:01:13 GMT"
     },
     {
@@ -104,6 +110,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o?at_medium=RSS&at_campaign=rss",
       "description": "Ramsey stars in a new film about a cancer survivor who attends “chemo camp” and finds friendship, love and freedom.",
       "pubDate": "Sat, 15 Aug 2026 00:10:47 GMT"
+    },
+    {
+      "title": "Moment family rescued after 16 hours floating on jet ski off Thailand",
+      "link": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
+      "description": "A 50-year-old father and his two sons were found floating off Koh Samui island, a local official told AFP on Saturday.",
+      "pubDate": "Sat, 15 Aug 2026 09:29:31 GMT"
     },
     {
       "title": "How is parkour helping these seniors avoid injuries?",
@@ -128,12 +140,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&at_campaign=rss",
       "description": "Attorneys for Mangione, who is accused of killing United Healthcare CEO Brian Thompson, are meeting federal prosecutors on Friday.",
       "pubDate": "Fri, 14 Aug 2026 01:19:19 GMT"
-    },
-    {
-      "title": "BBC Verify speaks to woman who filmed ICE agent pointing gun at her",
-      "link": "https://www.bbc.co.uk/news/videos/c1m12m12nzzo?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Verify has examined footage shared by a Virginia woman in which an ICE agent points his gun at her.",
-      "pubDate": "Thu, 13 Aug 2026 20:37:14 GMT"
     }
   ]
 }
