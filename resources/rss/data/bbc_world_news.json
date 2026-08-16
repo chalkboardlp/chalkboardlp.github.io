@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-16T14:38:11.343293+00:00",
+  "updated": "2026-08-16T15:35:29.035234+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
       "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "description": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
-      "pubDate": "Sun, 16 Aug 2026 10:52:08 GMT"
+      "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+      "pubDate": "Sun, 16 Aug 2026 15:14:01 GMT"
     },
     {
       "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
@@ -34,6 +34,12 @@
       "pubDate": "Sun, 16 Aug 2026 11:35:25 GMT"
     },
     {
+      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "description": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
+      "pubDate": "Sun, 16 Aug 2026 15:25:38 GMT"
+    },
+    {
       "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
       "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
       "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
@@ -58,10 +64,10 @@
       "pubDate": "Sat, 15 Aug 2026 19:41:57 GMT"
     },
     {
-      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+      "title": "Teenager arrested in Virginia State University shooting that injured five",
       "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "description": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
-      "pubDate": "Sat, 15 Aug 2026 19:34:22 GMT"
+      "description": "The 19-year-old, who was not a student at the university, was found hiding in a closet on campus, according to police.",
+      "pubDate": "Sun, 16 Aug 2026 15:22:50 GMT"
     },
     {
       "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
@@ -86,12 +92,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
       "description": "A spokesperson for Trump's legal team responded to the request accusing the broadcaster of \"seeking to harass\" the president's family.",
       "pubDate": "Sun, 16 Aug 2026 00:11:03 GMT"
-    },
-    {
-      "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
-      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-      "description": "The fire burning through the major park was described as the country's worst in recent years.",
-      "pubDate": "Sat, 15 Aug 2026 17:47:42 GMT"
     },
     {
       "title": "South Korea proposes talks to officially end war with North",
