@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-16T08:46:47.757126+00:00",
+  "updated": "2026-08-16T09:41:12.699940+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+      "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "description": "Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit.",
-      "pubDate": "Sun, 16 Aug 2026 08:14:56 GMT"
+      "description": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+      "pubDate": "Sun, 16 Aug 2026 09:04:14 GMT"
     },
     {
       "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
@@ -19,7 +19,7 @@
       "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
       "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
       "description": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
-      "pubDate": "Sun, 16 Aug 2026 07:58:02 GMT"
+      "pubDate": "Sun, 16 Aug 2026 08:49:32 GMT"
     },
     {
       "title": "Twelve killed as Polish bus veers off Hungarian motorway",
@@ -43,7 +43,7 @@
       "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
       "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
       "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
-      "pubDate": "Sat, 15 Aug 2026 21:03:57 GMT"
+      "pubDate": "Sun, 16 Aug 2026 09:27:58 GMT"
     },
     {
       "title": "Multiple suspects at large after five shot at Virginia State University, police say",
