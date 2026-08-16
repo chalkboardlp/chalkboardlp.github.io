@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T11:34:12.371222+00:00",
+  "updated": "2026-08-16T13:00:44.931900+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -12,14 +12,14 @@
     {
       "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
       "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "description": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
-      "pubDate": "Sun, 16 Aug 2026 08:23:38 GMT"
+      "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
+      "pubDate": "Sun, 16 Aug 2026 12:37:21 GMT"
     },
     {
-      "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+      "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
       "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "description": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
-      "pubDate": "Sun, 16 Aug 2026 08:49:32 GMT"
+      "description": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
+      "pubDate": "Sun, 16 Aug 2026 12:53:43 GMT"
     },
     {
       "title": "Twelve killed as Polish bus veers off Hungarian motorway",
@@ -28,22 +28,28 @@
       "pubDate": "Sun, 16 Aug 2026 10:53:50 GMT"
     },
     {
+      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+      "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+      "description": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
+      "pubDate": "Sun, 16 Aug 2026 11:35:25 GMT"
+    },
+    {
       "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
       "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
       "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
       "pubDate": "Sat, 15 Aug 2026 20:58:31 GMT"
     },
     {
-      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
-      "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-      "description": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
-      "pubDate": "Sat, 15 Aug 2026 19:41:57 GMT"
-    },
-    {
       "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
       "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
       "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
       "pubDate": "Sun, 16 Aug 2026 09:27:58 GMT"
+    },
+    {
+      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+      "description": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
+      "pubDate": "Sat, 15 Aug 2026 19:41:57 GMT"
     },
     {
       "title": "Multiple suspects at large after five shot at Virginia State University, police say",
@@ -142,6 +148,12 @@
       "pubDate": "Sat, 15 Aug 2026 00:10:47 GMT"
     },
     {
+      "title": "BBC visits smouldering Kyiv market after Russian strikes",
+      "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+      "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+      "pubDate": "Sun, 16 Aug 2026 12:18:09 GMT"
+    },
+    {
       "title": "Why is Australia's mushroom killer back in court this week?",
       "link": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
       "description": "The BBC’s Katy Watson explains why triple-murder Erin Patterson is back in court this week trying to overturn her conviction.",
@@ -164,18 +176,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c7vg06pjdmqo?at_medium=RSS&at_campaign=rss",
       "description": "In one of the world's fastest aging countries, older people are finding creative ways to stay healthy.",
       "pubDate": "Fri, 14 Aug 2026 23:08:13 GMT"
-    },
-    {
-      "title": "Why is Selena Gomez being sued?",
-      "link": "https://www.bbc.co.uk/news/videos/cly58dnde5yo?at_medium=RSS&at_campaign=rss",
-      "description": "BBC journalist Ana Guerra-Moore looks at why investors who backed Wondermind Global are claiming the pop star failed to fulfil promises.",
-      "pubDate": "Fri, 14 Aug 2026 16:59:53 GMT"
-    },
-    {
-      "title": "Moment €9m worth of art stolen from Italy museum",
-      "link": "https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss",
-      "description": "Police released the CCTV footage after the art, which was stolen in March, was recovered.",
-      "pubDate": "Fri, 14 Aug 2026 14:56:04 GMT"
     }
   ]
 }
