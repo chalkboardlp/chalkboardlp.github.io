@@ -1,8 +1,14 @@
 {
-  "updated": "2026-08-16T19:33:13.038781+00:00",
+  "updated": "2026-08-16T20:37:09.277103+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "description": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+      "pubDate": "Sun, 16 Aug 2026 19:58:14 GMT"
+    },
     {
       "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
       "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
@@ -10,22 +16,10 @@
       "pubDate": "Sun, 16 Aug 2026 19:03:04 GMT"
     },
     {
-      "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
+      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
       "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-      "description": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report.",
-      "pubDate": "Sun, 16 Aug 2026 17:44:23 GMT"
-    },
-    {
-      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
-      "pubDate": "Sun, 16 Aug 2026 12:37:21 GMT"
-    },
-    {
-      "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "description": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
-      "pubDate": "Sun, 16 Aug 2026 18:46:12 GMT"
+      "description": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
+      "pubDate": "Sun, 16 Aug 2026 19:50:36 GMT"
     },
     {
       "title": "Teen suspect in Virginia campus shooting found hiding in closet",
@@ -34,10 +28,16 @@
       "pubDate": "Sun, 16 Aug 2026 19:00:23 GMT"
     },
     {
-      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-      "description": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
-      "pubDate": "Sun, 16 Aug 2026 10:53:50 GMT"
+      "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "description": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
+      "pubDate": "Sun, 16 Aug 2026 18:46:12 GMT"
+    },
+    {
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
+      "pubDate": "Sun, 16 Aug 2026 12:37:21 GMT"
     },
     {
       "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
@@ -52,6 +52,12 @@
       "pubDate": "Sun, 16 Aug 2026 09:27:58 GMT"
     },
     {
+      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+      "description": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
+      "pubDate": "Sun, 16 Aug 2026 10:53:50 GMT"
+    },
+    {
       "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
       "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
       "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
@@ -61,7 +67,7 @@
       "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
       "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
       "description": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
-      "pubDate": "Sun, 16 Aug 2026 15:25:38 GMT"
+      "pubDate": "Sun, 16 Aug 2026 20:01:51 GMT"
     },
     {
       "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
