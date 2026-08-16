@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T15:35:29.035234+00:00",
+  "updated": "2026-08-16T16:41:45.331054+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -7,7 +7,7 @@
       "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
       "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
       "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
-      "pubDate": "Sun, 16 Aug 2026 15:14:01 GMT"
+      "pubDate": "Sun, 16 Aug 2026 15:50:12 GMT"
     },
     {
       "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
@@ -26,6 +26,12 @@
       "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
       "description": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
       "pubDate": "Sun, 16 Aug 2026 10:53:50 GMT"
+    },
+    {
+      "title": "Two dead and evacuation under way as fires break out on Greek island",
+      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "description": "Nearly 200 firefighters are trying to keep the two fires on Salamina apart, Greek media report.",
+      "pubDate": "Sun, 16 Aug 2026 16:14:26 GMT"
     },
     {
       "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
