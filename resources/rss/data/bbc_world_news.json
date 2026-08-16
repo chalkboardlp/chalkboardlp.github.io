@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T06:58:53.996243+00:00",
+  "updated": "2026-08-16T07:45:14.461539+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -10,16 +10,22 @@
       "pubDate": "Sun, 16 Aug 2026 04:13:32 GMT"
     },
     {
+      "title": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "description": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
+      "pubDate": "Sun, 16 Aug 2026 06:53:22 GMT"
+    },
+    {
+      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+      "description": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
+      "pubDate": "Sun, 16 Aug 2026 07:04:17 GMT"
+    },
+    {
       "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
       "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
       "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
       "pubDate": "Sat, 15 Aug 2026 20:58:31 GMT"
-    },
-    {
-      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-      "pubDate": "Sat, 15 Aug 2026 20:21:14 GMT"
     },
     {
       "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
@@ -40,10 +46,10 @@
       "pubDate": "Sat, 15 Aug 2026 19:34:22 GMT"
     },
     {
-      "title": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "description": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
-      "pubDate": "Sun, 16 Aug 2026 06:53:22 GMT"
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+      "pubDate": "Sat, 15 Aug 2026 20:21:14 GMT"
     },
     {
       "title": "Australian state to launch gun buyback after Bondi Beach attack",
