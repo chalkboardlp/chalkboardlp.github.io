@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-16T22:36:33.906437+00:00",
+  "updated": "2026-08-16T23:33:49.669701+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
       "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
       "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "description": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
-      "pubDate": "Sun, 16 Aug 2026 22:34:10 GMT"
+      "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+      "pubDate": "Sun, 16 Aug 2026 23:28:14 GMT"
     },
     {
       "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
@@ -124,6 +124,12 @@
       "pubDate": "Sun, 16 Aug 2026 22:09:04 GMT"
     },
     {
+      "title": "'Ghana was the crime scene' - the country leading the demand for slavery reparations",
+      "link": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o?at_medium=RSS&at_campaign=rss",
+      "description": "Ghana has become Africa's leading voice in telling the world that Western nations owe reparations",
+      "pubDate": "Sun, 16 Aug 2026 23:09:39 GMT"
+    },
+    {
       "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
       "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
       "description": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
@@ -152,12 +158,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
       "description": "From glaciers shrinking to an exposed shipwreck,  satellites capture the impact of extreme heat and drought.",
       "pubDate": "Sat, 15 Aug 2026 05:01:13 GMT"
-    },
-    {
-      "title": "The Polygamist's author says women see themselves reflected in her Netflix hit",
-      "link": "https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss",
-      "description": "Zimbabwean novelist Sue Nyathi self-funded her debut novel and now asks who can afford to write at all.",
-      "pubDate": "Fri, 14 Aug 2026 23:17:22 GMT"
     },
     {
       "title": "BBC visits smouldering Kyiv market after Russian strikes",
