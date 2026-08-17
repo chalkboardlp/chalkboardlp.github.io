@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T09:01:19.277038+00:00",
+  "updated": "2026-08-17T09:57:13.986985+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -22,40 +22,22 @@
       "pubDate": "Mon, 17 Aug 2026 08:47:19 GMT"
     },
     {
-      "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
-      "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
-      "description": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.",
-      "pubDate": "Mon, 17 Aug 2026 04:41:31 GMT"
-    },
-    {
-      "title": "Record rains drench South Korean city as landslide kills one",
-      "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
-      "description": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.",
-      "pubDate": "Mon, 17 Aug 2026 04:34:09 GMT"
-    },
-    {
-      "title": "Top Zambian opposition figures arrested days after presidential vote",
-      "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-      "description": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
-      "pubDate": "Mon, 17 Aug 2026 07:31:36 GMT"
-    },
-    {
       "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
       "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
       "description": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
       "pubDate": "Mon, 17 Aug 2026 08:38:41 GMT"
     },
     {
-      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
-      "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
-      "pubDate": "Sun, 16 Aug 2026 13:34:38 GMT"
+      "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
+      "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
+      "description": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.",
+      "pubDate": "Mon, 17 Aug 2026 04:41:31 GMT"
     },
     {
-      "title": "Ferrari's first ever electric car sold for record $40m",
-      "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
-      "description": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
-      "pubDate": "Mon, 17 Aug 2026 02:22:04 GMT"
+      "title": "Top Zambian opposition figures arrested days after presidential vote",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
+      "description": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
+      "pubDate": "Mon, 17 Aug 2026 09:01:06 GMT"
     },
     {
       "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
@@ -64,10 +46,34 @@
       "pubDate": "Sun, 16 Aug 2026 19:50:36 GMT"
     },
     {
+      "title": "Ferrari's first ever electric car sold for record $40m",
+      "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+      "description": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
+      "pubDate": "Mon, 17 Aug 2026 02:22:04 GMT"
+    },
+    {
+      "title": "Record rains drench South Korean city as landslide kills one",
+      "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+      "description": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.",
+      "pubDate": "Mon, 17 Aug 2026 04:34:09 GMT"
+    },
+    {
+      "title": "Movie that went viral for terrible animation becomes China box office hit",
+      "link": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
+      "description": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
+      "pubDate": "Mon, 17 Aug 2026 08:35:07 GMT"
+    },
+    {
       "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
       "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
       "description": "The Sydney Swans confirmed an incident had occurred in the hours after the team's win on Sunday.",
       "pubDate": "Mon, 17 Aug 2026 05:46:45 GMT"
+    },
+    {
+      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+      "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
+      "pubDate": "Sun, 16 Aug 2026 13:34:38 GMT"
     },
     {
       "title": "Teen suspect in Virginia campus shooting found hiding in closet",
@@ -94,22 +100,16 @@
       "pubDate": "Mon, 17 Aug 2026 00:20:51 GMT"
     },
     {
-      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
-      "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
-      "description": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Janeiro's Christ the Redeemer.",
-      "pubDate": "Sun, 16 Aug 2026 11:35:25 GMT"
+      "title": "'Ghana was the crime scene': The country leading the demand for slavery reparations",
+      "link": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o?at_medium=RSS&at_campaign=rss",
+      "description": "Ghana has become Africa's leading voice in telling the world that Western nations owe reparations",
+      "pubDate": "Sun, 16 Aug 2026 23:09:39 GMT"
     },
     {
       "title": "Thailand has a gun problem - 10 million of them",
       "link": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
       "description": "Recent shootings have highlighted the country's troubled relationship with guns, with laws doing little to curb the violence.",
       "pubDate": "Sun, 16 Aug 2026 22:09:04 GMT"
-    },
-    {
-      "title": "'Ghana was the crime scene': The country leading the demand for slavery reparations",
-      "link": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o?at_medium=RSS&at_campaign=rss",
-      "description": "Ghana has become Africa's leading voice in telling the world that Western nations owe reparations",
-      "pubDate": "Sun, 16 Aug 2026 23:09:39 GMT"
     },
     {
       "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
@@ -130,7 +130,7 @@
       "pubDate": "Sat, 15 Aug 2026 11:25:32 GMT"
     },
     {
-      "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
+      "title": "'I shot Mr Thompson' - What it was like inside court as Mangione pleaded guilty",
       "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
       "description": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
       "pubDate": "Fri, 14 Aug 2026 18:54:58 GMT"
