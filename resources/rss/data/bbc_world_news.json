@@ -1,19 +1,13 @@
 {
-  "updated": "2026-08-17T16:45:50.186457+00:00",
+  "updated": "2026-08-17T17:44:36.291788+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
+      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
       "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-      "description": "The US and Oman have been working separately to reopen the Strait of Hormuz, one of the world's busiest oil shipping routes.",
+      "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
       "pubDate": "Mon, 17 Aug 2026 16:26:34 GMT"
-    },
-    {
-      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-      "pubDate": "Mon, 17 Aug 2026 06:24:31 GMT"
     },
     {
       "title": "Russia and Ukraine trade more deadly strikes",
@@ -22,10 +16,16 @@
       "pubDate": "Mon, 17 Aug 2026 13:16:50 GMT"
     },
     {
-      "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-      "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
-      "description": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
-      "pubDate": "Mon, 17 Aug 2026 10:39:24 GMT"
+      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+      "pubDate": "Mon, 17 Aug 2026 06:24:31 GMT"
+    },
+    {
+      "title": "Russia's prominent anti-war politician jailed for 11 years",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
+      "description": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
+      "pubDate": "Mon, 17 Aug 2026 16:17:34 GMT"
     },
     {
       "title": "US hiker dies after being struck by lightning on Mount Etna",
@@ -34,10 +34,22 @@
       "pubDate": "Mon, 17 Aug 2026 12:23:26 GMT"
     },
     {
+      "title": "Tributes paid to Hayden Panettiere's 'amazing talent' after actress dies at 36",
+      "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+      "description": "Police say there were no signs of foul play or suspicious circumstances in the Heroes and Nashville star's death.",
+      "pubDate": "Mon, 17 Aug 2026 17:31:36 GMT"
+    },
+    {
       "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
       "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
       "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
       "pubDate": "Mon, 17 Aug 2026 16:02:58 GMT"
+    },
+    {
+      "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+      "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+      "description": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
+      "pubDate": "Mon, 17 Aug 2026 10:39:24 GMT"
     },
     {
       "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case",
@@ -86,24 +98,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
       "description": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
       "pubDate": "Sun, 16 Aug 2026 19:50:36 GMT"
-    },
-    {
-      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
-      "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
-      "pubDate": "Sun, 16 Aug 2026 13:34:38 GMT"
-    },
-    {
-      "title": "Teen suspect in Virginia campus shooting found hiding in closet",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "description": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police.",
-      "pubDate": "Sun, 16 Aug 2026 19:00:23 GMT"
-    },
-    {
-      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-      "description": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
-      "pubDate": "Sun, 16 Aug 2026 10:53:50 GMT"
     },
     {
       "title": "'Ghana was the crime scene': The country leading the demand for slavery reparations",
