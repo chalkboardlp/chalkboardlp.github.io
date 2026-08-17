@@ -1,25 +1,25 @@
 {
-  "updated": "2026-08-17T08:02:47.857723+00:00",
+  "updated": "2026-08-17T09:01:19.277038+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
-    {
-      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "description": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
-      "pubDate": "Mon, 17 Aug 2026 04:50:56 GMT"
-    },
-    {
-      "title": "Ukrainian strikes kill six in Russia, acting governor says",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "description": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
-      "pubDate": "Mon, 17 Aug 2026 07:41:24 GMT"
-    },
     {
       "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
       "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
       "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
       "pubDate": "Mon, 17 Aug 2026 06:24:31 GMT"
+    },
+    {
+      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "description": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+      "pubDate": "Mon, 17 Aug 2026 08:43:12 GMT"
+    },
+    {
+      "title": "Ukrainian strikes kill six in Russia, acting governor says",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "description": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
+      "pubDate": "Mon, 17 Aug 2026 08:47:19 GMT"
     },
     {
       "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
@@ -34,22 +34,34 @@
       "pubDate": "Mon, 17 Aug 2026 04:34:09 GMT"
     },
     {
+      "title": "Top Zambian opposition figures arrested days after presidential vote",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
+      "description": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
+      "pubDate": "Mon, 17 Aug 2026 07:31:36 GMT"
+    },
+    {
+      "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+      "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+      "description": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
+      "pubDate": "Mon, 17 Aug 2026 08:38:41 GMT"
+    },
+    {
       "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
       "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
       "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
       "pubDate": "Sun, 16 Aug 2026 13:34:38 GMT"
     },
     {
-      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
-      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-      "description": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
-      "pubDate": "Sun, 16 Aug 2026 19:50:36 GMT"
-    },
-    {
       "title": "Ferrari's first ever electric car sold for record $40m",
       "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
       "description": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
       "pubDate": "Mon, 17 Aug 2026 02:22:04 GMT"
+    },
+    {
+      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "description": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
+      "pubDate": "Sun, 16 Aug 2026 19:50:36 GMT"
     },
     {
       "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
@@ -86,36 +98,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
       "description": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Janeiro's Christ the Redeemer.",
       "pubDate": "Sun, 16 Aug 2026 11:35:25 GMT"
-    },
-    {
-      "title": "US commander says mental health a 'priority' on USS Lincoln",
-      "link": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
-      "description": "Adm Cooper acknowledges service at sea for long periods is \"uniquely challenging\", after visiting the warship.",
-      "pubDate": "Sun, 16 Aug 2026 21:04:27 GMT"
-    },
-    {
-      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-      "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
-      "pubDate": "Sun, 16 Aug 2026 09:27:58 GMT"
-    },
-    {
-      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-      "description": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
-      "pubDate": "Sun, 16 Aug 2026 20:01:51 GMT"
-    },
-    {
-      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-      "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-      "pubDate": "Sat, 15 Aug 2026 20:58:31 GMT"
-    },
-    {
-      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
-      "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-      "description": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
-      "pubDate": "Sat, 15 Aug 2026 19:41:57 GMT"
     },
     {
       "title": "Thailand has a gun problem - 10 million of them",
