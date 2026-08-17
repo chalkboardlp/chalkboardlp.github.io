@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-17T15:39:01.360014+00:00",
+  "updated": "2026-08-17T16:45:50.186457+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
       "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-      "description": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.",
-      "pubDate": "Mon, 17 Aug 2026 14:59:02 GMT"
+      "description": "The US and Oman have been working separately to reopen the Strait of Hormuz, one of the world's busiest oil shipping routes.",
+      "pubDate": "Mon, 17 Aug 2026 16:26:34 GMT"
     },
     {
       "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
@@ -37,7 +37,13 @@
       "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
       "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
       "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-      "pubDate": "Mon, 17 Aug 2026 13:58:38 GMT"
+      "pubDate": "Mon, 17 Aug 2026 16:02:58 GMT"
+    },
+    {
+      "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case",
+      "link": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
+      "description": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
+      "pubDate": "Mon, 17 Aug 2026 15:33:42 GMT"
     },
     {
       "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
@@ -58,16 +64,16 @@
       "pubDate": "Mon, 17 Aug 2026 02:22:04 GMT"
     },
     {
-      "title": "Record rains drench South Korean city as landslide kills one",
-      "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
-      "description": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.",
-      "pubDate": "Mon, 17 Aug 2026 04:34:09 GMT"
-    },
-    {
       "title": "Movie that went viral for terrible animation becomes China box office hit",
       "link": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
       "description": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
       "pubDate": "Mon, 17 Aug 2026 08:35:07 GMT"
+    },
+    {
+      "title": "Record rains drench South Korean city as landslide kills one",
+      "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+      "description": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.",
+      "pubDate": "Mon, 17 Aug 2026 04:34:09 GMT"
     },
     {
       "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
