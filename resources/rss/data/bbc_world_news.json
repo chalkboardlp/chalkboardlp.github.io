@@ -1,19 +1,19 @@
 {
-  "updated": "2026-08-17T04:02:48.886011+00:00",
+  "updated": "2026-08-17T04:57:45.707232+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "description": "Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+      "pubDate": "Mon, 17 Aug 2026 04:50:56 GMT"
+    },
     {
       "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
       "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
       "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
       "pubDate": "Mon, 17 Aug 2026 02:51:27 GMT"
-    },
-    {
-      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "description": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
-      "pubDate": "Sun, 16 Aug 2026 19:58:14 GMT"
     },
     {
       "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
@@ -22,10 +22,22 @@
       "pubDate": "Sun, 16 Aug 2026 19:03:04 GMT"
     },
     {
-      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
-      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-      "description": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
-      "pubDate": "Sun, 16 Aug 2026 19:50:36 GMT"
+      "title": "Heroes actress Hayden Panettiere dies aged 36",
+      "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+      "description": "Panettiere starred in TV shows including Heroes and Nashville along with films Remember the Titans and Raising Helen.",
+      "pubDate": "Mon, 17 Aug 2026 04:53:27 GMT"
+    },
+    {
+      "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
+      "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
+      "description": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.",
+      "pubDate": "Mon, 17 Aug 2026 04:41:31 GMT"
+    },
+    {
+      "title": "Landslide in South Korea kills one as record rain lashes south",
+      "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+      "description": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.",
+      "pubDate": "Mon, 17 Aug 2026 04:34:09 GMT"
     },
     {
       "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
@@ -34,16 +46,22 @@
       "pubDate": "Sun, 16 Aug 2026 13:34:38 GMT"
     },
     {
-      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
-      "pubDate": "Sun, 16 Aug 2026 12:37:21 GMT"
+      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "description": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
+      "pubDate": "Sun, 16 Aug 2026 19:50:36 GMT"
     },
     {
       "title": "Ferrari's first ever electric car sold for record $40m at auction",
       "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
       "description": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
       "pubDate": "Mon, 17 Aug 2026 02:22:04 GMT"
+    },
+    {
+      "title": "Aussie rules footy players referred to police as detectives investigate sexual assault",
+      "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
+      "description": "The \"disappointed\" Sydney Swans CEO wouldn't say what the incident was or how many players were involved.",
+      "pubDate": "Mon, 17 Aug 2026 04:30:15 GMT"
     },
     {
       "title": "Teen suspect in Virginia campus shooting found hiding in closet",
@@ -56,6 +74,12 @@
       "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
       "description": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
       "pubDate": "Sun, 16 Aug 2026 10:53:50 GMT"
+    },
+    {
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
+      "pubDate": "Sun, 16 Aug 2026 12:37:21 GMT"
     },
     {
       "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
@@ -98,30 +122,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
       "description": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
       "pubDate": "Sat, 15 Aug 2026 19:41:57 GMT"
-    },
-    {
-      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-      "pubDate": "Sat, 15 Aug 2026 20:21:14 GMT"
-    },
-    {
-      "title": "Australian state to launch gun buyback after Bondi Beach attack",
-      "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
-      "description": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
-      "pubDate": "Sat, 15 Aug 2026 21:41:43 GMT"
-    },
-    {
-      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-      "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
-      "description": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
-      "pubDate": "Sat, 15 Aug 2026 13:41:09 GMT"
-    },
-    {
-      "title": "BBC seeks to subpoena family members in Panorama lawsuit",
-      "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-      "description": "A spokesperson for Trump's legal team responded to the request accusing the broadcaster of \"seeking to harass\" the president's family.",
-      "pubDate": "Sun, 16 Aug 2026 00:11:03 GMT"
     },
     {
       "title": "Thailand has a gun problem - 10 million of them",
