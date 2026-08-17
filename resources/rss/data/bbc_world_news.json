@@ -1,19 +1,19 @@
 {
-  "updated": "2026-08-17T13:53:15.330054+00:00",
+  "updated": "2026-08-17T14:44:28.160320+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+      "description": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.",
+      "pubDate": "Mon, 17 Aug 2026 14:36:44 GMT"
+    },
     {
       "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
       "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
       "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
       "pubDate": "Mon, 17 Aug 2026 06:24:31 GMT"
-    },
-    {
-      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-      "pubDate": "Mon, 17 Aug 2026 13:50:06 GMT"
     },
     {
       "title": "Russia and Ukraine trade more deadly strikes",
@@ -28,6 +28,18 @@
       "pubDate": "Mon, 17 Aug 2026 10:39:24 GMT"
     },
     {
+      "title": "US hiker dies after being struck by lightning on Mount Etna",
+      "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
+      "description": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
+      "pubDate": "Mon, 17 Aug 2026 12:23:26 GMT"
+    },
+    {
+      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+      "pubDate": "Mon, 17 Aug 2026 13:58:38 GMT"
+    },
+    {
       "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
       "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
       "description": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.",
@@ -36,14 +48,8 @@
     {
       "title": "Top Zambian opposition figures arrested days after presidential vote",
       "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-      "description": "The leading opposition candidate calls allegations of a planned insurrection as \"total fabrications\".",
-      "pubDate": "Mon, 17 Aug 2026 12:11:13 GMT"
-    },
-    {
-      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
-      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-      "description": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
-      "pubDate": "Sun, 16 Aug 2026 19:50:36 GMT"
+      "description": "The leading opposition candidate calls allegations of a planned insurrection \"total fabrications\".",
+      "pubDate": "Mon, 17 Aug 2026 14:23:04 GMT"
     },
     {
       "title": "Ferrari's first ever electric car sold for record $40m",
@@ -70,6 +76,12 @@
       "pubDate": "Mon, 17 Aug 2026 05:46:45 GMT"
     },
     {
+      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "description": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
+      "pubDate": "Sun, 16 Aug 2026 19:50:36 GMT"
+    },
+    {
       "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
       "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
       "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
@@ -86,18 +98,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
       "description": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
       "pubDate": "Sun, 16 Aug 2026 10:53:50 GMT"
-    },
-    {
-      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
-      "pubDate": "Sun, 16 Aug 2026 12:37:21 GMT"
-    },
-    {
-      "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "description": "The state's governor says there \"amazingly\" does not seem to have been any loss of life besides a car crash.",
-      "pubDate": "Mon, 17 Aug 2026 00:20:51 GMT"
     },
     {
       "title": "'Ghana was the crime scene': The country leading the demand for slavery reparations",
