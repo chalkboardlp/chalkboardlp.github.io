@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T05:44:57.632284+00:00",
+  "updated": "2026-08-18T07:03:47.285907+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -8,6 +8,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
       "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
       "pubDate": "Tue, 18 Aug 2026 05:00:04 GMT"
+    },
+    {
+      "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "description": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+      "pubDate": "Tue, 18 Aug 2026 06:40:00 GMT"
     },
     {
       "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
@@ -22,13 +28,7 @@
       "pubDate": "Tue, 18 Aug 2026 05:02:58 GMT"
     },
     {
-      "title": "Russia warns UK over supplying drones to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "description": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
-      "pubDate": "Tue, 18 Aug 2026 04:59:25 GMT"
-    },
-    {
-      "title": "BBC breaks down Trump's latest shift on North and South Korea",
+      "title": "Watch: Why has Trump shifted on North Korea?",
       "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
       "description": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
       "pubDate": "Mon, 17 Aug 2026 23:42:38 GMT"
@@ -40,16 +40,16 @@
       "pubDate": "Mon, 17 Aug 2026 21:34:26 GMT"
     },
     {
-      "title": "Russia's prominent anti-war politician jailed for 11 years",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-      "description": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
-      "pubDate": "Mon, 17 Aug 2026 16:17:34 GMT"
-    },
-    {
       "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
       "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
       "description": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
       "pubDate": "Mon, 17 Aug 2026 23:28:54 GMT"
+    },
+    {
+      "title": "Russia's prominent anti-war politician jailed for 11 years",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
+      "description": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
+      "pubDate": "Mon, 17 Aug 2026 16:17:34 GMT"
     },
     {
       "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
@@ -196,7 +196,7 @@
       "pubDate": "Tue, 18 Aug 2026 04:05:05 GMT"
     },
     {
-      "title": "BBC breaks down Trump's latest shift on North and South Korea",
+      "title": "Watch: Why has Trump shifted on North Korea?",
       "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
       "description": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
       "pubDate": "Mon, 17 Aug 2026 23:42:38 GMT"
