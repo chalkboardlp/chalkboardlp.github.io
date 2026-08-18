@@ -1,8 +1,14 @@
 {
-  "updated": "2026-08-18T22:41:07.572364+00:00",
+  "updated": "2026-08-18T23:36:05.163032+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Meta hooked children on Facebook and Instagram, court hears",
+      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+      "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
+      "pubDate": "Tue, 18 Aug 2026 22:11:07 GMT"
+    },
     {
       "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
       "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
@@ -34,22 +40,34 @@
       "pubDate": "Tue, 18 Aug 2026 12:04:11 GMT"
     },
     {
+      "title": "ZZ Top drummer Frank Beard dies aged 77",
+      "link": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
+      "description": "A statement on the blues-rock band's website said he died on Monday in hospice",
+      "pubDate": "Tue, 18 Aug 2026 22:25:46 GMT"
+    },
+    {
+      "title": "US announces new sanctions on top ICC figures",
+      "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
+      "description": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
+      "pubDate": "Tue, 18 Aug 2026 20:21:49 GMT"
+    },
+    {
       "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
       "link": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss",
       "description": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated.",
       "pubDate": "Tue, 18 Aug 2026 16:00:30 GMT"
     },
     {
-      "title": "Judge swapped in Trump's defamation case against BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
-      "description": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC.",
-      "pubDate": "Tue, 18 Aug 2026 19:52:32 GMT"
-    },
-    {
       "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
       "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
       "description": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
       "pubDate": "Tue, 18 Aug 2026 08:44:10 GMT"
+    },
+    {
+      "title": "Judge swapped in Trump's defamation case against BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
+      "description": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC.",
+      "pubDate": "Tue, 18 Aug 2026 19:52:32 GMT"
     },
     {
       "title": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
@@ -70,12 +88,6 @@
       "pubDate": "Tue, 18 Aug 2026 20:27:44 GMT"
     },
     {
-      "title": "US announces new sanctions on top ICC figures",
-      "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
-      "description": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
-      "pubDate": "Tue, 18 Aug 2026 20:21:49 GMT"
-    },
-    {
       "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
       "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
       "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
@@ -94,40 +106,16 @@
       "pubDate": "Tue, 18 Aug 2026 07:17:07 GMT"
     },
     {
-      "title": "Indian student leader ends hunger strike after 16 days",
-      "link": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
-      "description": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
-      "pubDate": "Tue, 18 Aug 2026 07:27:32 GMT"
-    },
-    {
-      "title": "Student killed in Philippines Catholic school shooting",
-      "link": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
-      "description": "The alleged shooter, also a student, later took his own life.",
-      "pubDate": "Tue, 18 Aug 2026 03:43:53 GMT"
-    },
-    {
       "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
       "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
       "description": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
       "pubDate": "Tue, 18 Aug 2026 17:00:29 GMT"
     },
     {
-      "title": "Norway's king admitted to hospital and put on sick leave",
-      "link": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
-      "description": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition.",
-      "pubDate": "Mon, 17 Aug 2026 21:34:26 GMT"
-    },
-    {
-      "title": "Doctors remove 3.1kg stone from man's bladder and claim record",
-      "link": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&at_campaign=rss",
-      "description": "The bladder stone, which weighs as much as a full-term baby, is believed to be the largest on record.",
-      "pubDate": "Tue, 18 Aug 2026 06:53:11 GMT"
-    },
-    {
-      "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-      "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
-      "description": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
-      "pubDate": "Tue, 18 Aug 2026 05:24:15 GMT"
+      "title": "The Indian activist jailed after taking on a luxury hotel plan",
+      "link": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&at_campaign=rss",
+      "description": "An activist's detention has brought under focus a larger battle over land and development around the famed Kaziranga National Park.",
+      "pubDate": "Tue, 18 Aug 2026 22:18:50 GMT"
     },
     {
       "title": "'A floating prison' - sailors describe life on warships like USS Abraham Lincoln",
@@ -152,12 +140,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c3w03y2wgxeo?at_medium=RSS&at_campaign=rss",
       "description": "Described as calm character, Promise Okoro's goat loves fried rice and has become celebrated locally.",
       "pubDate": "Mon, 17 Aug 2026 23:38:10 GMT"
-    },
-    {
-      "title": "'Ghana was the crime scene': The country leading the demand for slavery reparations",
-      "link": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o?at_medium=RSS&at_campaign=rss",
-      "description": "Ghana has become Africa's leading voice in telling the world that Western nations owe reparations",
-      "pubDate": "Sun, 16 Aug 2026 23:09:39 GMT"
     },
     {
       "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
