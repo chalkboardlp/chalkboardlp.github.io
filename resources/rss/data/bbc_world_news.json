@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-18T11:40:58.016873+00:00",
+  "updated": "2026-08-18T13:07:44.103704+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Russia warns UK will pay for supplying drones to Ukraine",
+      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
       "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "description": "Russia accuses the UK of escalating the Ukraine war after British-made drones were used, but the MoD says it stands against Russian aggression.",
-      "pubDate": "Tue, 18 Aug 2026 09:55:00 GMT"
+      "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+      "pubDate": "Tue, 18 Aug 2026 12:36:11 GMT"
     },
     {
       "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
@@ -28,6 +28,12 @@
       "pubDate": "Tue, 18 Aug 2026 05:02:58 GMT"
     },
     {
+      "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
+      "description": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
+      "pubDate": "Tue, 18 Aug 2026 08:44:10 GMT"
+    },
+    {
       "title": "China censors public mourning as it holds former premier's funeral",
       "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
       "description": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
@@ -40,22 +46,22 @@
       "pubDate": "Tue, 18 Aug 2026 03:43:53 GMT"
     },
     {
-      "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
-      "description": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
-      "pubDate": "Tue, 18 Aug 2026 08:44:10 GMT"
-    },
-    {
-      "title": "Doctors remove 3.1kg stone from man's bladder and claim record",
-      "link": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&at_campaign=rss",
-      "description": "The bladder stone, which weighs as much as a full-term baby, is believed to be the largest on record.",
-      "pubDate": "Tue, 18 Aug 2026 06:53:11 GMT"
+      "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
+      "description": "Recovery efforts continue in what is the country's deadliest transport disaster.",
+      "pubDate": "Tue, 18 Aug 2026 12:04:11 GMT"
     },
     {
       "title": "Indian student leader ends hunger strike after 16 days",
       "link": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
       "description": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
       "pubDate": "Tue, 18 Aug 2026 07:27:32 GMT"
+    },
+    {
+      "title": "Doctors remove 3.1kg stone from man's bladder and claim record",
+      "link": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&at_campaign=rss",
+      "description": "The bladder stone, which weighs as much as a full-term baby, is believed to be the largest on record.",
+      "pubDate": "Tue, 18 Aug 2026 06:53:11 GMT"
     },
     {
       "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
