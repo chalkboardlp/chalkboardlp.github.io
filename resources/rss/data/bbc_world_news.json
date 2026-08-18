@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T23:35:49.665656+00:00",
+  "updated": "2026-08-18T01:50:44.770445+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -10,10 +10,22 @@
       "pubDate": "Mon, 17 Aug 2026 19:25:05 GMT"
     },
     {
-      "title": "Russia and Ukraine trade more deadly strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
-      "pubDate": "Mon, 17 Aug 2026 13:16:50 GMT"
+      "title": "Russia warns UK over supplying drones to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "description": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+      "pubDate": "Tue, 18 Aug 2026 01:16:41 GMT"
+    },
+    {
+      "title": "BBC breaks down Trump's latest shift on North and South Korea",
+      "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+      "description": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
+      "pubDate": "Mon, 17 Aug 2026 23:42:38 GMT"
+    },
+    {
+      "title": "Norway's king admitted to hospital and put on sick leave",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
+      "description": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition.",
+      "pubDate": "Mon, 17 Aug 2026 21:34:26 GMT"
     },
     {
       "title": "Russia's prominent anti-war politician jailed for 11 years",
@@ -22,22 +34,22 @@
       "pubDate": "Mon, 17 Aug 2026 16:17:34 GMT"
     },
     {
+      "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
+      "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+      "description": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
+      "pubDate": "Mon, 17 Aug 2026 23:28:54 GMT"
+    },
+    {
       "title": "French PM heckled over wildfire response as blazes continue across Europe",
       "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
       "description": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
       "pubDate": "Mon, 17 Aug 2026 18:00:55 GMT"
     },
     {
-      "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
-      "link": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
-      "description": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
-      "pubDate": "Mon, 17 Aug 2026 18:03:23 GMT"
-    },
-    {
-      "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
-      "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-      "description": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
-      "pubDate": "Mon, 17 Aug 2026 23:28:54 GMT"
+      "title": "Russia and Ukraine trade more deadly strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
+      "pubDate": "Mon, 17 Aug 2026 13:16:50 GMT"
     },
     {
       "title": "US hiker dies after being struck by lightning on Mount Etna",
@@ -106,10 +118,10 @@
       "pubDate": "Mon, 17 Aug 2026 05:46:45 GMT"
     },
     {
-      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
-      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-      "description": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
-      "pubDate": "Sun, 16 Aug 2026 19:50:36 GMT"
+      "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
+      "link": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
+      "description": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
+      "pubDate": "Mon, 17 Aug 2026 18:03:23 GMT"
     },
     {
       "title": "'Ghana was the crime scene': The country leading the demand for slavery reparations",
