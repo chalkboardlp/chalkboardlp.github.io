@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T01:50:44.770445+00:00",
+  "updated": "2026-08-18T03:08:42.045668+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -8,6 +8,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
       "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
       "pubDate": "Mon, 17 Aug 2026 19:25:05 GMT"
+    },
+    {
+      "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+      "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+      "description": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer, \"We'll take care of it,\" an officer testified.",
+      "pubDate": "Tue, 18 Aug 2026 02:06:04 GMT"
     },
     {
       "title": "Russia warns UK over supplying drones to Ukraine",
