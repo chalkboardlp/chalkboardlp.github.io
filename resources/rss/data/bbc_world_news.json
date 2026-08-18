@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T15:46:21.167894+00:00",
+  "updated": "2026-08-18T16:50:48.269661+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -22,28 +22,10 @@
       "pubDate": "Tue, 18 Aug 2026 13:13:54 GMT"
     },
     {
-      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-      "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
-      "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
-      "pubDate": "Tue, 18 Aug 2026 08:07:37 GMT"
-    },
-    {
       "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
       "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
       "description": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
       "pubDate": "Tue, 18 Aug 2026 08:44:10 GMT"
-    },
-    {
-      "title": "China censors public mourning as it holds former premier's funeral",
-      "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
-      "description": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
-      "pubDate": "Tue, 18 Aug 2026 07:17:07 GMT"
-    },
-    {
-      "title": "Student killed in Philippines Catholic school shooting",
-      "link": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
-      "description": "The alleged shooter, also a student, later took his own life.",
-      "pubDate": "Tue, 18 Aug 2026 03:43:53 GMT"
     },
     {
       "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
@@ -52,16 +34,46 @@
       "pubDate": "Tue, 18 Aug 2026 12:04:11 GMT"
     },
     {
-      "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-      "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
-      "description": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
-      "pubDate": "Tue, 18 Aug 2026 05:24:15 GMT"
+      "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
+      "link": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss",
+      "description": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated.",
+      "pubDate": "Tue, 18 Aug 2026 16:00:30 GMT"
+    },
+    {
+      "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
+      "description": "The network accuses the administration of retaliation against ABC, as it \"disapproves of what ABC broadcasts\".",
+      "pubDate": "Tue, 18 Aug 2026 16:22:54 GMT"
+    },
+    {
+      "title": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
+      "link": "https://www.bbc.co.uk/news/articles/c1e155428qyo?at_medium=RSS&at_campaign=rss",
+      "description": "Afolabi Kazeem Micheal has not commented on allegations he is linked to a global drug trafficking network.",
+      "pubDate": "Tue, 18 Aug 2026 16:26:22 GMT"
+    },
+    {
+      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+      "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+      "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+      "pubDate": "Tue, 18 Aug 2026 08:07:37 GMT"
+    },
+    {
+      "title": "China censors public mourning as it holds former premier's funeral",
+      "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
+      "description": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
+      "pubDate": "Tue, 18 Aug 2026 07:17:07 GMT"
     },
     {
       "title": "Indian student leader ends hunger strike after 16 days",
       "link": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
       "description": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
       "pubDate": "Tue, 18 Aug 2026 07:27:32 GMT"
+    },
+    {
+      "title": "Student killed in Philippines Catholic school shooting",
+      "link": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
+      "description": "The alleged shooter, also a student, later took his own life.",
+      "pubDate": "Tue, 18 Aug 2026 03:43:53 GMT"
     },
     {
       "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
@@ -82,25 +94,13 @@
       "pubDate": "Tue, 18 Aug 2026 06:53:11 GMT"
     },
     {
-      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-      "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
-      "pubDate": "Mon, 17 Aug 2026 19:25:05 GMT"
+      "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+      "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+      "description": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
+      "pubDate": "Tue, 18 Aug 2026 05:24:15 GMT"
     },
     {
-      "title": "Russia's prominent anti-war politician jailed for 11 years",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-      "description": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
-      "pubDate": "Mon, 17 Aug 2026 16:17:34 GMT"
-    },
-    {
-      "title": "French PM heckled over wildfire response as blazes continue across Europe",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
-      "description": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
-      "pubDate": "Mon, 17 Aug 2026 18:00:55 GMT"
-    },
-    {
-      "title": "'A floating prison' - sailors describe life on warships like USS Lincoln",
+      "title": "'A floating prison' - sailors describe life on warships like USS Abraham Lincoln",
       "link": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
       "description": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December.",
       "pubDate": "Tue, 18 Aug 2026 05:07:06 GMT"
