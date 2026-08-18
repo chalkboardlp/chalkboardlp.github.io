@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T17:42:39.982128+00:00",
+  "updated": "2026-08-18T18:56:25.652369+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -10,10 +10,10 @@
       "pubDate": "Tue, 18 Aug 2026 12:36:11 GMT"
     },
     {
-      "title": "Inside secret police warehouse as Germany targets small boats gangs",
-      "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
-      "description": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
-      "pubDate": "Tue, 18 Aug 2026 05:02:58 GMT"
+      "title": "Earthquake rocks Spain's historic Granada, injuring three",
+      "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
+      "description": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
+      "pubDate": "Tue, 18 Aug 2026 17:15:39 GMT"
     },
     {
       "title": "Brazil's President Lula hails oil discovery near Amazon river",
@@ -22,10 +22,10 @@
       "pubDate": "Tue, 18 Aug 2026 13:13:54 GMT"
     },
     {
-      "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
-      "description": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
-      "pubDate": "Tue, 18 Aug 2026 08:44:10 GMT"
+      "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
+      "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
+      "description": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
+      "pubDate": "Tue, 18 Aug 2026 17:54:46 GMT"
     },
     {
       "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
@@ -40,6 +40,18 @@
       "pubDate": "Tue, 18 Aug 2026 16:00:30 GMT"
     },
     {
+      "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
+      "description": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
+      "pubDate": "Tue, 18 Aug 2026 08:44:10 GMT"
+    },
+    {
+      "title": "Inside secret police warehouse as Germany targets small boats gangs",
+      "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+      "description": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
+      "pubDate": "Tue, 18 Aug 2026 05:02:58 GMT"
+    },
+    {
       "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
       "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
       "description": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
@@ -50,6 +62,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c1e155428qyo?at_medium=RSS&at_campaign=rss",
       "description": "Afolabi Kazeem Micheal has not commented on allegations he is linked to a global drug trafficking network.",
       "pubDate": "Tue, 18 Aug 2026 16:26:22 GMT"
+    },
+    {
+      "title": "US announces new sanctions on top ICC figures",
+      "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
+      "description": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
+      "pubDate": "Tue, 18 Aug 2026 17:40:09 GMT"
     },
     {
       "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
