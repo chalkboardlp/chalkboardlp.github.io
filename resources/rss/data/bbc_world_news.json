@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T19:40:37.110049+00:00",
+  "updated": "2026-08-18T20:40:31.762119+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -40,22 +40,16 @@
       "pubDate": "Tue, 18 Aug 2026 16:00:30 GMT"
     },
     {
+      "title": "Judge swapped in Trump's defamation case against BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
+      "description": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC.",
+      "pubDate": "Tue, 18 Aug 2026 19:52:32 GMT"
+    },
+    {
       "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
       "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
       "description": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
       "pubDate": "Tue, 18 Aug 2026 08:44:10 GMT"
-    },
-    {
-      "title": "Inside secret police warehouse as Germany targets small boats gangs",
-      "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
-      "description": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
-      "pubDate": "Tue, 18 Aug 2026 05:02:58 GMT"
-    },
-    {
-      "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
-      "description": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
-      "pubDate": "Tue, 18 Aug 2026 16:22:54 GMT"
     },
     {
       "title": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
@@ -64,16 +58,34 @@
       "pubDate": "Tue, 18 Aug 2026 16:26:22 GMT"
     },
     {
+      "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
+      "description": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
+      "pubDate": "Tue, 18 Aug 2026 20:39:36 GMT"
+    },
+    {
+      "title": "Man in Chucky-style mask terrorises Philadelphia residents",
+      "link": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss",
+      "description": "\"It was just weird, like some twisted game.\"",
+      "pubDate": "Tue, 18 Aug 2026 20:27:44 GMT"
+    },
+    {
       "title": "US announces new sanctions on top ICC figures",
       "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
       "description": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
-      "pubDate": "Tue, 18 Aug 2026 19:18:30 GMT"
+      "pubDate": "Tue, 18 Aug 2026 20:21:49 GMT"
     },
     {
       "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
       "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
       "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
       "pubDate": "Tue, 18 Aug 2026 08:07:37 GMT"
+    },
+    {
+      "title": "Inside secret police warehouse as Germany targets small boats gangs",
+      "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+      "description": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
+      "pubDate": "Tue, 18 Aug 2026 05:02:58 GMT"
     },
     {
       "title": "China censors public mourning as it holds former premier's funeral",
