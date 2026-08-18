@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T20:40:31.762119+00:00",
+  "updated": "2026-08-18T21:37:33.569203+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -66,7 +66,7 @@
     {
       "title": "Man in Chucky-style mask terrorises Philadelphia residents",
       "link": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss",
-      "description": "\"It was just weird, like some twisted game.\"",
+      "description": "\"It was just weird, like some twisted game\": At least half a dozen people were threatened near City Hall last week.",
       "pubDate": "Tue, 18 Aug 2026 20:27:44 GMT"
     },
     {
@@ -158,6 +158,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o?at_medium=RSS&at_campaign=rss",
       "description": "Ghana has become Africa's leading voice in telling the world that Western nations owe reparations",
       "pubDate": "Sun, 16 Aug 2026 23:09:39 GMT"
+    },
+    {
+      "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
+      "link": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Verify has used satellite imagery to monitor the warship on one of the longest ever US deployments.",
+      "pubDate": "Tue, 18 Aug 2026 20:48:09 GMT"
     },
     {
       "title": "Watch: What we learned from opening statements in Tupac murder trial",
