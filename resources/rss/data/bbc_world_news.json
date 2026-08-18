@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T16:50:48.269661+00:00",
+  "updated": "2026-08-18T17:42:39.982128+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -42,7 +42,7 @@
     {
       "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
       "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
-      "description": "The network accuses the administration of retaliation against ABC, as it \"disapproves of what ABC broadcasts\".",
+      "description": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
       "pubDate": "Tue, 18 Aug 2026 16:22:54 GMT"
     },
     {
@@ -79,7 +79,7 @@
       "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
       "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
       "description": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
-      "pubDate": "Tue, 18 Aug 2026 10:59:22 GMT"
+      "pubDate": "Tue, 18 Aug 2026 17:00:29 GMT"
     },
     {
       "title": "Norway's king admitted to hospital and put on sick leave",
