@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T08:53:11.991272+00:00",
+  "updated": "2026-08-18T09:48:49.595572+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -10,10 +10,10 @@
       "pubDate": "Tue, 18 Aug 2026 08:07:37 GMT"
     },
     {
-      "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
+      "title": "Russia warns UK will pay for supplying drones to Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "description": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
-      "pubDate": "Tue, 18 Aug 2026 06:40:00 GMT"
+      "description": "Russia accuses the UK after British-made drones were used in Ukrainian strikes, but the MoD says it stands against Russian aggression.",
+      "pubDate": "Tue, 18 Aug 2026 09:33:49 GMT"
     },
     {
       "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
@@ -112,22 +112,22 @@
       "pubDate": "Mon, 17 Aug 2026 18:03:23 GMT"
     },
     {
+      "title": "Why Indian law students don't want top judge at their graduation ceremony",
+      "link": "https://www.bbc.co.uk/news/articles/c171j0k74d8o?at_medium=RSS&at_campaign=rss",
+      "description": "Students from two premier law universities say they don't want Chief Justice Surya Kant to attend their convocations.",
+      "pubDate": "Tue, 18 Aug 2026 04:16:42 GMT"
+    },
+    {
+      "title": "How a goat given as a graduation gift went viral",
+      "link": "https://www.bbc.co.uk/news/articles/c3w03y2wgxeo?at_medium=RSS&at_campaign=rss",
+      "description": "Described as calm character, Promise Okoro's goat loves fried rice and has become celebrated locally.",
+      "pubDate": "Mon, 17 Aug 2026 23:38:10 GMT"
+    },
+    {
       "title": "'Ghana was the crime scene': The country leading the demand for slavery reparations",
       "link": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o?at_medium=RSS&at_campaign=rss",
       "description": "Ghana has become Africa's leading voice in telling the world that Western nations owe reparations",
       "pubDate": "Sun, 16 Aug 2026 23:09:39 GMT"
-    },
-    {
-      "title": "Thailand has a gun problem - 10 million of them",
-      "link": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
-      "description": "Recent shootings have highlighted the country's troubled relationship with guns, with laws doing little to curb the violence.",
-      "pubDate": "Sun, 16 Aug 2026 22:09:04 GMT"
-    },
-    {
-      "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
-      "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
-      "description": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
-      "pubDate": "Fri, 14 Aug 2026 23:16:43 GMT"
     },
     {
       "title": "Watch: What we learned from opening statements in Tupac murder trial",
