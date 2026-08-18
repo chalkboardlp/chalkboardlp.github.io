@@ -1,19 +1,19 @@
 {
-  "updated": "2026-08-18T09:48:49.595572+00:00",
+  "updated": "2026-08-18T10:46:29.832673+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Russia warns UK will pay for supplying drones to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "description": "Russia accuses the UK of escalating the Ukraine war after British-made drones were used, but the MoD says it stands against Russian aggression.",
+      "pubDate": "Tue, 18 Aug 2026 09:55:00 GMT"
+    },
     {
       "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
       "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
       "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
       "pubDate": "Tue, 18 Aug 2026 08:07:37 GMT"
-    },
-    {
-      "title": "Russia warns UK will pay for supplying drones to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "description": "Russia accuses the UK after British-made drones were used in Ukrainian strikes, but the MoD says it stands against Russian aggression.",
-      "pubDate": "Tue, 18 Aug 2026 09:33:49 GMT"
     },
     {
       "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
