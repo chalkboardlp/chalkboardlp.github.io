@@ -1,14 +1,8 @@
 {
-  "updated": "2026-08-19T01:52:43.855591+00:00",
+  "updated": "2026-08-19T03:11:23.234469+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
-    {
-      "title": "Meta hooked children on Facebook and Instagram, court hears",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-      "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
-      "pubDate": "Tue, 18 Aug 2026 22:11:07 GMT"
-    },
     {
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
@@ -16,10 +10,22 @@
       "pubDate": "Wed, 19 Aug 2026 01:31:15 GMT"
     },
     {
-      "title": "Earthquake rocks Spain's historic Granada, injuring three",
-      "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-      "description": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
-      "pubDate": "Tue, 18 Aug 2026 17:15:39 GMT"
+      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "description": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
+      "pubDate": "Wed, 19 Aug 2026 02:41:36 GMT"
+    },
+    {
+      "title": "Meta hooked children on Facebook and Instagram, US court hears",
+      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+      "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
+      "pubDate": "Tue, 18 Aug 2026 22:11:07 GMT"
+    },
+    {
+      "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
+      "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+      "description": "The witness said he had little love for the man on trial for the rapper's murder, but refused to answer questions that he thought would send Duane \"Keffe D\" to prison.",
+      "pubDate": "Wed, 19 Aug 2026 03:00:35 GMT"
     },
     {
       "title": "Brazil's President Lula hails oil discovery near Amazon river",
@@ -28,16 +34,22 @@
       "pubDate": "Tue, 18 Aug 2026 13:13:54 GMT"
     },
     {
-      "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-      "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
-      "description": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
-      "pubDate": "Tue, 18 Aug 2026 17:54:46 GMT"
-    },
-    {
       "title": "ZZ Top drummer Frank Beard dies aged 77",
       "link": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
       "description": "A statement on the blues-rock band's website said he died on Monday in hospice",
       "pubDate": "Tue, 18 Aug 2026 22:25:46 GMT"
+    },
+    {
+      "title": "Earthquake rocks Spain's historic Granada, injuring three",
+      "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
+      "description": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
+      "pubDate": "Tue, 18 Aug 2026 17:15:39 GMT"
+    },
+    {
+      "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
+      "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
+      "description": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
+      "pubDate": "Tue, 18 Aug 2026 17:54:46 GMT"
     },
     {
       "title": "US announces new sanctions on top ICC figures",
