@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T10:45:34.479079+00:00",
+  "updated": "2026-08-19T11:39:05.858693+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -7,7 +7,7 @@
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
       "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-      "pubDate": "Wed, 19 Aug 2026 09:02:08 GMT"
+      "pubDate": "Wed, 19 Aug 2026 11:00:21 GMT"
     },
     {
       "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
@@ -28,10 +28,10 @@
       "pubDate": "Wed, 19 Aug 2026 05:53:53 GMT"
     },
     {
-      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-      "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
-      "description": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
-      "pubDate": "Wed, 19 Aug 2026 05:00:39 GMT"
+      "title": "Apparent human remains found in US reservoir as water levels hit record low",
+      "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
+      "description": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
+      "pubDate": "Wed, 19 Aug 2026 10:10:09 GMT"
     },
     {
       "title": "Meta hooked children on Facebook and Instagram, US court hears",
@@ -40,10 +40,10 @@
       "pubDate": "Tue, 18 Aug 2026 22:11:07 GMT"
     },
     {
-      "title": "Apparent human remains found in US reservoir as water levels hit record low",
-      "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
-      "description": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
-      "pubDate": "Wed, 19 Aug 2026 10:10:09 GMT"
+      "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
+      "link": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
+      "description": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation.",
+      "pubDate": "Wed, 19 Aug 2026 10:47:22 GMT"
     },
     {
       "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
@@ -106,6 +106,12 @@
       "pubDate": "Tue, 18 Aug 2026 22:25:46 GMT"
     },
     {
+      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
+      "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
+      "description": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
+      "pubDate": "Wed, 19 Aug 2026 05:00:39 GMT"
+    },
+    {
       "title": "Families' agonising search for answers as thousands still missing in Gaza",
       "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
       "description": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
@@ -128,12 +134,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
       "description": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December.",
       "pubDate": "Tue, 18 Aug 2026 05:07:06 GMT"
-    },
-    {
-      "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
-      "link": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
-      "description": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
-      "pubDate": "Mon, 17 Aug 2026 18:03:23 GMT"
     },
     {
       "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
