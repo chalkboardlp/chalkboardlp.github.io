@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T08:54:25.000899+00:00",
+  "updated": "2026-08-19T09:49:13.937058+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -7,7 +7,7 @@
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
       "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-      "pubDate": "Wed, 19 Aug 2026 07:14:50 GMT"
+      "pubDate": "Wed, 19 Aug 2026 09:02:08 GMT"
     },
     {
       "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
@@ -52,16 +52,16 @@
       "pubDate": "Wed, 19 Aug 2026 00:48:16 GMT"
     },
     {
+      "title": "Alleged sexual assault by local official and businessman sparks outrage in China",
+      "link": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o?at_medium=RSS&at_campaign=rss",
+      "description": "Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event.",
+      "pubDate": "Wed, 19 Aug 2026 07:21:51 GMT"
+    },
+    {
       "title": "Husband and mother-in-law charged over Indian bride's death",
       "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
       "description": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
       "pubDate": "Wed, 19 Aug 2026 03:04:07 GMT"
-    },
-    {
-      "title": "Brazil's President Lula hails oil discovery near Amazon river",
-      "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
-      "description": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
-      "pubDate": "Tue, 18 Aug 2026 13:13:54 GMT"
     },
     {
       "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
@@ -74,6 +74,12 @@
       "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
       "description": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis.",
       "pubDate": "Wed, 19 Aug 2026 03:00:35 GMT"
+    },
+    {
+      "title": "Brazil's President Lula hails oil discovery near Amazon river",
+      "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+      "description": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
+      "pubDate": "Tue, 18 Aug 2026 13:13:54 GMT"
     },
     {
       "title": "Five Australian rules footy players suspended amid police investigation",
