@@ -1,8 +1,14 @@
 {
-  "updated": "2026-08-19T11:39:05.858693+00:00",
+  "updated": "2026-08-19T13:08:22.740026+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "description": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
+      "pubDate": "Wed, 19 Aug 2026 12:41:46 GMT"
+    },
     {
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
@@ -28,16 +34,22 @@
       "pubDate": "Wed, 19 Aug 2026 05:53:53 GMT"
     },
     {
+      "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+      "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
+      "description": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
+      "pubDate": "Wed, 19 Aug 2026 12:47:53 GMT"
+    },
+    {
       "title": "Apparent human remains found in US reservoir as water levels hit record low",
       "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
       "description": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
       "pubDate": "Wed, 19 Aug 2026 10:10:09 GMT"
     },
     {
-      "title": "Meta hooked children on Facebook and Instagram, US court hears",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-      "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
-      "pubDate": "Tue, 18 Aug 2026 22:11:07 GMT"
+      "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
+      "link": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
+      "description": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning.",
+      "pubDate": "Wed, 19 Aug 2026 12:25:30 GMT"
     },
     {
       "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
@@ -46,10 +58,28 @@
       "pubDate": "Wed, 19 Aug 2026 10:47:22 GMT"
     },
     {
+      "title": "Six tourists and pilot killed in Kenya helicopter crash",
+      "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+      "description": "The Aircraft Accident Investigation Department tells the BBC the nationalities are yet to be confirmed.",
+      "pubDate": "Wed, 19 Aug 2026 13:00:09 GMT"
+    },
+    {
       "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
       "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
       "description": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security.",
       "pubDate": "Wed, 19 Aug 2026 00:48:16 GMT"
+    },
+    {
+      "title": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
+      "link": "https://www.bbc.co.uk/news/articles/c2dk64d10rko?at_medium=RSS&at_campaign=rss",
+      "description": "The band say they face \"an existential crisis\" after the success of the K-pop-inspired Netflix film.",
+      "pubDate": "Wed, 19 Aug 2026 11:30:40 GMT"
+    },
+    {
+      "title": "Meta hooked children on Facebook and Instagram, US court hears",
+      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+      "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
+      "pubDate": "Tue, 18 Aug 2026 22:11:07 GMT"
     },
     {
       "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
@@ -76,36 +106,6 @@
       "pubDate": "Wed, 19 Aug 2026 03:04:07 GMT"
     },
     {
-      "title": "Alleged sexual assault by local official and businessman sparks outrage in China",
-      "link": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o?at_medium=RSS&at_campaign=rss",
-      "description": "Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event.",
-      "pubDate": "Wed, 19 Aug 2026 07:21:51 GMT"
-    },
-    {
-      "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
-      "description": "The immigration status of Maryam Tahmasebi was revoked because her husband is the son of a prominent figure in Iran.",
-      "pubDate": "Wed, 19 Aug 2026 03:12:06 GMT"
-    },
-    {
-      "title": "Brazil's President Lula hails oil discovery near Amazon river",
-      "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
-      "description": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
-      "pubDate": "Tue, 18 Aug 2026 13:13:54 GMT"
-    },
-    {
-      "title": "Five Australian rules footy players suspended amid police investigation",
-      "link": "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go?at_medium=RSS&at_campaign=rss",
-      "description": "The suspensions, for drinking and inviting women to a hotel, come as police investigate an alleged sexual assault.",
-      "pubDate": "Wed, 19 Aug 2026 03:36:59 GMT"
-    },
-    {
-      "title": "ZZ Top drummer Frank Beard dies aged 77",
-      "link": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
-      "description": "A statement on the blues-rock band's website said he died on Monday in hospice",
-      "pubDate": "Tue, 18 Aug 2026 22:25:46 GMT"
-    },
-    {
       "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
       "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
       "description": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
@@ -118,6 +118,12 @@
       "pubDate": "Wed, 19 Aug 2026 05:04:00 GMT"
     },
     {
+      "title": "Spared execution eight times, oldest inmate in US dies at 101",
+      "link": "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo?at_medium=RSS&at_campaign=rss",
+      "description": "Francis Smith was one of a growing number of elderly people who are incarcerated.",
+      "pubDate": "Wed, 19 Aug 2026 11:22:09 GMT"
+    },
+    {
       "title": "The Indian activist jailed after taking on a luxury hotel plan",
       "link": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&at_campaign=rss",
       "description": "An activist's detention has brought under focus a larger battle over land and development around the famed Kaziranga National Park.",
@@ -128,12 +134,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cvgwygqv5dqo?at_medium=RSS&at_campaign=rss",
       "description": "UK Prime Minister Andy Burnham has said London will continue \"to support Ukraine 100%\".",
       "pubDate": "Tue, 18 Aug 2026 21:45:17 GMT"
-    },
-    {
-      "title": "'A floating prison' - sailors describe life on warships like USS Abraham Lincoln",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
-      "description": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December.",
-      "pubDate": "Tue, 18 Aug 2026 05:07:06 GMT"
     },
     {
       "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
