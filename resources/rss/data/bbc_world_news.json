@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-19T13:08:22.740026+00:00",
+  "updated": "2026-08-19T13:57:26.140655+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+      "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
       "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "description": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
-      "pubDate": "Wed, 19 Aug 2026 12:41:46 GMT"
+      "description": "She initially survived the attack but her body was recovered days later in Gaza City in 2024.",
+      "pubDate": "Wed, 19 Aug 2026 13:53:51 GMT"
     },
     {
       "title": "Sacked Ukrainian defence minister calls for presidential election",
@@ -40,6 +40,12 @@
       "pubDate": "Wed, 19 Aug 2026 12:47:53 GMT"
     },
     {
+      "title": "Six tourists and pilot killed in Kenya helicopter crash",
+      "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+      "description": "The Aircraft Accident Investigation Department tells the BBC the nationalities are yet to be confirmed.",
+      "pubDate": "Wed, 19 Aug 2026 13:00:09 GMT"
+    },
+    {
       "title": "Apparent human remains found in US reservoir as water levels hit record low",
       "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
       "description": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
@@ -56,12 +62,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
       "description": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation.",
       "pubDate": "Wed, 19 Aug 2026 10:47:22 GMT"
-    },
-    {
-      "title": "Six tourists and pilot killed in Kenya helicopter crash",
-      "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-      "description": "The Aircraft Accident Investigation Department tells the BBC the nationalities are yet to be confirmed.",
-      "pubDate": "Wed, 19 Aug 2026 13:00:09 GMT"
     },
     {
       "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
@@ -92,18 +92,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
       "description": "Many of the alleged cyber attacks were carried out for the Iranian government, the Department of Justice says.",
       "pubDate": "Wed, 19 Aug 2026 09:48:16 GMT"
-    },
-    {
-      "title": "Thai teen found in suitcase died from suffocation, police reveal",
-      "link": "https://www.bbc.co.uk/news/articles/c141605846jo?at_medium=RSS&at_campaign=rss",
-      "description": "New evidence sheds more light on the death of Tunchanok Donholma, who was allegedly murdered in June.",
-      "pubDate": "Wed, 19 Aug 2026 05:04:27 GMT"
-    },
-    {
-      "title": "Husband and mother-in-law charged over Indian bride's death",
-      "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
-      "description": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
-      "pubDate": "Wed, 19 Aug 2026 03:04:07 GMT"
     },
     {
       "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
