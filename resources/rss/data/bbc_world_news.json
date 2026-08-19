@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T09:49:13.937058+00:00",
+  "updated": "2026-08-19T10:45:34.479079+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -22,12 +22,6 @@
       "pubDate": "Wed, 19 Aug 2026 03:56:35 GMT"
     },
     {
-      "title": "Meta hooked children on Facebook and Instagram, US court hears",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-      "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
-      "pubDate": "Tue, 18 Aug 2026 22:11:07 GMT"
-    },
-    {
       "title": "South Korea shortens war games with US, citing Washington request",
       "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
       "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
@@ -40,10 +34,16 @@
       "pubDate": "Wed, 19 Aug 2026 05:00:39 GMT"
     },
     {
-      "title": "Thai teen found in suitcase died from suffocation, police reveal",
-      "link": "https://www.bbc.co.uk/news/articles/c141605846jo?at_medium=RSS&at_campaign=rss",
-      "description": "New evidence sheds more light on the death of Tunchanok Donholma, who was allegedly murdered in June.",
-      "pubDate": "Wed, 19 Aug 2026 05:04:27 GMT"
+      "title": "Meta hooked children on Facebook and Instagram, US court hears",
+      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+      "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
+      "pubDate": "Tue, 18 Aug 2026 22:11:07 GMT"
+    },
+    {
+      "title": "Apparent human remains found in US reservoir as water levels hit record low",
+      "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
+      "description": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
+      "pubDate": "Wed, 19 Aug 2026 10:10:09 GMT"
     },
     {
       "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
@@ -52,10 +52,22 @@
       "pubDate": "Wed, 19 Aug 2026 00:48:16 GMT"
     },
     {
-      "title": "Alleged sexual assault by local official and businessman sparks outrage in China",
-      "link": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o?at_medium=RSS&at_campaign=rss",
-      "description": "Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event.",
-      "pubDate": "Wed, 19 Aug 2026 07:21:51 GMT"
+      "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
+      "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+      "description": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis.",
+      "pubDate": "Wed, 19 Aug 2026 03:00:35 GMT"
+    },
+    {
+      "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
+      "link": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
+      "description": "Many of the alleged cyber attacks were carried out for the Iranian government, the Department of Justice says.",
+      "pubDate": "Wed, 19 Aug 2026 09:48:16 GMT"
+    },
+    {
+      "title": "Thai teen found in suitcase died from suffocation, police reveal",
+      "link": "https://www.bbc.co.uk/news/articles/c141605846jo?at_medium=RSS&at_campaign=rss",
+      "description": "New evidence sheds more light on the death of Tunchanok Donholma, who was allegedly murdered in June.",
+      "pubDate": "Wed, 19 Aug 2026 05:04:27 GMT"
     },
     {
       "title": "Husband and mother-in-law charged over Indian bride's death",
@@ -64,16 +76,16 @@
       "pubDate": "Wed, 19 Aug 2026 03:04:07 GMT"
     },
     {
+      "title": "Alleged sexual assault by local official and businessman sparks outrage in China",
+      "link": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o?at_medium=RSS&at_campaign=rss",
+      "description": "Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event.",
+      "pubDate": "Wed, 19 Aug 2026 07:21:51 GMT"
+    },
+    {
       "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
       "link": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
       "description": "The immigration status of Maryam Tahmasebi was revoked because her husband is the son of a prominent figure in Iran.",
       "pubDate": "Wed, 19 Aug 2026 03:12:06 GMT"
-    },
-    {
-      "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
-      "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
-      "description": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis.",
-      "pubDate": "Wed, 19 Aug 2026 03:00:35 GMT"
     },
     {
       "title": "Brazil's President Lula hails oil discovery near Amazon river",
@@ -104,6 +116,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&at_campaign=rss",
       "description": "An activist's detention has brought under focus a larger battle over land and development around the famed Kaziranga National Park.",
       "pubDate": "Tue, 18 Aug 2026 22:18:50 GMT"
+    },
+    {
+      "title": "Why has Russia threatened the UK and what happens next?",
+      "link": "https://www.bbc.co.uk/news/videos/cvgwygqv5dqo?at_medium=RSS&at_campaign=rss",
+      "description": "UK Prime Minister Andy Burnham has said London will continue \"to support Ukraine 100%\".",
+      "pubDate": "Tue, 18 Aug 2026 21:45:17 GMT"
     },
     {
       "title": "'A floating prison' - sailors describe life on warships like USS Abraham Lincoln",
