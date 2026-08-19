@@ -1,8 +1,14 @@
 {
-  "updated": "2026-08-19T18:53:27.985462+00:00",
+  "updated": "2026-08-19T19:38:44.729519+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Shakira Pledges US$1.25 M to Rebuild Earthquake-Damaged Schools in Chocó",
+      "link": "https://thecitypaperbogota.com/news/shakira-pledges-us1-25-m-to-rebuild-earthquake-damaged-schools-in-choco/",
+      "description": "Colombia&#8217;s Shakira has pledged US$1.25 million toward rebuilding schools and educational infrastructure damaged by the earthquake that struck Colombia’s Pacific region on August 10, announcing a major recovery initiative during a visit to Chocó on Monday. The award-winning singer and pop superstar arrived in Quibdó accompanied by American philanthropist Howard Graham Buffett, representatives of CAF, [&#8230;]",
+      "pubDate": "Wed, 19 Aug 2026 19:10:24 +0000"
+    },
     {
       "title": "UNGRD Decision Not to Request Foreign Rescuers Sparks Controversy",
       "link": "https://thecitypaperbogota.com/news/petro-government-declined-foreign-rescue-teams-as-earthquake-death-toll-hits-285/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/colombias-tiger-victory-reverberates-with-world-leaders/",
       "description": "Congratulations poured in from world leaders on Sunday evening  after conservative president-elect Abelardo &#8220;El Tigre&#8221; de la Espriella secured a razor-thin victory in Colombia&#8217;s presidential runoff, with messages from Washington to Jerusalem signaling expectations of a significant realignment in the country&#8217;s foreign and economic policies. The strongest endorsements came from the United States, where President [&#8230;]",
       "pubDate": "Mon, 22 Jun 2026 15:45:22 +0000"
-    },
-    {
-      "title": "Abelardo ‘El Tigre’ de la Espriella wins Colombia’s presidency by narrow margin",
-      "link": "https://thecitypaperbogota.com/news/abelardo-el-tigre-de-la-espriella-wins-colombias-presidency-by-narrow-margin/",
-      "description": "Conservative firebrand Abelardo &#8220;El Tigre&#8221; de la Espriella has been elected Colombia&#8217;s next president after defeating hard-left rival Iván Cepeda in Sunday&#8217;s presidential runoff by less than one percentage point, capping one of the closest and most consequential elections in the country&#8217;s recent democratic history. According to National Registry Bulletin 18, De la Espriella secured [&#8230;]",
-      "pubDate": "Sun, 21 Jun 2026 22:50:20 +0000"
     }
   ]
 }

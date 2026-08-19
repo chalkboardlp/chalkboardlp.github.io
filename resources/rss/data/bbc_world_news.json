@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T18:53:26.779880+00:00",
+  "updated": "2026-08-19T19:38:43.138887+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -106,7 +106,13 @@
       "pubDate": "Wed, 19 Aug 2026 09:48:16 GMT"
     },
     {
-      "title": "Lindsay Clancy's trial puts postpartum psychosis on the map",
+      "title": "Who is Natalie Harp, Trump's right-hand woman?",
+      "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+      "description": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
+      "pubDate": "Wed, 19 Aug 2026 19:02:41 GMT"
+    },
+    {
+      "title": "Trial of mum accused of killing her three children puts postpartum psychosis on the map",
       "link": "https://www.bbc.co.uk/news/articles/c5yedy98j7po?at_medium=RSS&at_campaign=rss",
       "description": "Postpartum psychosis is a psychiatric emergency that can involve mania, depression, hallucinations and delusions.",
       "pubDate": "Wed, 19 Aug 2026 16:30:55 GMT"
@@ -130,10 +136,10 @@
       "pubDate": "Wed, 19 Aug 2026 11:22:09 GMT"
     },
     {
-      "title": "The Indian activist jailed after taking on a luxury hotel plan",
-      "link": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&at_campaign=rss",
-      "description": "An activist's detention has brought under focus a larger battle over land and development around the famed Kaziranga National Park.",
-      "pubDate": "Tue, 18 Aug 2026 22:18:50 GMT"
+      "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+      "link": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Verify looks at footage from two deadly strikes in under 24 hours in Gaza.",
+      "pubDate": "Wed, 19 Aug 2026 17:46:01 GMT"
     },
     {
       "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
@@ -158,12 +164,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c0m7eld12l1o?at_medium=RSS&at_campaign=rss",
       "description": "The Jellyfish Museum in Pompano Beach is believed to be the first in the US dedicated entirely to the floating predators.",
       "pubDate": "Wed, 19 Aug 2026 15:39:08 GMT"
-    },
-    {
-      "title": "Tracking USS Lincoln's eight-month mission as concerns about conditions grow",
-      "link": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Verify has used satellite imagery to monitor the warship on one of the longest ever US deployments.",
-      "pubDate": "Tue, 18 Aug 2026 20:48:09 GMT"
     }
   ]
 }
