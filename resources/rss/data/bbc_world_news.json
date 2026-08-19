@@ -1,25 +1,19 @@
 {
-  "updated": "2026-08-19T14:54:10.932048+00:00",
+  "updated": "2026-08-19T15:46:01.503240+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
+      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
       "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "description": "She initially survived the attack but her body was recovered days later in Gaza City in 2024.",
-      "pubDate": "Wed, 19 Aug 2026 13:53:51 GMT"
+      "description": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+      "pubDate": "Wed, 19 Aug 2026 15:33:32 GMT"
     },
     {
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
       "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
       "pubDate": "Wed, 19 Aug 2026 11:00:21 GMT"
-    },
-    {
-      "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
-      "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
-      "description": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
-      "pubDate": "Wed, 19 Aug 2026 08:25:03 GMT"
     },
     {
       "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
@@ -58,28 +52,40 @@
       "pubDate": "Wed, 19 Aug 2026 12:25:30 GMT"
     },
     {
-      "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
-      "link": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
-      "description": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation.",
-      "pubDate": "Wed, 19 Aug 2026 10:47:22 GMT"
+      "title": "Retail giant Target receives $1bn boost from tariff refunds",
+      "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
+      "description": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
+      "pubDate": "Wed, 19 Aug 2026 14:47:02 GMT"
     },
     {
-      "title": "Angélique Kidjo makes history for Africa with star on Hollywood Walk of Fame",
-      "link": "https://www.bbc.co.uk/news/articles/c62xyg6527go?at_medium=RSS&at_campaign=rss",
-      "description": "Without Africans, no music is possible on this planet, says the 66-year-old musical icon from Benin.",
-      "pubDate": "Wed, 19 Aug 2026 14:36:25 GMT"
+      "title": "Watch: SpaceX rocket spotted off Christmas Island coast",
+      "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
+      "description": "A SpaceX rocket that blasted off from Texas in July and crashed into the Indian Ocean hadn't been seen since - but now Christmas Island residents say they have spotted it being towed just off their coast.",
+      "pubDate": "Wed, 19 Aug 2026 15:01:57 GMT"
     },
     {
       "title": "Trump administration can target Ethiopians for deportation",
       "link": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo?at_medium=RSS&at_campaign=rss",
       "description": "A judge's ruling on Tuesday removed the last remaining block on Trump officials' efforts to cancel Temporary Protected Status for Ethiopians.",
-      "pubDate": "Wed, 19 Aug 2026 14:38:11 GMT"
+      "pubDate": "Wed, 19 Aug 2026 15:11:19 GMT"
+    },
+    {
+      "title": "Angélique Kidjo becomes first African musician with Hollywood Walk of Fame star",
+      "link": "https://www.bbc.co.uk/news/articles/c62xyg6527go?at_medium=RSS&at_campaign=rss",
+      "description": "Without Africans, no music is possible on this planet, says the 66-year-old musical icon from Benin.",
+      "pubDate": "Wed, 19 Aug 2026 14:36:25 GMT"
     },
     {
       "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
       "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
       "description": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security.",
       "pubDate": "Wed, 19 Aug 2026 00:48:16 GMT"
+    },
+    {
+      "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
+      "link": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
+      "description": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation.",
+      "pubDate": "Wed, 19 Aug 2026 10:47:22 GMT"
     },
     {
       "title": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
@@ -92,12 +98,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
       "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
       "pubDate": "Tue, 18 Aug 2026 22:11:07 GMT"
-    },
-    {
-      "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
-      "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
-      "description": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis.",
-      "pubDate": "Wed, 19 Aug 2026 03:00:35 GMT"
     },
     {
       "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
@@ -136,6 +136,12 @@
       "pubDate": "Tue, 18 Aug 2026 21:45:17 GMT"
     },
     {
+      "title": "Watch: 'Catastrophic' hotel mix-up at the heart of Australia's mushroom murder appeal",
+      "link": "https://www.bbc.co.uk/news/videos/c9v4ze2dpdjo?at_medium=RSS&at_campaign=rss",
+      "description": "Lawyers for Erin Patterson say her conviction was undermined by a \"catastrophic\" mix-up that led to the jury staying at the same hotel as prosecutors and a key witness.",
+      "pubDate": "Wed, 19 Aug 2026 10:52:46 GMT"
+    },
+    {
       "title": "Tracking USS Lincoln's eight-month mission as concerns about conditions grow",
       "link": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
       "description": "BBC Verify has used satellite imagery to monitor the warship on one of the longest ever US deployments.",
@@ -154,22 +160,10 @@
       "pubDate": "Mon, 17 Aug 2026 23:42:38 GMT"
     },
     {
-      "title": "'I want my brother back' - Tupac’s brother tells BBC murder trial won’t bring justice",
-      "link": "https://www.bbc.co.uk/news/videos/cj4kglpl55lo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Shaimaa Khalil sat down with Mopreme Shakur ahead of the trial for his brother and late rapper's 1996 murder.",
-      "pubDate": "Sun, 16 Aug 2026 23:21:37 GMT"
-    },
-    {
       "title": "BBC visits smouldering Kyiv market after Russian strikes",
       "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
       "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
       "pubDate": "Sun, 16 Aug 2026 12:18:09 GMT"
-    },
-    {
-      "title": "Why is Australia's mushroom killer back in court this week?",
-      "link": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC’s Katy Watson explains why triple-murderer Erin Patterson is back in court this week trying to overturn her conviction.",
-      "pubDate": "Sat, 15 Aug 2026 18:02:30 GMT"
     }
   ]
 }
