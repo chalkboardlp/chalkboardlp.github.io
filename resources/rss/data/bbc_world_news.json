@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T03:58:29.184544+00:00",
+  "updated": "2026-08-19T04:51:30.615564+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -7,7 +7,7 @@
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
       "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-      "pubDate": "Wed, 19 Aug 2026 01:31:15 GMT"
+      "pubDate": "Wed, 19 Aug 2026 04:44:41 GMT"
     },
     {
       "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
@@ -22,10 +22,10 @@
       "pubDate": "Tue, 18 Aug 2026 22:11:07 GMT"
     },
     {
-      "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
-      "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
-      "description": "The witness said he had little love for the man on trial for the rapper's murder, but refused to answer questions that he thought would send Duane \"Keffe D\" to prison.",
-      "pubDate": "Wed, 19 Aug 2026 03:00:35 GMT"
+      "title": "South Korea shortens war games with US, citing Washington request",
+      "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+      "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
+      "pubDate": "Wed, 19 Aug 2026 03:39:41 GMT"
     },
     {
       "title": "Husband and mother-in-law charged over Indian bride's death",
@@ -46,16 +46,22 @@
       "pubDate": "Wed, 19 Aug 2026 03:12:06 GMT"
     },
     {
-      "title": "ZZ Top drummer Frank Beard dies aged 77",
-      "link": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
-      "description": "A statement on the blues-rock band's website said he died on Monday in hospice",
-      "pubDate": "Tue, 18 Aug 2026 22:25:46 GMT"
+      "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
+      "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+      "description": "The witness said he had little love for the man on trial for the rapper's murder, but refused to answer questions that he thought would send Duane \"Keffe D\" to prison.",
+      "pubDate": "Wed, 19 Aug 2026 03:00:35 GMT"
     },
     {
       "title": "Five Australian rules footy players suspended amid police investigation",
       "link": "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go?at_medium=RSS&at_campaign=rss",
       "description": "The suspensions, for drinking and inviting women to a hotel, come as police investigate an alleged sexual assault.",
       "pubDate": "Wed, 19 Aug 2026 03:36:59 GMT"
+    },
+    {
+      "title": "ZZ Top drummer Frank Beard dies aged 77",
+      "link": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
+      "description": "A statement on the blues-rock band's website said he died on Monday in hospice",
+      "pubDate": "Tue, 18 Aug 2026 22:25:46 GMT"
     },
     {
       "title": "Earthquake rocks Spain's historic Granada, injuring three",
