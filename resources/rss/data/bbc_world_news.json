@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T16:46:28.997367+00:00",
+  "updated": "2026-08-19T17:45:35.255700+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -13,7 +13,7 @@
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
       "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-      "pubDate": "Wed, 19 Aug 2026 11:00:21 GMT"
+      "pubDate": "Wed, 19 Aug 2026 17:23:42 GMT"
     },
     {
       "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
@@ -22,16 +22,16 @@
       "pubDate": "Wed, 19 Aug 2026 15:47:31 GMT"
     },
     {
-      "title": "Israel opens up tenders for controversial West Bank settlement project",
+      "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
       "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
       "description": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.",
-      "pubDate": "Wed, 19 Aug 2026 15:50:22 GMT"
+      "pubDate": "Wed, 19 Aug 2026 17:16:28 GMT"
     },
     {
       "title": "South Korea shortens war games with US, citing Washington request",
       "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
       "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-      "pubDate": "Wed, 19 Aug 2026 14:16:27 GMT"
+      "pubDate": "Wed, 19 Aug 2026 17:39:49 GMT"
     },
     {
       "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
@@ -72,7 +72,7 @@
     {
       "title": "Trump administration can target Ethiopians for deportation",
       "link": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo?at_medium=RSS&at_campaign=rss",
-      "description": "A judge's ruling on Tuesday removed the last remaining block on Trump officials' efforts to cancel Temporary Protected Status for Ethiopians.",
+      "description": "A judge has cleared the way for the Trump administration to cancel Temporary Protected Status for Ethiopians living in the US.",
       "pubDate": "Wed, 19 Aug 2026 15:11:19 GMT"
     },
     {
@@ -91,7 +91,7 @@
       "title": "Retail giant Target receives $1bn boost from tariff refunds",
       "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
       "description": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
-      "pubDate": "Wed, 19 Aug 2026 14:47:02 GMT"
+      "pubDate": "Wed, 19 Aug 2026 17:07:49 GMT"
     },
     {
       "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
@@ -104,6 +104,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
       "description": "Many of the alleged cyber attacks were carried out for the Iranian government, the Department of Justice says.",
       "pubDate": "Wed, 19 Aug 2026 09:48:16 GMT"
+    },
+    {
+      "title": "Lindsay Clancy's trial puts postpartum psychosis on the map",
+      "link": "https://www.bbc.co.uk/news/articles/c5yedy98j7po?at_medium=RSS&at_campaign=rss",
+      "description": "Postpartum psychosis is a psychiatric emergency that can involve mania, depression, hallucinations and delusions.",
+      "pubDate": "Wed, 19 Aug 2026 16:30:55 GMT"
     },
     {
       "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
@@ -130,10 +136,16 @@
       "pubDate": "Tue, 18 Aug 2026 22:18:50 GMT"
     },
     {
-      "title": "Why has Russia threatened the UK and what happens next?",
-      "link": "https://www.bbc.co.uk/news/videos/cvgwygqv5dqo?at_medium=RSS&at_campaign=rss",
-      "description": "UK Prime Minister Andy Burnham has said London will continue \"to support Ukraine 100%\".",
-      "pubDate": "Tue, 18 Aug 2026 21:45:17 GMT"
+      "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
+      "link": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
+      "description": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
+      "pubDate": "Wed, 19 Aug 2026 15:38:38 GMT"
+    },
+    {
+      "title": "'Incredible': SpaceX rocket spotted off Christmas Island coast",
+      "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
+      "description": "A SpaceX rocket that blasted off from Texas in July and crashed into the Indian Ocean hadn't been seen since - but now Christmas Island residents say they have spotted it being towed just off their coast.",
+      "pubDate": "Wed, 19 Aug 2026 15:01:57 GMT"
     },
     {
       "title": "'Catastrophic' hotel mix-up at the heart of Australia's mushroom murder appeal",
@@ -152,18 +164,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
       "description": "BBC Verify has used satellite imagery to monitor the warship on one of the longest ever US deployments.",
       "pubDate": "Tue, 18 Aug 2026 20:48:09 GMT"
-    },
-    {
-      "title": "Watch: What we learned from opening statements in Tupac murder trial",
-      "link": "https://www.bbc.co.uk/news/videos/cevmw1pl9kvo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Shaimaa Khalil breaks down the key arguments as the long-awaited trial gets under way.",
-      "pubDate": "Tue, 18 Aug 2026 04:05:05 GMT"
-    },
-    {
-      "title": "Watch: Why has Trump shifted on North Korea?",
-      "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
-      "description": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
-      "pubDate": "Mon, 17 Aug 2026 23:42:38 GMT"
     }
   ]
 }
