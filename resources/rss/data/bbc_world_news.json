@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T23:36:05.163032+00:00",
+  "updated": "2026-08-19T01:52:43.855591+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -10,10 +10,10 @@
       "pubDate": "Tue, 18 Aug 2026 22:11:07 GMT"
     },
     {
-      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-      "pubDate": "Tue, 18 Aug 2026 12:36:11 GMT"
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+      "pubDate": "Wed, 19 Aug 2026 01:31:15 GMT"
     },
     {
       "title": "Earthquake rocks Spain's historic Granada, injuring three",
@@ -34,12 +34,6 @@
       "pubDate": "Tue, 18 Aug 2026 17:54:46 GMT"
     },
     {
-      "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
-      "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
-      "description": "Recovery efforts continue in what is the country's deadliest transport disaster.",
-      "pubDate": "Tue, 18 Aug 2026 12:04:11 GMT"
-    },
-    {
       "title": "ZZ Top drummer Frank Beard dies aged 77",
       "link": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
       "description": "A statement on the blues-rock band's website said he died on Monday in hospice",
@@ -56,6 +50,24 @@
       "link": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss",
       "description": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated.",
       "pubDate": "Tue, 18 Aug 2026 16:00:30 GMT"
+    },
+    {
+      "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
+      "description": "Recovery efforts continue in what is the country's deadliest transport disaster.",
+      "pubDate": "Tue, 18 Aug 2026 12:04:11 GMT"
+    },
+    {
+      "title": "Harvard agrees to pay millions after morgue manager sold body parts",
+      "link": "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo?at_medium=RSS&at_campaign=rss",
+      "description": "Harvard Medical School has agreed to pay $53 million to families who alleged the school mishandled the donated remains of loved ones.",
+      "pubDate": "Wed, 19 Aug 2026 00:07:37 GMT"
+    },
+    {
+      "title": "China censors public mourning as it holds former premier's funeral",
+      "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
+      "description": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
+      "pubDate": "Tue, 18 Aug 2026 07:17:07 GMT"
     },
     {
       "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
@@ -98,12 +110,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
       "description": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
       "pubDate": "Tue, 18 Aug 2026 05:02:58 GMT"
-    },
-    {
-      "title": "China censors public mourning as it holds former premier's funeral",
-      "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
-      "description": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
-      "pubDate": "Tue, 18 Aug 2026 07:17:07 GMT"
     },
     {
       "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
