@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-20T16:50:43.167881+00:00",
+  "updated": "2026-08-20T17:45:28.403431+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
       "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "description": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
-      "pubDate": "Thu, 20 Aug 2026 13:56:25 GMT"
+      "description": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
+      "pubDate": "Thu, 20 Aug 2026 17:14:55 GMT"
     },
     {
       "title": "Trump vows tougher economic measures on Iran and supporting countries",
@@ -22,10 +22,10 @@
       "pubDate": "Thu, 20 Aug 2026 06:08:02 GMT"
     },
     {
-      "title": "Belgian car salesman becomes prince after royal parentage confirmed",
-      "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
-      "description": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
-      "pubDate": "Thu, 20 Aug 2026 10:14:47 GMT"
+      "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
+      "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
+      "description": "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month.",
+      "pubDate": "Thu, 20 Aug 2026 16:53:20 GMT"
     },
     {
       "title": "Assad officer extradited to Syria on war crimes charges for first time",
