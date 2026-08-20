@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T14:55:09.298733+00:00",
+  "updated": "2026-08-20T15:49:01.091464+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -52,16 +52,22 @@
       "pubDate": "Thu, 20 Aug 2026 13:04:15 GMT"
     },
     {
-      "title": "At least 13 workers killed in landslide at Colombian gold mine",
-      "link": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
-      "description": "Four members of an indigenous family are among the dead, witnesses said.",
-      "pubDate": "Thu, 20 Aug 2026 14:34:15 GMT"
-    },
-    {
       "title": "Ex-Zambian minister killed in security raid on opposition",
       "link": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
       "description": "Police confirm Mutotwe Kafwaya's death after growing demands for information about his whereabouts.",
       "pubDate": "Thu, 20 Aug 2026 10:07:48 GMT"
+    },
+    {
+      "title": "Togo charges two French journalists over incorrect documents, rights group says",
+      "link": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo?at_medium=RSS&at_campaign=rss",
+      "description": "Gaël Mocaër and Sebastian Perez Pezzani's detention is \"unjustified and disproportionate\", Reporters Without Borders says.",
+      "pubDate": "Thu, 20 Aug 2026 15:16:44 GMT"
+    },
+    {
+      "title": "Landslide at unlicensed Colombian gold mine kills 13",
+      "link": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
+      "description": "Four members of an indigenous family are among the dead, witnesses said.",
+      "pubDate": "Thu, 20 Aug 2026 15:07:57 GMT"
     },
     {
       "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
@@ -98,12 +104,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
       "description": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
       "pubDate": "Thu, 20 Aug 2026 10:32:31 GMT"
-    },
-    {
-      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-      "description": "Michele Sensi-Contugi and his wife Stephany Hollihan are among the seven people killed in the crash.",
-      "pubDate": "Thu, 20 Aug 2026 10:41:25 GMT"
     },
     {
       "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
