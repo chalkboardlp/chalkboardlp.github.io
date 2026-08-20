@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-20T10:46:47.499999+00:00",
+  "updated": "2026-08-20T11:42:18.427248+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
       "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
       "description": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
-      "pubDate": "Thu, 20 Aug 2026 10:34:33 GMT"
+      "pubDate": "Thu, 20 Aug 2026 11:06:54 GMT"
     },
     {
       "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
@@ -22,6 +22,12 @@
       "pubDate": "Thu, 20 Aug 2026 09:13:18 GMT"
     },
     {
+      "title": "Belgian car salesman becomes prince after royal parentage confirmed",
+      "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
+      "description": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
+      "pubDate": "Thu, 20 Aug 2026 10:14:47 GMT"
+    },
+    {
       "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
       "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
       "description": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
@@ -32,12 +38,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
       "description": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
       "pubDate": "Thu, 20 Aug 2026 07:33:11 GMT"
-    },
-    {
-      "title": "Missing teen hiker found dead in Australian bush after eight-day search",
-      "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
-      "description": "The state premier initially said Lily Hooper had been found alive before police confirmed her death.",
-      "pubDate": "Thu, 20 Aug 2026 05:45:53 GMT"
     },
     {
       "title": "Giant whales move into Greenland waters as ice disappears",
@@ -58,22 +58,28 @@
       "pubDate": "Thu, 20 Aug 2026 04:17:53 GMT"
     },
     {
+      "title": "Missing teen hiker found dead in Australian bush after eight-day search",
+      "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
+      "description": "The state premier initially said Lily Hooper had been found alive before police confirmed her death.",
+      "pubDate": "Thu, 20 Aug 2026 05:45:53 GMT"
+    },
+    {
       "title": "Former Liberian vice-president charged in drug-trafficking probe",
       "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
       "description": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations.",
-      "pubDate": "Thu, 20 Aug 2026 10:11:26 GMT"
-    },
-    {
-      "title": "Four workers dead after being hit by train in Japan",
-      "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
-      "description": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
-      "pubDate": "Thu, 20 Aug 2026 10:32:31 GMT"
+      "pubDate": "Thu, 20 Aug 2026 11:08:19 GMT"
     },
     {
       "title": "Canadian marathon route was 674m too long",
       "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo?at_medium=RSS&at_campaign=rss",
       "description": "The organisers of the Edmonton Marathon admit the course for the 2026 edition was measured more than half a kilometre too long.",
       "pubDate": "Thu, 20 Aug 2026 07:15:48 GMT"
+    },
+    {
+      "title": "Four workers dead after being hit by train in Japan",
+      "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+      "description": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+      "pubDate": "Thu, 20 Aug 2026 10:32:31 GMT"
     },
     {
       "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
@@ -98,12 +104,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
       "description": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
       "pubDate": "Wed, 19 Aug 2026 16:31:48 GMT"
-    },
-    {
-      "title": "Two detained after French influencer's scorched body found in vineyard",
-      "link": "https://www.bbc.co.uk/news/articles/c3r058eeqv2o?at_medium=RSS&at_campaign=rss",
-      "description": "Sonia Bellina's body was \"abandoned\" after \"a murder of rare savagery\", the family's lawyer says.",
-      "pubDate": "Wed, 19 Aug 2026 16:04:39 GMT"
     },
     {
       "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
