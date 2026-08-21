@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T05:48:23.543644+00:00",
+  "updated": "2026-08-21T07:07:45.189993+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -44,6 +44,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
       "description": "The 26-year-old was jailed for a year after he sparked anger with an expletive-laden post about the sacred holiday.",
       "pubDate": "Fri, 21 Aug 2026 02:33:27 GMT"
+    },
+    {
+      "title": "Panama Canal to cut number of ships passing through due to El Niño",
+      "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+      "description": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
+      "pubDate": "Fri, 21 Aug 2026 06:46:08 GMT"
     },
     {
       "title": "Japan executes man who killed five in Pachinko parlour fire",
