@@ -1,8 +1,14 @@
 {
-  "updated": "2026-08-21T07:07:45.189993+00:00",
+  "updated": "2026-08-21T07:56:42.374777+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+      "pubDate": "Fri, 21 Aug 2026 05:00:57 GMT"
+    },
     {
       "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
       "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
@@ -16,28 +22,16 @@
       "pubDate": "Thu, 20 Aug 2026 23:16:45 GMT"
     },
     {
-      "title": "El Niño set to be 'strongest in living memory', says Met Office",
-      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-      "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
-      "pubDate": "Fri, 21 Aug 2026 00:33:21 GMT"
-    },
-    {
-      "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
-      "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
-      "description": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,",
-      "pubDate": "Fri, 21 Aug 2026 05:30:18 GMT"
-    },
-    {
-      "title": "Why the US economy is ringing alarm bells",
-      "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-      "description": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
-      "pubDate": "Thu, 20 Aug 2026 23:15:15 GMT"
-    },
-    {
       "title": "Hong Kong's Tiananmen activists guilty in national security trial",
       "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
       "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
       "pubDate": "Fri, 21 Aug 2026 05:47:32 GMT"
+    },
+    {
+      "title": "Five missing after fire in Swiss Alpine town",
+      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+      "description": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
+      "pubDate": "Fri, 21 Aug 2026 07:06:16 GMT"
     },
     {
       "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
@@ -50,6 +44,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
       "description": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
       "pubDate": "Fri, 21 Aug 2026 06:46:08 GMT"
+    },
+    {
+      "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
+      "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
+      "description": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,",
+      "pubDate": "Fri, 21 Aug 2026 05:30:18 GMT"
     },
     {
       "title": "Japan executes man who killed five in Pachinko parlour fire",
@@ -70,22 +70,28 @@
       "pubDate": "Thu, 20 Aug 2026 22:01:26 GMT"
     },
     {
+      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
+      "pubDate": "Fri, 21 Aug 2026 04:27:13 GMT"
+    },
+    {
       "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
       "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
       "description": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
       "pubDate": "Thu, 20 Aug 2026 17:14:55 GMT"
     },
     {
+      "title": "El Niño set to be 'strongest in living memory', says Met Office",
+      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+      "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+      "pubDate": "Fri, 21 Aug 2026 07:43:30 GMT"
+    },
+    {
       "title": "FBI arrests woman over alleged plot to bomb New York capitol building",
       "link": "https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&at_campaign=rss",
       "description": "Prosecutors say the Albany woman had pledged allegiance to the Islamic State group, and wanted to bomb the statehouse to kill lawmakers.",
       "pubDate": "Thu, 20 Aug 2026 21:03:30 GMT"
-    },
-    {
-      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
-      "pubDate": "Fri, 21 Aug 2026 04:27:13 GMT"
     },
     {
       "title": "US sanctions more Cuban companies and officials",
@@ -122,6 +128,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
       "description": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
       "pubDate": "Thu, 20 Aug 2026 06:08:02 GMT"
+    },
+    {
+      "title": "Why the US economy is ringing alarm bells",
+      "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+      "description": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
+      "pubDate": "Thu, 20 Aug 2026 23:15:15 GMT"
     },
     {
       "title": "Fix schools, say India's 'cockroach' protesters. Schoolchildren agree",
