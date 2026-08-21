@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T20:40:48.044820+00:00",
+  "updated": "2026-08-21T21:37:46.483188+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -14,6 +14,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
       "description": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
       "pubDate": "Fri, 21 Aug 2026 19:49:56 GMT"
+    },
+    {
+      "title": "One killed in sword attack at Swedish school",
+      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+      "description": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
+      "pubDate": "Fri, 21 Aug 2026 21:03:24 GMT"
     },
     {
       "title": "Hong Kong's Tiananmen activists guilty in national security trial",
@@ -38,12 +44,6 @@
       "link": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
       "description": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says.",
       "pubDate": "Fri, 21 Aug 2026 13:44:43 GMT"
-    },
-    {
-      "title": "One killed in sword attack at Swedish school",
-      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-      "description": "One person remains in a critical condition, while another suffered minor injuries in the attack.",
-      "pubDate": "Fri, 21 Aug 2026 19:22:05 GMT"
     },
     {
       "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
@@ -86,12 +86,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
       "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
       "pubDate": "Fri, 21 Aug 2026 10:46:09 GMT"
-    },
-    {
-      "title": "Two Mexicans arrested as police uncover big meth lab on South African farm",
-      "link": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&at_campaign=rss",
-      "description": "The overnight raid of the multi-million dollar drug operation took place near the border with Zimbabwe.",
-      "pubDate": "Fri, 21 Aug 2026 11:57:37 GMT"
     },
     {
       "title": "How Israel is expanding settlements in drive to reshape West Bank",
