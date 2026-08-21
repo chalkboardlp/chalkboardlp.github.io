@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T19:36:58.963093+00:00",
+  "updated": "2026-08-21T20:40:48.044820+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -12,8 +12,8 @@
     {
       "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "description": "Another 130 people, including 23 children, were injured when the shopping centre was hit, according to the regional head.",
-      "pubDate": "Fri, 21 Aug 2026 18:51:43 GMT"
+      "description": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
+      "pubDate": "Fri, 21 Aug 2026 19:49:56 GMT"
     },
     {
       "title": "Hong Kong's Tiananmen activists guilty in national security trial",
@@ -94,6 +94,12 @@
       "pubDate": "Fri, 21 Aug 2026 11:57:37 GMT"
     },
     {
+      "title": "How Israel is expanding settlements in drive to reshape West Bank",
+      "link": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
+      "description": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
+      "pubDate": "Fri, 21 Aug 2026 19:31:47 GMT"
+    },
+    {
       "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
       "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
       "description": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
@@ -116,24 +122,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
       "description": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived.",
       "pubDate": "Fri, 21 Aug 2026 02:57:34 GMT"
-    },
-    {
-      "title": "Why the US economy is ringing alarm bells",
-      "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-      "description": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
-      "pubDate": "Fri, 21 Aug 2026 08:38:18 GMT"
-    },
-    {
-      "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
-      "link": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
-      "description": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
-      "pubDate": "Thu, 20 Aug 2026 22:01:26 GMT"
-    },
-    {
-      "title": "Why Nigeria's one-time political giant may face extinction",
-      "link": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
-      "description": "Once a giant of African politics, the PDP is in danger of being wiped out after January's elections.",
-      "pubDate": "Thu, 20 Aug 2026 23:21:22 GMT"
     },
     {
       "title": "Tornadoes touch down in New York and Delaware",
