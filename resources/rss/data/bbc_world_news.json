@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T16:51:22.887703+00:00",
+  "updated": "2026-08-21T17:45:06.299221+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -34,16 +34,28 @@
       "pubDate": "Fri, 21 Aug 2026 13:44:43 GMT"
     },
     {
-      "title": "Five missing after fire in Swiss Alpine town",
-      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
-      "description": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
-      "pubDate": "Fri, 21 Aug 2026 13:10:39 GMT"
+      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+      "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+      "pubDate": "Fri, 21 Aug 2026 15:58:57 GMT"
+    },
+    {
+      "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
+      "description": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
+      "pubDate": "Fri, 21 Aug 2026 16:26:53 GMT"
     },
     {
       "title": "Peru earthquake damages buildings and causes power cuts",
       "link": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
       "description": "A magnitude 6.7 earthquake struck the Ayacucho region on Thursday, the US Geological Survey says.",
       "pubDate": "Fri, 21 Aug 2026 11:14:38 GMT"
+    },
+    {
+      "title": "Five missing after fire in Swiss Alpine town",
+      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+      "description": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
+      "pubDate": "Fri, 21 Aug 2026 13:10:39 GMT"
     },
     {
       "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
