@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T04:54:31.517286+00:00",
+  "updated": "2026-08-21T05:48:23.543644+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -22,6 +22,12 @@
       "pubDate": "Fri, 21 Aug 2026 00:33:21 GMT"
     },
     {
+      "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
+      "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
+      "description": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,",
+      "pubDate": "Fri, 21 Aug 2026 05:30:18 GMT"
+    },
+    {
       "title": "Why the US economy is ringing alarm bells",
       "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
       "description": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
@@ -31,7 +37,7 @@
       "title": "Hong Kong's Tiananmen activists guilty in national security trial",
       "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
       "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
-      "pubDate": "Fri, 21 Aug 2026 02:59:46 GMT"
+      "pubDate": "Fri, 21 Aug 2026 05:47:32 GMT"
     },
     {
       "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
@@ -40,16 +46,16 @@
       "pubDate": "Fri, 21 Aug 2026 02:33:27 GMT"
     },
     {
-      "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
-      "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
-      "description": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\".",
-      "pubDate": "Thu, 20 Aug 2026 20:08:29 GMT"
-    },
-    {
       "title": "Japan executes man who killed five in Pachinko parlour fire",
       "link": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
       "description": "This is the first time since June 2025 that the country has enacted capital punishment.",
       "pubDate": "Fri, 21 Aug 2026 02:49:27 GMT"
+    },
+    {
+      "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
+      "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
+      "description": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\".",
+      "pubDate": "Thu, 20 Aug 2026 20:08:29 GMT"
     },
     {
       "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
@@ -110,24 +116,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
       "description": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
       "pubDate": "Thu, 20 Aug 2026 06:08:02 GMT"
-    },
-    {
-      "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
-      "link": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
-      "description": "Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people.",
-      "pubDate": "Thu, 20 Aug 2026 13:04:15 GMT"
-    },
-    {
-      "title": "Togo charges two French journalists over incorrect documents, rights group says",
-      "link": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo?at_medium=RSS&at_campaign=rss",
-      "description": "Gaël Mocaër and Sebastian Perez Pezzani's detention is \"unjustified and disproportionate\", Reporters Without Borders says.",
-      "pubDate": "Thu, 20 Aug 2026 16:00:27 GMT"
-    },
-    {
-      "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
-      "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
-      "description": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
-      "pubDate": "Thu, 20 Aug 2026 07:08:35 GMT"
     },
     {
       "title": "Fix schools, say India's 'cockroach' protesters. Schoolchildren agree",
