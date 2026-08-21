@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T11:42:00.861314+00:00",
+  "updated": "2026-08-21T13:10:46.846029+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -13,7 +13,7 @@
       "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
       "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
       "description": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
-      "pubDate": "Fri, 21 Aug 2026 11:31:51 GMT"
+      "pubDate": "Fri, 21 Aug 2026 13:07:00 GMT"
     },
     {
       "title": "Hong Kong's Tiananmen activists guilty in national security trial",
@@ -28,12 +28,6 @@
       "pubDate": "Fri, 21 Aug 2026 09:53:47 GMT"
     },
     {
-      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
-      "pubDate": "Fri, 21 Aug 2026 10:46:09 GMT"
-    },
-    {
       "title": "Panama Canal to cut number of ships passing through due to El Niño",
       "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
       "description": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
@@ -44,6 +38,18 @@
       "link": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&at_campaign=rss",
       "description": "Officials say the bodies of the two Belgians, who went missing in 1992, were discovered after the Trift Glacier receded.",
       "pubDate": "Fri, 21 Aug 2026 10:03:17 GMT"
+    },
+    {
+      "title": "Two Mexicans arrested as police uncover big meth lab on South African farm",
+      "link": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&at_campaign=rss",
+      "description": "The overnight raid of the multi-million dollar drug operation took place near the border with Zimbabwe.",
+      "pubDate": "Fri, 21 Aug 2026 11:57:37 GMT"
+    },
+    {
+      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
+      "pubDate": "Fri, 21 Aug 2026 10:46:09 GMT"
     },
     {
       "title": "Gandhi's handwritten notes on life sold for $1.69m at Indian auction",
