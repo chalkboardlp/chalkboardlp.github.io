@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T09:52:06.324646+00:00",
+  "updated": "2026-08-21T10:47:33.711741+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -22,22 +22,16 @@
       "pubDate": "Fri, 21 Aug 2026 05:47:32 GMT"
     },
     {
-      "title": "Five missing after fire in Swiss Alpine town",
-      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
-      "description": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
-      "pubDate": "Fri, 21 Aug 2026 07:06:16 GMT"
-    },
-    {
-      "title": "Meghan could return to acting once back in UK",
-      "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
-      "description": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.",
-      "pubDate": "Fri, 21 Aug 2026 09:48:00 GMT"
+      "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
+      "link": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
+      "description": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
+      "pubDate": "Fri, 21 Aug 2026 09:53:47 GMT"
     },
     {
       "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
       "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
       "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
-      "pubDate": "Fri, 21 Aug 2026 04:27:13 GMT"
+      "pubDate": "Fri, 21 Aug 2026 10:46:09 GMT"
     },
     {
       "title": "Panama Canal to cut number of ships passing through due to El Niño",
@@ -46,22 +40,28 @@
       "pubDate": "Fri, 21 Aug 2026 06:46:08 GMT"
     },
     {
-      "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
-      "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
-      "description": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others.",
-      "pubDate": "Fri, 21 Aug 2026 05:30:18 GMT"
-    },
-    {
       "title": "Gandhi's handwritten notes on life sold for $1.69m at Indian auction",
       "link": "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo?at_medium=RSS&at_campaign=rss",
       "description": "The collection documents key moments in Gandhi’s freedom movement as well as his personal relationship with close aide.",
       "pubDate": "Fri, 21 Aug 2026 06:33:32 GMT"
     },
     {
+      "title": "Five missing after fire in Swiss Alpine town",
+      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+      "description": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
+      "pubDate": "Fri, 21 Aug 2026 07:06:16 GMT"
+    },
+    {
       "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
       "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
       "description": "The 26-year-old was jailed for a year after he sparked anger with an expletive-laden post about the sacred holiday.",
       "pubDate": "Fri, 21 Aug 2026 02:33:27 GMT"
+    },
+    {
+      "title": "Bodies of two hikers missing for decades found after Swiss glacier melts",
+      "link": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&at_campaign=rss",
+      "description": "Officials say the bodies of the two Belgians, who went missing in 1992, were discovered after the Trift Glacier receded.",
+      "pubDate": "Fri, 21 Aug 2026 10:03:17 GMT"
     },
     {
       "title": "Japan executes man who killed five in Pachinko parlour fire",
@@ -74,6 +74,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c0rdk5kg4r4o?at_medium=RSS&at_campaign=rss",
       "description": "The body of Lily Hooper, 18, has been airlifted from a national park in the Southern Highlands following an eight-day search.",
       "pubDate": "Fri, 21 Aug 2026 04:54:21 GMT"
+    },
+    {
+      "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
+      "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
+      "description": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others.",
+      "pubDate": "Fri, 21 Aug 2026 05:30:18 GMT"
     },
     {
       "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
