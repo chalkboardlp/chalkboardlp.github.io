@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T03:15:51.082719+00:00",
+  "updated": "2026-08-21T04:03:26.221436+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -44,6 +44,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
       "description": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\".",
       "pubDate": "Thu, 20 Aug 2026 20:08:29 GMT"
+    },
+    {
+      "title": "Japan executes man who killed five in Pachinko parlour fire",
+      "link": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
+      "description": "This is the first time since June 2025 that the country has enacted capital punishment.",
+      "pubDate": "Fri, 21 Aug 2026 02:49:27 GMT"
     },
     {
       "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
@@ -124,6 +130,12 @@
       "pubDate": "Thu, 20 Aug 2026 07:08:35 GMT"
     },
     {
+      "title": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
+      "description": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
+      "pubDate": "Fri, 21 Aug 2026 00:04:10 GMT"
+    },
+    {
       "title": "Why Nigeria's one-time political giant may face extinction",
       "link": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
       "description": "Once a giant of African politics, the PDP is in danger of being wiped out after January's elections.",
@@ -146,12 +158,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c5yedy98j7po?at_medium=RSS&at_campaign=rss",
       "description": "Postpartum psychosis is a psychiatric emergency that can involve mania, depression, hallucinations and delusions.",
       "pubDate": "Wed, 19 Aug 2026 16:30:55 GMT"
-    },
-    {
-      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-      "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
-      "description": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
-      "pubDate": "Wed, 19 Aug 2026 05:00:39 GMT"
     },
     {
       "title": "Watch: Fishermen rescued after five days adrift in cool box",
