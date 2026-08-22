@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T08:47:25.781165+00:00",
+  "updated": "2026-08-22T09:41:41.545804+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -25,7 +25,7 @@
       "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
       "description": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
-      "pubDate": "Sat, 22 Aug 2026 06:40:30 GMT"
+      "pubDate": "Sat, 22 Aug 2026 09:13:26 GMT"
     },
     {
       "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
@@ -40,10 +40,22 @@
       "pubDate": "Fri, 21 Aug 2026 21:03:24 GMT"
     },
     {
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+      "description": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+      "pubDate": "Sat, 22 Aug 2026 08:40:49 GMT"
+    },
+    {
       "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
       "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
       "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
       "pubDate": "Fri, 21 Aug 2026 15:58:57 GMT"
+    },
+    {
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "link": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
+      "description": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
+      "pubDate": "Sat, 22 Aug 2026 07:53:57 GMT"
     },
     {
       "title": "Two injured in stabbing attack at Canada Sikh temple",
