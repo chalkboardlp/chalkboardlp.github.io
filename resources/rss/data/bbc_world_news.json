@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T13:44:45.969909+00:00",
+  "updated": "2026-08-22T14:37:29.635681+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -14,6 +14,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
       "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
       "pubDate": "Fri, 21 Aug 2026 22:36:12 GMT"
+    },
+    {
+      "title": "Fourteen killed in strike on Myanmar monastery",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+      "description": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
+      "pubDate": "Sat, 22 Aug 2026 13:48:06 GMT"
     },
     {
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
@@ -37,7 +43,7 @@
       "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
       "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
       "description": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-      "pubDate": "Sat, 22 Aug 2026 08:40:49 GMT"
+      "pubDate": "Sat, 22 Aug 2026 14:35:11 GMT"
     },
     {
       "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
@@ -160,16 +166,22 @@
       "pubDate": "Thu, 20 Aug 2026 23:16:45 GMT"
     },
     {
-      "title": "Robot horse and rider steal the spotlight at Chinese conference",
-      "link": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
-      "description": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
-      "pubDate": "Sat, 22 Aug 2026 10:01:18 GMT"
+      "title": "Watch: Moment robot attempts to beat Usain Bolt's 100m record",
+      "link": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+      "description": "An android at China's World Humanoid Robot Games ran faster than Bolt's world record, smartphone maker Honor says.",
+      "pubDate": "Sat, 22 Aug 2026 14:10:05 GMT"
     },
     {
       "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
       "link": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
       "description": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer.",
       "pubDate": "Sat, 22 Aug 2026 02:39:10 GMT"
+    },
+    {
+      "title": "Robot horse and rider steal the spotlight at Chinese conference",
+      "link": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
+      "description": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
+      "pubDate": "Sat, 22 Aug 2026 10:01:18 GMT"
     },
     {
       "title": "Tornadoes touch down in New York and Delaware",
@@ -182,12 +194,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cn4nk1915vxo?at_medium=RSS&at_campaign=rss",
       "description": "Priyanka Chopra Jonas has executive produced The Cycle of Love, based on an Indian artist who cycled from India to Europe to reunite with his wife.",
       "pubDate": "Fri, 21 Aug 2026 13:32:28 GMT"
-    },
-    {
-      "title": "Watch: Fishermen rescued after five days adrift in cool box",
-      "link": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
-      "description": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
-      "pubDate": "Thu, 20 Aug 2026 20:41:31 GMT"
     }
   ]
 }
