@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T09:41:41.545804+00:00",
+  "updated": "2026-08-22T10:39:48.842975+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -22,16 +22,10 @@
       "pubDate": "Fri, 21 Aug 2026 05:00:57 GMT"
     },
     {
-      "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
       "description": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
-      "pubDate": "Sat, 22 Aug 2026 09:13:26 GMT"
-    },
-    {
-      "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
-      "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
-      "description": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
-      "pubDate": "Sat, 22 Aug 2026 03:43:26 GMT"
+      "pubDate": "Sat, 22 Aug 2026 10:01:22 GMT"
     },
     {
       "title": "One killed in sword attack at Swedish school",
@@ -44,6 +38,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
       "description": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
       "pubDate": "Sat, 22 Aug 2026 08:40:49 GMT"
+    },
+    {
+      "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
+      "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+      "description": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
+      "pubDate": "Sat, 22 Aug 2026 03:43:26 GMT"
     },
     {
       "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
