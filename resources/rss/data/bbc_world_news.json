@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-22T16:40:12.908479+00:00",
+  "updated": "2026-08-22T17:35:40.467351+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
       "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "description": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
-      "pubDate": "Sat, 22 Aug 2026 16:05:04 GMT"
+      "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "pubDate": "Sat, 22 Aug 2026 16:45:02 GMT"
     },
     {
       "title": "Carney faces crucial test after walking away from Trump's deal",
       "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-      "description": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "description": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
       "pubDate": "Sat, 22 Aug 2026 16:20:51 GMT"
     },
     {
@@ -28,22 +28,28 @@
       "pubDate": "Sat, 22 Aug 2026 13:48:06 GMT"
     },
     {
-      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-      "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
-      "pubDate": "Fri, 21 Aug 2026 05:00:57 GMT"
-    },
-    {
       "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
       "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
       "pubDate": "Sat, 22 Aug 2026 13:13:16 GMT"
     },
     {
+      "title": "US military newspaper editor voices censorship fears after being fired",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+      "description": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
+      "pubDate": "Sat, 22 Aug 2026 16:57:19 GMT"
+    },
+    {
       "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
       "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
       "description": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
       "pubDate": "Sat, 22 Aug 2026 14:35:11 GMT"
+    },
+    {
+      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+      "pubDate": "Fri, 21 Aug 2026 05:00:57 GMT"
     },
     {
       "title": "One killed in sword attack at Swedish school",
@@ -154,10 +160,10 @@
       "pubDate": "Thu, 20 Aug 2026 23:16:45 GMT"
     },
     {
-      "title": "Watch: Moment robot attempts to beat Usain Bolt's 100m record",
+      "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
       "link": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-      "description": "An android at China's World Humanoid Robot Games ran faster than Bolt's world record, smartphone maker Honor says.",
-      "pubDate": "Sat, 22 Aug 2026 14:10:05 GMT"
+      "description": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing.",
+      "pubDate": "Sat, 22 Aug 2026 17:02:06 GMT"
     },
     {
       "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
