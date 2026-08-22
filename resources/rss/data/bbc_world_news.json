@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-22T04:48:31.111350+00:00",
+  "updated": "2026-08-22T05:41:51.589033+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-      "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-      "description": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
-      "pubDate": "Sat, 22 Aug 2026 00:40:47 GMT"
+      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+      "description": "New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks.",
+      "pubDate": "Sat, 22 Aug 2026 04:46:33 GMT"
     },
     {
       "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
@@ -25,7 +25,7 @@
       "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
       "description": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall.",
-      "pubDate": "Sat, 22 Aug 2026 03:17:29 GMT"
+      "pubDate": "Sat, 22 Aug 2026 05:15:58 GMT"
     },
     {
       "title": "One killed in sword attack at Swedish school",
@@ -38,6 +38,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
       "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
       "pubDate": "Fri, 21 Aug 2026 15:58:57 GMT"
+    },
+    {
+      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+      "description": "They will not be working royals when they come back. So what could they be doing instead?",
+      "pubDate": "Sat, 22 Aug 2026 00:03:10 GMT"
     },
     {
       "title": "Two injured in stabbing attack at Canada Sikh temple",
@@ -130,6 +136,12 @@
       "pubDate": "Thu, 20 Aug 2026 23:16:45 GMT"
     },
     {
+      "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
+      "link": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
+      "description": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer.",
+      "pubDate": "Sat, 22 Aug 2026 02:39:10 GMT"
+    },
+    {
       "title": "Tornadoes touch down in New York and Delaware",
       "link": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
       "description": "Tornadoes swept through New York and Delaware as severe storms brought torrential rain to the Mid-Atlantic.",
@@ -152,18 +164,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
       "description": "The brothers have had a fractured relationship for a number of years.",
       "pubDate": "Thu, 20 Aug 2026 16:54:51 GMT"
-    },
-    {
-      "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-      "link": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Verify looks at footage from two deadly strikes in under 24 hours in Gaza.",
-      "pubDate": "Wed, 19 Aug 2026 17:46:01 GMT"
-    },
-    {
-      "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
-      "link": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
-      "description": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
-      "pubDate": "Wed, 19 Aug 2026 15:38:38 GMT"
     }
   ]
 }
