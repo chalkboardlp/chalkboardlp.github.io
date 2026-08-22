@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T03:08:32.372144+00:00",
+  "updated": "2026-08-22T03:56:18.258212+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -22,10 +22,10 @@
       "pubDate": "Fri, 21 Aug 2026 05:00:57 GMT"
     },
     {
-      "title": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say",
+      "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "description": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
-      "pubDate": "Sat, 22 Aug 2026 01:47:54 GMT"
+      "description": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall.",
+      "pubDate": "Sat, 22 Aug 2026 03:17:29 GMT"
     },
     {
       "title": "One killed in sword attack at Swedish school",
