@@ -1,8 +1,14 @@
 {
-  "updated": "2026-08-22T14:37:29.635681+00:00",
+  "updated": "2026-08-22T15:35:06.703589+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "description": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "pubDate": "Sat, 22 Aug 2026 15:00:27 GMT"
+    },
     {
       "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
       "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
@@ -34,16 +40,16 @@
       "pubDate": "Sat, 22 Aug 2026 13:13:16 GMT"
     },
     {
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+      "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+      "description": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+      "pubDate": "Sat, 22 Aug 2026 14:35:11 GMT"
+    },
+    {
       "title": "One killed in sword attack at Swedish school",
       "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
       "description": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
       "pubDate": "Fri, 21 Aug 2026 21:03:24 GMT"
-    },
-    {
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-      "description": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-      "pubDate": "Sat, 22 Aug 2026 14:35:11 GMT"
     },
     {
       "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
@@ -110,24 +116,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
       "description": "A magnitude 6.7 earthquake struck the Ayacucho region on Thursday, the US Geological Survey says.",
       "pubDate": "Fri, 21 Aug 2026 11:14:38 GMT"
-    },
-    {
-      "title": "Five missing after fire in Swiss Alpine town",
-      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
-      "description": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
-      "pubDate": "Fri, 21 Aug 2026 13:10:39 GMT"
-    },
-    {
-      "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
-      "link": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
-      "description": "An eagerly anticipated gathering of women will not be taking place following recent aerial strikes.",
-      "pubDate": "Fri, 21 Aug 2026 16:20:55 GMT"
-    },
-    {
-      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
-      "pubDate": "Fri, 21 Aug 2026 10:46:09 GMT"
     },
     {
       "title": "These bookshops let Chinese readers question their country - now the doors are closing",
