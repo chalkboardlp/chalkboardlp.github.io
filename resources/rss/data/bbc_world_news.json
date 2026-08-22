@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-22T05:41:51.589033+00:00",
+  "updated": "2026-08-22T06:58:51.813804+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
       "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
       "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-      "description": "New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks.",
+      "description": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
       "pubDate": "Sat, 22 Aug 2026 04:46:33 GMT"
     },
     {
@@ -22,10 +22,16 @@
       "pubDate": "Fri, 21 Aug 2026 05:00:57 GMT"
     },
     {
-      "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
+      "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "description": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall.",
-      "pubDate": "Sat, 22 Aug 2026 05:15:58 GMT"
+      "description": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
+      "pubDate": "Sat, 22 Aug 2026 06:40:30 GMT"
+    },
+    {
+      "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
+      "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+      "description": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
+      "pubDate": "Sat, 22 Aug 2026 03:43:26 GMT"
     },
     {
       "title": "One killed in sword attack at Swedish school",
@@ -40,16 +46,16 @@
       "pubDate": "Fri, 21 Aug 2026 15:58:57 GMT"
     },
     {
-      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
-      "description": "They will not be working royals when they come back. So what could they be doing instead?",
-      "pubDate": "Sat, 22 Aug 2026 00:03:10 GMT"
-    },
-    {
       "title": "Two injured in stabbing attack at Canada Sikh temple",
       "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
       "description": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
       "pubDate": "Fri, 21 Aug 2026 22:45:01 GMT"
+    },
+    {
+      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+      "description": "They will not be working royals when they come back. So what could they be doing instead?",
+      "pubDate": "Sat, 22 Aug 2026 00:03:10 GMT"
     },
     {
       "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
@@ -110,6 +116,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o?at_medium=RSS&at_campaign=rss",
       "description": "For some mainlanders, Hong Kong's independent bookstores are a window into a different, freer world.",
       "pubDate": "Fri, 21 Aug 2026 22:26:25 GMT"
+    },
+    {
+      "title": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
+      "link": "https://www.bbc.co.uk/news/articles/cq56x3910jwo?at_medium=RSS&at_campaign=rss",
+      "description": "Experts told the BBC the pressures of childhood stardom can put actors at an unusually higher risk of substance abuse issues.",
+      "pubDate": "Fri, 21 Aug 2026 23:41:33 GMT"
     },
     {
       "title": "How Israel is expanding settlements in drive to reshape West Bank",
