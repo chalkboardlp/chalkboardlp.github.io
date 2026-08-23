@@ -1,14 +1,8 @@
 {
-  "updated": "2026-08-23T16:43:31.810885+00:00",
+  "updated": "2026-08-23T17:34:05.862800+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
-    {
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-      "pubDate": "Sun, 23 Aug 2026 05:46:43 GMT"
-    },
     {
       "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
@@ -16,10 +10,22 @@
       "pubDate": "Sun, 23 Aug 2026 12:56:43 GMT"
     },
     {
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+      "pubDate": "Sun, 23 Aug 2026 05:46:43 GMT"
+    },
+    {
       "title": "DR Congo and M23 rebels agree roadmap for peace talks",
       "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
       "description": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
       "pubDate": "Sun, 23 Aug 2026 12:52:08 GMT"
+    },
+    {
+      "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
+      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "description": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+      "pubDate": "Sun, 23 Aug 2026 17:31:29 GMT"
     },
     {
       "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
@@ -64,16 +70,16 @@
       "pubDate": "Sun, 23 Aug 2026 03:44:19 GMT"
     },
     {
-      "title": "Girl, 17, killed in Swedish sword attack, police say",
-      "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-      "description": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained.",
-      "pubDate": "Sun, 23 Aug 2026 01:34:15 GMT"
-    },
-    {
       "title": "'New season, new trim' - Haaland reveals buzzcut",
       "link": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
       "description": "Manchester City striker Erling Haaland reveals his new buzz cut on social media.",
       "pubDate": "Sun, 23 Aug 2026 12:36:54 GMT"
+    },
+    {
+      "title": "Girl, 17, killed in Swedish sword attack, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+      "description": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained.",
+      "pubDate": "Sun, 23 Aug 2026 01:34:15 GMT"
     },
     {
       "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
