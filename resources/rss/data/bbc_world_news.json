@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T17:34:05.862800+00:00",
+  "updated": "2026-08-23T18:48:08.169994+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -16,16 +16,22 @@
       "pubDate": "Sun, 23 Aug 2026 05:46:43 GMT"
     },
     {
+      "title": "Guinea rubbish landfill collapse kills 30",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "description": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+      "pubDate": "Sun, 23 Aug 2026 18:17:37 GMT"
+    },
+    {
       "title": "DR Congo and M23 rebels agree roadmap for peace talks",
       "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
       "description": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
       "pubDate": "Sun, 23 Aug 2026 12:52:08 GMT"
     },
     {
-      "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
-      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-      "description": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
-      "pubDate": "Sun, 23 Aug 2026 17:31:29 GMT"
+      "title": "France links sharp rise in drownings to heatwaves",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+      "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+      "pubDate": "Sun, 23 Aug 2026 17:39:33 GMT"
     },
     {
       "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
@@ -34,22 +40,16 @@
       "pubDate": "Sun, 23 Aug 2026 11:50:59 GMT"
     },
     {
-      "title": "France links rise in drownings to heatwaves",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-      "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-      "pubDate": "Sun, 23 Aug 2026 15:00:17 GMT"
+      "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "description": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+      "pubDate": "Sun, 23 Aug 2026 18:17:34 GMT"
     },
     {
       "title": "Thousands struggling without power in Indiana 12 days after severe storms",
       "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
       "description": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
       "pubDate": "Sun, 23 Aug 2026 15:54:32 GMT"
-    },
-    {
-      "title": "The hotel booking mix-up that could free mushroom murderer",
-      "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
-      "description": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
-      "pubDate": "Sat, 22 Aug 2026 19:03:03 GMT"
     },
     {
       "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
@@ -82,16 +82,16 @@
       "pubDate": "Sun, 23 Aug 2026 01:34:15 GMT"
     },
     {
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-      "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-      "description": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-      "pubDate": "Sat, 22 Aug 2026 14:35:11 GMT"
-    },
-    {
       "title": "Man completes 2,800 mile scoot across Australia",
       "link": "https://www.bbc.co.uk/news/articles/clylqlkq5e5o?at_medium=RSS&at_campaign=rss",
       "description": "Bob Brown from Saltash has ridden a non-electric scooter from Perth to Sydney.",
       "pubDate": "Sun, 23 Aug 2026 06:01:16 GMT"
+    },
+    {
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+      "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+      "description": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+      "pubDate": "Sat, 22 Aug 2026 14:35:11 GMT"
     },
     {
       "title": "Syria says Israeli strike near Damascus violation of international law",
@@ -128,6 +128,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
       "description": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
       "pubDate": "Sat, 22 Aug 2026 03:43:26 GMT"
+    },
+    {
+      "title": "The hotel booking mix-up that could free mushroom murderer",
+      "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+      "description": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
+      "pubDate": "Sat, 22 Aug 2026 19:03:03 GMT"
     },
     {
       "title": "Robot boxing, football and sprinting at World Humanoid Games",
