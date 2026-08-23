@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T15:36:15.989561+00:00",
+  "updated": "2026-08-23T16:43:31.810885+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -34,16 +34,16 @@
       "pubDate": "Sun, 23 Aug 2026 15:00:17 GMT"
     },
     {
+      "title": "Thousands struggling without power in Indiana 12 days after severe storms",
+      "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
+      "description": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
+      "pubDate": "Sun, 23 Aug 2026 15:54:32 GMT"
+    },
+    {
       "title": "The hotel booking mix-up that could free mushroom murderer",
       "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
       "description": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
       "pubDate": "Sat, 22 Aug 2026 19:03:03 GMT"
-    },
-    {
-      "title": "'New season, new trim' - Haaland reveals buzzcut",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
-      "description": "Manchester City striker Erling Haaland reveals his new buzz cut on social media.",
-      "pubDate": "Sun, 23 Aug 2026 12:36:54 GMT"
     },
     {
       "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
@@ -68,6 +68,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
       "description": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained.",
       "pubDate": "Sun, 23 Aug 2026 01:34:15 GMT"
+    },
+    {
+      "title": "'New season, new trim' - Haaland reveals buzzcut",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester City striker Erling Haaland reveals his new buzz cut on social media.",
+      "pubDate": "Sun, 23 Aug 2026 12:36:54 GMT"
     },
     {
       "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
