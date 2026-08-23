@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T08:48:16.614034+00:00",
+  "updated": "2026-08-23T09:42:42.422198+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -10,16 +10,10 @@
       "pubDate": "Sun, 23 Aug 2026 05:46:43 GMT"
     },
     {
-      "title": "Carney faces crucial test after walking away from Trump's deal",
-      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-      "description": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
-      "pubDate": "Sat, 22 Aug 2026 20:02:46 GMT"
-    },
-    {
       "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
       "description": "The sacked former defence minister has also called for elections to be held in Ukraine.",
-      "pubDate": "Sun, 23 Aug 2026 08:47:47 GMT"
+      "pubDate": "Sun, 23 Aug 2026 09:37:05 GMT"
     },
     {
       "title": "Girl, 17, killed in Swedish sword attack, police say",
@@ -34,16 +28,22 @@
       "pubDate": "Sat, 22 Aug 2026 14:35:11 GMT"
     },
     {
+      "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+      "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+      "description": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
+      "pubDate": "Sun, 23 Aug 2026 03:44:19 GMT"
+    },
+    {
       "title": "The hotel booking mix-up that could free mushroom murderer",
       "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
       "description": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
       "pubDate": "Sat, 22 Aug 2026 19:03:03 GMT"
     },
     {
-      "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
-      "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
-      "description": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
-      "pubDate": "Sun, 23 Aug 2026 03:44:19 GMT"
+      "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
+      "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
+      "pubDate": "Sat, 22 Aug 2026 23:45:01 GMT"
     },
     {
       "title": "Laptop catches fire on US flight, with passenger treated at airport",
@@ -116,6 +116,12 @@
       "link": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
       "description": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
       "pubDate": "Sat, 22 Aug 2026 23:22:02 GMT"
+    },
+    {
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "description": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "pubDate": "Sat, 22 Aug 2026 20:02:46 GMT"
     },
     {
       "title": "These bookshops let Chinese readers question their country - now the doors are closing",
