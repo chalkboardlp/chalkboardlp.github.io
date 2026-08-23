@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T13:45:40.587581+00:00",
+  "updated": "2026-08-23T14:38:44.308023+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -46,6 +46,12 @@
       "pubDate": "Sun, 23 Aug 2026 12:25:40 GMT"
     },
     {
+      "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
+      "description": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of  56 minutes 51 seconds in a World Athletics road race in Buenos Aires.",
+      "pubDate": "Sun, 23 Aug 2026 13:35:06 GMT"
+    },
+    {
       "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
       "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
       "description": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
@@ -64,22 +70,16 @@
       "pubDate": "Sat, 22 Aug 2026 14:35:11 GMT"
     },
     {
-      "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
-      "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
-      "pubDate": "Sat, 22 Aug 2026 23:45:01 GMT"
+      "title": "Man completes 2,800 mile scoot across Australia",
+      "link": "https://www.bbc.co.uk/news/articles/clylqlkq5e5o?at_medium=RSS&at_campaign=rss",
+      "description": "Bob Brown from Saltash has ridden a non-electric scooter from Perth to Sydney.",
+      "pubDate": "Sun, 23 Aug 2026 06:01:16 GMT"
     },
     {
       "title": "Syria says Israeli strike near Damascus violation of international law",
       "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
       "description": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
       "pubDate": "Sat, 22 Aug 2026 21:42:42 GMT"
-    },
-    {
-      "title": "Robot boxing, football and sprinting at World Humanoid Games",
-      "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-      "description": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
-      "pubDate": "Sun, 23 Aug 2026 12:47:06 GMT"
     },
     {
       "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
@@ -106,34 +106,16 @@
       "pubDate": "Fri, 21 Aug 2026 22:36:12 GMT"
     },
     {
-      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-      "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
-      "pubDate": "Fri, 21 Aug 2026 05:00:57 GMT"
-    },
-    {
       "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
       "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
       "description": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
       "pubDate": "Sat, 22 Aug 2026 03:43:26 GMT"
     },
     {
-      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-      "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
-      "pubDate": "Fri, 21 Aug 2026 15:58:57 GMT"
-    },
-    {
-      "title": "Two injured in stabbing attack at Canada Sikh temple",
-      "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
-      "description": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
-      "pubDate": "Fri, 21 Aug 2026 22:45:01 GMT"
-    },
-    {
-      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
-      "description": "They will not be working royals when they come back. So what could they be doing instead?",
-      "pubDate": "Sat, 22 Aug 2026 00:03:10 GMT"
+      "title": "Robot boxing, football and sprinting at World Humanoid Games",
+      "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+      "description": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
+      "pubDate": "Sun, 23 Aug 2026 12:47:06 GMT"
     },
     {
       "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
@@ -146,6 +128,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
       "description": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
       "pubDate": "Sat, 22 Aug 2026 20:02:46 GMT"
+    },
+    {
+      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+      "description": "They will not be working royals when they come back. So what could they be doing instead?",
+      "pubDate": "Sat, 22 Aug 2026 00:03:10 GMT"
     },
     {
       "title": "Wicker Man director's sons complete their late father's film trilogy",
@@ -182,6 +170,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
       "description": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
       "pubDate": "Fri, 21 Aug 2026 13:07:00 GMT"
+    },
+    {
+      "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
+      "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
+      "pubDate": "Sat, 22 Aug 2026 23:45:01 GMT"
     },
     {
       "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
