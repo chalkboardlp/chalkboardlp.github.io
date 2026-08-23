@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-23T04:52:02.512155+00:00",
+  "updated": "2026-08-23T05:44:47.674634+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Carney say Trump started trade war with fresh tarrifs 'attack'",
+      "title": "Carney says Trump started trade war with fresh tarrifs 'attack'",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
       "pubDate": "Sat, 22 Aug 2026 20:10:00 GMT"
@@ -46,16 +46,22 @@
       "pubDate": "Sun, 23 Aug 2026 01:34:15 GMT"
     },
     {
-      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-      "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-      "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
-      "pubDate": "Fri, 21 Aug 2026 22:36:12 GMT"
-    },
-    {
       "title": "Fourteen killed in strike on Myanmar monastery",
       "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
       "description": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
       "pubDate": "Sat, 22 Aug 2026 13:48:06 GMT"
+    },
+    {
+      "title": "Laptop catches fire on US flight, with passenger treated at airport",
+      "link": "https://www.bbc.co.uk/news/articles/ce979zpjj85o?at_medium=RSS&at_campaign=rss",
+      "description": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely.",
+      "pubDate": "Sat, 22 Aug 2026 10:27:25 GMT"
+    },
+    {
+      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+      "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+      "pubDate": "Fri, 21 Aug 2026 22:36:12 GMT"
     },
     {
       "title": "US military newspaper editor voices censorship fears after being fired",
@@ -68,12 +74,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
       "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
       "pubDate": "Fri, 21 Aug 2026 05:00:57 GMT"
-    },
-    {
-      "title": "One killed in sword attack at Swedish school",
-      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-      "description": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
-      "pubDate": "Fri, 21 Aug 2026 21:03:24 GMT"
     },
     {
       "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
@@ -98,6 +98,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
       "description": "They will not be working royals when they come back. So what could they be doing instead?",
       "pubDate": "Sat, 22 Aug 2026 00:03:10 GMT"
+    },
+    {
+      "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
+      "link": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
+      "description": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
+      "pubDate": "Sat, 22 Aug 2026 23:22:02 GMT"
     },
     {
       "title": "The hotel booking mix-up that could free mushroom murderer",
