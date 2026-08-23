@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T14:38:44.308023+00:00",
+  "updated": "2026-08-23T15:36:15.989561+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -28,6 +28,12 @@
       "pubDate": "Sun, 23 Aug 2026 11:50:59 GMT"
     },
     {
+      "title": "France links rise in drownings to heatwaves",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+      "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+      "pubDate": "Sun, 23 Aug 2026 15:00:17 GMT"
+    },
+    {
       "title": "The hotel booking mix-up that could free mushroom murderer",
       "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
       "description": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
@@ -40,16 +46,16 @@
       "pubDate": "Sun, 23 Aug 2026 12:36:54 GMT"
     },
     {
-      "title": "Golf brand apologises for advert that shows woman being pushed over",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
-      "description": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club.",
-      "pubDate": "Sun, 23 Aug 2026 12:25:40 GMT"
-    },
-    {
       "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
       "link": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
       "description": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of  56 minutes 51 seconds in a World Athletics road race in Buenos Aires.",
       "pubDate": "Sun, 23 Aug 2026 13:35:06 GMT"
+    },
+    {
+      "title": "Golf brand apologises for advert that shows woman being pushed over",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
+      "description": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club.",
+      "pubDate": "Sun, 23 Aug 2026 12:25:40 GMT"
     },
     {
       "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
