@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-23T04:02:37.080753+00:00",
+  "updated": "2026-08-23T04:52:02.512155+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "title": "Carney say Trump started trade war with fresh tarrifs 'attack'",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
       "pubDate": "Sat, 22 Aug 2026 20:10:00 GMT"
@@ -34,6 +34,18 @@
       "pubDate": "Sat, 22 Aug 2026 21:42:42 GMT"
     },
     {
+      "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+      "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+      "description": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
+      "pubDate": "Sun, 23 Aug 2026 03:44:19 GMT"
+    },
+    {
+      "title": "Swedish sword attack victim was 17-year-old girl, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+      "description": "Two boys aged 12 and 17 were also injured in the attack, while an 18-year-old suspect has been detained.",
+      "pubDate": "Sun, 23 Aug 2026 01:34:15 GMT"
+    },
+    {
       "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
       "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
       "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
@@ -46,22 +58,10 @@
       "pubDate": "Sat, 22 Aug 2026 13:48:06 GMT"
     },
     {
-      "title": "Swedish sword attack victim was 17-year-old girl, police say",
-      "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-      "description": "Two boys aged 12 and 17 were also injured in the attack, while an 18-year-old suspect has been detained.",
-      "pubDate": "Sun, 23 Aug 2026 01:34:15 GMT"
-    },
-    {
       "title": "US military newspaper editor voices censorship fears after being fired",
       "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
       "description": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
       "pubDate": "Sat, 22 Aug 2026 16:57:19 GMT"
-    },
-    {
-      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-      "link": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
-      "description": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
-      "pubDate": "Sat, 22 Aug 2026 07:53:57 GMT"
     },
     {
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
