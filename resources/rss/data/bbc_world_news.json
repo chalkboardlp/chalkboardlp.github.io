@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-23T07:01:10.035163+00:00",
+  "updated": "2026-08-23T07:47:01.185516+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
       "pubDate": "Sun, 23 Aug 2026 05:46:43 GMT"
     },
     {
