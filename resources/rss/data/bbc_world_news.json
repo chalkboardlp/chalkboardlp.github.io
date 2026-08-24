@@ -1,13 +1,19 @@
 {
-  "updated": "2026-08-24T05:01:14.888968+00:00",
+  "updated": "2026-08-24T05:53:24.586520+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Burnham visits Kyiv to reaffirm UK support for Ukraine",
+      "title": "Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv",
       "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
       "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-      "pubDate": "Mon, 24 Aug 2026 05:00:12 GMT"
+      "pubDate": "Mon, 24 Aug 2026 05:16:57 GMT"
+    },
+    {
+      "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+      "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+      "description": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
+      "pubDate": "Mon, 24 Aug 2026 05:00:22 GMT"
     },
     {
       "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -19,7 +25,7 @@
       "title": "Shein aims for almost $27bn valuation in stock market debut",
       "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
       "description": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
-      "pubDate": "Mon, 24 Aug 2026 04:06:54 GMT"
+      "pubDate": "Mon, 24 Aug 2026 05:09:22 GMT"
     },
     {
       "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
@@ -34,16 +40,16 @@
       "pubDate": "Sun, 23 Aug 2026 18:17:37 GMT"
     },
     {
-      "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
+      "title": "Nearly three million Teslas recalled in China over hidden door handles",
       "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
       "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-      "pubDate": "Mon, 24 Aug 2026 03:27:11 GMT"
+      "pubDate": "Mon, 24 Aug 2026 05:01:17 GMT"
     },
     {
       "title": "Australian shark attack victim grateful for 'second chance at life'",
       "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
       "description": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
-      "pubDate": "Mon, 24 Aug 2026 00:34:59 GMT"
+      "pubDate": "Mon, 24 Aug 2026 05:31:53 GMT"
     },
     {
       "title": "France links sharp rise in drownings to heatwaves",
@@ -152,12 +158,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
       "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
       "pubDate": "Fri, 21 Aug 2026 22:36:12 GMT"
-    },
-    {
-      "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
-      "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
-      "description": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
-      "pubDate": "Sat, 22 Aug 2026 03:43:26 GMT"
     },
     {
       "title": "The hotel booking mix-up that could free mushroom murderer",
