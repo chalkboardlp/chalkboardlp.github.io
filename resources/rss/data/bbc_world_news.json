@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T07:19:54.727552+00:00",
+  "updated": "2026-08-24T09:04:05.168204+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -10,34 +10,16 @@
       "pubDate": "Mon, 24 Aug 2026 05:00:22 GMT"
     },
     {
+      "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+      "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+      "description": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
+      "pubDate": "Mon, 24 Aug 2026 08:34:26 GMT"
+    },
+    {
       "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
       "pubDate": "Sun, 23 Aug 2026 19:11:30 GMT"
-    },
-    {
-      "title": "Shein aims for almost $27bn valuation in stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-      "description": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
-      "pubDate": "Mon, 24 Aug 2026 07:00:53 GMT"
-    },
-    {
-      "title": "China probes use of formaldehyde to keep cabbages fresh",
-      "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
-      "description": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
-      "pubDate": "Mon, 24 Aug 2026 05:40:48 GMT"
-    },
-    {
-      "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
-      "description": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
-      "pubDate": "Mon, 24 Aug 2026 03:55:35 GMT"
-    },
-    {
-      "title": "Guinea rubbish landfill collapse kills 30",
-      "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-      "description": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
-      "pubDate": "Sun, 23 Aug 2026 18:17:37 GMT"
     },
     {
       "title": "Nearly three million Teslas recalled in China over hidden door handles",
@@ -46,16 +28,52 @@
       "pubDate": "Mon, 24 Aug 2026 05:01:17 GMT"
     },
     {
+      "title": "King of Norway's health has worsened, palace says",
+      "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
+      "description": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
+      "pubDate": "Mon, 24 Aug 2026 08:31:55 GMT"
+    },
+    {
       "title": "Maradona's 'Hand of God' ball sells for £2.5m",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
       "description": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
       "pubDate": "Mon, 24 Aug 2026 06:55:06 GMT"
     },
     {
+      "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
+      "description": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
+      "pubDate": "Mon, 24 Aug 2026 03:55:35 GMT"
+    },
+    {
+      "title": "China probes use of formaldehyde to keep cabbages fresh",
+      "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
+      "description": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
+      "pubDate": "Mon, 24 Aug 2026 05:40:48 GMT"
+    },
+    {
+      "title": "Four arrested over boxing champion's murder in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss",
+      "description": "One of the suspects is due in court on Monday to be charged with murder and attempted murder.",
+      "pubDate": "Mon, 24 Aug 2026 08:32:46 GMT"
+    },
+    {
       "title": "Australian shark attack victim grateful for 'second chance at life'",
       "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
       "description": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
       "pubDate": "Mon, 24 Aug 2026 05:31:53 GMT"
+    },
+    {
+      "title": "Guinea rubbish landfill collapse kills 31",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "description": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+      "pubDate": "Mon, 24 Aug 2026 09:03:43 GMT"
+    },
+    {
+      "title": "Shein aims for almost $27bn valuation in stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+      "description": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+      "pubDate": "Mon, 24 Aug 2026 07:00:53 GMT"
     },
     {
       "title": "France links sharp rise in drownings to heatwaves",
@@ -88,24 +106,6 @@
       "pubDate": "Sun, 23 Aug 2026 15:54:32 GMT"
     },
     {
-      "title": "Golf brand apologises for advert that shows woman being pushed over",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
-      "description": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club.",
-      "pubDate": "Sun, 23 Aug 2026 12:25:40 GMT"
-    },
-    {
-      "title": "Trump waves green flag to start IndyCar race through Washington streets",
-      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-      "description": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
-      "pubDate": "Sun, 23 Aug 2026 20:19:36 GMT"
-    },
-    {
-      "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
-      "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
-      "description": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
-      "pubDate": "Sun, 23 Aug 2026 03:44:19 GMT"
-    },
-    {
       "title": "The hotel booking mix-up that could free mushroom murderer",
       "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
       "description": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
@@ -134,42 +134,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
       "description": "They will not be working royals when they come back. So what could they be doing instead?",
       "pubDate": "Sat, 22 Aug 2026 00:03:10 GMT"
-    },
-    {
-      "title": "Wicker Man director's sons complete their late father's film trilogy",
-      "link": "https://www.bbc.co.uk/news/articles/cj36kv62g7yo?at_medium=RSS&at_campaign=rss",
-      "description": "The final film in the folk horror trilogy brings closure to the saga as well as its creator's family after more than 50 years.",
-      "pubDate": "Sun, 23 Aug 2026 12:51:15 GMT"
-    },
-    {
-      "title": "These bookshops let Chinese readers question their country - now the doors are closing",
-      "link": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o?at_medium=RSS&at_campaign=rss",
-      "description": "For some mainlanders, Hong Kong's independent bookstores are a window into a different, freer world.",
-      "pubDate": "Fri, 21 Aug 2026 22:26:25 GMT"
-    },
-    {
-      "title": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
-      "link": "https://www.bbc.co.uk/news/articles/cq56x3910jwo?at_medium=RSS&at_campaign=rss",
-      "description": "Experts told the BBC the pressures of childhood stardom can put actors at an unusually higher risk of substance abuse issues.",
-      "pubDate": "Fri, 21 Aug 2026 23:41:33 GMT"
-    },
-    {
-      "title": "How Israel is expanding settlements in drive to reshape West Bank",
-      "link": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
-      "description": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
-      "pubDate": "Fri, 21 Aug 2026 19:31:47 GMT"
-    },
-    {
-      "title": "Modi spent years building his strong image - why is he making Gen Z reels now?",
-      "link": "https://www.bbc.co.uk/news/articles/cnvn0n1nld6o?at_medium=RSS&at_campaign=rss",
-      "description": "Narendra Modi's new, more casual online persona is drawing attention from young Indians - but also plenty of scepticism.",
-      "pubDate": "Fri, 21 Aug 2026 22:15:32 GMT"
-    },
-    {
-      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "description": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
-      "pubDate": "Fri, 21 Aug 2026 13:07:00 GMT"
     },
     {
       "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
