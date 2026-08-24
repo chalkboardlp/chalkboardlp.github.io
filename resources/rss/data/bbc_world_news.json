@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-24T04:08:34.710205+00:00",
+  "updated": "2026-08-24T05:01:14.888968+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+      "title": "Burnham visits Kyiv to reaffirm UK support for Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
       "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-      "pubDate": "Sun, 23 Aug 2026 23:07:10 GMT"
+      "pubDate": "Mon, 24 Aug 2026 05:00:12 GMT"
     },
     {
       "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -22,6 +22,12 @@
       "pubDate": "Mon, 24 Aug 2026 04:06:54 GMT"
     },
     {
+      "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
+      "description": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
+      "pubDate": "Mon, 24 Aug 2026 03:55:35 GMT"
+    },
+    {
       "title": "Guinea rubbish landfill collapse kills 30",
       "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
       "description": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
@@ -34,16 +40,16 @@
       "pubDate": "Mon, 24 Aug 2026 03:27:11 GMT"
     },
     {
-      "title": "France links sharp rise in drownings to heatwaves",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-      "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-      "pubDate": "Sun, 23 Aug 2026 17:39:33 GMT"
-    },
-    {
       "title": "Australian shark attack victim grateful for 'second chance at life'",
       "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
       "description": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
       "pubDate": "Mon, 24 Aug 2026 00:34:59 GMT"
+    },
+    {
+      "title": "France links sharp rise in drownings to heatwaves",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+      "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+      "pubDate": "Sun, 23 Aug 2026 17:39:33 GMT"
     },
     {
       "title": "DR Congo and M23 rebels agree roadmap for peace talks",
