@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T13:12:55.722865+00:00",
+  "updated": "2026-08-24T14:02:12.485143+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -13,7 +13,7 @@
       "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-      "pubDate": "Mon, 24 Aug 2026 10:39:23 GMT"
+      "pubDate": "Mon, 24 Aug 2026 13:35:07 GMT"
     },
     {
       "title": "King of Norway's health has worsened, palace says",
@@ -34,6 +34,12 @@
       "pubDate": "Mon, 24 Aug 2026 11:17:28 GMT"
     },
     {
+      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
+      "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
+      "description": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
+      "pubDate": "Mon, 24 Aug 2026 13:14:10 GMT"
+    },
+    {
       "title": "Four arrested over suspected poisoning of elephants in Kenya",
       "link": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
       "description": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
@@ -52,16 +58,16 @@
       "pubDate": "Mon, 24 Aug 2026 12:17:34 GMT"
     },
     {
-      "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
-      "description": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
-      "pubDate": "Mon, 24 Aug 2026 03:55:35 GMT"
-    },
-    {
       "title": "Guinea rubbish landfill collapse kills 31",
       "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
       "description": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
       "pubDate": "Mon, 24 Aug 2026 11:26:19 GMT"
+    },
+    {
+      "title": "Four arrested over boxing champion's murder in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss",
+      "description": "One of the suspects is due in court on Monday to be charged with murder and attempted murder.",
+      "pubDate": "Mon, 24 Aug 2026 08:32:46 GMT"
     },
     {
       "title": "Maradona's 'Hand of God' ball sells for £2.5m",
@@ -70,16 +76,16 @@
       "pubDate": "Mon, 24 Aug 2026 06:55:06 GMT"
     },
     {
+      "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
+      "description": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
+      "pubDate": "Mon, 24 Aug 2026 03:55:35 GMT"
+    },
+    {
       "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
       "pubDate": "Sun, 23 Aug 2026 19:11:30 GMT"
-    },
-    {
-      "title": "Four arrested over boxing champion's murder in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss",
-      "description": "One of the suspects is due in court on Monday to be charged with murder and attempted murder.",
-      "pubDate": "Mon, 24 Aug 2026 08:32:46 GMT"
     },
     {
       "title": "Shein aims for almost $27bn valuation in stock market debut",
