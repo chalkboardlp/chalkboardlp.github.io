@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T10:03:32.695083+00:00",
+  "updated": "2026-08-24T10:53:23.350546+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -13,7 +13,7 @@
       "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
       "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
       "description": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
-      "pubDate": "Mon, 24 Aug 2026 08:34:26 GMT"
+      "pubDate": "Mon, 24 Aug 2026 10:08:40 GMT"
     },
     {
       "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -22,16 +22,22 @@
       "pubDate": "Sun, 23 Aug 2026 19:11:30 GMT"
     },
     {
-      "title": "Nearly three million Teslas recalled in China over hidden door handles",
-      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-      "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-      "pubDate": "Mon, 24 Aug 2026 05:01:17 GMT"
+      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "description": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
+      "pubDate": "Mon, 24 Aug 2026 10:40:22 GMT"
     },
     {
       "title": "King of Norway's health has worsened, palace says",
       "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
       "description": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
       "pubDate": "Mon, 24 Aug 2026 08:31:55 GMT"
+    },
+    {
+      "title": "Access to Zambian courts prevented as election petition deadline looms",
+      "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+      "description": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
+      "pubDate": "Mon, 24 Aug 2026 10:22:45 GMT"
     },
     {
       "title": "China probes use of formaldehyde to keep cabbages fresh",
@@ -44,6 +50,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
       "description": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
       "pubDate": "Mon, 24 Aug 2026 03:55:35 GMT"
+    },
+    {
+      "title": "Nearly three million Teslas recalled in China over hidden door handles",
+      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+      "pubDate": "Mon, 24 Aug 2026 05:01:17 GMT"
     },
     {
       "title": "Maradona's 'Hand of God' ball sells for £2.5m",
@@ -106,10 +118,16 @@
       "pubDate": "Sun, 23 Aug 2026 15:54:32 GMT"
     },
     {
-      "title": "The hotel booking mix-up that could free mushroom murderer",
-      "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
-      "description": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
-      "pubDate": "Sat, 22 Aug 2026 19:03:03 GMT"
+      "title": "'Half my business will be gone' - Firms in Canada and US fear trade war",
+      "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+      "description": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
+      "pubDate": "Mon, 24 Aug 2026 09:47:22 GMT"
+    },
+    {
+      "title": "The formidable challenges facing new Tata boss",
+      "link": "https://www.bbc.co.uk/news/articles/c20drryz7nvo?at_medium=RSS&at_campaign=rss",
+      "description": "Corporate India's most coveted top job is open. But finding a new leader for Tata Sons is no easy task.",
+      "pubDate": "Sun, 23 Aug 2026 22:35:00 GMT"
     },
     {
       "title": "Robot boxing, football and sprinting at World Humanoid Games",
@@ -118,34 +136,28 @@
       "pubDate": "Sun, 23 Aug 2026 12:47:06 GMT"
     },
     {
+      "title": "The hotel booking mix-up that could free mushroom murderer",
+      "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+      "description": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
+      "pubDate": "Sat, 22 Aug 2026 19:03:03 GMT"
+    },
+    {
       "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
       "link": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
       "description": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
       "pubDate": "Sat, 22 Aug 2026 23:22:02 GMT"
     },
     {
-      "title": "Carney faces crucial test after walking away from Trump's deal",
-      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-      "description": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
-      "pubDate": "Sat, 22 Aug 2026 20:02:46 GMT"
-    },
-    {
-      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
-      "description": "They will not be working royals when they come back. So what could they be doing instead?",
-      "pubDate": "Sat, 22 Aug 2026 00:03:10 GMT"
-    },
-    {
-      "title": "Watch: Wildfire seen near Reno as tens of thousands told to evacuate",
+      "title": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
       "link": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
-      "description": "Thousands of people in the US state of Nevada have been warned to evacuate as the wildfire continues to spread in the outskirts of Reno.",
-      "pubDate": "Mon, 24 Aug 2026 08:41:11 GMT"
+      "description": "Tens of thousands of people in the US state have been warned to evacuate as the wildfire spreads in the outskirts of Reno.",
+      "pubDate": "Mon, 24 Aug 2026 10:05:22 GMT"
     },
     {
-      "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
-      "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
-      "pubDate": "Sat, 22 Aug 2026 23:45:01 GMT"
+      "title": "What do locals think of IndyCar in Washington DC?",
+      "link": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&at_campaign=rss",
+      "description": "US President Donald Trump was among hundreds of people who gathered to see the race through Washington DC streets on Sunday.",
+      "pubDate": "Mon, 24 Aug 2026 04:51:49 GMT"
     },
     {
       "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
@@ -154,16 +166,22 @@
       "pubDate": "Sat, 22 Aug 2026 17:02:06 GMT"
     },
     {
-      "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
-      "link": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
-      "description": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer.",
-      "pubDate": "Sat, 22 Aug 2026 02:39:10 GMT"
+      "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
+      "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
+      "pubDate": "Sat, 22 Aug 2026 23:45:01 GMT"
     },
     {
       "title": "Robot horse and rider steal the spotlight at Chinese conference",
       "link": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
       "description": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
       "pubDate": "Sat, 22 Aug 2026 10:01:18 GMT"
+    },
+    {
+      "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
+      "link": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
+      "description": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer.",
+      "pubDate": "Sat, 22 Aug 2026 02:39:10 GMT"
     }
   ]
 }
