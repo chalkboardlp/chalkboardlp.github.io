@@ -1,8 +1,14 @@
 {
-  "updated": "2026-08-24T14:02:12.485143+00:00",
+  "updated": "2026-08-24T14:59:42.548842+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+      "pubDate": "Mon, 24 Aug 2026 13:35:07 GMT"
+    },
     {
       "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
       "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
@@ -10,10 +16,10 @@
       "pubDate": "Mon, 24 Aug 2026 10:40:22 GMT"
     },
     {
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-      "pubDate": "Mon, 24 Aug 2026 13:35:07 GMT"
+      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+      "pubDate": "Mon, 24 Aug 2026 13:56:22 GMT"
     },
     {
       "title": "King of Norway's health has worsened, palace says",
@@ -28,16 +34,16 @@
       "pubDate": "Mon, 24 Aug 2026 05:01:17 GMT"
     },
     {
-      "title": "Access to Zambian courts prevented as election petition deadline looms",
-      "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-      "description": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
-      "pubDate": "Mon, 24 Aug 2026 11:17:28 GMT"
-    },
-    {
       "title": "Sonya Massey's killer Sean Grayson dies in US prison",
       "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
       "description": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
       "pubDate": "Mon, 24 Aug 2026 13:14:10 GMT"
+    },
+    {
+      "title": "Access to Zambian courts prevented as election petition deadline looms",
+      "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+      "description": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
+      "pubDate": "Mon, 24 Aug 2026 14:02:17 GMT"
     },
     {
       "title": "Four arrested over suspected poisoning of elephants in Kenya",
@@ -86,18 +92,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
       "pubDate": "Sun, 23 Aug 2026 19:11:30 GMT"
-    },
-    {
-      "title": "Shein aims for almost $27bn valuation in stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-      "description": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
-      "pubDate": "Mon, 24 Aug 2026 07:00:53 GMT"
-    },
-    {
-      "title": "France links sharp rise in drownings to heatwaves",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-      "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-      "pubDate": "Sun, 23 Aug 2026 17:39:33 GMT"
     },
     {
       "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",

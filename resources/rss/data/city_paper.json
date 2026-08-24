@@ -1,8 +1,14 @@
 {
-  "updated": "2026-08-24T14:02:13.899922+00:00",
+  "updated": "2026-08-24T14:59:43.882926+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Wildfires Consume 30,000 Hectares Across Tolima, Criminal Groups Suspected",
+      "link": "https://thecitypaperbogota.com/news/wildfires-consume-30000-hectares-across-tolima-criminal-groups-suspected/",
+      "description": "More than 30,000 hectares have been burned across Colombia&#8217;s Tolima department as firefighters battle one of the region&#8217;s worst wildfire emergencies in years, but authorities are now investigating a darker possibility: that some of the fires are being deliberately set by criminal groups seeking to divert security forces, destabilize communities and gain control of territory. Interior [&#8230;]",
+      "pubDate": "Mon, 24 Aug 2026 14:03:57 +0000"
+    },
     {
       "title": "Shakira Pledges US$1.25 M to Rebuild Earthquake-Damaged Schools in Chocó",
       "link": "https://thecitypaperbogota.com/news/shakira-pledges-us1-25-m-to-rebuild-earthquake-damaged-schools-in-choco/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/colombias-president-elect-abelardo-de-la-espriella-pledges-a-miracle-nation/",
       "description": "Standing behind a bulletproof screen beneath Barranquilla&#8217;s towering Ventana al Mundo monument, President-elect Abelardo de la Espriella delivered a triumphant yet carefully choreographed victory speech Sunday night, promising to restore security, revive confidence in Colombia&#8217;s democratic institutions and govern for all Colombians after one of the closest presidential elections in the country&#8217;s modern history. Addressing [&#8230;]",
       "pubDate": "Tue, 23 Jun 2026 13:25:14 +0000"
-    },
-    {
-      "title": "Colombia’s ‘Tiger’ victory reverberates with world leaders",
-      "link": "https://thecitypaperbogota.com/news/colombias-tiger-victory-reverberates-with-world-leaders/",
-      "description": "Congratulations poured in from world leaders on Sunday evening  after conservative president-elect Abelardo &#8220;El Tigre&#8221; de la Espriella secured a razor-thin victory in Colombia&#8217;s presidential runoff, with messages from Washington to Jerusalem signaling expectations of a significant realignment in the country&#8217;s foreign and economic policies. The strongest endorsements came from the United States, where President [&#8230;]",
-      "pubDate": "Mon, 22 Jun 2026 15:45:22 +0000"
     }
   ]
 }
