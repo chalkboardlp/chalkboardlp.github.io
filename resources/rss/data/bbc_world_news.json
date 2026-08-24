@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T14:59:42.548842+00:00",
+  "updated": "2026-08-24T15:56:35.440096+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -8,6 +8,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
       "pubDate": "Mon, 24 Aug 2026 13:35:07 GMT"
+    },
+    {
+      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+      "pubDate": "Mon, 24 Aug 2026 15:54:16 GMT"
     },
     {
       "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
@@ -128,6 +134,12 @@
       "link": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
       "description": "Tens of thousands of people in the US state have been warned to evacuate as the wildfire spreads in the outskirts of Reno.",
       "pubDate": "Mon, 24 Aug 2026 10:05:22 GMT"
+    },
+    {
+      "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
+      "link": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
+      "description": "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.",
+      "pubDate": "Mon, 24 Aug 2026 15:14:14 GMT"
     },
     {
       "title": "What do locals think of IndyCar in Washington DC?",
