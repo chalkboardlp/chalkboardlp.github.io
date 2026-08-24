@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T11:43:47.937786+00:00",
+  "updated": "2026-08-24T13:12:55.722865+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -14,12 +14,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
       "pubDate": "Mon, 24 Aug 2026 10:39:23 GMT"
-    },
-    {
-      "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-      "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-      "description": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
-      "pubDate": "Mon, 24 Aug 2026 11:25:21 GMT"
     },
     {
       "title": "King of Norway's health has worsened, palace says",
@@ -50,6 +44,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
       "description": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
       "pubDate": "Mon, 24 Aug 2026 05:40:48 GMT"
+    },
+    {
+      "title": "New Zealand to introduce bill for under-16s social media ban",
+      "link": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
+      "description": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
+      "pubDate": "Mon, 24 Aug 2026 12:17:34 GMT"
     },
     {
       "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
