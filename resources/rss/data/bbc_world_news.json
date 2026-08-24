@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T09:04:05.168204+00:00",
+  "updated": "2026-08-24T10:03:32.695083+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -34,10 +34,10 @@
       "pubDate": "Mon, 24 Aug 2026 08:31:55 GMT"
     },
     {
-      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
-      "description": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
-      "pubDate": "Mon, 24 Aug 2026 06:55:06 GMT"
+      "title": "China probes use of formaldehyde to keep cabbages fresh",
+      "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
+      "description": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
+      "pubDate": "Mon, 24 Aug 2026 05:40:48 GMT"
     },
     {
       "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
@@ -46,10 +46,10 @@
       "pubDate": "Mon, 24 Aug 2026 03:55:35 GMT"
     },
     {
-      "title": "China probes use of formaldehyde to keep cabbages fresh",
-      "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
-      "description": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
-      "pubDate": "Mon, 24 Aug 2026 05:40:48 GMT"
+      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
+      "description": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
+      "pubDate": "Mon, 24 Aug 2026 06:55:06 GMT"
     },
     {
       "title": "Four arrested over boxing champion's murder in South Africa",
@@ -136,6 +136,12 @@
       "pubDate": "Sat, 22 Aug 2026 00:03:10 GMT"
     },
     {
+      "title": "Watch: Wildfire seen near Reno as tens of thousands told to evacuate",
+      "link": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
+      "description": "Thousands of people in the US state of Nevada have been warned to evacuate as the wildfire continues to spread in the outskirts of Reno.",
+      "pubDate": "Mon, 24 Aug 2026 08:41:11 GMT"
+    },
+    {
       "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
       "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
       "description": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
@@ -158,18 +164,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
       "description": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
       "pubDate": "Sat, 22 Aug 2026 10:01:18 GMT"
-    },
-    {
-      "title": "Tornadoes touch down in New York and Delaware",
-      "link": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
-      "description": "Tornadoes swept through New York and Delaware as severe storms brought torrential rain to the Mid-Atlantic.",
-      "pubDate": "Fri, 21 Aug 2026 14:35:50 GMT"
-    },
-    {
-      "title": "Watch: Taking a 180mph spin round America's birthday Grand Prix racetrack",
-      "link": "https://www.bbc.co.uk/news/videos/cn0nd7y883zo?at_medium=RSS&at_campaign=rss",
-      "description": "The Freedom 250 Grand Prix is part of the nation’s 250th anniversary celebrations and the first major auto race in the US capital in more than 24 years.",
-      "pubDate": "Fri, 21 Aug 2026 21:50:27 GMT"
     }
   ]
 }
