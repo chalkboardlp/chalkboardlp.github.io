@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T01:57:34.398213+00:00",
+  "updated": "2026-08-24T03:16:32.582811+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -40,10 +40,10 @@
       "pubDate": "Sun, 23 Aug 2026 11:50:59 GMT"
     },
     {
-      "title": "Trump waves green flag to start IndyCar race through Washington streets",
-      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-      "description": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
-      "pubDate": "Sun, 23 Aug 2026 20:19:36 GMT"
+      "title": "Australian shark attack victim grateful for 'second chance at life'",
+      "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
+      "description": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
+      "pubDate": "Mon, 24 Aug 2026 00:34:59 GMT"
     },
     {
       "title": "Frustration builds in Indiana town struggling without power for 12 days",
@@ -62,6 +62,12 @@
       "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
       "description": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club.",
       "pubDate": "Sun, 23 Aug 2026 12:25:40 GMT"
+    },
+    {
+      "title": "Trump waves green flag to start IndyCar race through Washington streets",
+      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "description": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+      "pubDate": "Sun, 23 Aug 2026 20:19:36 GMT"
     },
     {
       "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
