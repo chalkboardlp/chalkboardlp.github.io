@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T14:03:33.549587+00:00",
+  "updated": "2026-08-25T15:04:48.831787+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -28,10 +28,10 @@
       "pubDate": "Tue, 25 Aug 2026 08:52:17 GMT"
     },
     {
-      "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
-      "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
-      "description": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues.",
-      "pubDate": "Tue, 25 Aug 2026 07:39:25 GMT"
+      "title": "Two unvaccinated people die of measles in Pennsylvania",
+      "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
+      "description": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
+      "pubDate": "Tue, 25 Aug 2026 14:54:34 GMT"
     },
     {
       "title": "French tourist dies in Death Valley after car gets stuck in mud",
@@ -56,6 +56,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
       "description": "But officials fear that winds could fan the flames for two more days, as many locals remain under evacuation orders.",
       "pubDate": "Tue, 25 Aug 2026 09:49:02 GMT"
+    },
+    {
+      "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
+      "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
+      "description": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues.",
+      "pubDate": "Tue, 25 Aug 2026 07:39:25 GMT"
     },
     {
       "title": "NZ religious sect leader jailed over death of Chinese follower",
