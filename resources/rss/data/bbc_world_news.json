@@ -1,8 +1,14 @@
 {
-  "updated": "2026-08-25T17:49:41.132539+00:00",
+  "updated": "2026-08-25T18:56:59.382586+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "description": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+      "pubDate": "Tue, 25 Aug 2026 17:54:03 GMT"
+    },
     {
       "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
       "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
