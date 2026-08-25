@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T15:59:46.694549+00:00",
+  "updated": "2026-08-25T16:56:12.462321+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -10,16 +10,16 @@
       "pubDate": "Tue, 25 Aug 2026 11:53:36 GMT"
     },
     {
+      "title": "CIA chief in Moscow for unannounced talks, US media reports",
+      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+      "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+      "pubDate": "Tue, 25 Aug 2026 16:54:33 GMT"
+    },
+    {
       "title": "Brain disease in dead NFL players 'higher than previously shown'",
       "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
       "description": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
       "pubDate": "Tue, 25 Aug 2026 11:54:40 GMT"
-    },
-    {
-      "title": "CIA chief in Moscow for unannounced talks, US media reports",
-      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-      "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-      "pubDate": "Tue, 25 Aug 2026 15:43:50 GMT"
     },
     {
       "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
@@ -31,7 +31,13 @@
       "title": "Two unvaccinated people die of measles in Pennsylvania",
       "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
       "description": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
-      "pubDate": "Tue, 25 Aug 2026 14:54:34 GMT"
+      "pubDate": "Tue, 25 Aug 2026 16:43:08 GMT"
+    },
+    {
+      "title": "European rights court orders Turkey to free imprisoned businessman",
+      "link": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
+      "description": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
+      "pubDate": "Tue, 25 Aug 2026 15:58:20 GMT"
     },
     {
       "title": "Lockerbie bombing trial postponed days before it was due to start",
@@ -40,16 +46,16 @@
       "pubDate": "Tue, 25 Aug 2026 11:54:03 GMT"
     },
     {
+      "title": "Swedish military seeks to take over Russian-owned estate near naval base",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss",
+      "description": "The armed forces request the seizure of the plot near Muskö Naval Base citing threats from Russian drones.",
+      "pubDate": "Tue, 25 Aug 2026 15:18:50 GMT"
+    },
+    {
       "title": "French tourist dies in Death Valley after car gets stuck in mud",
       "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
       "description": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
       "pubDate": "Tue, 25 Aug 2026 02:08:57 GMT"
-    },
-    {
-      "title": "British man charged in Singapore two years after alleged theft at airport",
-      "link": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&at_campaign=rss",
-      "description": "The 26-year-old faces up to seven years in jail for allegedly stealing a denim jacket from an airport shop in 2024.",
-      "pubDate": "Tue, 25 Aug 2026 09:01:35 GMT"
     },
     {
       "title": "US firefighters say major blaze near Reno about a quarter contained",
@@ -92,12 +98,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
       "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
       "pubDate": "Mon, 24 Aug 2026 13:56:22 GMT"
-    },
-    {
-      "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
-      "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
-      "description": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
-      "pubDate": "Tue, 25 Aug 2026 04:06:34 GMT"
     },
     {
       "title": "Caste divide makes summer more scorching in dry Indian region",
