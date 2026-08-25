@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T03:59:15.633641+00:00",
+  "updated": "2026-08-25T04:54:03.717050+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -20,6 +20,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
       "description": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
       "pubDate": "Tue, 25 Aug 2026 00:17:25 GMT"
+    },
+    {
+      "title": "NZ religious sect leader jailed over death of Chinese follower",
+      "link": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
+      "description": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
+      "pubDate": "Tue, 25 Aug 2026 03:07:34 GMT"
     },
     {
       "title": "French tourist dies in Death Valley after car gets stuck in mud",
