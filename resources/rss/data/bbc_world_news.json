@@ -1,8 +1,14 @@
 {
-  "updated": "2026-08-26T11:44:28.585212+00:00",
+  "updated": "2026-08-26T13:16:51.230565+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+      "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+      "description": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
+      "pubDate": "Wed, 26 Aug 2026 12:32:47 GMT"
+    },
     {
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
       "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
@@ -26,6 +32,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
       "description": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family.",
       "pubDate": "Wed, 26 Aug 2026 08:01:56 GMT"
+    },
+    {
+      "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
+      "link": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
+      "description": "Eswatini is one of 12 countries, and the only one in Africa, that has diplomatic relations with Taiwan.",
+      "pubDate": "Wed, 26 Aug 2026 12:17:12 GMT"
     },
     {
       "title": "Radiation link in flight attendant's breast cancer, French court finds",
@@ -80,24 +92,6 @@
       "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
       "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
       "pubDate": "Tue, 25 Aug 2026 11:53:36 GMT"
-    },
-    {
-      "title": "Mass arrests in global crackdown on West African cyber-crime networks",
-      "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
-      "description": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
-      "pubDate": "Tue, 25 Aug 2026 19:30:37 GMT"
-    },
-    {
-      "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
-      "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
-      "description": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
-      "pubDate": "Tue, 25 Aug 2026 08:52:17 GMT"
-    },
-    {
-      "title": "European rights court orders Turkey to free imprisoned businessman",
-      "link": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
-      "description": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
-      "pubDate": "Tue, 25 Aug 2026 15:58:20 GMT"
     },
     {
       "title": "The heart, hope and steely determination behind a musical legacy",

@@ -1,8 +1,14 @@
 {
-  "updated": "2026-08-26T11:44:28.842090+00:00",
+  "updated": "2026-08-26T13:16:52.900772+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "De la Espriella declares all criminal groups in Colombia ‘terrorists’ in sweeping security crackdown",
+      "link": "https://thecitypaperbogota.com/news/de-la-espriella-declares-all-criminal-groups-in-colombia-terrorists-in-sweeping-security-crackdown/",
+      "description": "Colombia’s Abelardo De La Espriella has declared that every illegal armed and criminal organization operating in Colombia will be treated as a terrorist group, signaling a sharp hardening of his government&#8217;s security policy only weeks after taking office. Speaking during a security council in Barranquilla on Sunday, President De La Espriella said his government would [&#8230;]",
+      "pubDate": "Wed, 26 Aug 2026 13:04:21 +0000"
+    },
     {
       "title": "Wildfires Consume 30,000 Hectares Across Tolima, Criminal Groups Suspected",
       "link": "https://thecitypaperbogota.com/news/wildfires-consume-30000-hectares-across-tolima-criminal-groups-suspected/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/ivan-cepeda-concedes-election-defeat-petro-begins-transition-to-de-la-espriella-government/",
       "description": "Colombian leftist senator Iván Cepeda formally conceded defeat on Wednesday, acknowledging conservative lawyer Abelardo de la Espriella as the country&#8217;s president-elect after electoral authorities confirmed that the official vote count closely matched the preliminary tally. The concession, coupled with outgoing President Gustavo Petro&#8217;s announcement that he would begin the formal transition of power, marked a [&#8230;]",
       "pubDate": "Wed, 24 Jun 2026 15:49:17 +0000"
-    },
-    {
-      "title": "Colombia’s President-elect Abelardo de la Espriella Pledges a ‘Miracle Nation’",
-      "link": "https://thecitypaperbogota.com/news/colombias-president-elect-abelardo-de-la-espriella-pledges-a-miracle-nation/",
-      "description": "Standing behind a bulletproof screen beneath Barranquilla&#8217;s towering Ventana al Mundo monument, President-elect Abelardo de la Espriella delivered a triumphant yet carefully choreographed victory speech Sunday night, promising to restore security, revive confidence in Colombia&#8217;s democratic institutions and govern for all Colombians after one of the closest presidential elections in the country&#8217;s modern history. Addressing [&#8230;]",
-      "pubDate": "Tue, 23 Jun 2026 13:25:14 +0000"
     }
   ]
 }
