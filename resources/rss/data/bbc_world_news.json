@@ -1,14 +1,8 @@
 {
-  "updated": "2026-08-26T10:51:34.141096+00:00",
+  "updated": "2026-08-26T11:44:28.585212+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
-    {
-      "title": "At least 17 killed as flash flood sweeps part of Nepal-Tibet border",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&at_campaign=rss",
-      "description": "The flood in Rasuwa - an area north of Kathmandu bordering Tibet - is feared to have swept away villages.",
-      "pubDate": "Wed, 26 Aug 2026 09:47:08 GMT"
-    },
     {
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
       "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
@@ -16,10 +10,10 @@
       "pubDate": "Tue, 25 Aug 2026 19:50:57 GMT"
     },
     {
-      "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
-      "description": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family.",
-      "pubDate": "Wed, 26 Aug 2026 08:01:56 GMT"
+      "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+      "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+      "description": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
+      "pubDate": "Wed, 26 Aug 2026 11:02:22 GMT"
     },
     {
       "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
@@ -28,16 +22,28 @@
       "pubDate": "Wed, 26 Aug 2026 08:17:45 GMT"
     },
     {
-      "title": "Indian jewellery ad pulled after backlash over actor's outfit",
-      "link": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
-      "description": "Kriti Sanon has defended the ad in which she was seen celebrating the upcoming Hindu festival of Rakhi.",
-      "pubDate": "Wed, 26 Aug 2026 07:26:03 GMT"
+      "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
+      "description": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family.",
+      "pubDate": "Wed, 26 Aug 2026 08:01:56 GMT"
+    },
+    {
+      "title": "Radiation link in flight attendant's breast cancer, French court finds",
+      "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
+      "description": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
+      "pubDate": "Wed, 26 Aug 2026 10:29:36 GMT"
     },
     {
       "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
       "link": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
       "description": "A drone attack on Leipzig Airport highlights the \"very real threat\" faced by the country, the German chancellor says.",
       "pubDate": "Tue, 25 Aug 2026 17:12:21 GMT"
+    },
+    {
+      "title": "Indian jewellery ad pulled after backlash over actor's outfit",
+      "link": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
+      "description": "Kriti Sanon has defended the ad in which she was seen celebrating the upcoming Hindu festival of Rakhi.",
+      "pubDate": "Wed, 26 Aug 2026 07:26:03 GMT"
     },
     {
       "title": "Trump says all mines cleared from Strait of Hormuz",
@@ -94,6 +100,12 @@
       "pubDate": "Tue, 25 Aug 2026 15:58:20 GMT"
     },
     {
+      "title": "The heart, hope and steely determination behind a musical legacy",
+      "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
+      "pubDate": "Wed, 26 Aug 2026 11:32:11 GMT"
+    },
+    {
       "title": "Canada's retaliation tests the limit of American power under Trump",
       "link": "https://www.bbc.co.uk/news/articles/ce8xd5k1krpo?at_medium=RSS&at_campaign=rss",
       "description": "The president is using US dominance to challenge allies and enemies alike - but both Canada and Iran have found ways to fight back.",
@@ -116,12 +128,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cm2r9y9eleno?at_medium=RSS&at_campaign=rss",
       "description": "Domestic sugar prices have jumped nearly 40%, forcing India to import 1 million tonnes of the sweetener.",
       "pubDate": "Wed, 26 Aug 2026 06:30:24 GMT"
-    },
-    {
-      "title": "Why Tesla has been caught up in a massive car recall in China",
-      "link": "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro?at_medium=RSS&at_campaign=rss",
-      "description": "The country's biggest ever car recall affects more than four million vehicles made by Tesla, XPeng, Xiaomi and other firms.",
-      "pubDate": "Wed, 26 Aug 2026 03:33:59 GMT"
     },
     {
       "title": "Moment tornado tears through southern France",
