@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T19:20:25.717398+00:00",
+  "updated": "2026-08-26T23:31:54.883340+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -22,22 +22,28 @@
       "pubDate": "Wed, 26 Aug 2026 15:42:45 GMT"
     },
     {
+      "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
+      "link": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
+      "description": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers.",
+      "pubDate": "Wed, 26 Aug 2026 22:02:18 GMT"
+    },
+    {
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
       "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
       "description": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
       "pubDate": "Tue, 25 Aug 2026 19:50:57 GMT"
     },
     {
-      "title": "Radiation link in flight attendant's breast cancer, French court finds",
-      "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
-      "description": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
-      "pubDate": "Wed, 26 Aug 2026 10:29:36 GMT"
-    },
-    {
       "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
       "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
       "description": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
       "pubDate": "Wed, 26 Aug 2026 08:17:45 GMT"
+    },
+    {
+      "title": "Parrot eggs hatch after suspected Thai smuggler arrested at South African airport",
+      "link": "https://www.bbc.co.uk/news/articles/ceq8n04q0gxo?at_medium=RSS&at_campaign=rss",
+      "description": "A 50-year-old Thai suspect was arrested with the eggs in a \"homemade incubator\" carried as hand luggage.",
+      "pubDate": "Wed, 26 Aug 2026 19:19:46 GMT"
     },
     {
       "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
@@ -52,10 +58,10 @@
       "pubDate": "Wed, 26 Aug 2026 18:22:41 GMT"
     },
     {
-      "title": "Indian jewellery ad pulled after backlash over actor's outfit",
-      "link": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
-      "description": "Kriti Sanon has defended the ad in which she was seen celebrating the upcoming Hindu festival of Rakhi.",
-      "pubDate": "Wed, 26 Aug 2026 07:26:03 GMT"
+      "title": "Radiation link in flight attendant's breast cancer, French court finds",
+      "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
+      "description": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
+      "pubDate": "Wed, 26 Aug 2026 10:29:36 GMT"
     },
     {
       "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
@@ -76,6 +82,12 @@
       "pubDate": "Tue, 25 Aug 2026 17:12:21 GMT"
     },
     {
+      "title": "Indian jewellery ad pulled after backlash over actor's outfit",
+      "link": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
+      "description": "Kriti Sanon has defended the ad in which she was seen celebrating the upcoming Hindu festival of Rakhi.",
+      "pubDate": "Wed, 26 Aug 2026 07:26:03 GMT"
+    },
+    {
       "title": "Trump says all mines cleared from Strait of Hormuz",
       "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
       "description": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
@@ -94,40 +106,28 @@
       "pubDate": "Wed, 26 Aug 2026 07:01:45 GMT"
     },
     {
-      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-      "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-      "pubDate": "Tue, 25 Aug 2026 19:48:14 GMT"
+      "title": "Iceland holds knife-edge referendum on EU - and it could be decided on fish",
+      "link": "https://www.bbc.co.uk/news/articles/c99dvmyr4glo?at_medium=RSS&at_campaign=rss",
+      "description": "On Saturday, Iceland will vote on EU membership talks, amid economic and geopolitical tensions.",
+      "pubDate": "Wed, 26 Aug 2026 23:08:43 GMT"
+    },
+    {
+      "title": "'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z0p3nmdro?at_medium=RSS&at_campaign=rss",
+      "description": "Many communities are living in fear of being kidnapped for ransom as the crisis spreads further south.",
+      "pubDate": "Wed, 26 Aug 2026 23:11:24 GMT"
+    },
+    {
+      "title": "The question dominating Indian politics: Is it worse when women swear?",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zn6gy7zjo?at_medium=RSS&at_campaign=rss",
+      "description": "Rahul Gandhi's comments renew the debate over gender disparity in reactions to insults hurled at PM Narendra Modi.",
+      "pubDate": "Wed, 26 Aug 2026 23:03:31 GMT"
     },
     {
       "title": "Canada's retaliation tests the limit of American power under Trump",
       "link": "https://www.bbc.co.uk/news/articles/ce8xd5k1krpo?at_medium=RSS&at_campaign=rss",
       "description": "The president is using US dominance to challenge allies and enemies alike - but both Canada and Iran have found ways to fight back.",
       "pubDate": "Wed, 26 Aug 2026 08:47:18 GMT"
-    },
-    {
-      "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss",
-      "description": "Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks.",
-      "pubDate": "Tue, 25 Aug 2026 23:50:53 GMT"
-    },
-    {
-      "title": "Watch Nashville fans lay flowers in tribute to Dolly Parton",
-      "link": "https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Helena Humphrey is outside the Country Music Hall of Fame where fans gathered to mourn Dolly Parton.",
-      "pubDate": "Wed, 26 Aug 2026 06:37:30 GMT"
-    },
-    {
-      "title": "Chinese teens are turning to mind-numbing drugs to 'run away from reality'",
-      "link": "https://www.bbc.co.uk/news/articles/c99d08j3kz1o?at_medium=RSS&at_campaign=rss",
-      "description": "Students are seeking prescription drugs because they fear failure, a teen tells the BBC.",
-      "pubDate": "Tue, 25 Aug 2026 22:37:50 GMT"
-    },
-    {
-      "title": "India's sugar squeeze threatens its biggest season for sweets",
-      "link": "https://www.bbc.co.uk/news/articles/cm2r9y9eleno?at_medium=RSS&at_campaign=rss",
-      "description": "Domestic sugar prices have jumped nearly 40%, forcing India to import 1 million tonnes of the sweetener.",
-      "pubDate": "Wed, 26 Aug 2026 06:30:24 GMT"
     },
     {
       "title": "Moment tornado tears through southern France",
