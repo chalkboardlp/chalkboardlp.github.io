@@ -1,8 +1,14 @@
 {
-  "updated": "2026-08-27T09:46:48.903188+00:00",
+  "updated": "2026-08-27T20:30:13.213512+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Colombia’s De la Espriella announces military strike against FARC dissidents in Guaviare",
+      "link": "https://thecitypaperbogota.com/news/colombias-de-la-espriella-announces-military-strike-against-farc-dissidents-in-guaviare/",
+      "description": "Colombian President Abelardo de la Espriella announced Thursday that the country&#8217;s Armed Forces have carried out a military strike against the FARC dissident faction commanded by alias Calarcá in the southern department of Guaviare. According to initial reports, eight members of the criminal armed group have been killed. De la Espriella said the operation, code-named [&#8230;]",
+      "pubDate": "Thu, 27 Aug 2026 17:34:07 +0000"
+    },
     {
       "title": "De la Espriella declares all criminal groups in Colombia ‘terrorists’ in sweeping security crackdown",
       "link": "https://thecitypaperbogota.com/news/de-la-espriella-declares-all-criminal-groups-in-colombia-terrorists-in-sweeping-security-crackdown/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/de-la-espriella-gives-colombias-armed-groups-one-month-to-surrender/",
       "description": "Colombia&#8217;s president-elect Abelardo de la Espriella on Thursday gave the country&#8217;s illegal armed groups one month to submit to justice, pledging to abandon the broad negotiations pursued by the outgoing administration and instead adopt a hardline security strategy aimed at dismantling criminal organizations. Speaking after receiving his official credentials from the National Election Council (CNE) [&#8230;]",
       "pubDate": "Thu, 25 Jun 2026 23:00:29 +0000"
-    },
-    {
-      "title": "Iván Cepeda concedes election defeat, Petro begins transition to De la Espriella government",
-      "link": "https://thecitypaperbogota.com/news/ivan-cepeda-concedes-election-defeat-petro-begins-transition-to-de-la-espriella-government/",
-      "description": "Colombian leftist senator Iván Cepeda formally conceded defeat on Wednesday, acknowledging conservative lawyer Abelardo de la Espriella as the country&#8217;s president-elect after electoral authorities confirmed that the official vote count closely matched the preliminary tally. The concession, coupled with outgoing President Gustavo Petro&#8217;s announcement that he would begin the formal transition of power, marked a [&#8230;]",
-      "pubDate": "Wed, 24 Jun 2026 15:49:17 +0000"
     }
   ]
 }
