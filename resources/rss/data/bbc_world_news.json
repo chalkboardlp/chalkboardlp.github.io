@@ -1,8 +1,26 @@
 {
-  "updated": "2026-08-26T23:31:54.883340+00:00",
+  "updated": "2026-08-27T09:46:47.837313+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+      "link": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
+      "description": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
+      "pubDate": "Thu, 27 Aug 2026 07:47:12 GMT"
+    },
+    {
+      "title": "What we know about deadly Nepal-Tibet floods",
+      "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+      "description": "Hundreds have died in flooding and landslides on the border of Nepal and Tibet.",
+      "pubDate": "Thu, 27 Aug 2026 07:43:04 GMT"
+    },
+    {
+      "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
+      "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
+      "description": "The 89-year-old has been in hospital for over a week receiving treatment for a rare blood condition.",
+      "pubDate": "Thu, 27 Aug 2026 08:59:53 GMT"
+    },
     {
       "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
       "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
@@ -22,10 +40,22 @@
       "pubDate": "Wed, 26 Aug 2026 15:42:45 GMT"
     },
     {
+      "title": "At least 12 dead as wildfires sweep through northern Algeria",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o?at_medium=RSS&at_campaign=rss",
+      "description": "Northern Africa has experienced severe heatwaves this summer, leading to hundreds of fires across the region.",
+      "pubDate": "Thu, 27 Aug 2026 02:10:18 GMT"
+    },
+    {
       "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
       "link": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
       "description": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers.",
       "pubDate": "Wed, 26 Aug 2026 22:02:18 GMT"
+    },
+    {
+      "title": "Two dead and 10 hurt after car rams into crowd in northern France",
+      "link": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss",
+      "description": "A suspect was arrested after the incident in Caen, police said, following a reported fight at a nearby bar.",
+      "pubDate": "Thu, 27 Aug 2026 07:07:34 GMT"
     },
     {
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -46,64 +76,16 @@
       "pubDate": "Wed, 26 Aug 2026 19:19:46 GMT"
     },
     {
-      "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
-      "description": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family.",
-      "pubDate": "Wed, 26 Aug 2026 08:01:56 GMT"
+      "title": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
+      "link": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
+      "description": "One woman says her father, mother, sister and sister's children were carried away before her eyes.",
+      "pubDate": "Thu, 27 Aug 2026 07:09:52 GMT"
     },
     {
-      "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
-      "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
-      "description": "It is believed the mosquitoes arrived at Germany's busiest airport on a plane, according to German public health officials.",
-      "pubDate": "Wed, 26 Aug 2026 18:22:41 GMT"
-    },
-    {
-      "title": "Radiation link in flight attendant's breast cancer, French court finds",
-      "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
-      "description": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
-      "pubDate": "Wed, 26 Aug 2026 10:29:36 GMT"
-    },
-    {
-      "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
-      "link": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
-      "description": "Eswatini is one of 12 countries, and the only one in Africa, that has diplomatic relations with Taiwan.",
-      "pubDate": "Wed, 26 Aug 2026 12:17:12 GMT"
-    },
-    {
-      "title": "Guinea's president dismisses 173 soldiers, including coup ally, for desertion",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z0j3nyl4o?at_medium=RSS&at_campaign=rss",
-      "description": "It is thought to be part of efforts to consolidate the former coup leader's control.",
-      "pubDate": "Wed, 26 Aug 2026 13:49:55 GMT"
-    },
-    {
-      "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
-      "link": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
-      "description": "A drone attack on Leipzig Airport highlights the \"very real threat\" faced by the country, the German chancellor says.",
-      "pubDate": "Tue, 25 Aug 2026 17:12:21 GMT"
-    },
-    {
-      "title": "Indian jewellery ad pulled after backlash over actor's outfit",
-      "link": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
-      "description": "Kriti Sanon has defended the ad in which she was seen celebrating the upcoming Hindu festival of Rakhi.",
-      "pubDate": "Wed, 26 Aug 2026 07:26:03 GMT"
-    },
-    {
-      "title": "Trump says all mines cleared from Strait of Hormuz",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
-      "description": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
-      "pubDate": "Tue, 25 Aug 2026 21:23:41 GMT"
-    },
-    {
-      "title": "Musk's SpaceX to build $100bn launch facility in Louisiana",
-      "link": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
-      "description": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
-      "pubDate": "Wed, 26 Aug 2026 01:32:07 GMT"
-    },
-    {
-      "title": "Bodies found on S Korean holiday island as missing persons scandal deepens",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz9gjw9n9o?at_medium=RSS&at_campaign=rss",
-      "description": "A police sergeant has been arrested following accusations that he lied to victims' families and prematurely closed missing persons cases.",
-      "pubDate": "Wed, 26 Aug 2026 07:01:45 GMT"
+      "title": "Key moments from Lindsay Clancy's five-week trial over children's killings",
+      "link": "https://www.bbc.co.uk/news/articles/cg7mlmg475go?at_medium=RSS&at_campaign=rss",
+      "description": "Closing arguments are about to start in a trial which has drawn global attention to the rare condition postpartum psychosis.",
+      "pubDate": "Thu, 27 Aug 2026 06:41:10 GMT"
     },
     {
       "title": "Iceland holds knife-edge referendum on EU - and it could be decided on fish",
@@ -118,16 +100,10 @@
       "pubDate": "Wed, 26 Aug 2026 23:11:24 GMT"
     },
     {
-      "title": "The question dominating Indian politics: Is it worse when women swear?",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zn6gy7zjo?at_medium=RSS&at_campaign=rss",
-      "description": "Rahul Gandhi's comments renew the debate over gender disparity in reactions to insults hurled at PM Narendra Modi.",
-      "pubDate": "Wed, 26 Aug 2026 23:03:31 GMT"
-    },
-    {
-      "title": "Canada's retaliation tests the limit of American power under Trump",
-      "link": "https://www.bbc.co.uk/news/articles/ce8xd5k1krpo?at_medium=RSS&at_campaign=rss",
-      "description": "The president is using US dominance to challenge allies and enemies alike - but both Canada and Iran have found ways to fight back.",
-      "pubDate": "Wed, 26 Aug 2026 08:47:18 GMT"
+      "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
+      "link": "https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss",
+      "description": "This video has been edited by the BBC with white flashes, due to the distressing content.",
+      "pubDate": "Wed, 26 Aug 2026 12:36:04 GMT"
     },
     {
       "title": "Moment tornado tears through southern France",
@@ -146,18 +122,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
       "description": "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.",
       "pubDate": "Mon, 24 Aug 2026 15:14:14 GMT"
-    },
-    {
-      "title": "What do locals think of IndyCar in Washington DC?",
-      "link": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&at_campaign=rss",
-      "description": "US President Donald Trump was among hundreds of people who gathered to see the race through Washington DC streets on Sunday.",
-      "pubDate": "Mon, 24 Aug 2026 04:51:49 GMT"
-    },
-    {
-      "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-      "link": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-      "description": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing.",
-      "pubDate": "Sat, 22 Aug 2026 17:02:06 GMT"
     }
   ]
 }
