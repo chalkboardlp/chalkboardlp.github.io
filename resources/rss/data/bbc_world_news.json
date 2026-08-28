@@ -1,31 +1,43 @@
 {
-  "updated": "2026-08-27T20:30:07.285301+00:00",
+  "updated": "2026-08-28T05:23:20.430179+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
-      "link": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
-      "description": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
-      "pubDate": "Thu, 27 Aug 2026 09:50:10 GMT"
+      "title": "Tracing the deadly path of the Nepal-Tibet flash flood",
+      "link": "https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Verify traces the path of the destructive Nepal-Tibet flash flood using verified video.",
+      "pubDate": "Thu, 27 Aug 2026 16:13:39 GMT"
     },
     {
-      "title": "What we know about deadly Nepal-Tibet floods",
-      "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-      "description": "Hundreds have died in flooding and landslides on the border of Nepal and Tibet.",
-      "pubDate": "Thu, 27 Aug 2026 09:55:02 GMT"
+      "title": "Trump administration illegally retaliated against Anthropic, judge rules",
+      "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+      "description": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
+      "pubDate": "Fri, 28 Aug 2026 03:41:59 GMT"
     },
     {
-      "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
-      "description": "He was jailed for life in 2017 for genocide, war crimes and crimes against  humanity during the wars in the ex-Yugoslavia in 1992-95.",
-      "pubDate": "Thu, 27 Aug 2026 17:05:22 GMT"
+      "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
+      "link": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&at_campaign=rss",
+      "description": "Andrew and Tristan Tate's legal team argued in a Miami court that the two were not a flight risk.",
+      "pubDate": "Fri, 28 Aug 2026 01:43:41 GMT"
+    },
+    {
+      "title": "What we know after the big Grand Theft Auto 6 preview",
+      "link": "https://www.bbc.co.uk/news/articles/c3d7exngd5no?at_medium=RSS&at_campaign=rss",
+      "description": "The official look at the blockbuster video game leaves fans and critics impressed.",
+      "pubDate": "Thu, 27 Aug 2026 22:10:05 GMT"
     },
     {
       "title": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children",
       "link": "https://www.bbc.co.uk/news/articles/c33keeyyv70o?at_medium=RSS&at_campaign=rss",
       "description": "Prosecutors argued Clancy made a calculated decision to murder the children, while the defence argued that she was suffering from postpartum psychosis.",
-      "pubDate": "Thu, 27 Aug 2026 17:46:21 GMT"
+      "pubDate": "Thu, 27 Aug 2026 20:39:16 GMT"
+    },
+    {
+      "title": "Optimus Prime and Eeyore voice actor Peter Cullen dies",
+      "link": "https://www.bbc.co.uk/news/articles/c15844gwe0wo?at_medium=RSS&at_campaign=rss",
+      "description": "Cullen voiced the heroic Optimus Prime in the Transformers TV series and then the Hollywood films.",
+      "pubDate": "Thu, 27 Aug 2026 16:00:12 GMT"
     },
     {
       "title": "Norwegians lay flowers at palace as King Harald's condition worsens",
@@ -34,10 +46,10 @@
       "pubDate": "Thu, 27 Aug 2026 17:42:04 GMT"
     },
     {
-      "title": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
-      "link": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
-      "description": "Nickolay Mladenov warns that a collapse of last October's ceasefire would be \"a point of no return\" for the region.",
-      "pubDate": "Thu, 27 Aug 2026 14:17:24 GMT"
+      "title": "What we know about deadly Nepal-Tibet floods",
+      "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+      "description": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet.",
+      "pubDate": "Fri, 28 Aug 2026 03:15:35 GMT"
     },
     {
       "title": "Two killed in 'domestic violence incident' at school near Berlin",
@@ -52,22 +64,22 @@
       "pubDate": "Thu, 27 Aug 2026 11:23:28 GMT"
     },
     {
+      "title": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
+      "link": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
+      "description": "Nickolay Mladenov warns that a collapse of last October's ceasefire would be \"a point of no return\" for the region.",
+      "pubDate": "Thu, 27 Aug 2026 14:17:24 GMT"
+    },
+    {
       "title": "Thieves steal Bronze Age artefacts from Spanish museum in four-minute heist",
       "link": "https://www.bbc.co.uk/news/articles/ckgw9gw34yqo?at_medium=RSS&at_campaign=rss",
       "description": "The Treasure of Villena is a unique trove of almost ten kilos of gold, bowls, bottles and bracelets dating back to the Bronze Age.",
       "pubDate": "Thu, 27 Aug 2026 12:41:16 GMT"
     },
     {
-      "title": "Optimus Prime and Eeyore voice actor Peter Cullen dies",
-      "link": "https://www.bbc.co.uk/news/articles/c15844gwe0wo?at_medium=RSS&at_campaign=rss",
-      "description": "Cullen voiced the heroic Optimus Prime in the Transformers TV series and then the Hollywood films.",
-      "pubDate": "Thu, 27 Aug 2026 16:00:12 GMT"
-    },
-    {
-      "title": "'Silence is complicity' - top footballer hits out over Cameroon femicides",
-      "link": "https://www.bbc.co.uk/news/articles/cgjq49g8wwqo?at_medium=RSS&at_campaign=rss",
-      "description": "The killing of at least eight women in a week has sparked outrage in Cameroon.",
-      "pubDate": "Thu, 27 Aug 2026 14:26:15 GMT"
+      "title": "Trump signs order to rename Lake Ontario as Lake America",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
+      "description": "Trump's order comes after the trade talks between the US and Canada collapsed late last week.",
+      "pubDate": "Thu, 27 Aug 2026 23:14:43 GMT"
     },
     {
       "title": "Jellyfish force partial shutdown of French nuclear plant",
@@ -85,7 +97,7 @@
       "title": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
       "link": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
       "description": "One woman says her father, mother, sister and sister's children were carried away before her eyes.",
-      "pubDate": "Thu, 27 Aug 2026 07:09:52 GMT"
+      "pubDate": "Fri, 28 Aug 2026 03:23:21 GMT"
     },
     {
       "title": "What we should make of CIA boss's secret trip to Moscow",
@@ -98,12 +110,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cg7mlmg475go?at_medium=RSS&at_campaign=rss",
       "description": "A jury is deliberating in the trial of the Massachusetts mother charged with murdering her three small children",
       "pubDate": "Thu, 27 Aug 2026 18:13:52 GMT"
-    },
-    {
-      "title": "Tracing the deadly path of the Nepal-Tibet flash flood",
-      "link": "https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Verify traces the path of the destructive Nepal-Tibet flash flood using verified video.",
-      "pubDate": "Thu, 27 Aug 2026 16:13:39 GMT"
     },
     {
       "title": "What caused the Nepal-Tibet flash floods?",
