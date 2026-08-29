@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T09:02:11.688981+00:00",
+  "updated": "2026-08-29T14:28:18.324062+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -10,10 +10,16 @@
       "pubDate": "Sat, 29 Aug 2026 03:54:11 GMT"
     },
     {
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "pubDate": "Sat, 29 Aug 2026 12:55:39 GMT"
+    },
+    {
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-      "pubDate": "Sat, 29 Aug 2026 02:42:27 GMT"
+      "pubDate": "Sat, 29 Aug 2026 14:18:11 GMT"
     },
     {
       "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
@@ -34,21 +40,21 @@
       "pubDate": "Sat, 29 Aug 2026 00:46:02 GMT"
     },
     {
-      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
-      "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
-      "description": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
-      "pubDate": "Sat, 29 Aug 2026 07:11:04 GMT"
-    },
-    {
       "title": "Close race as Iceland votes on whether to restart talks on joining EU",
       "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
       "description": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
       "pubDate": "Sat, 29 Aug 2026 00:56:19 GMT"
     },
     {
-      "title": "Dutch institute issues 'red alert' over Trump-shaped ecstasy pills",
+      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
+      "description": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
+      "pubDate": "Sat, 29 Aug 2026 07:11:04 GMT"
+    },
+    {
+      "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
       "link": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
-      "description": "The drugs have a delayed effect which \"increases the risk of overdose\", the institute has advised.",
+      "description": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says.",
       "pubDate": "Sat, 29 Aug 2026 08:48:34 GMT"
     },
     {
@@ -158,6 +164,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cp841114eg6o?at_medium=RSS&at_campaign=rss",
       "description": "Haakon becomes the king at a turbulent time for Norway's monarchy.",
       "pubDate": "Fri, 28 Aug 2026 10:37:21 GMT"
+    },
+    {
+      "title": "Deadly strike on Kyiv warehouse prompts evacuations",
+      "link": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
+      "description": "Ukraine correspondent Dan Johnson reports from Kyiv after the deadly strike, which authorities said killed more than 30 people.",
+      "pubDate": "Sat, 29 Aug 2026 13:55:55 GMT"
     },
     {
       "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
