@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T18:28:29.677949+00:00",
+  "updated": "2026-08-29T21:43:42.798015+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -13,7 +13,7 @@
       "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
       "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
       "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-      "pubDate": "Sat, 29 Aug 2026 15:27:56 GMT"
+      "pubDate": "Sat, 29 Aug 2026 20:13:16 GMT"
     },
     {
       "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
@@ -22,10 +22,16 @@
       "pubDate": "Sat, 29 Aug 2026 17:52:42 GMT"
     },
     {
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-      "pubDate": "Sat, 29 Aug 2026 16:15:56 GMT"
+      "title": "Norway's new king remembers 'my dear father' in first speech",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+      "description": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
+      "pubDate": "Sat, 29 Aug 2026 19:06:28 GMT"
+    },
+    {
+      "title": "Former Ecuadorian president imprisoned for corruption",
+      "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+      "description": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
+      "pubDate": "Sat, 29 Aug 2026 19:44:54 GMT"
     },
     {
       "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
@@ -34,16 +40,16 @@
       "pubDate": "Sat, 29 Aug 2026 00:32:17 GMT"
     },
     {
-      "title": "Norway mourns King Harald as Haakon VIII ascends throne",
-      "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
-      "description": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
-      "pubDate": "Fri, 28 Aug 2026 19:40:45 GMT"
-    },
-    {
       "title": "Close race as Iceland votes on whether to restart talks on joining EU",
       "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
       "description": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
       "pubDate": "Sat, 29 Aug 2026 00:56:19 GMT"
+    },
+    {
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "pubDate": "Sat, 29 Aug 2026 16:15:56 GMT"
     },
     {
       "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
@@ -118,10 +124,10 @@
       "pubDate": "Fri, 28 Aug 2026 14:18:53 GMT"
     },
     {
-      "title": "Shootings surge as drug gangs torment Brussels",
-      "link": "https://www.bbc.co.uk/news/articles/c9w4r7e7z4ko?at_medium=RSS&at_campaign=rss",
-      "description": "This year alone there have been more than 65 shootings in the Belgian capital, as drug crime soars.",
-      "pubDate": "Fri, 28 Aug 2026 13:41:18 GMT"
+      "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
+      "link": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno?at_medium=RSS&at_campaign=rss",
+      "description": "According to official figures only 1,811 cuttlefish turned up to mate this year, down 97% on last year.",
+      "pubDate": "Sat, 29 Aug 2026 18:30:32 GMT"
     },
     {
       "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
