@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T21:43:42.798015+00:00",
+  "updated": "2026-08-30T00:19:36.411894+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -20,6 +20,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
       "description": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
       "pubDate": "Sat, 29 Aug 2026 17:52:42 GMT"
+    },
+    {
+      "title": "Canada installs large Lake Ontario sign in latest jab at US",
+      "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+      "description": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+      "pubDate": "Sun, 30 Aug 2026 00:17:25 GMT"
     },
     {
       "title": "Norway's new king remembers 'my dear father' in first speech",
@@ -49,7 +55,7 @@
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-      "pubDate": "Sat, 29 Aug 2026 16:15:56 GMT"
+      "pubDate": "Sat, 29 Aug 2026 22:40:51 GMT"
     },
     {
       "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
@@ -116,12 +122,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
       "description": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
       "pubDate": "Fri, 28 Aug 2026 19:45:39 GMT"
-    },
-    {
-      "title": "Two-year curfew lifted in Sudan's capital",
-      "link": "https://www.bbc.co.uk/news/articles/c2076gxr0llo?at_medium=RSS&at_campaign=rss",
-      "description": "The military authorities retook control of the city 18 months ago, but the conflict continues elsewhere.",
-      "pubDate": "Fri, 28 Aug 2026 14:18:53 GMT"
     },
     {
       "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
