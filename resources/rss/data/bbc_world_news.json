@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-01T14:53:02.679643+00:00",
+  "updated": "2026-09-01T18:30:03.765228+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Germany says Russia behind Leipzig airport drone attack",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+      "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+      "pubDate": "Tue, 01 Sep 2026 16:53:40 GMT"
+    },
     {
       "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
       "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
@@ -10,16 +16,40 @@
       "pubDate": "Tue, 01 Sep 2026 05:00:34 GMT"
     },
     {
-      "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
-      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-      "description": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.",
-      "pubDate": "Tue, 01 Sep 2026 07:37:24 GMT"
+      "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
+      "description": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
+      "pubDate": "Tue, 01 Sep 2026 16:11:18 GMT"
     },
     {
       "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
       "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
       "description": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
-      "pubDate": "Tue, 01 Sep 2026 13:46:05 GMT"
+      "pubDate": "Tue, 01 Sep 2026 15:33:14 GMT"
+    },
+    {
+      "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
+      "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
+      "description": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two.",
+      "pubDate": "Tue, 01 Sep 2026 18:06:58 GMT"
+    },
+    {
+      "title": "Pistol in a lake gives hope for French cold case",
+      "link": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
+      "description": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
+      "pubDate": "Tue, 01 Sep 2026 16:33:29 GMT"
+    },
+    {
+      "title": "France targets Shein and Temu with fast fashion fees",
+      "link": "https://www.bbc.co.uk/news/articles/cm2792pendro?at_medium=RSS&at_campaign=rss",
+      "description": "The levy on \"ultra-fast fashion\" items could reach almost €20 per garment by 2030.",
+      "pubDate": "Tue, 01 Sep 2026 15:15:57 GMT"
+    },
+    {
+      "title": "'I have fired 40 of my agents for being corrupt', says Nigeria's anti-corruption chief",
+      "link": "https://www.bbc.co.uk/news/articles/c9863817xzpo?at_medium=RSS&at_campaign=rss",
+      "description": "The EFCC boss says more than five of the dismissed officials are already facing prosecution.",
+      "pubDate": "Tue, 01 Sep 2026 15:57:18 GMT"
     },
     {
       "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
@@ -28,22 +58,22 @@
       "pubDate": "Tue, 01 Sep 2026 12:58:44 GMT"
     },
     {
-      "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
-      "description": "Ukrainian officials say 20 people, including two children, were injured in the capital and the wider region.",
-      "pubDate": "Tue, 01 Sep 2026 10:30:55 GMT"
-    },
-    {
       "title": "Trump says US position on Falklands 'one of many' under review",
       "link": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
       "description": "The UK says Falkland islanders \"are British with a right to determine their own future\".",
-      "pubDate": "Tue, 01 Sep 2026 12:54:22 GMT"
+      "pubDate": "Tue, 01 Sep 2026 16:35:28 GMT"
     },
     {
       "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
       "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
       "description": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
-      "pubDate": "Tue, 01 Sep 2026 07:02:58 GMT"
+      "pubDate": "Tue, 01 Sep 2026 18:26:12 GMT"
+    },
+    {
+      "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
+      "description": "Ukrainian officials say 20 people, including two children, were injured in the capital and the wider region.",
+      "pubDate": "Tue, 01 Sep 2026 10:30:55 GMT"
     },
     {
       "title": "Shein valued at $26bn after long-awaited stock market debut",
@@ -54,8 +84,8 @@
     {
       "title": "Woman killed in Times Square stabbing, suspect shot dead by police",
       "link": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss",
-      "description": "Police say the double stabbing, which injured another person, was random and the suspect had a mental health history with police.",
-      "pubDate": "Tue, 01 Sep 2026 13:12:47 GMT"
+      "description": "Police say the double stabbing, which injured another person, was random and the suspect had a mental health history.",
+      "pubDate": "Tue, 01 Sep 2026 15:48:38 GMT"
     },
     {
       "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
@@ -128,36 +158,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cpwlxy49225o?at_medium=RSS&at_campaign=rss",
       "description": "The prediction market operator Kalshi says Santos made barred trades and misleading comments that influenced prices.",
       "pubDate": "Mon, 31 Aug 2026 18:15:12 GMT"
-    },
-    {
-      "title": "Messi retires from international football with 'nothing left to give'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
-      "description": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
-      "pubDate": "Mon, 31 Aug 2026 15:18:39 GMT"
-    },
-    {
-      "title": "John Galliano exhibition at New York Met cancelled after backlash",
-      "link": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&at_campaign=rss",
-      "description": "The exhibition faced criticism over the British fashion designer's conviction for making antisemitic remarks in 2011.",
-      "pubDate": "Mon, 31 Aug 2026 15:30:05 GMT"
-    },
-    {
-      "title": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps",
-      "link": "https://www.bbc.co.uk/news/articles/c2l80eq5lxno?at_medium=RSS&at_campaign=rss",
-      "description": "The request comes after Google made the switch for US-based users over the weekend. MapQuest, another US map provider, said it will not change the name.",
-      "pubDate": "Mon, 31 Aug 2026 15:00:11 GMT"
-    },
-    {
-      "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
-      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-      "description": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 14 people are missing.",
-      "pubDate": "Mon, 31 Aug 2026 20:47:38 GMT"
-    },
-    {
-      "title": "South African airline defends low-altitude aerial stunt over packed stadium",
-      "link": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss",
-      "description": "Airlink says the manoeuvre with two planes in close formation involved careful and precise planning.",
-      "pubDate": "Mon, 31 Aug 2026 10:18:07 GMT"
     },
     {
       "title": "The final minutes before floodwater crashed through Nepal-China border",
