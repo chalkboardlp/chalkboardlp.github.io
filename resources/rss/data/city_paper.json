@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-01T18:30:06.777053+00:00",
+  "updated": "2026-09-01T21:46:36.629127+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Colombia’s armed groups turn TikTok and Facebook into recruiting grounds for children",
+      "link": "https://thecitypaperbogota.com/news/colombias-armed-groups-turn-tiktok-and-facebook-into-recruiting-grounds-for-children/",
+      "description": "Colombia’s long-running conflict has found a new recruiting ground, one that fits inside a child’s pocket. Human Rights Watch has warned that illegal armed groups are increasingly using TikTok, Facebook and other social-media platforms to recruit children, combining propaganda, promises of money and status, coded language and carefully chosen emojis to draw minors toward illegal [&#8230;]",
+      "pubDate": "Tue, 01 Sep 2026 19:21:58 +0000"
+    },
     {
       "title": "De La Espriella announces recovery for Tolima as fires destroy 50,000 hectares",
       "link": "https://thecitypaperbogota.com/news/de-la-espriella-announces-recovery-for-tolima-as-fires-destroy-50000-hectares/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/culture/omar-rayos-labyrinth-reframes-modern-latin-american-art/",
       "description": "At first glance, Omar Rayo&#8217;s paintings appear to belong to the orderly universe of geometry. Crisp black-and-white planes fold into one another with astonishing precision, ribbons weave endlessly through impossible spaces, and flat surfaces suddenly acquire the illusion of depth. For decades, these hypnotic compositions have earned the Colombian artist comparisons with the international Op [&#8230;]",
       "pubDate": "Tue, 30 Jun 2026 19:29:06 +0000"
-    },
-    {
-      "title": "Where Strangers Become Friends: The Home Dining Experience of Seis y Seis",
-      "link": "https://thecitypaperbogota.com/living/where-strangers-become-friends-the-home-dining-experience-of-seis-y-seis/",
-      "description": "The front door opens onto a spacious Bogotá apartment overlooking a tree-lined street in La Cabrera. There is no maître d&#8217; waiting behind a podium, no hostess stand, no reservations book resting beside an espresso machine. Instead, Claudia Cepeda welcomes each guest personally, offering an aperitif before inviting them to settle into the living room. [&#8230;]",
-      "pubDate": "Fri, 26 Jun 2026 13:29:48 +0000"
     }
   ]
 }
