@@ -1,13 +1,19 @@
 {
-  "updated": "2026-08-31T23:50:38.391844+00:00",
+  "updated": "2026-09-01T05:06:34.137391+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
+      "title": "What it was like inside court for Tupac Shakur’s murder trial verdict",
+      "link": "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC presenter Anoushka Mutanda-Dougherty describes what it was like when Duane \"Keffe D\" Davis was found guilty of murdering the famous rapper.",
+      "pubDate": "Tue, 01 Sep 2026 02:30:45 GMT"
+    },
+    {
       "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
       "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
       "description": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
-      "pubDate": "Mon, 31 Aug 2026 17:30:47 GMT"
+      "pubDate": "Tue, 01 Sep 2026 02:18:26 GMT"
     },
     {
       "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
@@ -22,16 +28,22 @@
       "pubDate": "Mon, 31 Aug 2026 13:11:35 GMT"
     },
     {
+      "title": "Shein shares fall in long-awaited stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+      "description": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+      "pubDate": "Tue, 01 Sep 2026 04:15:15 GMT"
+    },
+    {
       "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
       "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
       "description": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people.",
       "pubDate": "Mon, 31 Aug 2026 14:50:36 GMT"
     },
     {
-      "title": "US and Iran trade strikes for first time in weeks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "description": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
-      "pubDate": "Mon, 31 Aug 2026 13:47:30 GMT"
+      "title": "US army secretary resigns after months of tension",
+      "link": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
+      "description": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.",
+      "pubDate": "Tue, 01 Sep 2026 01:01:03 GMT"
     },
     {
       "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
@@ -44,6 +56,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
       "description": "Dolly Parton's estate says DollyFest will take the place of a traditional public memorial for the artist, just as she wanted.",
       "pubDate": "Mon, 31 Aug 2026 18:58:35 GMT"
+    },
+    {
+      "title": "US and Iran trade strikes for first time in weeks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "description": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
+      "pubDate": "Mon, 31 Aug 2026 13:47:30 GMT"
     },
     {
       "title": "Ex-congressman George Santos banned from betting platform for life",
@@ -70,40 +88,22 @@
       "pubDate": "Mon, 31 Aug 2026 15:00:11 GMT"
     },
     {
-      "title": "South African airline defends low-altitude aerial stunt over packed stadium",
-      "link": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss",
-      "description": "Airlink says the manoeuvre with two planes in close formation involved careful and precise planning.",
-      "pubDate": "Mon, 31 Aug 2026 10:18:07 GMT"
-    },
-    {
-      "title": "Company offering reward for safe return of truckload of beer",
-      "link": "https://www.bbc.co.uk/news/articles/c780wzj86pno?at_medium=RSS&at_campaign=rss",
-      "description": "Police say a thief presented false documentation at a California distribution centre before driving off with the shipment.",
-      "pubDate": "Mon, 31 Aug 2026 16:32:59 GMT"
-    },
-    {
-      "title": "'Moonies' church leader jailed for two years over bribery offences",
-      "link": "https://www.bbc.co.uk/news/articles/c8xkqjdk142o?at_medium=RSS&at_campaign=rss",
-      "description": "Han Hak-ja, 83, gave South Korea's former first lady two Chanel bags and a diamond necklace, a court found.",
-      "pubDate": "Mon, 31 Aug 2026 06:56:40 GMT"
-    },
-    {
       "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
       "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
       "description": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 14 people are missing.",
       "pubDate": "Mon, 31 Aug 2026 20:47:38 GMT"
     },
     {
-      "title": "Algeria president seeks death penalty for arsonists after deadly forest fires",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy41lwe0jo?at_medium=RSS&at_campaign=rss",
-      "description": "President Abdelmadjid Tebboune says he is not ruling out foul play after 100 wildfires were recorded.",
-      "pubDate": "Mon, 31 Aug 2026 08:13:40 GMT"
+      "title": "South African airline defends low-altitude aerial stunt over packed stadium",
+      "link": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss",
+      "description": "Airlink says the manoeuvre with two planes in close formation involved careful and precise planning.",
+      "pubDate": "Mon, 31 Aug 2026 10:18:07 GMT"
     },
     {
-      "title": "Passengers stranded as strike disrupts flights at Kenya's main airport",
-      "link": "https://www.bbc.co.uk/news/articles/c783x05nnlko?at_medium=RSS&at_campaign=rss",
-      "description": "Kenya Airways says the strike has caused delays of more than six hours, with some flights cancelled.",
-      "pubDate": "Mon, 31 Aug 2026 10:54:01 GMT"
+      "title": "Japan Inc is betting big on India as China risks deepen",
+      "link": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
+      "description": "Japanese companies are doubling down on India amid a shrinking domestic market and rising risks in China.",
+      "pubDate": "Mon, 31 Aug 2026 22:07:19 GMT"
     },
     {
       "title": "The jury's options in Lindsay Clancy's murder trial",
@@ -136,10 +136,10 @@
       "pubDate": "Mon, 31 Aug 2026 07:06:17 GMT"
     },
     {
-      "title": "Dolly Parton's dad couldn't read - it inspired her to send books to millions of children",
-      "link": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo?at_medium=RSS&at_campaign=rss",
-      "description": "Families across the globe share how free books from Parton's Imagination Library helped their children.",
-      "pubDate": "Sat, 29 Aug 2026 00:35:04 GMT"
+      "title": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
+      "link": "https://www.bbc.co.uk/news/videos/ckg7yrwp70qo?at_medium=RSS&at_campaign=rss",
+      "description": "The rapper's killing became one of popular culture's great mysteries, with countless theories but no arrests until 2023.",
+      "pubDate": "Tue, 01 Sep 2026 00:31:20 GMT"
     },
     {
       "title": "Orangutans in danger as wildfires blaze through Borneo",
@@ -176,12 +176,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
       "description": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
       "pubDate": "Fri, 28 Aug 2026 21:17:54 GMT"
-    },
-    {
-      "title": "BBC tracks one week of Israeli settler violence in occupied West Bank",
-      "link": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Lucy Williamson reports on settler attacks on Palestinians, which have been observed over the last week alone.",
-      "pubDate": "Fri, 28 Aug 2026 14:06:13 GMT"
     }
   ]
 }
