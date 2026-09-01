@@ -1,19 +1,55 @@
 {
-  "updated": "2026-09-01T05:06:34.137391+00:00",
+  "updated": "2026-09-01T10:05:34.230233+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "What it was like inside court for Tupac Shakur’s murder trial verdict",
-      "link": "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC presenter Anoushka Mutanda-Dougherty describes what it was like when Duane \"Keffe D\" Davis was found guilty of murdering the famous rapper.",
-      "pubDate": "Tue, 01 Sep 2026 02:30:45 GMT"
+      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+      "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+      "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+      "pubDate": "Tue, 01 Sep 2026 05:00:34 GMT"
     },
     {
-      "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+      "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
       "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-      "description": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
-      "pubDate": "Tue, 01 Sep 2026 02:18:26 GMT"
+      "description": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.",
+      "pubDate": "Tue, 01 Sep 2026 07:37:24 GMT"
+    },
+    {
+      "title": "The final minutes before floodwater crashed through Nepal-China border",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
+      "description": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.",
+      "pubDate": "Tue, 01 Sep 2026 06:02:27 GMT"
+    },
+    {
+      "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
+      "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+      "description": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
+      "pubDate": "Tue, 01 Sep 2026 07:02:58 GMT"
+    },
+    {
+      "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
+      "description": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
+      "pubDate": "Mon, 31 Aug 2026 21:28:49 GMT"
+    },
+    {
+      "title": "South Korean police officer admits to closing missing person cases to avoid work",
+      "link": "https://www.bbc.co.uk/news/articles/c780wy7ype4o?at_medium=RSS&at_campaign=rss",
+      "description": "The officer falsely claimed he contacted missing persons and prematurely closed their cases on the South Korean holiday island of Jeju.",
+      "pubDate": "Tue, 01 Sep 2026 05:47:21 GMT"
+    },
+    {
+      "title": "Shein valued at $26bn after long-awaited stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+      "description": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+      "pubDate": "Tue, 01 Sep 2026 10:01:26 GMT"
+    },
+    {
+      "title": "Zambia's president to be sworn in for second term while opponent detained",
+      "link": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss",
+      "description": "Hakainde Hichilema swept to victory, but his main rival is now in detention charged with treason.",
+      "pubDate": "Tue, 01 Sep 2026 07:19:45 GMT"
     },
     {
       "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
@@ -22,28 +58,16 @@
       "pubDate": "Mon, 31 Aug 2026 17:54:23 GMT"
     },
     {
-      "title": "Man arrested after Swiss rave shooting that killed woman",
-      "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
-      "description": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
-      "pubDate": "Mon, 31 Aug 2026 13:11:35 GMT"
-    },
-    {
-      "title": "Shein shares fall in long-awaited stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-      "description": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
-      "pubDate": "Tue, 01 Sep 2026 04:15:15 GMT"
+      "title": "US army secretary resigns after months of tension",
+      "link": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
+      "description": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.",
+      "pubDate": "Tue, 01 Sep 2026 01:01:03 GMT"
     },
     {
       "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
       "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
       "description": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people.",
       "pubDate": "Mon, 31 Aug 2026 14:50:36 GMT"
-    },
-    {
-      "title": "US army secretary resigns after months of tension",
-      "link": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
-      "description": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.",
-      "pubDate": "Tue, 01 Sep 2026 01:01:03 GMT"
     },
     {
       "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
@@ -56,6 +80,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
       "description": "Dolly Parton's estate says DollyFest will take the place of a traditional public memorial for the artist, just as she wanted.",
       "pubDate": "Mon, 31 Aug 2026 18:58:35 GMT"
+    },
+    {
+      "title": "Man arrested after Swiss rave shooting that killed woman",
+      "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
+      "description": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
+      "pubDate": "Mon, 31 Aug 2026 13:11:35 GMT"
     },
     {
       "title": "US and Iran trade strikes for first time in weeks",
@@ -100,6 +130,18 @@
       "pubDate": "Mon, 31 Aug 2026 10:18:07 GMT"
     },
     {
+      "title": "What it was like inside court for Tupac Shakur’s murder trial verdict",
+      "link": "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC presenter Anoushka Mutanda-Dougherty describes what it was like when Duane \"Keffe D\" Davis was found guilty of murdering the famous rapper.",
+      "pubDate": "Tue, 01 Sep 2026 02:30:45 GMT"
+    },
+    {
+      "title": "Flock's rapidly expanding AI surveillance network facing growing backlash in US",
+      "link": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Verify examines the expanding network of Flock cameras in the US and the backlash against it.",
+      "pubDate": "Tue, 01 Sep 2026 05:11:23 GMT"
+    },
+    {
       "title": "Japan Inc is betting big on India as China risks deepen",
       "link": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
       "description": "Japanese companies are doubling down on India amid a shrinking domestic market and rising risks in China.",
@@ -122,12 +164,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
       "description": "The US-Canada trade war is being felt on both sides of the border.",
       "pubDate": "Mon, 31 Aug 2026 00:05:22 GMT"
-    },
-    {
-      "title": "WhatsApp chat used to launder cash for crime and extremism",
-      "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-      "description": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
-      "pubDate": "Sun, 30 Aug 2026 04:59:56 GMT"
     },
     {
       "title": "Monza memories - Italian GP in pictures through the years",
