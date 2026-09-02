@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T21:46:35.386579+00:00",
+  "updated": "2026-09-02T00:12:49.497196+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -10,10 +10,10 @@
       "pubDate": "Tue, 01 Sep 2026 21:05:22 GMT"
     },
     {
-      "title": "US strikes Iran as state media reports four killed at wedding party",
+      "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
       "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
       "description": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
-      "pubDate": "Tue, 01 Sep 2026 21:32:23 GMT"
+      "pubDate": "Wed, 02 Sep 2026 00:11:51 GMT"
     },
     {
       "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
@@ -38,6 +38,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
       "description": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023.",
       "pubDate": "Tue, 01 Sep 2026 20:05:23 GMT"
+    },
+    {
+      "title": "Ariana Grande completes tour and steps back from public life",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
+      "description": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
+      "pubDate": "Tue, 01 Sep 2026 21:41:05 GMT"
     },
     {
       "title": "Pistol in a lake gives hope for French cold case",
@@ -160,12 +166,6 @@
       "pubDate": "Mon, 31 Aug 2026 13:11:35 GMT"
     },
     {
-      "title": "US and Iran trade strikes for first time in weeks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "description": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
-      "pubDate": "Mon, 31 Aug 2026 13:47:30 GMT"
-    },
-    {
       "title": "The final minutes before floodwater crashed through Nepal-China border",
       "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
       "description": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.",
@@ -199,7 +199,7 @@
       "title": "Not just guilty or not - The jury's options in Lindsay Clancy's murder trial",
       "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
       "description": "Jurors have five options before them as they decide the fate of the former nurse charged with murdering her three children.",
-      "pubDate": "Tue, 01 Sep 2026 10:46:25 GMT"
+      "pubDate": "Tue, 01 Sep 2026 23:17:10 GMT"
     },
     {
       "title": "From playing Serena Williams on screen to following in her footsteps",
@@ -212,6 +212,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
       "description": "The US-Canada trade war is being felt on both sides of the border.",
       "pubDate": "Mon, 31 Aug 2026 00:05:22 GMT"
+    },
+    {
+      "title": "Cup noodles made with cold water? BBC tries Japan's viral snack",
+      "link": "https://www.bbc.co.uk/news/videos/ce30lqln299o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Tokyo correspondent Kurumi Mori tries Japan's latest food trend, instant noodles made using cold water.",
+      "pubDate": "Tue, 01 Sep 2026 22:02:14 GMT"
     },
     {
       "title": "Norway's new king takes oath as mourners pay respects to his late father",
@@ -254,12 +260,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
       "description": "Ukraine correspondent Dan Johnson reports from Kyiv after the deadly strike, which authorities said killed more than 30 people.",
       "pubDate": "Sat, 29 Aug 2026 13:55:55 GMT"
-    },
-    {
-      "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
-      "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
-      "description": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
-      "pubDate": "Fri, 28 Aug 2026 21:17:54 GMT"
     }
   ]
 }
