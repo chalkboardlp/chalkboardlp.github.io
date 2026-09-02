@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-02T14:29:19.348373+00:00",
+  "updated": "2026-09-02T18:41:48.763282+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Colombia’s ‘Ley Anticapuchos’ draws a necessary line between protest and vandalism",
+      "link": "https://thecitypaperbogota.com/news/colombias-ley-anticapuchos-draws-a-necessary-line-between-protest-and-vandalism/",
+      "description": "There is nothing particularly controversial about protecting the right to protest. Colombia’s Constitution does it. A democracy needs it. Governments should expect citizens to march, demonstrate, criticize and, when necessary, confront those in power. But there is an equally important principle: the right to protest cannot become a licence to destroy. That is the premise [&#8230;]",
+      "pubDate": "Wed, 02 Sep 2026 16:40:18 +0000"
+    },
     {
       "title": "Colombia’s armed groups turn TikTok and Facebook into recruiting grounds for children",
       "link": "https://thecitypaperbogota.com/news/colombias-armed-groups-turn-tiktok-and-facebook-into-recruiting-grounds-for-children/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/colombias-vp-elect-rejects-cepedas-call-for-civil-disobedience-as-tantrum/",
       "description": "Colombia&#8217;s Vice President-elect José Manuel Restrepo on Wednesday condemned opposition senator Iván Cepeda for calling on supporters to engage in &#8220;peaceful civil disobedience&#8221; unless President-elect Abelardo de la Espriella renounces his U.S. citizenship before taking office, describing the move as &#8220;an anti-democratic tantrum&#8221; and an attack on the country&#8217;s democratic institutions. The confrontation marks a [&#8230;]",
       "pubDate": "Thu, 02 Jul 2026 16:15:02 +0000"
-    },
-    {
-      "title": "Omar Rayo’s ‘Labyrinth’ Reframes Modern Latin American Art",
-      "link": "https://thecitypaperbogota.com/culture/omar-rayos-labyrinth-reframes-modern-latin-american-art/",
-      "description": "At first glance, Omar Rayo&#8217;s paintings appear to belong to the orderly universe of geometry. Crisp black-and-white planes fold into one another with astonishing precision, ribbons weave endlessly through impossible spaces, and flat surfaces suddenly acquire the illusion of depth. For decades, these hypnotic compositions have earned the Colombian artist comparisons with the international Op [&#8230;]",
-      "pubDate": "Tue, 30 Jun 2026 19:29:06 +0000"
     }
   ]
 }
