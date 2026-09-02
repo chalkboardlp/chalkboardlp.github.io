@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T00:12:49.497196+00:00",
+  "updated": "2026-09-02T04:32:30.710002+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -7,13 +7,13 @@
       "title": "Germany says Russia behind Leipzig airport drone attack",
       "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
       "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
-      "pubDate": "Tue, 01 Sep 2026 21:05:22 GMT"
+      "pubDate": "Wed, 02 Sep 2026 01:59:54 GMT"
     },
     {
-      "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
+      "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
       "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "description": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
-      "pubDate": "Wed, 02 Sep 2026 00:11:51 GMT"
+      "description": "Iran has launched attacks on US military bases in Iraq and Jordan, according to local state media and the Jordanian Armed Forces.",
+      "pubDate": "Wed, 02 Sep 2026 03:19:44 GMT"
     },
     {
       "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
