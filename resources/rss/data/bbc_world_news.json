@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-02T21:49:10.537740+00:00",
+  "updated": "2026-09-03T00:15:00.909735+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
-    {
-      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "description": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
-      "pubDate": "Wed, 02 Sep 2026 15:33:19 GMT"
-    },
     {
       "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
       "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
       "description": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
       "pubDate": "Wed, 02 Sep 2026 17:33:45 GMT"
+    },
+    {
+      "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+      "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
+      "description": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
+      "pubDate": "Wed, 02 Sep 2026 21:34:27 GMT"
     },
     {
       "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
@@ -44,6 +44,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
       "description": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geopolitical unrest\".",
       "pubDate": "Wed, 02 Sep 2026 17:21:00 GMT"
+    },
+    {
+      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "description": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
+      "pubDate": "Wed, 02 Sep 2026 15:33:19 GMT"
     },
     {
       "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
@@ -80,12 +86,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
       "description": "The civil aviation authority says it is also investigating last Saturday's aerial display.",
       "pubDate": "Wed, 02 Sep 2026 21:21:08 GMT"
-    },
-    {
-      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
-      "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
-      "description": "More than 1,200 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages.",
-      "pubDate": "Wed, 02 Sep 2026 15:57:13 GMT"
     },
     {
       "title": "Ariana Grande makes emotional tour exit and steps back from public life",
