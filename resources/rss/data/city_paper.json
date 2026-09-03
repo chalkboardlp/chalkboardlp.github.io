@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-03T09:48:37.870442+00:00",
+  "updated": "2026-09-03T14:34:41.405632+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Colombia’s ‘Miracle’ Chick Offers Hope for a Bird on the Brink",
+      "link": "https://thecitypaperbogota.com/news/colombias-miracle-chick-offers-hope-for-a-bird-on-the-brink/",
+      "description": "In a country where the morning chorus can include more bird species than anywhere else on Earth, the arrival of one tiny chick carries an outsized significance. Named Milagro, or “Miracle,” the newly hatched blue-billed curassow (Crax alberti) represents more than a successful breeding effort. The female chick is a rare new generation of a [&#8230;]",
+      "pubDate": "Thu, 03 Sep 2026 12:15:24 +0000"
+    },
     {
       "title": "Colombia’s ‘Ley Anticapuchos’ draws a necessary line between protest and vandalism",
       "link": "https://thecitypaperbogota.com/news/colombias-ley-anticapuchos-draws-a-necessary-line-between-protest-and-vandalism/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/colombias-mayors-back-de-la-espriellas-anti-crime-crackdown/",
       "description": "Colombia&#8217;s President-elect Abelardo de la Espriella said he will sign a decree on Aug. 7, the day he is sworn into office, creating special &#8220;Urban Security Defense Blocs&#8221; in the country&#8217;s largest cities as part of a sweeping security crackdown and a broader shift away from the outgoing government&#8217;s security strategy. De la Espriella, who [&#8230;]",
       "pubDate": "Mon, 06 Jul 2026 17:03:54 +0000"
-    },
-    {
-      "title": "Colombia’s VP-elect rejects Cepeda’s call for “Civil Disobedience” as tantrum",
-      "link": "https://thecitypaperbogota.com/news/colombias-vp-elect-rejects-cepedas-call-for-civil-disobedience-as-tantrum/",
-      "description": "Colombia&#8217;s Vice President-elect José Manuel Restrepo on Wednesday condemned opposition senator Iván Cepeda for calling on supporters to engage in &#8220;peaceful civil disobedience&#8221; unless President-elect Abelardo de la Espriella renounces his U.S. citizenship before taking office, describing the move as &#8220;an anti-democratic tantrum&#8221; and an attack on the country&#8217;s democratic institutions. The confrontation marks a [&#8230;]",
-      "pubDate": "Thu, 02 Jul 2026 16:15:02 +0000"
     }
   ]
 }
