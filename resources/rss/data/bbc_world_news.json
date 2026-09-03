@@ -1,8 +1,26 @@
 {
-  "updated": "2026-09-03T04:35:24.239394+00:00",
+  "updated": "2026-09-03T09:48:36.433720+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+      "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+      "description": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
+      "pubDate": "Thu, 03 Sep 2026 06:01:54 GMT"
+    },
+    {
+      "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+      "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+      "description": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
+      "pubDate": "Thu, 03 Sep 2026 05:00:04 GMT"
+    },
+    {
+      "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
+      "link": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
+      "description": "Pedro Sánchez tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities.",
+      "pubDate": "Thu, 03 Sep 2026 09:30:26 GMT"
+    },
     {
       "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
       "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
@@ -10,28 +28,10 @@
       "pubDate": "Wed, 02 Sep 2026 17:33:45 GMT"
     },
     {
-      "title": "Protests in Spain against government's handling of Ceuta migrant crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
-      "description": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
-      "pubDate": "Wed, 02 Sep 2026 21:34:27 GMT"
-    },
-    {
-      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-      "description": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
-      "pubDate": "Thu, 03 Sep 2026 03:21:24 GMT"
-    },
-    {
-      "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-      "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
-      "description": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
-      "pubDate": "Wed, 02 Sep 2026 11:47:11 GMT"
-    },
-    {
-      "title": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
-      "link": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss",
-      "description": "For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial.",
-      "pubDate": "Wed, 02 Sep 2026 20:12:32 GMT"
+      "title": "Trump $1 coin makes him first living president on US currency in a century",
+      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+      "description": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
+      "pubDate": "Thu, 03 Sep 2026 03:39:53 GMT"
     },
     {
       "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
@@ -40,10 +40,34 @@
       "pubDate": "Wed, 02 Sep 2026 19:05:31 GMT"
     },
     {
-      "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
-      "description": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geopolitical unrest\".",
-      "pubDate": "Wed, 02 Sep 2026 17:21:00 GMT"
+      "title": "Sydney police investigate second possible mistaken identity killing in two days",
+      "link": "https://www.bbc.co.uk/news/articles/c23x4yd9zz2o?at_medium=RSS&at_campaign=rss",
+      "description": "Wednesday's fatal shooting of a man in his 40s comes after a university student was gunned down on Tuesday.",
+      "pubDate": "Thu, 03 Sep 2026 00:40:29 GMT"
+    },
+    {
+      "title": "Rocky Horror star Tim Curry's cause of death revealed as coronary artery disease",
+      "link": "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo?at_medium=RSS&at_campaign=rss",
+      "description": "The British actor had significant conditions, cited on his death certificate in Los Angeles County.",
+      "pubDate": "Wed, 02 Sep 2026 23:47:02 GMT"
+    },
+    {
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+      "description": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
+      "pubDate": "Thu, 03 Sep 2026 03:21:24 GMT"
+    },
+    {
+      "title": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
+      "link": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss",
+      "description": "The 46-year-old figure of international intrigue has an apparent knack for being in the right place at the right time.",
+      "pubDate": "Wed, 02 Sep 2026 23:53:28 GMT"
+    },
+    {
+      "title": "LA Clippers fined $30m over Leonard pay scandal",
+      "link": "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss",
+      "description": "The LA Clippers are fined $30m by the NBA for violating salary rules in order to funnel millions of dollars to star player Kawhi Leonard.",
+      "pubDate": "Thu, 03 Sep 2026 06:17:37 GMT"
     },
     {
       "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
@@ -52,82 +76,52 @@
       "pubDate": "Wed, 02 Sep 2026 15:33:19 GMT"
     },
     {
-      "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
-      "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
-      "description": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism.",
-      "pubDate": "Wed, 02 Sep 2026 10:04:28 GMT"
+      "title": "Could Lindsay Clancy trial end in a mistrial? Here are the jury's options",
+      "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
+      "description": "Jurors have five options before them as they decide the fate of the former nurse charged with murdering her three children.",
+      "pubDate": "Wed, 02 Sep 2026 23:56:29 GMT"
     },
     {
-      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
-      "link": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o?at_medium=RSS&at_campaign=rss",
-      "description": "Nigeria - Africa's most populous country - is proving a tough market for ride-hailing services.",
-      "pubDate": "Wed, 02 Sep 2026 20:21:04 GMT"
+      "title": "Why Nepal floods should worry India",
+      "link": "https://www.bbc.co.uk/news/articles/cn8e940gz10o?at_medium=RSS&at_campaign=rss",
+      "description": "The disaster comes as a warning as climate change raises shared Himalayan risks.",
+      "pubDate": "Thu, 03 Sep 2026 00:58:44 GMT"
     },
     {
-      "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
-      "link": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
-      "description": "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court.",
-      "pubDate": "Wed, 02 Sep 2026 17:05:09 GMT"
+      "title": "'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media",
+      "link": "https://www.bbc.co.uk/news/articles/ckg8lw7n2ddo?at_medium=RSS&at_campaign=rss",
+      "description": "More than 80 people have been killed in the mob violence, the BBC finds after gathering data from six African nations.",
+      "pubDate": "Thu, 03 Sep 2026 00:58:50 GMT"
     },
     {
-      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-      "description": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
-      "pubDate": "Wed, 02 Sep 2026 16:12:43 GMT"
+      "title": "Sharpeville massacre survivors start legal fight for justice in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o?at_medium=RSS&at_campaign=rss",
+      "description": "At least 69 people were shot dead in 1960 but no-one has been prosecuted and victims want restitution.",
+      "pubDate": "Thu, 03 Sep 2026 00:14:20 GMT"
     },
     {
-      "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
-      "description": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children.",
-      "pubDate": "Wed, 02 Sep 2026 11:51:46 GMT"
+      "title": "US sailors go shopping before hitting the bars in Thailand after 250-day voyage",
+      "link": "https://www.bbc.co.uk/news/articles/cj9x2k8n3y1o?at_medium=RSS&at_campaign=rss",
+      "description": "With military haircuts and moustaches, the US sailors stood out against the flip-flops of the usual Pattaya crowd, writes the BBC's Jonathan Head.",
+      "pubDate": "Thu, 03 Sep 2026 05:17:04 GMT"
     },
     {
-      "title": "South African airline behind daring stadium stunt cancels next flyby",
-      "link": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
-      "description": "The civil aviation authority says it is also investigating last Saturday's aerial display.",
-      "pubDate": "Wed, 02 Sep 2026 21:21:08 GMT"
+      "title": "Stingy bosses and spare change: How much should you give to the office whip-round?",
+      "link": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
+      "description": "Office whip-rounds are a staple of working life but they can raise a lot of awkward questions.",
+      "pubDate": "Wed, 02 Sep 2026 23:25:50 GMT"
     },
     {
-      "title": "Ariana Grande makes emotional tour exit and steps back from public life",
-      "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
-      "description": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
-      "pubDate": "Tue, 01 Sep 2026 21:41:05 GMT"
+      "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+      "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
+      "description": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
+      "pubDate": "Wed, 02 Sep 2026 11:47:11 GMT"
     },
     {
-      "title": "Remarkable US oil deal puzzles analysts - and angers many Venezuelans",
-      "link": "https://www.bbc.co.uk/news/articles/c93vkgk5e1yo?at_medium=RSS&at_campaign=rss",
-      "description": "Amounting to 65 billion barrels of crude, the deal is labelled by one ex-envoy as a colonialist \"fever dream\".",
-      "pubDate": "Tue, 01 Sep 2026 21:27:29 GMT"
-    },
-    {
-      "title": "Could the man who murdered a Christian missionary and his sons walk free in India?",
-      "link": "https://www.bbc.co.uk/news/articles/cpd0x701qd9o?at_medium=RSS&at_campaign=rss",
-      "description": "Dara Singh is serving a life sentence for burning alive Graham Staines and his two sons in Odisha in 1999.",
-      "pubDate": "Wed, 02 Sep 2026 12:09:11 GMT"
-    },
-    {
-      "title": "Will self-flying planes transform the skies?",
-      "link": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
-      "description": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
-      "pubDate": "Tue, 01 Sep 2026 23:27:35 GMT"
-    },
-    {
-      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
-      "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
-      "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
-      "pubDate": "Tue, 01 Sep 2026 05:00:34 GMT"
-    },
-    {
-      "title": "Pistol in a lake gives hope for French cold case",
-      "link": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
-      "description": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
-      "pubDate": "Tue, 01 Sep 2026 16:33:29 GMT"
-    },
-    {
-      "title": "Flock's rapidly expanding AI surveillance network facing growing backlash in US",
-      "link": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Verify examines the expanding network of Flock cameras in the US and the backlash against it.",
-      "pubDate": "Tue, 01 Sep 2026 05:11:23 GMT"
+      "title": "Another White House renovation? A look at Trump's new helipad",
+      "link": "https://www.bbc.co.uk/news/videos/cdx02dw785vo?at_medium=RSS&at_campaign=rss",
+      "description": "The facility will be the first of its kind at the White House - though critics feel it alters the property's historic grounds.",
+      "pubDate": "Thu, 03 Sep 2026 08:14:16 GMT"
     },
     {
       "title": "'Nothing but mud and silt' - the village swept away by deadly floods in Nepal",
