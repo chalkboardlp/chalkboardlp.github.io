@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T18:38:28.988871+00:00",
+  "updated": "2026-09-03T21:43:00.435644+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -22,52 +22,10 @@
       "pubDate": "Thu, 03 Sep 2026 18:04:34 GMT"
     },
     {
-      "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
-      "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
-      "description": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
-      "pubDate": "Thu, 03 Sep 2026 05:00:04 GMT"
-    },
-    {
       "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
       "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
       "description": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
       "pubDate": "Thu, 03 Sep 2026 15:05:57 GMT"
-    },
-    {
-      "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
-      "link": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
-      "description": "Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving.",
-      "pubDate": "Thu, 03 Sep 2026 13:54:49 GMT"
-    },
-    {
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-      "description": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
-      "pubDate": "Thu, 03 Sep 2026 15:35:47 GMT"
-    },
-    {
-      "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
-      "link": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
-      "description": "Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind.",
-      "pubDate": "Thu, 03 Sep 2026 10:37:06 GMT"
-    },
-    {
-      "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
-      "description": "The US vice-president recently mused with a Christian podcast host on whether the end of the world was nigh.",
-      "pubDate": "Thu, 03 Sep 2026 13:07:02 GMT"
-    },
-    {
-      "title": "Liechtenstein MPs vote to legalise abortion despite threat of veto",
-      "link": "https://www.bbc.co.uk/news/articles/c9dwedep38po?at_medium=RSS&at_campaign=rss",
-      "description": "Organisers of the citizens' initiative say they have popular support, even though the all-powerful monarch has said he will veto the legislation.",
-      "pubDate": "Thu, 03 Sep 2026 11:30:38 GMT"
-    },
-    {
-      "title": "Kenyan president orders crackdown on foreigners operating small businesses",
-      "link": "https://www.bbc.co.uk/news/articles/c9861x5pzgxo?at_medium=RSS&at_campaign=rss",
-      "description": "It comes amid concerns over the growing number of traders from neighbouring countries.",
-      "pubDate": "Thu, 03 Sep 2026 10:59:14 GMT"
     },
     {
       "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
@@ -76,10 +34,46 @@
       "pubDate": "Thu, 03 Sep 2026 09:37:34 GMT"
     },
     {
+      "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
+      "link": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
+      "description": "The ICE officer faces federal charges related to the January shooting in Minnesota.",
+      "pubDate": "Thu, 03 Sep 2026 20:49:05 GMT"
+    },
+    {
+      "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
+      "link": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
+      "description": "Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind.",
+      "pubDate": "Thu, 03 Sep 2026 10:37:06 GMT"
+    },
+    {
+      "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
+      "link": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
+      "description": "Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving.",
+      "pubDate": "Thu, 03 Sep 2026 13:54:49 GMT"
+    },
+    {
       "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
       "link": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
       "description": "Pedro Sánchez tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities.",
       "pubDate": "Thu, 03 Sep 2026 12:18:07 GMT"
+    },
+    {
+      "title": "Trump $1 coin makes him first living president on US currency in a century",
+      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+      "description": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
+      "pubDate": "Thu, 03 Sep 2026 15:35:47 GMT"
+    },
+    {
+      "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
+      "description": "The US vice-president recently mused with a Christian podcast host on whether the end of the world was nigh.",
+      "pubDate": "Thu, 03 Sep 2026 13:07:02 GMT"
+    },
+    {
+      "title": "Kenyan president orders crackdown on foreigners operating small businesses",
+      "link": "https://www.bbc.co.uk/news/articles/c9861x5pzgxo?at_medium=RSS&at_campaign=rss",
+      "description": "It comes amid concerns over the growing number of traders from neighbouring countries.",
+      "pubDate": "Thu, 03 Sep 2026 10:59:14 GMT"
     },
     {
       "title": "Sydney police investigate second possible mistaken identity killing in two days",
@@ -94,28 +88,10 @@
       "pubDate": "Wed, 02 Sep 2026 23:47:02 GMT"
     },
     {
-      "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
-      "link": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss",
-      "description": "Daphne Caruana Galizia exposed corruption and money laundering schemes in Malta before she was killed by a car bomb in 2017.",
-      "pubDate": "Wed, 02 Sep 2026 19:05:31 GMT"
-    },
-    {
       "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
       "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
       "description": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
       "pubDate": "Thu, 03 Sep 2026 03:21:24 GMT"
-    },
-    {
-      "title": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
-      "link": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss",
-      "description": "The 46-year-old figure of international intrigue has an apparent knack for being in the right place at the right time.",
-      "pubDate": "Wed, 02 Sep 2026 23:53:28 GMT"
-    },
-    {
-      "title": "LA Clippers fined $30m over Leonard pay scandal",
-      "link": "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss",
-      "description": "The LA Clippers are fined $30m by the NBA for violating salary rules in order to funnel millions of dollars to star player Kawhi Leonard.",
-      "pubDate": "Thu, 03 Sep 2026 06:17:37 GMT"
     },
     {
       "title": "How Gloria Steinem changed the lives of generations of women",
@@ -124,10 +100,10 @@
       "pubDate": "Thu, 03 Sep 2026 11:26:07 GMT"
     },
     {
-      "title": "Could Lindsay Clancy trial end in a mistrial? Here are the jury's options",
-      "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-      "description": "Jurors have five options before them as they decide the fate of the former nurse charged with murdering her three children.",
-      "pubDate": "Wed, 02 Sep 2026 23:56:29 GMT"
+      "title": "AI data centres are booming in Australia - but at what cost?",
+      "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+      "description": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
+      "pubDate": "Thu, 03 Sep 2026 18:32:03 GMT"
     },
     {
       "title": "Why Nepal floods should worry India",
@@ -160,10 +136,22 @@
       "pubDate": "Wed, 02 Sep 2026 23:25:50 GMT"
     },
     {
-      "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-      "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
-      "description": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
-      "pubDate": "Wed, 02 Sep 2026 11:47:11 GMT"
+      "title": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
+      "link": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss",
+      "description": "The 46-year-old figure of international intrigue has an apparent knack for being in the right place at the right time.",
+      "pubDate": "Wed, 02 Sep 2026 23:53:28 GMT"
+    },
+    {
+      "title": "Nepal tunnel rescuers hunt for survivors with rafts and drone",
+      "link": "https://www.bbc.co.uk/news/videos/ckg0eerml02o?at_medium=RSS&at_campaign=rss",
+      "description": "South Asian correspondent Azadeh Moshiri is at the site of a tunnel where rescuers still hope to find survivors following the Nepal-Tibet floods.",
+      "pubDate": "Thu, 03 Sep 2026 19:56:34 GMT"
+    },
+    {
+      "title": "Watch: Gloria Steinem dedicated her life to fight for women's equality",
+      "link": "https://www.bbc.co.uk/news/videos/c9865l26097o?at_medium=RSS&at_campaign=rss",
+      "description": "The feminist icon who became leader of the women's liberation movement in the US died on Wednesday at the age of 92, according to her foundation.",
+      "pubDate": "Thu, 03 Sep 2026 17:35:31 GMT"
     },
     {
       "title": "US man struck by lightning describes 'horrific' experience",
@@ -178,34 +166,10 @@
       "pubDate": "Thu, 03 Sep 2026 08:14:16 GMT"
     },
     {
-      "title": "'Nothing but mud and silt' - the village swept away by deadly floods in Nepal",
-      "link": "https://www.bbc.co.uk/news/videos/cn0j4k45z32o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC South Asia correspondent Azadeh Moshiri spoke to a local, who is still waiting for his his wife's body to be retrieved, as rescue efforts continue.",
-      "pubDate": "Wed, 02 Sep 2026 15:16:42 GMT"
-    },
-    {
       "title": "Why US troops have a history in this raucous Thai city",
       "link": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
       "description": "The BBC's Jonathan Head looks at the historical echoes of US troops arriving in Pattaya, a beach resort famous for its racy bars.",
       "pubDate": "Wed, 02 Sep 2026 07:18:39 GMT"
-    },
-    {
-      "title": "Cup noodles made with cold water? BBC tries Japan's viral snack",
-      "link": "https://www.bbc.co.uk/news/videos/ce30lqln299o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Tokyo correspondent Kurumi Mori tries Japan's latest food trend, instant noodles made using cold water.",
-      "pubDate": "Tue, 01 Sep 2026 22:02:14 GMT"
-    },
-    {
-      "title": "Norway's new king takes oath as mourners pay respects to his late father",
-      "link": "https://www.bbc.co.uk/news/videos/ceq8945e71ro?at_medium=RSS&at_campaign=rss",
-      "description": "Norway's new King takes the first major step of his reign as his father, the late King Harald V, lies in state at the Royal Palace.",
-      "pubDate": "Tue, 01 Sep 2026 14:06:58 GMT"
-    },
-    {
-      "title": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
-      "link": "https://www.bbc.co.uk/news/videos/ckg7yrwp70qo?at_medium=RSS&at_campaign=rss",
-      "description": "The rapper's killing became one of popular culture's great mysteries, with countless theories but no arrests until 2023.",
-      "pubDate": "Tue, 01 Sep 2026 00:31:20 GMT"
     }
   ]
 }
