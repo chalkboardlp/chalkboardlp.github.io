@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-04T14:21:41.309457+00:00",
+  "updated": "2026-09-04T18:24:30.567070+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Bogotá’s Sacred Music Festival Turns 15 With ‘La Concordia’",
+      "link": "https://thecitypaperbogota.com/culture/bogotas-sacred-music-festival-turns-15-with-la-concordia/",
+      "description": "Bogotá&#8217;s iconic Teatro Colón is the starting point for a month-long exploration of music, spirituality and the many ways in which cultures find common ground in a city of contrasts. The occasion is the 15th edition of the International Sacred Music Festival, which opens on under a theme that is both musical and quietly ambitious: [&#8230;]",
+      "pubDate": "Fri, 04 Sep 2026 16:31:26 +0000"
+    },
     {
       "title": "Colombia’s ‘Miracle’ Chick Offers Hope for a Bird on the Brink",
       "link": "https://thecitypaperbogota.com/news/colombias-miracle-chick-offers-hope-for-a-bird-on-the-brink/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/colombias-president-elect-urges-international-oversight-for-democratic-transition/",
       "description": "Colombia&#8217;s president-elect, Abelardo de la Espriella, has appealed to the international community to closely monitor the country&#8217;s democratic transition, as outgoing President Gustavo Petro and opposition leader Iván Cepeda attempt to undermine the August 7 transfer of power. In a statement released by his transition team on Wednesday, the criminal defense lawyer said he had [&#8230;]",
       "pubDate": "Wed, 08 Jul 2026 16:15:26 +0000"
-    },
-    {
-      "title": "Colombia’s Mayors back De la Espriella’s anti-crime crackdown",
-      "link": "https://thecitypaperbogota.com/news/colombias-mayors-back-de-la-espriellas-anti-crime-crackdown/",
-      "description": "Colombia&#8217;s President-elect Abelardo de la Espriella said he will sign a decree on Aug. 7, the day he is sworn into office, creating special &#8220;Urban Security Defense Blocs&#8221; in the country&#8217;s largest cities as part of a sweeping security crackdown and a broader shift away from the outgoing government&#8217;s security strategy. De la Espriella, who [&#8230;]",
-      "pubDate": "Mon, 06 Jul 2026 17:03:54 +0000"
     }
   ]
 }
