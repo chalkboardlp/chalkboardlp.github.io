@@ -1,13 +1,19 @@
 {
-  "updated": "2026-09-04T00:05:59.267868+00:00",
+  "updated": "2026-09-04T04:31:26.181220+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
-      "link": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&at_campaign=rss",
-      "description": "The US president says the UK was not \"there to help me\" in his ongoing war with Iran.",
-      "pubDate": "Thu, 03 Sep 2026 16:16:49 GMT"
+      "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
+      "link": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
+      "description": "The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.",
+      "pubDate": "Fri, 04 Sep 2026 00:54:46 GMT"
+    },
+    {
+      "title": "Argentina to sanction oil firms as Falklands dispute with UK heats up",
+      "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+      "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
+      "pubDate": "Fri, 04 Sep 2026 04:04:42 GMT"
     },
     {
       "title": "US investigating if missile hit Iran wedding, Vance says",
@@ -20,6 +26,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
       "description": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
       "pubDate": "Thu, 03 Sep 2026 06:01:54 GMT"
+    },
+    {
+      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+      "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
+      "pubDate": "Fri, 04 Sep 2026 01:20:32 GMT"
     },
     {
       "title": "Transplanted pig kidney works in US man's body for record 271 days",
@@ -61,7 +73,7 @@
       "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
       "link": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
       "description": "The ICE officer faces federal charges related to the January shooting in Minnesota.",
-      "pubDate": "Thu, 03 Sep 2026 20:49:05 GMT"
+      "pubDate": "Fri, 04 Sep 2026 01:26:23 GMT"
     },
     {
       "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
@@ -92,12 +104,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
       "description": "The US vice-president recently mused with a Christian podcast host on whether the end of the world was nigh.",
       "pubDate": "Thu, 03 Sep 2026 13:07:02 GMT"
-    },
-    {
-      "title": "Kenyan president orders crackdown on foreigners operating small businesses",
-      "link": "https://www.bbc.co.uk/news/articles/c9861x5pzgxo?at_medium=RSS&at_campaign=rss",
-      "description": "It comes amid concerns over the growing number of traders from neighbouring countries.",
-      "pubDate": "Thu, 03 Sep 2026 10:59:14 GMT"
     },
     {
       "title": "How Gloria Steinem changed the lives of generations of women",
@@ -148,6 +154,12 @@
       "pubDate": "Wed, 02 Sep 2026 23:53:28 GMT"
     },
     {
+      "title": "Could robots be the future of theme parks?",
+      "link": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
+      "description": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.",
+      "pubDate": "Fri, 04 Sep 2026 02:02:02 GMT"
+    },
+    {
       "title": "Nepal tunnel rescuers hunt for survivors with rafts and drone",
       "link": "https://www.bbc.co.uk/news/videos/ckg0eerml02o?at_medium=RSS&at_campaign=rss",
       "description": "South Asian correspondent Azadeh Moshiri is at the site of a tunnel where rescuers still hope to find survivors following the Nepal-Tibet floods.",
@@ -170,12 +182,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cdx02dw785vo?at_medium=RSS&at_campaign=rss",
       "description": "The facility will be the first of its kind at the White House - though critics feel it alters the property's historic grounds.",
       "pubDate": "Thu, 03 Sep 2026 08:14:16 GMT"
-    },
-    {
-      "title": "Why US troops have a history in this raucous Thai city",
-      "link": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Jonathan Head looks at the historical echoes of US troops arriving in Pattaya, a beach resort famous for its racy bars.",
-      "pubDate": "Wed, 02 Sep 2026 07:18:39 GMT"
     }
   ]
 }
