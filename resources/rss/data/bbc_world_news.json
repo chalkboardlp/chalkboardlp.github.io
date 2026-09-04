@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-04T04:31:26.181220+00:00",
+  "updated": "2026-09-04T09:38:34.023816+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Nepal says it will need billions in funding to rebuild after flash floods",
+      "link": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
+      "description": "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris.",
+      "pubDate": "Fri, 04 Sep 2026 02:20:37 GMT"
+    },
     {
       "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
       "link": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
@@ -10,10 +16,10 @@
       "pubDate": "Fri, 04 Sep 2026 00:54:46 GMT"
     },
     {
-      "title": "Argentina to sanction oil firms as Falklands dispute with UK heats up",
+      "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
       "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
       "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-      "pubDate": "Fri, 04 Sep 2026 04:04:42 GMT"
+      "pubDate": "Fri, 04 Sep 2026 06:52:29 GMT"
     },
     {
       "title": "US investigating if missile hit Iran wedding, Vance says",
@@ -22,28 +28,28 @@
       "pubDate": "Thu, 03 Sep 2026 22:19:59 GMT"
     },
     {
-      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
-      "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
-      "description": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
-      "pubDate": "Thu, 03 Sep 2026 06:01:54 GMT"
-    },
-    {
-      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-      "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
-      "pubDate": "Fri, 04 Sep 2026 01:20:32 GMT"
-    },
-    {
       "title": "Transplanted pig kidney works in US man's body for record 271 days",
       "link": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
       "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
       "pubDate": "Thu, 03 Sep 2026 22:31:23 GMT"
     },
     {
-      "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-      "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-      "description": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
-      "pubDate": "Thu, 03 Sep 2026 18:04:34 GMT"
+      "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+      "link": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
+      "description": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
+      "pubDate": "Fri, 04 Sep 2026 04:06:41 GMT"
+    },
+    {
+      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+      "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.",
+      "pubDate": "Fri, 04 Sep 2026 07:00:10 GMT"
+    },
+    {
+      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+      "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+      "description": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
+      "pubDate": "Thu, 03 Sep 2026 06:01:54 GMT"
     },
     {
       "title": "Around 2,000 fall ill in Indonesia after eating free school meals",
@@ -58,7 +64,13 @@
       "pubDate": "Thu, 03 Sep 2026 18:14:57 GMT"
     },
     {
-      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
+      "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+      "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+      "description": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
+      "pubDate": "Thu, 03 Sep 2026 18:04:34 GMT"
+    },
+    {
+      "title": "Palestinian teens killed during settler attack on West Bank village",
       "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
       "description": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
       "pubDate": "Thu, 03 Sep 2026 15:05:57 GMT"
@@ -106,16 +118,34 @@
       "pubDate": "Thu, 03 Sep 2026 13:07:02 GMT"
     },
     {
-      "title": "How Gloria Steinem changed the lives of generations of women",
-      "link": "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo?at_medium=RSS&at_campaign=rss",
-      "description": "The trailblazing feminist spoke out for the legalisation of abortion, same-sex marriage and equal pay for women - but her activism was not without backlash.",
-      "pubDate": "Thu, 03 Sep 2026 11:26:07 GMT"
+      "title": "After renewed US-Iran strikes - how could the conflict end?",
+      "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
+      "description": "Three experts give their BBC their thoughts on whether an imminent end to the conflict is likely.",
+      "pubDate": "Fri, 04 Sep 2026 09:14:57 GMT"
+    },
+    {
+      "title": "Girl group Katseye are missing two members, but their tour still dazzles",
+      "link": "https://www.bbc.co.uk/news/articles/cqxv49z84ppo?at_medium=RSS&at_campaign=rss",
+      "description": "Reduced but resilient, girl group Katseye received a hero's welcome in London.",
+      "pubDate": "Fri, 04 Sep 2026 00:19:53 GMT"
     },
     {
       "title": "AI data centres are booming in Australia - but at what cost?",
       "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
       "description": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
       "pubDate": "Thu, 03 Sep 2026 18:32:03 GMT"
+    },
+    {
+      "title": "Kenya's chai lovers are not happy as the nation's cows run dry",
+      "link": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo?at_medium=RSS&at_campaign=rss",
+      "description": "Supermarket shelves are emptying, sellers are rationing supplies and prices are rising.",
+      "pubDate": "Fri, 04 Sep 2026 00:28:56 GMT"
+    },
+    {
+      "title": "How Gloria Steinem changed the lives of generations of women",
+      "link": "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo?at_medium=RSS&at_campaign=rss",
+      "description": "The trailblazing feminist spoke out for the legalisation of abortion, same-sex marriage and equal pay for women - but her activism was not without backlash.",
+      "pubDate": "Thu, 03 Sep 2026 11:26:07 GMT"
     },
     {
       "title": "Why Nepal floods should worry India",
@@ -136,22 +166,16 @@
       "pubDate": "Thu, 03 Sep 2026 11:49:50 GMT"
     },
     {
-      "title": "US sailors go shopping before hitting the bars in Thailand after 250-day voyage",
-      "link": "https://www.bbc.co.uk/news/articles/cj9x2k8n3y1o?at_medium=RSS&at_campaign=rss",
-      "description": "With military haircuts and moustaches, the US sailors stand out against the flip-flops of the usual Pattaya crowd.",
-      "pubDate": "Thu, 03 Sep 2026 11:33:09 GMT"
+      "title": "Watch: Moment workers are rescued from Nepal tunnel",
+      "link": "https://www.bbc.co.uk/news/videos/cnvl5e6vy8eo?at_medium=RSS&at_campaign=rss",
+      "description": "Rescuers pull two people from a hydropower tunnel more than a week after a massive flash flood devastated the Nepal-China border.",
+      "pubDate": "Fri, 04 Sep 2026 04:45:54 GMT"
     },
     {
-      "title": "Stingy bosses and spare change: How much should you give to the office whip-round?",
-      "link": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
-      "description": "Office whip-rounds are a staple of working life but they can raise a lot of awkward questions.",
-      "pubDate": "Wed, 02 Sep 2026 23:25:50 GMT"
-    },
-    {
-      "title": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
-      "link": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss",
-      "description": "The 46-year-old figure of international intrigue has an apparent knack for being in the right place at the right time.",
-      "pubDate": "Wed, 02 Sep 2026 23:53:28 GMT"
+      "title": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
+      "link": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss",
+      "description": "The jury now faces a seventh day of deliberations in the triple-murder trial.",
+      "pubDate": "Fri, 04 Sep 2026 00:55:45 GMT"
     },
     {
       "title": "Could robots be the future of theme parks?",
@@ -160,28 +184,16 @@
       "pubDate": "Fri, 04 Sep 2026 02:02:02 GMT"
     },
     {
-      "title": "Nepal tunnel rescuers hunt for survivors with rafts and drone",
-      "link": "https://www.bbc.co.uk/news/videos/ckg0eerml02o?at_medium=RSS&at_campaign=rss",
-      "description": "South Asian correspondent Azadeh Moshiri is at the site of a tunnel where rescuers still hope to find survivors following the Nepal-Tibet floods.",
-      "pubDate": "Thu, 03 Sep 2026 19:56:34 GMT"
+      "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+      "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
+      "description": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
+      "pubDate": "Fri, 04 Sep 2026 08:23:05 GMT"
     },
     {
       "title": "Watch: Gloria Steinem dedicated her life to fight for women's equality",
       "link": "https://www.bbc.co.uk/news/videos/c9865l26097o?at_medium=RSS&at_campaign=rss",
       "description": "The feminist icon who became leader of the women's liberation movement in the US died on Wednesday at the age of 92, according to her foundation.",
       "pubDate": "Thu, 03 Sep 2026 17:35:31 GMT"
-    },
-    {
-      "title": "US man struck by lightning describes 'horrific' experience",
-      "link": "https://www.bbc.co.uk/news/videos/cz7z93zde3po?at_medium=RSS&at_campaign=rss",
-      "description": "Thomas Fahmy says he saw \"a bright white flash\" and instantly fell to the ground.",
-      "pubDate": "Thu, 03 Sep 2026 10:01:33 GMT"
-    },
-    {
-      "title": "Another White House renovation? A look at Trump's new helipad",
-      "link": "https://www.bbc.co.uk/news/videos/cdx02dw785vo?at_medium=RSS&at_campaign=rss",
-      "description": "The facility will be the first of its kind at the White House - though critics feel it alters the property's historic grounds.",
-      "pubDate": "Thu, 03 Sep 2026 08:14:16 GMT"
     }
   ]
 }
