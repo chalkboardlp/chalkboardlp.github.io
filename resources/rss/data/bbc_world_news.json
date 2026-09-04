@@ -1,37 +1,31 @@
 {
-  "updated": "2026-09-04T09:38:34.023816+00:00",
+  "updated": "2026-09-04T14:21:39.544172+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Nepal says it will need billions in funding to rebuild after flash floods",
-      "link": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
-      "description": "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris.",
-      "pubDate": "Fri, 04 Sep 2026 02:20:37 GMT"
+      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+      "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+      "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+      "pubDate": "Fri, 04 Sep 2026 14:17:35 GMT"
     },
     {
-      "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
-      "link": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
-      "description": "The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.",
-      "pubDate": "Fri, 04 Sep 2026 00:54:46 GMT"
+      "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+      "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
+      "description": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
+      "pubDate": "Fri, 04 Sep 2026 08:23:05 GMT"
     },
     {
-      "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
-      "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-      "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-      "pubDate": "Fri, 04 Sep 2026 06:52:29 GMT"
+      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+      "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+      "description": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
+      "pubDate": "Fri, 04 Sep 2026 11:54:51 GMT"
     },
     {
-      "title": "US investigating if missile hit Iran wedding, Vance says",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
-      "description": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
-      "pubDate": "Thu, 03 Sep 2026 22:19:59 GMT"
-    },
-    {
-      "title": "Transplanted pig kidney works in US man's body for record 271 days",
-      "link": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-      "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
-      "pubDate": "Thu, 03 Sep 2026 22:31:23 GMT"
+      "title": "US diesel prices hit an all-time-high",
+      "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+      "description": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
+      "pubDate": "Fri, 04 Sep 2026 10:52:56 GMT"
     },
     {
       "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
@@ -40,10 +34,34 @@
       "pubDate": "Fri, 04 Sep 2026 04:06:41 GMT"
     },
     {
+      "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
+      "link": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
+      "description": "King Oyo died in the US last week aged 34 after receiving treatment for an aggressive form of cancer.",
+      "pubDate": "Fri, 04 Sep 2026 13:00:44 GMT"
+    },
+    {
+      "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
+      "description": "The behaviour of influencers and content creators has become a major talking point at this year's US Open amid incidents of matches being disrupted.",
+      "pubDate": "Fri, 04 Sep 2026 07:16:07 GMT"
+    },
+    {
+      "title": "Transplanted pig kidney works in US man's body for record 271 days",
+      "link": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+      "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+      "pubDate": "Thu, 03 Sep 2026 22:31:23 GMT"
+    },
+    {
       "title": "Volkswagen board approves plan to cut another 50,000 jobs",
       "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
       "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.",
       "pubDate": "Fri, 04 Sep 2026 07:00:10 GMT"
+    },
+    {
+      "title": "US investigating if missile hit Iran wedding, Vance says",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+      "description": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
+      "pubDate": "Thu, 03 Sep 2026 22:19:59 GMT"
     },
     {
       "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
@@ -70,57 +88,9 @@
       "pubDate": "Thu, 03 Sep 2026 18:04:34 GMT"
     },
     {
-      "title": "Palestinian teens killed during settler attack on West Bank village",
-      "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-      "description": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
-      "pubDate": "Thu, 03 Sep 2026 15:05:57 GMT"
-    },
-    {
-      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
-      "link": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
-      "description": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
-      "pubDate": "Thu, 03 Sep 2026 09:37:34 GMT"
-    },
-    {
-      "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
-      "link": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
-      "description": "The ICE officer faces federal charges related to the January shooting in Minnesota.",
-      "pubDate": "Fri, 04 Sep 2026 01:26:23 GMT"
-    },
-    {
-      "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
-      "link": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
-      "description": "Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind.",
-      "pubDate": "Thu, 03 Sep 2026 10:37:06 GMT"
-    },
-    {
-      "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
-      "link": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
-      "description": "Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving.",
-      "pubDate": "Thu, 03 Sep 2026 13:54:49 GMT"
-    },
-    {
-      "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
-      "description": "Pedro Sánchez tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities.",
-      "pubDate": "Thu, 03 Sep 2026 12:18:07 GMT"
-    },
-    {
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-      "description": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
-      "pubDate": "Thu, 03 Sep 2026 15:35:47 GMT"
-    },
-    {
-      "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
-      "description": "The US vice-president recently mused with a Christian podcast host on whether the end of the world was nigh.",
-      "pubDate": "Thu, 03 Sep 2026 13:07:02 GMT"
-    },
-    {
-      "title": "After renewed US-Iran strikes - how could the conflict end?",
+      "title": "How could US-Iran conflict end? Three experts give their views",
       "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
-      "description": "Three experts give their BBC their thoughts on whether an imminent end to the conflict is likely.",
+      "description": "After renewed strikes this week, does either side have an exit strategy?",
       "pubDate": "Fri, 04 Sep 2026 09:14:57 GMT"
     },
     {
@@ -166,10 +136,22 @@
       "pubDate": "Thu, 03 Sep 2026 11:49:50 GMT"
     },
     {
+      "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
+      "description": "Palestinian teenagers Omar al-Naasan and Khalil Abu Alia were shot dead when Israeli settlers and soldiers entered a village in the occupied West Bank.",
+      "pubDate": "Fri, 04 Sep 2026 12:39:05 GMT"
+    },
+    {
       "title": "Watch: Moment workers are rescued from Nepal tunnel",
       "link": "https://www.bbc.co.uk/news/videos/cnvl5e6vy8eo?at_medium=RSS&at_campaign=rss",
       "description": "Rescuers pull two people from a hydropower tunnel more than a week after a massive flash flood devastated the Nepal-China border.",
       "pubDate": "Fri, 04 Sep 2026 04:45:54 GMT"
+    },
+    {
+      "title": "Nepal says it will need billions in funding to rebuild after flash floods",
+      "link": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
+      "description": "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris.",
+      "pubDate": "Fri, 04 Sep 2026 02:20:37 GMT"
     },
     {
       "title": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
@@ -182,18 +164,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
       "description": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.",
       "pubDate": "Fri, 04 Sep 2026 02:02:02 GMT"
-    },
-    {
-      "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
-      "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
-      "description": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
-      "pubDate": "Fri, 04 Sep 2026 08:23:05 GMT"
-    },
-    {
-      "title": "Watch: Gloria Steinem dedicated her life to fight for women's equality",
-      "link": "https://www.bbc.co.uk/news/videos/c9865l26097o?at_medium=RSS&at_campaign=rss",
-      "description": "The feminist icon who became leader of the women's liberation movement in the US died on Wednesday at the age of 92, according to her foundation.",
-      "pubDate": "Thu, 03 Sep 2026 17:35:31 GMT"
     }
   ]
 }
