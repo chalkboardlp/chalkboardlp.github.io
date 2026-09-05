@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T09:04:24.702166+00:00",
+  "updated": "2026-09-05T12:42:21.927408+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -10,10 +10,10 @@
       "pubDate": "Fri, 04 Sep 2026 22:48:38 GMT"
     },
     {
-      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-      "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-      "description": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-      "pubDate": "Sat, 05 Sep 2026 04:28:21 GMT"
+      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "description": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+      "pubDate": "Sat, 05 Sep 2026 12:23:00 GMT"
     },
     {
       "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
@@ -22,22 +22,34 @@
       "pubDate": "Fri, 04 Sep 2026 16:49:15 GMT"
     },
     {
+      "title": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
+      "link": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss",
+      "description": "More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel.",
+      "pubDate": "Fri, 04 Sep 2026 12:30:56 GMT"
+    },
+    {
+      "title": "Trump signs order to remove endangered species protection for grey wolves",
+      "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
+      "description": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
+      "pubDate": "Sat, 05 Sep 2026 09:12:48 GMT"
+    },
+    {
       "title": "UN votes to adopt new world map to reflect Africa's true size",
       "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
       "description": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
       "pubDate": "Sat, 05 Sep 2026 00:53:11 GMT"
     },
     {
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-      "pubDate": "Sat, 05 Sep 2026 08:41:38 GMT"
-    },
-    {
       "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
       "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
       "description": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
       "pubDate": "Fri, 04 Sep 2026 23:07:23 GMT"
+    },
+    {
+      "title": "At least two dead in blast at Bolivia military barracks",
+      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+      "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
+      "pubDate": "Sat, 05 Sep 2026 08:41:38 GMT"
     },
     {
       "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
@@ -52,16 +64,22 @@
       "pubDate": "Fri, 04 Sep 2026 14:40:00 GMT"
     },
     {
-      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
-      "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
-      "description": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
-      "pubDate": "Fri, 04 Sep 2026 11:54:51 GMT"
+      "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
+      "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
+      "description": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations.",
+      "pubDate": "Sat, 05 Sep 2026 07:20:17 GMT"
     },
     {
       "title": "Argentine couple to return Nazi-looted painting to rightful owner",
       "link": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
       "description": "The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near Buenos Aires.",
       "pubDate": "Fri, 04 Sep 2026 17:14:21 GMT"
+    },
+    {
+      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+      "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+      "description": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
+      "pubDate": "Fri, 04 Sep 2026 11:54:51 GMT"
     },
     {
       "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
@@ -73,7 +91,7 @@
       "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
       "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
       "description": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
-      "pubDate": "Sat, 05 Sep 2026 06:37:46 GMT"
+      "pubDate": "Sat, 05 Sep 2026 10:02:29 GMT"
     },
     {
       "title": "Why are European countries moving their gold out of North America?",
@@ -82,28 +100,22 @@
       "pubDate": "Sat, 05 Sep 2026 01:42:09 GMT"
     },
     {
-      "title": "How much can Canada fight back in its trade war with the US?",
-      "link": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
-      "description": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
-      "pubDate": "Sat, 05 Sep 2026 02:13:21 GMT"
-    },
-    {
       "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
       "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
       "description": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods.",
       "pubDate": "Fri, 04 Sep 2026 22:02:52 GMT"
     },
     {
-      "title": "Flock says its cameras make US safer - so why are they being sabotaged?",
-      "link": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
-      "description": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network.",
-      "pubDate": "Sat, 05 Sep 2026 01:16:27 GMT"
-    },
-    {
       "title": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
       "link": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
       "description": "Russian forces were brought in to help defeat jihadists but they also defend the military leadership in Niger.",
       "pubDate": "Sat, 05 Sep 2026 04:03:51 GMT"
+    },
+    {
+      "title": "Flock says its cameras make US safer - so why are they being sabotaged?",
+      "link": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
+      "description": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network.",
+      "pubDate": "Sat, 05 Sep 2026 01:16:27 GMT"
     },
     {
       "title": "How could US-Iran conflict end? Three experts give their views",
@@ -124,6 +136,12 @@
       "pubDate": "Fri, 04 Sep 2026 00:28:56 GMT"
     },
     {
+      "title": "How might Lindsay Clancy’s case have unfolded in another country?",
+      "link": "https://www.bbc.co.uk/news/videos/cqlw6q0xv4zo?at_medium=RSS&at_campaign=rss",
+      "description": "The US mother was on trial for strangling her three children. In other western countries, there’s a specific law for mums who kill their young children.",
+      "pubDate": "Sat, 05 Sep 2026 09:12:34 GMT"
+    },
+    {
       "title": "How the Lindsay Clancy trial gripped America - and ultimately fell apart",
       "link": "https://www.bbc.co.uk/news/videos/cr7dzr2e789o?at_medium=RSS&at_campaign=rss",
       "description": "A Massachusetts judge has declared a mistrial in the murder case against the US mother after jurors were unable to reach a unanimous verdict.",
@@ -140,6 +158,12 @@
       "link": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
       "description": "Palestinian teenagers Omar al-Naasan and Khalil Abu Alia were shot dead when Israeli settlers and soldiers entered a village in the occupied West Bank.",
       "pubDate": "Fri, 04 Sep 2026 12:39:05 GMT"
+    },
+    {
+      "title": "How much can Canada fight back in its trade war with the US?",
+      "link": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
+      "description": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
+      "pubDate": "Sat, 05 Sep 2026 02:13:21 GMT"
     },
     {
       "title": "Watch: Moment workers are rescued from Nepal tunnel",
