@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-05T16:04:19.272255+00:00",
+  "updated": "2026-09-05T18:17:43.695754+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "description": "US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships.",
-      "pubDate": "Sat, 05 Sep 2026 15:14:21 GMT"
+      "title": "US envoys meet Putin in Moscow for Ukraine talks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "description": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
+      "pubDate": "Sat, 05 Sep 2026 17:18:31 GMT"
     },
     {
-      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "description": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
-      "pubDate": "Sat, 05 Sep 2026 15:05:14 GMT"
+      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "description": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
+      "pubDate": "Sat, 05 Sep 2026 17:15:05 GMT"
     },
     {
       "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
@@ -31,7 +31,7 @@
       "title": "What different world maps get right - and what they get wrong",
       "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
       "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
-      "pubDate": "Sat, 05 Sep 2026 13:46:02 GMT"
+      "pubDate": "Sat, 05 Sep 2026 16:14:24 GMT"
     },
     {
       "title": "Trump signs order to remove endangered species protection for grey wolves",
