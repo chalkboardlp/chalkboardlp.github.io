@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T20:26:51.326565+00:00",
+  "updated": "2026-09-05T22:54:52.419966+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -7,13 +7,13 @@
       "title": "US envoys meet Putin in Moscow for Ukraine talks",
       "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
       "description": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
-      "pubDate": "Sat, 05 Sep 2026 20:15:49 GMT"
+      "pubDate": "Sat, 05 Sep 2026 21:39:02 GMT"
     },
     {
-      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
       "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "description": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
-      "pubDate": "Sat, 05 Sep 2026 18:48:37 GMT"
+      "description": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+      "pubDate": "Sat, 05 Sep 2026 22:44:07 GMT"
     },
     {
       "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
@@ -26,6 +26,18 @@
       "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
       "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
       "pubDate": "Sat, 05 Sep 2026 15:22:41 GMT"
+    },
+    {
+      "title": "Prince William to attend King Harald's funeral in Norway",
+      "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+      "description": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
+      "pubDate": "Sat, 05 Sep 2026 21:00:02 GMT"
+    },
+    {
+      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+      "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "pubDate": "Sat, 05 Sep 2026 21:29:38 GMT"
     },
     {
       "title": "What different world maps get right - and what they get wrong",
