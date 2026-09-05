@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T04:26:50.984014+00:00",
+  "updated": "2026-09-05T09:04:24.702166+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -13,7 +13,7 @@
       "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
       "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
       "description": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-      "pubDate": "Fri, 04 Sep 2026 20:03:52 GMT"
+      "pubDate": "Sat, 05 Sep 2026 04:28:21 GMT"
     },
     {
       "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
@@ -31,7 +31,7 @@
       "title": "At least two dead in blast at Bolivia military barracks",
       "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
       "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-      "pubDate": "Sat, 05 Sep 2026 02:59:40 GMT"
+      "pubDate": "Sat, 05 Sep 2026 08:41:38 GMT"
     },
     {
       "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
@@ -52,12 +52,6 @@
       "pubDate": "Fri, 04 Sep 2026 14:40:00 GMT"
     },
     {
-      "title": "Tate brothers charged with further trafficking and sex crimes in Romania",
-      "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
-      "description": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations.",
-      "pubDate": "Sat, 05 Sep 2026 02:29:21 GMT"
-    },
-    {
       "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
       "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
       "description": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
@@ -76,22 +70,34 @@
       "pubDate": "Fri, 04 Sep 2026 13:00:44 GMT"
     },
     {
+      "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
+      "description": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
+      "pubDate": "Sat, 05 Sep 2026 06:37:46 GMT"
+    },
+    {
+      "title": "Why are European countries moving their gold out of North America?",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
+      "description": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
+      "pubDate": "Sat, 05 Sep 2026 01:42:09 GMT"
+    },
+    {
       "title": "How much can Canada fight back in its trade war with the US?",
       "link": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
       "description": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
       "pubDate": "Sat, 05 Sep 2026 02:13:21 GMT"
     },
     {
-      "title": "Flock says its cameras make US safer - so why are they being sabotaged?",
-      "link": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
-      "description": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network.",
-      "pubDate": "Sat, 05 Sep 2026 01:16:27 GMT"
-    },
-    {
       "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
       "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
       "description": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods.",
       "pubDate": "Fri, 04 Sep 2026 22:02:52 GMT"
+    },
+    {
+      "title": "Flock says its cameras make US safer - so why are they being sabotaged?",
+      "link": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
+      "description": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network.",
+      "pubDate": "Sat, 05 Sep 2026 01:16:27 GMT"
     },
     {
       "title": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
@@ -116,6 +122,18 @@
       "link": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo?at_medium=RSS&at_campaign=rss",
       "description": "Supermarket shelves are emptying, sellers are rationing supplies and prices are rising.",
       "pubDate": "Fri, 04 Sep 2026 00:28:56 GMT"
+    },
+    {
+      "title": "How the Lindsay Clancy trial gripped America - and ultimately fell apart",
+      "link": "https://www.bbc.co.uk/news/videos/cr7dzr2e789o?at_medium=RSS&at_campaign=rss",
+      "description": "A Massachusetts judge has declared a mistrial in the murder case against the US mother after jurors were unable to reach a unanimous verdict.",
+      "pubDate": "Sat, 05 Sep 2026 01:26:29 GMT"
+    },
+    {
+      "title": "Why did USS Lincoln turn up in Thailand looking so rusty?",
+      "link": "https://www.bbc.co.uk/news/videos/c4gr9y1ny3xo?at_medium=RSS&at_campaign=rss",
+      "description": "When the USS Abraham Lincoln docked in Thailand this week some people were quick to criticise the condition it was in.",
+      "pubDate": "Sat, 05 Sep 2026 06:53:20 GMT"
     },
     {
       "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
