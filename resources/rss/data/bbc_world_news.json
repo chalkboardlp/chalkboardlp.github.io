@@ -1,8 +1,20 @@
 {
-  "updated": "2026-09-05T12:42:21.927408+00:00",
+  "updated": "2026-09-05T16:04:19.272255+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "description": "US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships.",
+      "pubDate": "Sat, 05 Sep 2026 15:14:21 GMT"
+    },
+    {
+      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "description": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+      "pubDate": "Sat, 05 Sep 2026 15:05:14 GMT"
+    },
     {
       "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
       "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
@@ -10,10 +22,22 @@
       "pubDate": "Fri, 04 Sep 2026 22:48:38 GMT"
     },
     {
-      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "description": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
-      "pubDate": "Sat, 05 Sep 2026 12:23:00 GMT"
+      "title": "At least two dead in blast at Bolivia military barracks",
+      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+      "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
+      "pubDate": "Sat, 05 Sep 2026 15:22:41 GMT"
+    },
+    {
+      "title": "What different world maps get right - and what they get wrong",
+      "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+      "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+      "pubDate": "Sat, 05 Sep 2026 13:46:02 GMT"
+    },
+    {
+      "title": "Trump signs order to remove endangered species protection for grey wolves",
+      "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
+      "description": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
+      "pubDate": "Sat, 05 Sep 2026 09:12:48 GMT"
     },
     {
       "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
@@ -28,28 +52,16 @@
       "pubDate": "Fri, 04 Sep 2026 12:30:56 GMT"
     },
     {
-      "title": "Trump signs order to remove endangered species protection for grey wolves",
-      "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-      "description": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
-      "pubDate": "Sat, 05 Sep 2026 09:12:48 GMT"
-    },
-    {
-      "title": "UN votes to adopt new world map to reflect Africa's true size",
-      "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
-      "description": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
-      "pubDate": "Sat, 05 Sep 2026 00:53:11 GMT"
-    },
-    {
       "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
       "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
       "description": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
       "pubDate": "Fri, 04 Sep 2026 23:07:23 GMT"
     },
     {
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-      "pubDate": "Sat, 05 Sep 2026 08:41:38 GMT"
+      "title": "UN votes to adopt new world map to reflect Africa's true size",
+      "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+      "description": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
+      "pubDate": "Sat, 05 Sep 2026 00:53:11 GMT"
     },
     {
       "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
@@ -103,7 +115,7 @@
       "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
       "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
       "description": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods.",
-      "pubDate": "Fri, 04 Sep 2026 22:02:52 GMT"
+      "pubDate": "Sat, 05 Sep 2026 14:07:38 GMT"
     },
     {
       "title": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
