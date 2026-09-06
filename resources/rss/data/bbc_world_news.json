@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-06T21:20:28.098332+00:00",
+  "updated": "2026-09-06T23:53:52.329330+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "German far-right set for big win in eastern state, projections show",
+      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
       "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "description": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
-      "pubDate": "Sun, 06 Sep 2026 20:45:11 GMT"
+      "description": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
+      "pubDate": "Sun, 06 Sep 2026 23:02:45 GMT"
     },
     {
       "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
@@ -106,6 +106,18 @@
       "pubDate": "Sat, 05 Sep 2026 07:20:17 GMT"
     },
     {
+      "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
+      "link": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
+      "description": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
+      "pubDate": "Sun, 06 Sep 2026 23:13:29 GMT"
+    },
+    {
+      "title": "India's high-stakes exam system faces a crisis of trust",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o?at_medium=RSS&at_campaign=rss",
+      "description": "As exam scandals persist, critics ask whether fixing the centralised testing agency is enough or if the model needs to change.",
+      "pubDate": "Sun, 06 Sep 2026 23:02:40 GMT"
+    },
+    {
       "title": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
       "link": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
       "description": "Haitian immigrants make up a large portion of the already overburdened home-care workforce.",
@@ -146,12 +158,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
       "description": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods.",
       "pubDate": "Sat, 05 Sep 2026 14:07:38 GMT"
-    },
-    {
-      "title": "Flock says its cameras make US safer - so why are they being sabotaged?",
-      "link": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
-      "description": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network.",
-      "pubDate": "Sat, 05 Sep 2026 01:16:27 GMT"
     },
     {
       "title": "Video shows damaged Amazon cargo plane after crash",
