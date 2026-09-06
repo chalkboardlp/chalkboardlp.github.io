@@ -1,19 +1,31 @@
 {
-  "updated": "2026-09-06T14:10:12.247178+00:00",
+  "updated": "2026-09-06T17:02:23.077206+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
+      "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "description": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
-      "pubDate": "Sun, 06 Sep 2026 13:16:21 GMT"
+      "description": "Steve Witkoff tells reporters the US team feels \"encouraged\" by a \"substantive\" and important discussion.",
+      "pubDate": "Sun, 06 Sep 2026 15:32:27 GMT"
     },
     {
-      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "description": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
-      "pubDate": "Sat, 05 Sep 2026 22:44:07 GMT"
+      "title": "German far-right set for big win in eastern state - projections",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+      "description": "Germany's AfD has hailed a \"historic result\" and is projected to win 44.5% of the vote, far ahead of the conservative CDU on 18.5%.",
+      "pubDate": "Sun, 06 Sep 2026 16:59:25 GMT"
+    },
+    {
+      "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "description": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+      "pubDate": "Sun, 06 Sep 2026 16:00:21 GMT"
+    },
+    {
+      "title": "Dozens feared trapped in collapsed building in Delhi",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+      "description": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
+      "pubDate": "Sun, 06 Sep 2026 16:54:34 GMT"
     },
     {
       "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
@@ -22,16 +34,10 @@
       "pubDate": "Sun, 06 Sep 2026 08:05:22 GMT"
     },
     {
-      "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-      "description": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-      "pubDate": "Sun, 06 Sep 2026 09:56:39 GMT"
-    },
-    {
-      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-      "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
-      "description": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
-      "pubDate": "Sun, 06 Sep 2026 01:54:29 GMT"
+      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "description": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+      "pubDate": "Sat, 05 Sep 2026 22:44:07 GMT"
     },
     {
       "title": "Prince William to attend King Harald's funeral in Norway",
