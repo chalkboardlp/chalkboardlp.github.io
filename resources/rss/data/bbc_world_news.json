@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-06T17:02:23.077206+00:00",
+  "updated": "2026-09-06T19:10:09.949635+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
+      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "description": "Steve Witkoff tells reporters the US team feels \"encouraged\" by a \"substantive\" and important discussion.",
-      "pubDate": "Sun, 06 Sep 2026 15:32:27 GMT"
+      "description": "Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+      "pubDate": "Sun, 06 Sep 2026 18:33:50 GMT"
     },
     {
-      "title": "German far-right set for big win in eastern state - projections",
+      "title": "German far-right set for big win in eastern state, projections show",
       "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "description": "Germany's AfD has hailed a \"historic result\" and is projected to win 44.5% of the vote, far ahead of the conservative CDU on 18.5%.",
-      "pubDate": "Sun, 06 Sep 2026 16:59:25 GMT"
+      "description": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
+      "pubDate": "Sun, 06 Sep 2026 19:05:07 GMT"
     },
     {
       "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
@@ -34,10 +34,10 @@
       "pubDate": "Sun, 06 Sep 2026 08:05:22 GMT"
     },
     {
-      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "description": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
-      "pubDate": "Sat, 05 Sep 2026 22:44:07 GMT"
+      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+      "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+      "description": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
+      "pubDate": "Sun, 06 Sep 2026 17:00:56 GMT"
     },
     {
       "title": "Prince William to attend King Harald's funeral in Norway",
