@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-06T00:56:38.563469+00:00",
+  "updated": "2026-09-06T05:57:10.171160+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "US envoys meet Putin in Moscow for Ukraine talks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "description": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
-      "pubDate": "Sat, 05 Sep 2026 21:39:02 GMT"
+      "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "description": "Steve Witkoff and Jared Kushner left Moscow having \"discussed substantive plans for next steps\" with Putin, according to the White House.",
+      "pubDate": "Sun, 06 Sep 2026 02:24:16 GMT"
     },
     {
       "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
@@ -19,13 +19,19 @@
       "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
       "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
       "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-      "pubDate": "Sat, 05 Sep 2026 21:29:38 GMT"
+      "pubDate": "Sun, 06 Sep 2026 05:04:04 GMT"
     },
     {
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-      "pubDate": "Sat, 05 Sep 2026 15:22:41 GMT"
+      "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "description": "More than 20,000 passengers are stranded after ash was detected in airspace near Jakarta following volcanic eruptions.",
+      "pubDate": "Sun, 06 Sep 2026 05:12:44 GMT"
+    },
+    {
+      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
+      "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
+      "description": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
+      "pubDate": "Sun, 06 Sep 2026 01:54:29 GMT"
     },
     {
       "title": "Prince William to attend King Harald's funeral in Norway",
@@ -40,16 +46,16 @@
       "pubDate": "Fri, 04 Sep 2026 22:48:38 GMT"
     },
     {
-      "title": "What different world maps get right - and what they get wrong",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-      "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
-      "pubDate": "Sat, 05 Sep 2026 16:14:24 GMT"
-    },
-    {
       "title": "Trump signs order to remove endangered species protection for grey wolves",
       "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
       "description": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
       "pubDate": "Sat, 05 Sep 2026 09:12:48 GMT"
+    },
+    {
+      "title": "At least two dead in blast at Bolivia military barracks",
+      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+      "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
+      "pubDate": "Sat, 05 Sep 2026 15:22:41 GMT"
     },
     {
       "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
@@ -82,34 +88,10 @@
       "pubDate": "Fri, 04 Sep 2026 16:02:32 GMT"
     },
     {
-      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-      "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
-      "description": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
-      "pubDate": "Fri, 04 Sep 2026 14:40:00 GMT"
-    },
-    {
       "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
       "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
       "description": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations.",
       "pubDate": "Sat, 05 Sep 2026 07:20:17 GMT"
-    },
-    {
-      "title": "Argentine couple to return Nazi-looted painting to rightful owner",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
-      "description": "The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near Buenos Aires.",
-      "pubDate": "Fri, 04 Sep 2026 17:14:21 GMT"
-    },
-    {
-      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
-      "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
-      "description": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
-      "pubDate": "Fri, 04 Sep 2026 11:54:51 GMT"
-    },
-    {
-      "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
-      "link": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
-      "description": "King Oyo died in the US last week aged 34 after receiving treatment for an aggressive form of cancer.",
-      "pubDate": "Fri, 04 Sep 2026 13:00:44 GMT"
     },
     {
       "title": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
@@ -130,6 +112,12 @@
       "pubDate": "Sat, 05 Sep 2026 23:20:00 GMT"
     },
     {
+      "title": "What different world maps get right - and what they get wrong",
+      "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+      "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+      "pubDate": "Sat, 05 Sep 2026 16:14:24 GMT"
+    },
+    {
       "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
       "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
       "description": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
@@ -146,12 +134,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
       "description": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods.",
       "pubDate": "Sat, 05 Sep 2026 14:07:38 GMT"
-    },
-    {
-      "title": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
-      "description": "Russian forces were brought in to help defeat jihadists but they also defend the military leadership in Niger.",
-      "pubDate": "Sat, 05 Sep 2026 04:03:51 GMT"
     },
     {
       "title": "Flock says its cameras make US safer - so why are they being sabotaged?",
