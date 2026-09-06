@@ -1,19 +1,25 @@
 {
-  "updated": "2026-09-06T19:10:09.949635+00:00",
+  "updated": "2026-09-06T21:20:28.098332+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "description": "Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
-      "pubDate": "Sun, 06 Sep 2026 18:33:50 GMT"
-    },
-    {
       "title": "German far-right set for big win in eastern state, projections show",
       "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
       "description": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
-      "pubDate": "Sun, 06 Sep 2026 19:05:07 GMT"
+      "pubDate": "Sun, 06 Sep 2026 20:45:11 GMT"
+    },
+    {
+      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "description": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+      "pubDate": "Sun, 06 Sep 2026 20:41:58 GMT"
+    },
+    {
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+      "description": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
+      "pubDate": "Sun, 06 Sep 2026 20:52:12 GMT"
     },
     {
       "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
@@ -148,6 +154,18 @@
       "pubDate": "Sat, 05 Sep 2026 01:16:27 GMT"
     },
     {
+      "title": "Video shows damaged Amazon cargo plane after crash",
+      "link": "https://www.bbc.co.uk/news/videos/c62k8dz8r4lo?at_medium=RSS&at_campaign=rss",
+      "description": "An Amazon Air cargo plane has overshot the runway while attempting to land at Miami International Airport.",
+      "pubDate": "Sun, 06 Sep 2026 20:41:48 GMT"
+    },
+    {
+      "title": "Germany's far-right AfD celebrate projected win in state election",
+      "link": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
+      "description": "AfD leaders celebrated tonight as exit polls projected a big lead in the Saxony-Anhalt vote.",
+      "pubDate": "Sun, 06 Sep 2026 18:32:53 GMT"
+    },
+    {
       "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
       "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
       "description": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
@@ -164,24 +182,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cqlw6q0xv4zo?at_medium=RSS&at_campaign=rss",
       "description": "The US mother was on trial for strangling her three children. In other western countries, there’s a specific law for mums who kill their young children.",
       "pubDate": "Sat, 05 Sep 2026 09:12:34 GMT"
-    },
-    {
-      "title": "How the Lindsay Clancy trial gripped America - and ultimately fell apart",
-      "link": "https://www.bbc.co.uk/news/videos/cr7dzr2e789o?at_medium=RSS&at_campaign=rss",
-      "description": "A Massachusetts judge has declared a mistrial in the murder case against the US mother after jurors were unable to reach a unanimous verdict.",
-      "pubDate": "Sat, 05 Sep 2026 01:26:29 GMT"
-    },
-    {
-      "title": "Why did USS Lincoln turn up in Thailand looking so rusty?",
-      "link": "https://www.bbc.co.uk/news/videos/c4gr9y1ny3xo?at_medium=RSS&at_campaign=rss",
-      "description": "When the USS Abraham Lincoln docked in Thailand this week some people were quick to criticise the condition it was in.",
-      "pubDate": "Sat, 05 Sep 2026 06:53:20 GMT"
-    },
-    {
-      "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
-      "link": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
-      "description": "Palestinian teenagers Omar al-Naasan and Khalil Abu Alia were shot dead when Israeli settlers and soldiers entered a village in the occupied West Bank.",
-      "pubDate": "Fri, 04 Sep 2026 12:39:05 GMT"
     }
   ]
 }
