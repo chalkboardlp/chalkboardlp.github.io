@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-06T05:57:10.171160+00:00",
+  "updated": "2026-09-06T10:55:25.573211+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+      "title": "US envoys arrive in Ukraine for talks after meeting Putin in Russia",
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "description": "Steve Witkoff and Jared Kushner left Moscow having \"discussed substantive plans for next steps\" with Putin, according to the White House.",
-      "pubDate": "Sun, 06 Sep 2026 02:24:16 GMT"
+      "description": "It is the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
+      "pubDate": "Sun, 06 Sep 2026 10:44:26 GMT"
     },
     {
       "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
@@ -16,16 +16,16 @@
       "pubDate": "Sat, 05 Sep 2026 22:44:07 GMT"
     },
     {
-      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
       "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
       "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-      "pubDate": "Sun, 06 Sep 2026 05:04:04 GMT"
+      "pubDate": "Sun, 06 Sep 2026 08:05:22 GMT"
     },
     {
-      "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
+      "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
       "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-      "description": "More than 20,000 passengers are stranded after ash was detected in airspace near Jakarta following volcanic eruptions.",
-      "pubDate": "Sun, 06 Sep 2026 05:12:44 GMT"
+      "description": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+      "pubDate": "Sun, 06 Sep 2026 09:56:39 GMT"
     },
     {
       "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
@@ -142,6 +142,18 @@
       "pubDate": "Sat, 05 Sep 2026 01:16:27 GMT"
     },
     {
+      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
+      "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
+      "description": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
+      "pubDate": "Sun, 06 Sep 2026 01:54:29 GMT"
+    },
+    {
+      "title": "Why a famous Montreal sandwich shop has been forced to swap its soda",
+      "link": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
+      "description": "Schwartz’s, one of Montreal’s most famous delis, has changed suppliers for its black cherry soda.",
+      "pubDate": "Sun, 06 Sep 2026 06:04:51 GMT"
+    },
+    {
       "title": "How might Lindsay Clancy’s case have unfolded in another country?",
       "link": "https://www.bbc.co.uk/news/videos/cqlw6q0xv4zo?at_medium=RSS&at_campaign=rss",
       "description": "The US mother was on trial for strangling her three children. In other western countries, there’s a specific law for mums who kill their young children.",
@@ -164,30 +176,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
       "description": "Palestinian teenagers Omar al-Naasan and Khalil Abu Alia were shot dead when Israeli settlers and soldiers entered a village in the occupied West Bank.",
       "pubDate": "Fri, 04 Sep 2026 12:39:05 GMT"
-    },
-    {
-      "title": "How much can Canada fight back in its trade war with the US?",
-      "link": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
-      "description": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
-      "pubDate": "Sat, 05 Sep 2026 02:13:21 GMT"
-    },
-    {
-      "title": "Watch: Moment workers are rescued from Nepal tunnel",
-      "link": "https://www.bbc.co.uk/news/videos/cnvl5e6vy8eo?at_medium=RSS&at_campaign=rss",
-      "description": "Rescuers pull two people from a hydropower tunnel more than a week after a massive flash flood devastated the Nepal-China border.",
-      "pubDate": "Fri, 04 Sep 2026 04:45:54 GMT"
-    },
-    {
-      "title": "Nepal says it will need billions in funding to rebuild after flash floods",
-      "link": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
-      "description": "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris.",
-      "pubDate": "Fri, 04 Sep 2026 02:20:37 GMT"
-    },
-    {
-      "title": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
-      "link": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss",
-      "description": "The jury now faces a seventh day of deliberations in the triple-murder trial.",
-      "pubDate": "Fri, 04 Sep 2026 00:55:45 GMT"
     }
   ]
 }
