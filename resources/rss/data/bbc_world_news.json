@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T15:54:41.899278+00:00",
+  "updated": "2026-09-07T19:57:44.059439+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -10,16 +10,22 @@
       "pubDate": "Mon, 07 Sep 2026 14:04:01 GMT"
     },
     {
+      "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
+      "link": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+      "description": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
+      "pubDate": "Mon, 07 Sep 2026 14:50:50 GMT"
+    },
+    {
       "title": "Israeli strikes in southern Lebanese village kill 12",
       "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
       "description": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
       "pubDate": "Mon, 07 Sep 2026 13:39:23 GMT"
     },
     {
-      "title": "Probe begins into why cargo plane overran Miami runway",
+      "title": "Investigators begin work on why cargo plane overran Miami runway",
       "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
       "description": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
-      "pubDate": "Mon, 07 Sep 2026 09:54:40 GMT"
+      "pubDate": "Mon, 07 Sep 2026 17:46:25 GMT"
     },
     {
       "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
@@ -67,7 +73,7 @@
       "title": "Tanzanian President Samia's husband dies in hospital",
       "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
       "description": "Hafidh Ameir Hassan kept a low profile and was rarely seen in public with the president.",
-      "pubDate": "Mon, 07 Sep 2026 12:03:56 GMT"
+      "pubDate": "Mon, 07 Sep 2026 16:23:02 GMT"
     },
     {
       "title": "China to pump $54bn into state banks and insurers to boost economy",
@@ -80,12 +86,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
       "description": "It's not clear how many people were inside the building - or if there are still people under the debris.",
       "pubDate": "Mon, 07 Sep 2026 10:31:01 GMT"
-    },
-    {
-      "title": "Australians will be able to switch off social media algorithms under planned legislation",
-      "link": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss",
-      "description": "Firms like Meta, Google and TikTok should face \"substantial\" penalties if they don't give the option, minister says.",
-      "pubDate": "Mon, 07 Sep 2026 03:40:09 GMT"
     },
     {
       "title": "How significant are AfD's historic gains for Germany and the rest of Europe?",
@@ -122,12 +122,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
       "description": "Haitian immigrants make up a large portion of the already overburdened home-care workforce.",
       "pubDate": "Sun, 06 Sep 2026 00:17:05 GMT"
-    },
-    {
-      "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
-      "link": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
-      "description": "Ukraine's third-biggest city Odesa decides this week whether to ban Russian-language content in music and literature in public.",
-      "pubDate": "Sat, 05 Sep 2026 23:54:07 GMT"
     },
     {
       "title": "Five killed as Amazon cargo plane crashes at Miami airport",

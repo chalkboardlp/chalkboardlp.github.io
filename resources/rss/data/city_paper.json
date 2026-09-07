@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-07T15:54:43.400901+00:00",
+  "updated": "2026-09-07T19:57:45.544401+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Puracé keeps Colombia on alert after volcanic eruptions across the Pacific",
+      "link": "https://thecitypaperbogota.com/news/purace-keeps-colombia-on-alert-after-volcanic-eruptions-across-the-pacific/",
+      "description": "Colombia’s Puracé volcano remains under an orange alert after another episode of seismic activity was recorded in the southwestern department of Cauca on Sunday night, adding to a sustained period of volcanic unrest that has included ash emissions, volcanic tremor, gas releases and slow deformation of the ground. A magnitude-4.1 earthquake was recorded at 8:58 [&#8230;]",
+      "pubDate": "Mon, 07 Sep 2026 16:22:50 +0000"
+    },
     {
       "title": "Bogotá’s Sacred Music Festival Turns 15 With ‘La Concordia’",
       "link": "https://thecitypaperbogota.com/culture/bogotas-sacred-music-festival-turns-15-with-la-concordia/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/colombia-resets-foreign-policy-with-omar-bula-as-incoming-foreign-minister/",
       "description": "Colombia is preparing for one of its most significant foreign policy realignments in more than two decades as President-elect Abelardo De La Espriella assembles a government that promises to restore close strategic relations with the United States and other Western democracies, while distancing the country from the ideological alliances that defined the presidency of Gustavo [&#8230;]",
       "pubDate": "Thu, 09 Jul 2026 21:49:35 +0000"
-    },
-    {
-      "title": "Colombia’s President-Elect Urges International Oversight for Democratic Transition",
-      "link": "https://thecitypaperbogota.com/news/colombias-president-elect-urges-international-oversight-for-democratic-transition/",
-      "description": "Colombia&#8217;s president-elect, Abelardo de la Espriella, has appealed to the international community to closely monitor the country&#8217;s democratic transition, as outgoing President Gustavo Petro and opposition leader Iván Cepeda attempt to undermine the August 7 transfer of power. In a statement released by his transition team on Wednesday, the criminal defense lawyer said he had [&#8230;]",
-      "pubDate": "Wed, 08 Jul 2026 16:15:26 +0000"
     }
   ]
 }
