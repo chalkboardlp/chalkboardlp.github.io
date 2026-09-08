@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T18:40:00.804344+00:00",
+  "updated": "2026-09-08T21:51:25.539207+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -7,7 +7,13 @@
       "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
       "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
       "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
-      "pubDate": "Tue, 08 Sep 2026 18:25:40 GMT"
+      "pubDate": "Tue, 08 Sep 2026 19:11:39 GMT"
+    },
+    {
+      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+      "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+      "pubDate": "Tue, 08 Sep 2026 21:46:31 GMT"
     },
     {
       "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
@@ -58,10 +64,10 @@
       "pubDate": "Tue, 08 Sep 2026 18:21:40 GMT"
     },
     {
-      "title": "Highest paid world leader to get salary increase of $1 million",
-      "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
-      "description": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).",
-      "pubDate": "Tue, 08 Sep 2026 09:20:05 GMT"
+      "title": "LIV players will have option to leave after bankruptcy case filing",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
+      "description": "LIV Golf intends to starts its new league early next year after filing for bankruptcy protection in the United States.",
+      "pubDate": "Tue, 08 Sep 2026 21:20:22 GMT"
     },
     {
       "title": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
@@ -91,7 +97,7 @@
       "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
       "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
       "description": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
-      "pubDate": "Tue, 08 Sep 2026 16:38:03 GMT"
+      "pubDate": "Tue, 08 Sep 2026 21:41:11 GMT"
     },
     {
       "title": "Trial over killing of Australian surfer brothers and US friend starts in Mexico",
