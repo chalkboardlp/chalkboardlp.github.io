@@ -1,31 +1,55 @@
 {
-  "updated": "2026-09-08T05:57:51.511572+00:00",
+  "updated": "2026-09-08T11:17:24.820054+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Flight recorders recovered from Amazon cargo plane crash",
-      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-      "description": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
-      "pubDate": "Mon, 07 Sep 2026 22:23:03 GMT"
+      "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+      "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
+      "pubDate": "Tue, 08 Sep 2026 04:39:14 GMT"
     },
     {
-      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
-      "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
-      "description": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
-      "pubDate": "Mon, 07 Sep 2026 21:12:37 GMT"
+      "title": "At least two people dead after Russian strikes on Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "description": "Air raid alerts and sounds of explosions rang out in Ukraine's capital as Russian forces launched drone strikes early on Tuesday.",
+      "pubDate": "Tue, 08 Sep 2026 10:23:01 GMT"
     },
     {
-      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-      "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-      "description": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
-      "pubDate": "Mon, 07 Sep 2026 14:04:01 GMT"
-    },
-    {
-      "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
+      "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
       "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-      "description": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative.",
-      "pubDate": "Mon, 07 Sep 2026 23:46:44 GMT"
+      "description": "The move saw outraged staff walk off the job on Monday, closing the French landmark for a day.",
+      "pubDate": "Tue, 08 Sep 2026 11:00:10 GMT"
+    },
+    {
+      "title": "Highest paid world leader to get salary increase of $1 million",
+      "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
+      "description": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).",
+      "pubDate": "Tue, 08 Sep 2026 09:20:05 GMT"
+    },
+    {
+      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
+      "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
+      "description": "The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads.",
+      "pubDate": "Tue, 08 Sep 2026 01:32:56 GMT"
+    },
+    {
+      "title": "Nepal cracks down on online abuse of flood survivors",
+      "link": "https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&at_campaign=rss",
+      "description": "Authorities will \"show no leniency\" to people who \"belittle\" those who are suffering, the prime minister says.",
+      "pubDate": "Tue, 08 Sep 2026 08:31:01 GMT"
+    },
+    {
+      "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
+      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+      "description": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
+      "pubDate": "Tue, 08 Sep 2026 09:31:26 GMT"
+    },
+    {
+      "title": "North Korea and Russia open first road bridge linking both countries",
+      "link": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
+      "description": "Relations between the neighbours have strengthened since the start of the Ukraine war.",
+      "pubDate": "Tue, 08 Sep 2026 03:53:27 GMT"
     },
     {
       "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
@@ -34,28 +58,22 @@
       "pubDate": "Tue, 08 Sep 2026 01:07:47 GMT"
     },
     {
-      "title": "UK government expected to announce restrictions on trade with West Bank settlements",
-      "link": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
-      "description": "Foreign Secretary Ed Miliband is set to outline the proposals today, in a move which could prompt Israel to retaliate.",
-      "pubDate": "Tue, 08 Sep 2026 01:50:55 GMT"
-    },
-    {
       "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
       "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
       "description": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
       "pubDate": "Tue, 08 Sep 2026 00:48:43 GMT"
     },
     {
-      "title": "North Korea and Russia open first road bridge linking both countries",
-      "link": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-      "description": "It comes as relations between both countries have strengthened since the start of the Ukraine war.",
-      "pubDate": "Tue, 08 Sep 2026 03:53:27 GMT"
+      "title": "Kenya moves to register frightened Burundians as tension over foreign traders rises",
+      "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+      "description": "All foreigners without proper documents in Kenya are urged to  register through their embassies.",
+      "pubDate": "Tue, 08 Sep 2026 10:19:52 GMT"
     },
     {
-      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
-      "description": "The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads.",
-      "pubDate": "Tue, 08 Sep 2026 01:32:56 GMT"
+      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+      "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+      "description": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+      "pubDate": "Mon, 07 Sep 2026 14:04:01 GMT"
     },
     {
       "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
@@ -76,28 +94,16 @@
       "pubDate": "Mon, 07 Sep 2026 15:27:50 GMT"
     },
     {
-      "title": "Nepal observes national day of mourning for victims of flash flood disaster",
-      "link": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
-      "description": "Flags flew at half mast on the 13th day since the disaster, the last day of the Hindu mourning period.",
-      "pubDate": "Mon, 07 Sep 2026 09:31:26 GMT"
-    },
-    {
-      "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
-      "description": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
-      "pubDate": "Mon, 07 Sep 2026 07:03:44 GMT"
-    },
-    {
       "title": "A food safety officer has become a social media star in India - why?",
       "link": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
       "description": "Tukaram Mundhe has gone viral after a series of aggressive inspections of restaurants to detect hygiene lapses.",
       "pubDate": "Mon, 07 Sep 2026 23:40:39 GMT"
     },
     {
-      "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
       "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "description": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
-      "pubDate": "Mon, 07 Sep 2026 23:05:12 GMT"
+      "description": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
+      "pubDate": "Tue, 08 Sep 2026 09:17:48 GMT"
     },
     {
       "title": "New videos of man in 9/11 lawsuit reveal extremist links",
@@ -122,6 +128,18 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&at_campaign=rss",
       "description": "Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah.",
       "pubDate": "Mon, 07 Sep 2026 08:04:12 GMT"
+    },
+    {
+      "title": "Pupils return to West Bank school behind barbed wire to protect against settlers",
+      "link": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
+      "description": "Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-related violence.",
+      "pubDate": "Tue, 08 Sep 2026 06:58:02 GMT"
+    },
+    {
+      "title": "'Good to have choice': Australians on opting out of social media algorithms",
+      "link": "https://www.bbc.co.uk/news/videos/clyl2dnjgkro?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC spoke to people in Sydney about Australia's plans to force social media companies to allow users to easily opt in or out of personalised algorithms.",
+      "pubDate": "Tue, 08 Sep 2026 06:20:10 GMT"
     },
     {
       "title": "Five killed as Amazon cargo plane crashes at Miami airport",
@@ -152,12 +170,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
       "description": "Schwartz’s, one of Montreal’s most famous delis, has changed suppliers for its black cherry soda.",
       "pubDate": "Sun, 06 Sep 2026 06:04:51 GMT"
-    },
-    {
-      "title": "How might Lindsay Clancy’s case have unfolded in another country?",
-      "link": "https://www.bbc.co.uk/news/videos/cqlw6q0xv4zo?at_medium=RSS&at_campaign=rss",
-      "description": "The US mother was on trial for strangling her three children. In other western countries, there’s a specific law for mums who kill their young children.",
-      "pubDate": "Sat, 05 Sep 2026 09:12:34 GMT"
     }
   ]
 }
