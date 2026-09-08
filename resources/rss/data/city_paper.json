@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-08T15:10:20.768041+00:00",
+  "updated": "2026-09-08T18:40:03.897584+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Rubio Arrives in Colombia as Washington Seeks New Strategic Alliance",
+      "link": "https://thecitypaperbogota.com/news/rubio-arrives-in-colombia-as-washington-seeks-new-strategic-alliance/",
+      "description": "U.S. Secretary of State Marco Rubio is expected to arrive in Barranquilla on Tuesday afternoon for a high-level meeting with Colombian President Abelardo De La Espriella, in what could become a defining moment in the reconstruction of relations between Bogotá and Washington. The visit, confirmed by Colombia’s Foreign Ministry, will be Rubio’s first official trip [&#8230;]",
+      "pubDate": "Tue, 08 Sep 2026 16:55:58 +0000"
+    },
     {
       "title": "Puracé keeps Colombia on alert after volcanic eruptions across the Pacific",
       "link": "https://thecitypaperbogota.com/news/purace-keeps-colombia-on-alert-after-volcanic-eruptions-across-the-pacific/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/travel/colombia-marks-first-holiday-dedicated-to-nations-patroness-the-virgin-of-chiquinquira/",
       "description": "On Monday, Colombians will celebrate a new national holiday for the first time in the country&#8217;s history, honoring Our Lady of the Rosary of Chiquinquirá, the patroness of Colombia, in a commemoration that blends centuries of religious tradition with a renewed political symbolism under President-elect Abelardo De la Espriella. Established under Law 2578 of 2026, [&#8230;]",
       "pubDate": "Sat, 11 Jul 2026 11:31:39 +0000"
-    },
-    {
-      "title": "Colombia Resets Foreign Policy With Omar Bula as Incoming Foreign Minister",
-      "link": "https://thecitypaperbogota.com/news/colombia-resets-foreign-policy-with-omar-bula-as-incoming-foreign-minister/",
-      "description": "Colombia is preparing for one of its most significant foreign policy realignments in more than two decades as President-elect Abelardo De La Espriella assembles a government that promises to restore close strategic relations with the United States and other Western democracies, while distancing the country from the ideological alliances that defined the presidency of Gustavo [&#8230;]",
-      "pubDate": "Thu, 09 Jul 2026 21:49:35 +0000"
     }
   ]
 }
