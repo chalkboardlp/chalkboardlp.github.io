@@ -1,37 +1,67 @@
 {
-  "updated": "2026-09-09T09:44:54.357288+00:00",
+  "updated": "2026-09-09T14:35:47.088517+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
+      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+      "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+      "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+      "pubDate": "Wed, 09 Sep 2026 13:29:33 GMT"
+    },
+    {
       "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
       "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
       "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-      "pubDate": "Wed, 09 Sep 2026 09:28:15 GMT"
+      "pubDate": "Wed, 09 Sep 2026 09:47:39 GMT"
     },
     {
       "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
       "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
       "description": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
-      "pubDate": "Wed, 09 Sep 2026 09:21:50 GMT"
+      "pubDate": "Wed, 09 Sep 2026 10:20:40 GMT"
     },
     {
-      "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
-      "link": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
-      "description": "The billion dollar payout marks the largest divorce settlement in the country's history.",
-      "pubDate": "Wed, 09 Sep 2026 08:21:39 GMT"
+      "title": "Russia and Ukraine exchange strikes as two killed at Moldova border",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "description": "Meanwhile, four people, including a child, were killed in the southern Russian city of Novorossiysk.",
+      "pubDate": "Wed, 09 Sep 2026 10:59:18 GMT"
     },
     {
-      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
-      "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
-      "description": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
-      "pubDate": "Tue, 08 Sep 2026 23:27:23 GMT"
+      "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
+      "description": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\".",
+      "pubDate": "Wed, 09 Sep 2026 11:29:59 GMT"
+    },
+    {
+      "title": "Colombia's new president loosens gun control rules",
+      "link": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
+      "description": "President Abelardo de la Espriella has lifted a decade-long suspension on permits to carry legal firearms.",
+      "pubDate": "Wed, 09 Sep 2026 11:01:41 GMT"
+    },
+    {
+      "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
+      "link": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
+      "description": "The Tetris Company says it takes \"copyright infringement very seriously\" and is not involved with the game.",
+      "pubDate": "Wed, 09 Sep 2026 12:06:40 GMT"
+    },
+    {
+      "title": "Family of killed teen call for death penalty in D4vd trial",
+      "link": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
+      "description": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty.",
+      "pubDate": "Wed, 09 Sep 2026 09:58:48 GMT"
     },
     {
       "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
       "link": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
       "description": "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha.",
       "pubDate": "Wed, 09 Sep 2026 07:44:20 GMT"
+    },
+    {
+      "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
+      "link": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
+      "description": "The billion dollar payout marks the largest divorce settlement in the country's history.",
+      "pubDate": "Wed, 09 Sep 2026 08:21:39 GMT"
     },
     {
       "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
@@ -44,6 +74,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
       "description": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.",
       "pubDate": "Wed, 09 Sep 2026 04:24:30 GMT"
+    },
+    {
+      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+      "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+      "description": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
+      "pubDate": "Tue, 08 Sep 2026 23:27:23 GMT"
     },
     {
       "title": "Argentina to file criminal case against oil company operating in Falklands",
@@ -62,30 +98,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
       "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
       "pubDate": "Wed, 09 Sep 2026 05:39:16 GMT"
-    },
-    {
-      "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-      "description": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
-      "pubDate": "Tue, 08 Sep 2026 17:10:54 GMT"
-    },
-    {
-      "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-      "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
-      "description": "The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.",
-      "pubDate": "Tue, 08 Sep 2026 13:58:32 GMT"
-    },
-    {
-      "title": "Fourteen go on trial over deadliest Channel small boats disaster",
-      "link": "https://www.bbc.co.uk/news/articles/cd94jn72w2yo?at_medium=RSS&at_campaign=rss",
-      "description": "At least 30 men, women and children drowned when their dinghy capsized on 24 November 2021.",
-      "pubDate": "Tue, 08 Sep 2026 17:24:25 GMT"
-    },
-    {
-      "title": "LIV files for bankruptcy protection with over $45m owed to players",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
-      "description": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave.",
-      "pubDate": "Tue, 08 Sep 2026 21:20:22 GMT"
     },
     {
       "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
