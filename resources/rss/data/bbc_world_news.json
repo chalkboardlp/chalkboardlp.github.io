@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T00:14:16.962156+00:00",
+  "updated": "2026-09-09T04:43:04.255891+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -7,7 +7,7 @@
       "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
       "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
       "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
-      "pubDate": "Tue, 08 Sep 2026 19:11:39 GMT"
+      "pubDate": "Wed, 09 Sep 2026 01:45:15 GMT"
     },
     {
       "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
@@ -16,10 +16,10 @@
       "pubDate": "Tue, 08 Sep 2026 21:46:31 GMT"
     },
     {
-      "title": "US slaps import ban on Canadian alcohol and other goods",
+      "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
       "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-      "description": "It is the latest escalation in a trade war between the two countries, and comes as Canadian retaliatory tariffs on US goods come into force.",
-      "pubDate": "Wed, 09 Sep 2026 00:01:53 GMT"
+      "description": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
+      "pubDate": "Wed, 09 Sep 2026 03:03:32 GMT"
     },
     {
       "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
@@ -34,16 +34,28 @@
       "pubDate": "Tue, 08 Sep 2026 13:35:28 GMT"
     },
     {
-      "title": "Argentina to file criminal case against oil company operating in Falklands",
-      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-      "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
-      "pubDate": "Tue, 08 Sep 2026 11:09:54 GMT"
+      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+      "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+      "description": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
+      "pubDate": "Tue, 08 Sep 2026 23:27:23 GMT"
     },
     {
       "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
       "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
       "description": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
       "pubDate": "Tue, 08 Sep 2026 17:10:54 GMT"
+    },
+    {
+      "title": "Hong Kong's first leader after British handover dies",
+      "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
+      "description": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.",
+      "pubDate": "Wed, 09 Sep 2026 04:24:30 GMT"
+    },
+    {
+      "title": "Argentina to file criminal case against oil company operating in Falklands",
+      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+      "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
+      "pubDate": "Tue, 08 Sep 2026 11:09:54 GMT"
     },
     {
       "title": "British widow faces deportation from Sweden after 22 years",
@@ -92,18 +104,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o?at_medium=RSS&at_campaign=rss",
       "description": "The suspect had reportedly claimed responsibility for attacks on electricity substations in letters.",
       "pubDate": "Tue, 08 Sep 2026 15:57:06 GMT"
-    },
-    {
-      "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
-      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-      "description": "The move saw outraged staff walk off the job on Monday, closing the French landmark for a day.",
-      "pubDate": "Tue, 08 Sep 2026 11:38:07 GMT"
-    },
-    {
-      "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
-      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-      "description": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
-      "pubDate": "Tue, 08 Sep 2026 21:41:11 GMT"
     },
     {
       "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
