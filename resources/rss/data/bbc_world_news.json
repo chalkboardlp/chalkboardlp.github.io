@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-09T18:35:40.183781+00:00",
+  "updated": "2026-09-09T21:42:27.415028+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-      "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
-      "pubDate": "Wed, 09 Sep 2026 13:29:33 GMT"
+      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+      "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+      "description": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
+      "pubDate": "Wed, 09 Sep 2026 21:23:45 GMT"
     },
     {
       "title": "Google picks Finland for its largest single investment in Europe",
@@ -22,6 +22,18 @@
       "pubDate": "Wed, 09 Sep 2026 16:46:53 GMT"
     },
     {
+      "title": "Iran referred to UN Security Council for nuclear non-compliance",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+      "description": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
+      "pubDate": "Wed, 09 Sep 2026 20:22:51 GMT"
+    },
+    {
+      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+      "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+      "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+      "pubDate": "Wed, 09 Sep 2026 13:29:33 GMT"
+    },
+    {
       "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
       "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
       "description": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
@@ -34,22 +46,28 @@
       "pubDate": "Wed, 09 Sep 2026 16:30:28 GMT"
     },
     {
-      "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
-      "description": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\".",
-      "pubDate": "Wed, 09 Sep 2026 11:29:59 GMT"
-    },
-    {
       "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
       "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
       "description": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
       "pubDate": "Wed, 09 Sep 2026 15:01:58 GMT"
     },
     {
+      "title": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
+      "link": "https://www.bbc.co.uk/news/articles/c046rxw93xlo?at_medium=RSS&at_campaign=rss",
+      "description": "The White House has described the cash gifts to Harp and three others as personal - and legal.",
+      "pubDate": "Wed, 09 Sep 2026 18:27:35 GMT"
+    },
+    {
+      "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
+      "description": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\".",
+      "pubDate": "Wed, 09 Sep 2026 11:29:59 GMT"
+    },
+    {
       "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
       "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-      "description": "Three deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
-      "pubDate": "Wed, 09 Sep 2026 16:01:54 GMT"
+      "description": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
+      "pubDate": "Wed, 09 Sep 2026 20:28:04 GMT"
     },
     {
       "title": "Family of killed teen call for death penalty in D4vd trial",
