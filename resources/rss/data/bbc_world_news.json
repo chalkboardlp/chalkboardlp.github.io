@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T21:51:25.539207+00:00",
+  "updated": "2026-09-09T00:14:16.962156+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -16,10 +16,16 @@
       "pubDate": "Tue, 08 Sep 2026 21:46:31 GMT"
     },
     {
-      "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "description": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
-      "pubDate": "Tue, 08 Sep 2026 14:46:16 GMT"
+      "title": "US slaps import ban on Canadian alcohol and other goods",
+      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "description": "It is the latest escalation in a trade war between the two countries, and comes as Canadian retaliatory tariffs on US goods come into force.",
+      "pubDate": "Wed, 09 Sep 2026 00:01:53 GMT"
+    },
+    {
+      "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+      "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+      "description": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
+      "pubDate": "Tue, 08 Sep 2026 23:11:32 GMT"
     },
     {
       "title": "Renoir paintings worth millions stolen in French museum heist",
@@ -64,9 +70,9 @@
       "pubDate": "Tue, 08 Sep 2026 18:21:40 GMT"
     },
     {
-      "title": "LIV players will have option to leave after bankruptcy case filing",
+      "title": "LIV files for bankruptcy protection with over $45m owed to players",
       "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
-      "description": "LIV Golf intends to starts its new league early next year after filing for bankruptcy protection in the United States.",
+      "description": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave.",
       "pubDate": "Tue, 08 Sep 2026 21:20:22 GMT"
     },
     {
@@ -100,10 +106,10 @@
       "pubDate": "Tue, 08 Sep 2026 21:41:11 GMT"
     },
     {
-      "title": "Trial over killing of Australian surfer brothers and US friend starts in Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
-      "description": "The bodies of Jake and Callum Robinson and their US friend Carter Rhoad were found at the bottom of a well with gunshot wounds.",
-      "pubDate": "Tue, 08 Sep 2026 01:32:56 GMT"
+      "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
+      "link": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
+      "description": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
+      "pubDate": "Tue, 08 Sep 2026 23:11:41 GMT"
     },
     {
       "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
@@ -128,12 +134,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
       "description": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
       "pubDate": "Mon, 07 Sep 2026 05:31:06 GMT"
-    },
-    {
-      "title": "How significant are AfD's historic gains for Germany and the rest of Europe?",
-      "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
-      "pubDate": "Mon, 07 Sep 2026 04:07:23 GMT"
     },
     {
       "title": "Where is Israel's proposed West Bank settlement the UK opposes?",
