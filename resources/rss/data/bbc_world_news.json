@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T21:42:27.415028+00:00",
+  "updated": "2026-09-10T00:15:00.646682+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -160,6 +160,12 @@
       "pubDate": "Tue, 08 Sep 2026 09:17:48 GMT"
     },
     {
+      "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+      "link": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
+      "pubDate": "Wed, 09 Sep 2026 22:17:22 GMT"
+    },
+    {
       "title": "Watch: Norway bids farewell to King Harald",
       "link": "https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss",
       "description": "Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.",
@@ -182,12 +188,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
       "description": "Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-related violence.",
       "pubDate": "Tue, 08 Sep 2026 06:58:02 GMT"
-    },
-    {
-      "title": "'Good to have choice': Australians on opting out of social media algorithms",
-      "link": "https://www.bbc.co.uk/news/videos/clyl2dnjgkro?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC spoke to people in Sydney about Australia's plans to force social media companies to allow users to easily opt in or out of personalised algorithms.",
-      "pubDate": "Tue, 08 Sep 2026 06:20:10 GMT"
     }
   ]
 }
