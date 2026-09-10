@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-10T18:27:26.078141+00:00",
+  "updated": "2026-09-10T21:38:02.968181+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Colombia Moves to Revive Aerial Eradication of Coca Crops",
+      "link": "https://thecitypaperbogota.com/news/colombia-moves-to-revive-aerial-eradication-of-coca-crops/",
+      "description": "Colombia is moving rapidly to revive aerial eradication of coca, but the chemical at the centre of its first proposed test will not be glyphosate, known commercially as &#8220;Round Up&#8221;. The government of President Abelardo de la Espriella has approved a pilot programme to test the aerial spraying of coca crops with glufosinate ammonium, an [&#8230;]",
+      "pubDate": "Thu, 10 Sep 2026 20:09:43 +0000"
+    },
     {
       "title": "Rubio’s Whirlwind Visit Signals a New Era in U.S.-Colombia Relations",
       "link": "https://thecitypaperbogota.com/news/rubios-whirlwind-visit-signals-a-new-era-in-u-s-colombia-relations/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/timochenko-urges-de-la-espriella-to-uphold-2016-peace-agreement/",
       "description": "Former FARC commander Rodrigo Londoño, known by his alias &#8220;Timochenko,&#8221; returned to Colombia over the weekend and appeared Tuesday before the Special Jurisdiction for Peace (JEP), ending days of speculation that he might remain in Spain following threats by President-elect Abelardo de la Espriella to seek his imprisonment for life over crimes committed during Colombia&#8217;s [&#8230;]",
       "pubDate": "Tue, 14 Jul 2026 20:12:28 +0000"
-    },
-    {
-      "title": "Colombia’s President-Elect Breaks With Tradition, Plans Military Base Inauguration",
-      "link": "https://thecitypaperbogota.com/news/colombias-president-elect-breaks-with-tradition-plans-military-base-inauguration/",
-      "description": "In one of the most symbolic breaks with Colombia&#8217;s republican traditions in modern history, President-elect Abelardo de la Espriella announced Monday that he intends to be sworn into office on August 7 at a military garrison in southern Colombia rather than Bogotá&#8217;s iconic Plaza de Bolívar, where every democratically elected Colombian president in recent decades [&#8230;]",
-      "pubDate": "Tue, 14 Jul 2026 11:58:54 +0000"
     }
   ]
 }
