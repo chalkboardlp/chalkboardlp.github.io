@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-10T00:15:00.646682+00:00",
+  "updated": "2026-09-10T04:43:52.349387+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
+      "description": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
+      "pubDate": "Thu, 10 Sep 2026 04:08:07 GMT"
+    },
     {
       "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
       "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
@@ -40,16 +46,16 @@
       "pubDate": "Wed, 09 Sep 2026 10:20:40 GMT"
     },
     {
-      "title": "Europe's royalty pay respects to King Harald V in Norway",
-      "link": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
-      "description": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
-      "pubDate": "Wed, 09 Sep 2026 16:30:28 GMT"
-    },
-    {
       "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
       "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
       "description": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
       "pubDate": "Wed, 09 Sep 2026 15:01:58 GMT"
+    },
+    {
+      "title": "Europe's royalty pay respects to King Harald V in Norway",
+      "link": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
+      "description": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
+      "pubDate": "Wed, 09 Sep 2026 16:30:28 GMT"
     },
     {
       "title": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
