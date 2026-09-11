@@ -1,8 +1,38 @@
 {
-  "updated": "2026-09-11T14:25:49.556248+00:00",
+  "updated": "2026-09-11T18:31:59.575582+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+      "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+      "pubDate": "Fri, 11 Sep 2026 16:58:34 GMT"
+    },
+    {
+      "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+      "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
+      "description": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
+      "pubDate": "Fri, 11 Sep 2026 16:00:59 GMT"
+    },
+    {
+      "title": "Israel says it has destroyed major underground Hezbollah base",
+      "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "description": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+      "pubDate": "Fri, 11 Sep 2026 15:50:23 GMT"
+    },
+    {
+      "title": "Princess Diana's 'revenge dress' goes up for auction",
+      "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+      "description": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
+      "pubDate": "Fri, 11 Sep 2026 12:04:46 GMT"
+    },
+    {
+      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+      "link": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+      "description": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
+      "pubDate": "Fri, 11 Sep 2026 10:50:04 GMT"
+    },
     {
       "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
       "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
@@ -13,25 +43,7 @@
       "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
       "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
       "description": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
-      "pubDate": "Fri, 11 Sep 2026 05:41:54 GMT"
-    },
-    {
-      "title": "Israel says it has destroyed major underground Hezbollah base",
-      "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-      "description": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
-      "pubDate": "Fri, 11 Sep 2026 11:34:07 GMT"
-    },
-    {
-      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-      "link": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-      "description": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
-      "pubDate": "Fri, 11 Sep 2026 10:50:04 GMT"
-    },
-    {
-      "title": "Princess Diana's 'revenge dress' goes up for auction",
-      "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
-      "description": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
-      "pubDate": "Fri, 11 Sep 2026 12:04:46 GMT"
+      "pubDate": "Fri, 11 Sep 2026 17:32:44 GMT"
     },
     {
       "title": "Philippine rescuers board ferry 40 hours after blaze began",
@@ -68,12 +80,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
       "description": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
       "pubDate": "Thu, 10 Sep 2026 19:16:24 GMT"
-    },
-    {
-      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
-      "description": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
-      "pubDate": "Thu, 10 Sep 2026 16:31:30 GMT"
     },
     {
       "title": "The student behind 'cockroach' protests that forced an Indian minister to quit",
@@ -122,6 +128,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
       "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
       "pubDate": "Wed, 09 Sep 2026 23:17:33 GMT"
+    },
+    {
+      "title": "How global trade and oil prices could be hit by Houthi advance",
+      "link": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
+      "description": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
+      "pubDate": "Fri, 11 Sep 2026 16:13:39 GMT"
     },
     {
       "title": "Has Trump won over voters with his midterm convention?",

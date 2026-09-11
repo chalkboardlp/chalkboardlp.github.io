@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-11T14:25:51.445114+00:00",
+  "updated": "2026-09-11T18:32:01.147645+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "What we remember when we remember 9/11",
+      "link": "https://thecitypaperbogota.com/global/what-we-remember-when-we-remember-9-11/",
+      "description": "Do you remember where you were and what you were doing when you learned of the September 11 terrorist attacks that occurred 25 years ago? Do you remember what you saw on television or how you felt? Is your memory highly detailed, and are you confident that what you are remembering is an accurate recollection [&#8230;]",
+      "pubDate": "Fri, 11 Sep 2026 16:09:20 +0000"
+    },
     {
       "title": "Colombia Moves to Revive Aerial Eradication of Coca Crops",
       "link": "https://thecitypaperbogota.com/news/colombia-moves-to-revive-aerial-eradication-of-coca-crops/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/new-u-s-colombia-chapter-takes-shape-as-rubio-meets-colombias-vice-president-elect/",
       "description": "U.S. Secretary of State Marco Rubio met Colombia&#8217;s Vice President-elect José Manuel Restrepo on Wednesday, signaling what both sides described as the beginning of a new phase in bilateral relations as President-elect Abelardo de la Espriella prepares to take office on Aug. 7. The closed-door meeting at the State Department brought together senior members of [&#8230;]",
       "pubDate": "Thu, 16 Jul 2026 16:43:27 +0000"
-    },
-    {
-      "title": "‘Timochenko’ Urges De la Espriella to Uphold 2016 Peace Agreement",
-      "link": "https://thecitypaperbogota.com/news/timochenko-urges-de-la-espriella-to-uphold-2016-peace-agreement/",
-      "description": "Former FARC commander Rodrigo Londoño, known by his alias &#8220;Timochenko,&#8221; returned to Colombia over the weekend and appeared Tuesday before the Special Jurisdiction for Peace (JEP), ending days of speculation that he might remain in Spain following threats by President-elect Abelardo de la Espriella to seek his imprisonment for life over crimes committed during Colombia&#8217;s [&#8230;]",
-      "pubDate": "Tue, 14 Jul 2026 20:12:28 +0000"
     }
   ]
 }
