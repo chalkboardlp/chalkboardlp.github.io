@@ -1,19 +1,61 @@
 {
-  "updated": "2026-09-11T04:38:55.702739+00:00",
+  "updated": "2026-09-11T09:40:48.987337+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+      "title": "Yemen's Houthis seize strategic Red Sea port of Mokha",
       "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-      "description": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
-      "pubDate": "Thu, 10 Sep 2026 18:15:47 GMT"
+      "description": "Mokha's capture brings the Iran-backed group closer to controlling a key international shipping route.",
+      "pubDate": "Fri, 11 Sep 2026 09:20:45 GMT"
     },
     {
-      "title": "Can Trump really pay $5,000 to every American adult?",
-      "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-      "description": "Analysts question if the US president's election year offer is workable, legal or affordable.",
-      "pubDate": "Thu, 10 Sep 2026 16:48:37 GMT"
+      "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
+      "link": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
+      "description": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report.",
+      "pubDate": "Thu, 10 Sep 2026 22:36:02 GMT"
+    },
+    {
+      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+      "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+      "pubDate": "Fri, 11 Sep 2026 08:15:25 GMT"
+    },
+    {
+      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+      "description": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
+      "pubDate": "Fri, 11 Sep 2026 05:41:54 GMT"
+    },
+    {
+      "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+      "description": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
+      "pubDate": "Fri, 11 Sep 2026 08:54:20 GMT"
+    },
+    {
+      "title": "Princess Diana's 'revenge dress' goes up for auction",
+      "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+      "description": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
+      "pubDate": "Fri, 11 Sep 2026 06:54:46 GMT"
+    },
+    {
+      "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
+      "link": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
+      "description": "Singapore's High Court rules in the woman's favour, with the judge saying the man \"willingly\" showered her with gifts, even before they got together.",
+      "pubDate": "Fri, 11 Sep 2026 07:59:26 GMT"
+    },
+    {
+      "title": "Man jailed after threatening to kill son's teacher in French village",
+      "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+      "description": "The father had threatened to behead a female primary school teacher near Toulouse.",
+      "pubDate": "Fri, 11 Sep 2026 06:28:42 GMT"
+    },
+    {
+      "title": "More than 20 children killed in DR Congo school fire",
+      "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+      "description": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
+      "pubDate": "Thu, 10 Sep 2026 19:16:24 GMT"
     },
     {
       "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
@@ -26,24 +68,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
       "description": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
       "pubDate": "Thu, 10 Sep 2026 15:54:17 GMT"
-    },
-    {
-      "title": "More than 20 children killed in DR Congo school fire",
-      "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
-      "description": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
-      "pubDate": "Thu, 10 Sep 2026 19:16:24 GMT"
-    },
-    {
-      "title": "Man jailed after threatening to kill son's teacher in French village",
-      "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
-      "description": "The father had threatened to behead a female primary school teacher near Toulouse.",
-      "pubDate": "Thu, 10 Sep 2026 20:10:51 GMT"
-    },
-    {
-      "title": "Coach crash kills several people in Swiss Alps",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
-      "description": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
-      "pubDate": "Fri, 11 Sep 2026 01:01:18 GMT"
     },
     {
       "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
@@ -76,16 +100,28 @@
       "pubDate": "Wed, 09 Sep 2026 21:23:45 GMT"
     },
     {
+      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+      "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+      "description": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
+      "pubDate": "Fri, 11 Sep 2026 05:53:06 GMT"
+    },
+    {
+      "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+      "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+      "pubDate": "Thu, 10 Sep 2026 23:22:11 GMT"
+    },
+    {
       "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
       "link": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
       "description": "Since the attacks, New York officials are working with new, complex technology to find traces of more than 1,000 victims.",
       "pubDate": "Thu, 10 Sep 2026 17:13:53 GMT"
     },
     {
-      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
-      "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
-      "description": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
-      "pubDate": "Thu, 10 Sep 2026 04:43:54 GMT"
+      "title": "Can Trump really pay $5,000 to every American adult?",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+      "description": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+      "pubDate": "Thu, 10 Sep 2026 16:48:37 GMT"
     },
     {
       "title": "Four key takeaways from  Republican midterms convention",
@@ -94,10 +130,10 @@
       "pubDate": "Thu, 10 Sep 2026 04:07:44 GMT"
     },
     {
-      "title": "'People were trampling me': Philippine ferry fire survivor recalls narrow escape",
-      "link": "https://www.bbc.co.uk/news/articles/c5y48mxm2zjo?at_medium=RSS&at_campaign=rss",
-      "description": "A survivor has told the BBC of the chaos onboard as the ferry caught fire near the popular tourist spot of Coron.",
-      "pubDate": "Thu, 10 Sep 2026 09:35:46 GMT"
+      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
+      "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
+      "description": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
+      "pubDate": "Thu, 10 Sep 2026 04:43:54 GMT"
     },
     {
       "title": "Why some experts increasingly fear AI will take over",
@@ -106,40 +142,34 @@
       "pubDate": "Wed, 09 Sep 2026 23:17:33 GMT"
     },
     {
-      "title": "Watch: Is Trump's $5,000 election pledge legal?",
-      "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-      "description": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
-      "pubDate": "Thu, 10 Sep 2026 07:12:32 GMT"
+      "title": "Has Trump won over voters with his midterm convention?",
+      "link": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term.",
+      "pubDate": "Fri, 11 Sep 2026 06:16:54 GMT"
     },
     {
-      "title": "Watch: How a community living under demolition orders from Israel view UK sanctions",
-      "link": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-      "description": "Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar, and the neighbouring Israeli settlement of Maale Admumim.",
-      "pubDate": "Wed, 09 Sep 2026 22:17:22 GMT"
+      "title": "Watch: Americans remember what they were doing on 9/11",
+      "link": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC asks people in Washington what they were doing on that day and how 11 September 2001 changed the country.",
+      "pubDate": "Fri, 11 Sep 2026 02:48:43 GMT"
     },
     {
-      "title": "Watch: Do Republicans blame Trump for high oil prices?",
-      "link": "https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Sarah Smith is at the Republican Party's first midterms convention in Texas, taking place as oil prices rise to $100 (£74) a barrel.",
-      "pubDate": "Thu, 10 Sep 2026 01:37:31 GMT"
+      "title": "Brother of Muslim policeman killed in 9/11 'disappointed' by calls for Mamdani to sit out memorial",
+      "link": "https://www.bbc.co.uk/news/videos/ce8e67l4330o?at_medium=RSS&at_campaign=rss",
+      "description": "Zeshan Hamdani speaks out after push back against New York Mayor Zohran Mamdani, who is Muslim, attending 9/11 events.",
+      "pubDate": "Fri, 11 Sep 2026 04:10:24 GMT"
     },
     {
-      "title": "Inside Thailand's school shooter drills following recent attacks",
-      "link": "https://www.bbc.co.uk/news/videos/c07lpp4e993o?at_medium=RSS&at_campaign=rss",
-      "description": "Police say they hope the drill will help prepare students, as concern grows over the increase in school shootings in South East Asia.",
-      "pubDate": "Wed, 09 Sep 2026 22:32:07 GMT"
+      "title": "Drone display recreates the Twin Towers over New York City",
+      "link": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
+      "description": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
+      "pubDate": "Thu, 10 Sep 2026 14:19:26 GMT"
     },
     {
-      "title": "Watch: Norway bids farewell to King Harald",
-      "link": "https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss",
-      "description": "Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.",
-      "pubDate": "Wed, 09 Sep 2026 16:36:45 GMT"
-    },
-    {
-      "title": "Sinkhole appears outside Malibu home thought to belong to Nicolas Cage",
-      "link": "https://www.bbc.co.uk/news/videos/czezr8g1n3eo?at_medium=RSS&at_campaign=rss",
-      "description": "The driveway of the beach-front house collapsed on Tuesday morning, according to local authorities.",
-      "pubDate": "Wed, 09 Sep 2026 09:49:08 GMT"
+      "title": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
+      "link": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&at_campaign=rss",
+      "description": "The senator has also proposed a sort of sovereign wealth fund in which the US would take a 50% stake in AI companies.",
+      "pubDate": "Thu, 10 Sep 2026 22:48:37 GMT"
     }
   ]
 }
