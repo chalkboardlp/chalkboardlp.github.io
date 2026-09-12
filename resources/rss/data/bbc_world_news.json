@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-12T00:17:56.829512+00:00",
+  "updated": "2026-09-12T05:46:44.225041+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-      "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-      "pubDate": "Fri, 11 Sep 2026 22:17:45 GMT"
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "pubDate": "Sat, 12 Sep 2026 04:43:10 GMT"
     },
     {
       "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
@@ -16,16 +16,28 @@
       "pubDate": "Fri, 11 Sep 2026 20:34:29 GMT"
     },
     {
+      "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+      "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+      "pubDate": "Sat, 12 Sep 2026 03:02:28 GMT"
+    },
+    {
       "title": "Passenger train derails in France leaving at least 44 injured",
       "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
       "description": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
       "pubDate": "Fri, 11 Sep 2026 21:25:32 GMT"
     },
     {
-      "title": "Arrest made over the death of black woman found hanged from tree",
+      "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
       "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
       "description": "Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August.",
-      "pubDate": "Sat, 12 Sep 2026 00:07:23 GMT"
+      "pubDate": "Sat, 12 Sep 2026 02:29:49 GMT"
+    },
+    {
+      "title": "Israel says it has destroyed major underground Hezbollah base",
+      "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "description": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+      "pubDate": "Fri, 11 Sep 2026 15:50:23 GMT"
     },
     {
       "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
@@ -34,10 +46,10 @@
       "pubDate": "Fri, 11 Sep 2026 16:00:59 GMT"
     },
     {
-      "title": "Israel says it has destroyed major underground Hezbollah base",
-      "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-      "description": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
-      "pubDate": "Fri, 11 Sep 2026 15:50:23 GMT"
+      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+      "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+      "pubDate": "Fri, 11 Sep 2026 22:17:45 GMT"
     },
     {
       "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
@@ -74,18 +86,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
       "description": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
       "pubDate": "Fri, 11 Sep 2026 21:07:19 GMT"
-    },
-    {
-      "title": "Five dead and dozens injured in coach crash in Swiss Alps",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
-      "description": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
-      "pubDate": "Fri, 11 Sep 2026 08:54:20 GMT"
-    },
-    {
-      "title": "Man jailed after threatening to behead son's teacher in French village",
-      "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
-      "description": "The father had threatened to kill a female primary school teacher for disciplining his son in class.",
-      "pubDate": "Fri, 11 Sep 2026 06:28:42 GMT"
     },
     {
       "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
