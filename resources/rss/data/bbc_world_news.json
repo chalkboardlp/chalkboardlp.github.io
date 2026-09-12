@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-12T14:07:01.049739+00:00",
+  "updated": "2026-09-12T17:08:55.021805+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "description": "Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "pubDate": "Sat, 12 Sep 2026 17:05:34 GMT"
+    },
     {
       "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
       "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
@@ -12,8 +18,14 @@
     {
       "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
       "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-      "description": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.",
+      "description": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
       "pubDate": "Sat, 12 Sep 2026 13:56:20 GMT"
+    },
+    {
+      "title": "French officials investigate if malicious act caused train derailment",
+      "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+      "description": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
+      "pubDate": "Sat, 12 Sep 2026 15:05:53 GMT"
     },
     {
       "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
@@ -22,10 +34,10 @@
       "pubDate": "Sat, 12 Sep 2026 05:55:15 GMT"
     },
     {
-      "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-      "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
-      "pubDate": "Sat, 12 Sep 2026 03:02:28 GMT"
+      "title": "Uganda's King Oyo buried amid calls for unity over his successor",
+      "link": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
+      "description": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
+      "pubDate": "Sat, 12 Sep 2026 16:55:31 GMT"
     },
     {
       "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
@@ -34,16 +46,22 @@
       "pubDate": "Sat, 12 Sep 2026 10:00:05 GMT"
     },
     {
-      "title": "Passenger train derails in France leaving at least 44 injured",
-      "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-      "description": "Local officials say186 passengers were on board the train operating the Rouen-Caen route in Normandy.",
-      "pubDate": "Sat, 12 Sep 2026 13:02:55 GMT"
-    },
-    {
       "title": "Record heatwaves in France set to make champagne stronger",
       "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
       "description": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
       "pubDate": "Sat, 12 Sep 2026 13:00:32 GMT"
+    },
+    {
+      "title": "Teen boy rescued after days adrift in Alaskan waters",
+      "link": "https://www.bbc.co.uk/news/articles/c7907l5nyddo?at_medium=RSS&at_campaign=rss",
+      "description": "The 15-year-old boy was rescued while the other two passengers from the capsized fishing vessel, his brother and cousin, died.",
+      "pubDate": "Sat, 12 Sep 2026 15:03:14 GMT"
+    },
+    {
+      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+      "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+      "pubDate": "Sat, 12 Sep 2026 15:09:55 GMT"
     },
     {
       "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
@@ -68,12 +86,6 @@
       "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
       "description": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
       "pubDate": "Sat, 12 Sep 2026 00:43:00 GMT"
-    },
-    {
-      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-      "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-      "pubDate": "Fri, 11 Sep 2026 22:17:45 GMT"
     },
     {
       "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
