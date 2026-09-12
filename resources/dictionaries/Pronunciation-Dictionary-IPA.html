@@ -3,27 +3,30 @@
 <head>
   <meta charset="UTF-8">
   <title>Pronunciation + IPA</title>
+  <link rel="icon" href="https://chalkboardlp.github.io/img/favicon.png" type="image/x-icon">
   
   <style>
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
-</style>
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+  </style>
 
-  
   <style>
     body {
       font-family: "Noto Serif", serif;
       padding: 20px;
     }
+
     input {
       padding: 8px;
       font-size: 20px;
     }
+
     button {
       padding: 8px 12px;
       font-size: 20px;
       cursor: pointer;
       margin-left: 5px;
     }
+
     #ipa {
       margin-top: 15px;
       font-size: 25px;
@@ -31,56 +34,254 @@
     }
   </style>
 </head>
+
 <body bgcolor="#FFFCF0">
 
 <center>
-  <img src="logo.png" width="150px" style="margin-bottom: 0px; margin-top: 0px;"></img>
-  <p style="font-size: 28px; font-weight: bold; line-height: 5px;">English Pronunciation Dictionary</p>
-  <p style="font-size: 12px; font-weight: bold; color: #2f5f9a; line-height: 0px;">Created by: Teacher Christian Serrano</p>
-</br>
-  <input type="text" id="wordInput" placeholder="Type a word" style="font-family: 'Noto Serif', serif; font-weight: bold; color: #2f5f9a;">
-  <button onclick="playPronunciation()" style="font-family: 'Noto Serif', serif; font-weight: bold;">🔊 Listen</button>
-  <button onclick="getIPA()" style="font-family: 'Noto Serif', serif; font-weight: bold;">🔤 IPA</button>
+
+  <img src="logo.png" width="150px" style="margin-bottom: 0px; margin-top: 0px;">
+
+  <p style="font-size: 28px; font-weight: bold; line-height: 5px;">
+    English Pronunciation Dictionary
+  </p>
+
+  <p style="font-size: 12px; font-weight: bold; color: #2f5f9a; line-height: 0px;">
+    Created by: Teacher Christian Serrano
+  </p>
+
+  </br>
+
+  <input
+    type="text"
+    id="wordInput"
+    placeholder="Type a word"
+    style="font-family: 'Noto Serif', serif; font-weight: bold; color: #2f5f9a;"
+  >
+
+  <button
+    onclick="playPronunciation()"
+    style="font-family: 'Noto Serif', serif; font-weight: bold;"
+  >
+    🔊 Listen
+  </button>
+
+  <button
+    onclick="getIPA()"
+    style="font-family: 'Noto Serif', serif; font-weight: bold;"
+  >
+    🔤 IPA
+  </button>
 
   <audio id="audioPlayer"></audio>
 
   <div id="ipa" style="color: #bf2024;"></div>
-  <p style="font-size: 10px; font-weight: bold;">(The apostrophe in the phonetic word means that the stress is that syllable in British English)</p>
-  <p style="font-size: 10px; font-weight: bold; color: #bf2024; line-height: 0px;">IPA = International Phonetic Alphabet</p>
- </center>
 
-  <script>
-    function playPronunciation() {
-      const word = document.getElementById("wordInput").value.trim().toLowerCase();
-      if (!word) return alert("Please enter a word");
+  <p style="font-size: 10px; font-weight: bold;">
+    (The apostrophe in the phonetic word means that the stress is in that syllable)
+  </p>
 
-      const audio = document.getElementById("audioPlayer");
-      audio.src = `https://d1qx7pbj0dvboc.cloudfront.net/${word}.mp3`;
-      audio.play().catch(() => {
-        alert("Audio not found");
-      });
+  <p style="font-size: 10px; font-weight: bold; color: #bf2024; line-height: 0px;">
+    IPA = International Phonetic Alphabet
+  </p>
+
+</center>
+
+
+<script>
+
+  // ============================================================
+  // GET DICTIONARY DATA
+  // ============================================================
+
+  async function getWordData() {
+
+    const word = document
+      .getElementById("wordInput")
+      .value
+      .trim()
+      .toLowerCase();
+
+    if (!word) return null;
+
+    const response = await fetch(
+      `https://freedictionaryapi.com/api/v1/entries/en/${encodeURIComponent(word)}`
+    );
+
+    if (!response.ok) {
+      throw new Error("Word not found");
     }
 
-    async function getIPA() {
-      const word = document.getElementById("wordInput").value.trim().toLowerCase();
-      if (!word) return alert("Please enter a word");
+    return await response.json();
+  }
 
-      const ipaDiv = document.getElementById("ipa");
-      ipaDiv.textContent = "Loading IPA...";
 
-      try {
-        const response = await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${word}`);
-        const data = await response.json();
+  // ============================================================
+  // IPA
+  // ============================================================
 
-        const phonetics = data[0].phonetics;
-        const ipa = phonetics.find(p => p.text)?.text || "IPA not available";
+  async function getIPA() {
 
-        ipaDiv.textContent = `/${ipa}/`;
-      } catch (error) {
-        ipaDiv.textContent = "Word not found";
+    const word = document
+      .getElementById("wordInput")
+      .value
+      .trim()
+      .toLowerCase();
+
+    if (!word) {
+      alert("Please enter a word");
+      return;
+    }
+
+    const ipaDiv = document.getElementById("ipa");
+
+    ipaDiv.textContent = "Loading IPA...";
+
+    try {
+
+      const data = await getWordData();
+
+      let ipa = null;
+
+      // Search all dictionary entries
+      // for an IPA pronunciation.
+
+      for (const entry of data.entries || []) {
+
+        const pronunciation = (entry.pronunciations || [])
+          .find(
+            p =>
+              p.type === "ipa" &&
+              p.text
+          );
+
+        if (pronunciation) {
+
+          ipa = pronunciation.text;
+
+          break;
+        }
       }
+
+      if (ipa) {
+
+        // The API already includes
+        // the / / symbols.
+
+        ipaDiv.textContent = ipa;
+
+      } else {
+
+        ipaDiv.textContent = "IPA not available";
+
+      }
+
+    } catch (error) {
+
+      console.error(error);
+
+      ipaDiv.textContent = "Word not found";
     }
-  </script>
+  }
+
+
+  // ============================================================
+  // AUDIO
+  // ============================================================
+
+  async function playPronunciation() {
+
+    const word = document
+      .getElementById("wordInput")
+      .value
+      .trim()
+      .toLowerCase();
+
+    if (!word) {
+      alert("Please enter a word");
+      return;
+    }
+
+
+    const audio = document.getElementById("audioPlayer");
+
+
+    // ------------------------------------------------------------
+    // FIRST AUDIO SOURCE
+    // Your original audio server
+    // ------------------------------------------------------------
+
+    const originalAudioURL =
+      `https://d1qx7pbj0dvboc.cloudfront.net/${encodeURIComponent(word)}.mp3`;
+
+
+    // ------------------------------------------------------------
+    // SECOND AUDIO SOURCE
+    // Google Dictionary pronunciation audio
+    // ------------------------------------------------------------
+
+    const googleAudioURL =
+      `https://ssl.gstatic.com/dictionary/static/sounds/20200429/${encodeURIComponent(word)}--_gb_1.mp3`;
+
+
+    // ------------------------------------------------------------
+    // Try original source first
+    // ------------------------------------------------------------
+
+    try {
+
+      audio.src = originalAudioURL;
+
+      await audio.play();
+
+      return;
+
+    } catch (error) {
+
+      console.log(
+        "Original audio unavailable. Trying alternative..."
+      );
+
+    }
+
+
+    // ------------------------------------------------------------
+    // Try Google Dictionary audio
+    // ------------------------------------------------------------
+
+    try {
+
+      audio.src = googleAudioURL;
+
+      await audio.play();
+
+      return;
+
+    } catch (error) {
+
+      console.error(error);
+
+      alert("Audio not available");
+    }
+  }
+
+
+  // ============================================================
+  // PRESS ENTER TO GET IPA
+  // ============================================================
+
+  document
+    .getElementById("wordInput")
+    .addEventListener("keydown", function(event) {
+
+      if (event.key === "Enter") {
+
+        getIPA();
+
+      }
+
+    });
+
+</script>
 
 </body>
 </html>
