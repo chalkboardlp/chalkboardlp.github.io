@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T05:46:44.225041+00:00",
+  "updated": "2026-09-12T10:44:49.398265+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -10,10 +10,22 @@
       "pubDate": "Sat, 12 Sep 2026 04:43:10 GMT"
     },
     {
+      "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+      "description": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.",
+      "pubDate": "Sat, 12 Sep 2026 10:41:53 GMT"
+    },
+    {
       "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
       "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
       "description": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
       "pubDate": "Fri, 11 Sep 2026 20:34:29 GMT"
+    },
+    {
+      "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+      "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+      "description": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+      "pubDate": "Sat, 12 Sep 2026 00:43:00 GMT"
     },
     {
       "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
@@ -34,16 +46,10 @@
       "pubDate": "Sat, 12 Sep 2026 02:29:49 GMT"
     },
     {
-      "title": "Israel says it has destroyed major underground Hezbollah base",
-      "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-      "description": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
-      "pubDate": "Fri, 11 Sep 2026 15:50:23 GMT"
-    },
-    {
-      "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
-      "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
-      "description": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
-      "pubDate": "Fri, 11 Sep 2026 16:00:59 GMT"
+      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+      "description": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
+      "pubDate": "Sat, 12 Sep 2026 05:55:15 GMT"
     },
     {
       "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
@@ -52,22 +58,16 @@
       "pubDate": "Fri, 11 Sep 2026 22:17:45 GMT"
     },
     {
-      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-      "link": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-      "description": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
-      "pubDate": "Fri, 11 Sep 2026 10:50:04 GMT"
+      "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+      "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
+      "description": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
+      "pubDate": "Sat, 12 Sep 2026 10:00:05 GMT"
     },
     {
-      "title": "Princess Diana's 'revenge dress' goes up for auction",
-      "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
-      "description": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
-      "pubDate": "Fri, 11 Sep 2026 12:04:46 GMT"
-    },
-    {
-      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-      "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
-      "pubDate": "Fri, 11 Sep 2026 08:15:25 GMT"
+      "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+      "link": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
+      "description": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
+      "pubDate": "Sat, 12 Sep 2026 08:04:16 GMT"
     },
     {
       "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
@@ -76,64 +76,34 @@
       "pubDate": "Fri, 11 Sep 2026 17:32:44 GMT"
     },
     {
-      "title": "Philippine rescuers board ferry 40 hours after blaze began",
-      "link": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
-      "description": "Thick, toxic fumes and extreme temperatures pose a challenge to rescuers who have boarded the ship.",
-      "pubDate": "Fri, 11 Sep 2026 06:33:15 GMT"
-    },
-    {
-      "title": "Six Nigerians accused of romance scams to be extradited to the US",
-      "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
-      "description": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
-      "pubDate": "Fri, 11 Sep 2026 21:07:19 GMT"
-    },
-    {
       "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
       "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
-      "description": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
+      "description": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
       "pubDate": "Fri, 11 Sep 2026 19:44:58 GMT"
     },
     {
-      "title": "The student behind 'cockroach' protests that forced an Indian minister to quit",
-      "link": "https://www.bbc.co.uk/news/articles/cly749x4k2vo?at_medium=RSS&at_campaign=rss",
-      "description": "It has been a rollercoaster ride for 'cockroach' party founder Abhijeet Dipke who gained celebrity status overnight.",
-      "pubDate": "Fri, 11 Sep 2026 00:27:20 GMT"
+      "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
+      "link": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
+      "description": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
+      "pubDate": "Sat, 12 Sep 2026 00:24:08 GMT"
     },
     {
-      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
-      "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
-      "description": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
-      "pubDate": "Fri, 11 Sep 2026 05:53:06 GMT"
+      "title": "When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all",
+      "link": "https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o?at_medium=RSS&at_campaign=rss",
+      "description": "Mountaineer Mingma G tells the BBC about the climb to bring home the bodies of his closest friends.",
+      "pubDate": "Fri, 11 Sep 2026 23:39:01 GMT"
     },
     {
-      "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
-      "link": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
-      "description": "As Brics leaders meet in Delhi, divisions within the bloc make a united response to Washington unlikely.",
-      "pubDate": "Fri, 11 Sep 2026 09:38:23 GMT"
+      "title": "Firefighters say this antioxidant helped them - their union warns it could be risky",
+      "link": "https://www.bbc.co.uk/news/articles/crk3n5z60pvo?at_medium=RSS&at_campaign=rss",
+      "description": "Glutathione, an antioxidant, has been offered as a treatment at some of the largest US wildfires in recent years.",
+      "pubDate": "Sat, 12 Sep 2026 01:04:49 GMT"
     },
     {
-      "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
-      "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
-      "pubDate": "Thu, 10 Sep 2026 23:22:11 GMT"
-    },
-    {
-      "title": "Can Trump really pay $5,000 to every American adult?",
-      "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-      "description": "Analysts question if the US president's election year offer is workable, legal or affordable.",
-      "pubDate": "Thu, 10 Sep 2026 16:48:37 GMT"
-    },
-    {
-      "title": "Four key takeaways from  Republican midterms convention",
-      "link": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
-      "description": "The US president covered many of the subjects he has returned to time and again - with a few surprises thrown in.",
-      "pubDate": "Thu, 10 Sep 2026 04:07:44 GMT"
-    },
-    {
-      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
-      "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
-      "description": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
-      "pubDate": "Thu, 10 Sep 2026 04:43:54 GMT"
+      "title": "Gen Zs recall first learning of 'deeply harrowing, terrifying' 9/11",
+      "link": "https://www.bbc.co.uk/news/articles/cgmrzzkjywlo?at_medium=RSS&at_campaign=rss",
+      "description": "They carry distinct memories not from the day itself, but from the moment  - years later - they learned about the attacks.",
+      "pubDate": "Fri, 11 Sep 2026 17:21:00 GMT"
     },
     {
       "title": "How global trade and oil prices could be hit by Houthi advance",
