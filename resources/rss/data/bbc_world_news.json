@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-12T17:08:55.021805+00:00",
+  "updated": "2026-09-12T19:20:32.752441+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
       "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
       "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "description": "Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-      "pubDate": "Sat, 12 Sep 2026 17:05:34 GMT"
+      "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "pubDate": "Sat, 12 Sep 2026 17:42:38 GMT"
     },
     {
       "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
@@ -46,22 +46,22 @@
       "pubDate": "Sat, 12 Sep 2026 10:00:05 GMT"
     },
     {
+      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+      "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+      "pubDate": "Sat, 12 Sep 2026 15:09:55 GMT"
+    },
+    {
       "title": "Record heatwaves in France set to make champagne stronger",
       "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
       "description": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
       "pubDate": "Sat, 12 Sep 2026 13:00:32 GMT"
     },
     {
-      "title": "Teen boy rescued after days adrift in Alaskan waters",
-      "link": "https://www.bbc.co.uk/news/articles/c7907l5nyddo?at_medium=RSS&at_campaign=rss",
-      "description": "The 15-year-old boy was rescued while the other two passengers from the capsized fishing vessel, his brother and cousin, died.",
-      "pubDate": "Sat, 12 Sep 2026 15:03:14 GMT"
-    },
-    {
-      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-      "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
-      "pubDate": "Sat, 12 Sep 2026 15:09:55 GMT"
+      "title": "Bulgaria investigates fire at weapons  site that owner calls sabotage",
+      "link": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&at_campaign=rss",
+      "description": "Officials are not ruling out \"outside interference\", while the company says the blaze at its site was sabotage.",
+      "pubDate": "Sat, 12 Sep 2026 17:38:21 GMT"
     },
     {
       "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
@@ -118,6 +118,12 @@
       "pubDate": "Fri, 11 Sep 2026 17:21:00 GMT"
     },
     {
+      "title": "Céline Dion fans prepare for comeback concert in Paris",
+      "link": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
+      "description": "Fans of the Canadian singer greeted her as she left her hotel on Saturday.",
+      "pubDate": "Sat, 12 Sep 2026 17:36:20 GMT"
+    },
+    {
       "title": "How global trade and oil prices could be hit by Houthi advance",
       "link": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
       "description": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
@@ -146,12 +152,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
       "description": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
       "pubDate": "Thu, 10 Sep 2026 14:19:26 GMT"
-    },
-    {
-      "title": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
-      "link": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&at_campaign=rss",
-      "description": "The senator has also proposed a sort of sovereign wealth fund in which the US would take a 50% stake in AI companies.",
-      "pubDate": "Thu, 10 Sep 2026 22:48:37 GMT"
     }
   ]
 }
