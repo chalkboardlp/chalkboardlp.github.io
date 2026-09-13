@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T20:49:06.306041+00:00",
+  "updated": "2026-09-13T23:09:48.735229+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -20,6 +20,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
       "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
       "pubDate": "Sun, 13 Sep 2026 18:20:22 GMT"
+    },
+    {
+      "title": "Swedish party blocs tied after Sunday vote, projections say",
+      "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "description": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority.",
+      "pubDate": "Sun, 13 Sep 2026 22:27:54 GMT"
     },
     {
       "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
@@ -68,12 +74,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
       "description": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
       "pubDate": "Sat, 12 Sep 2026 21:19:11 GMT"
-    },
-    {
-      "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
-      "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
-      "description": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
-      "pubDate": "Sat, 12 Sep 2026 20:27:25 GMT"
     },
     {
       "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
