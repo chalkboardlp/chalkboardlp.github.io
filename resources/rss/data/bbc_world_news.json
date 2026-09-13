@@ -1,19 +1,25 @@
 {
-  "updated": "2026-09-13T10:17:03.549980+00:00",
+  "updated": "2026-09-13T14:27:03.102016+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-      "pubDate": "Sat, 12 Sep 2026 21:16:47 GMT"
+      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+      "description": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+      "pubDate": "Sun, 13 Sep 2026 11:13:07 GMT"
     },
     {
-      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-      "description": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
-      "pubDate": "Sat, 12 Sep 2026 21:25:28 GMT"
+      "title": "Iran war reshapes Brics ties but also exposes divisions",
+      "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+      "description": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
+      "pubDate": "Sun, 13 Sep 2026 11:23:42 GMT"
+    },
+    {
+      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+      "description": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+      "pubDate": "Sun, 13 Sep 2026 13:30:38 GMT"
     },
     {
       "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
@@ -28,28 +34,16 @@
       "pubDate": "Sat, 12 Sep 2026 23:51:05 GMT"
     },
     {
-      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-      "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
-      "pubDate": "Sat, 12 Sep 2026 12:15:50 GMT"
+      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+      "description": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+      "pubDate": "Sat, 12 Sep 2026 21:25:28 GMT"
     },
     {
-      "title": "Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea",
-      "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-      "description": "Ships and helicopters are searching for the remaining 130 missing people from the Virgo Transport 8 ship, which had encountered bad weather.",
-      "pubDate": "Sun, 13 Sep 2026 09:42:08 GMT"
-    },
-    {
-      "title": "Uganda's King Oyo buried amid calls for unity over his successor",
-      "link": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
-      "description": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
-      "pubDate": "Sat, 12 Sep 2026 16:55:31 GMT"
-    },
-    {
-      "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
-      "link": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
-      "description": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
-      "pubDate": "Sat, 12 Sep 2026 21:19:11 GMT"
+      "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
+      "link": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
+      "description": "The heavyweight champion took on the likes of Muhammad Ali and Joe Frazier, and was known for never once getting knocked out or knocked down.",
+      "pubDate": "Sun, 13 Sep 2026 14:01:44 GMT"
     },
     {
       "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
@@ -58,10 +52,22 @@
       "pubDate": "Sat, 12 Sep 2026 20:27:25 GMT"
     },
     {
+      "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
+      "link": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
+      "description": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
+      "pubDate": "Sat, 12 Sep 2026 21:19:11 GMT"
+    },
+    {
       "title": "Fire at nursing home in Chile kills 16 residents",
       "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
       "description": "Ten people were evacuated from the home in Araucanía region in central Chile.",
       "pubDate": "Sat, 12 Sep 2026 19:36:50 GMT"
+    },
+    {
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "pubDate": "Sat, 12 Sep 2026 21:16:47 GMT"
     },
     {
       "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
@@ -70,10 +76,16 @@
       "pubDate": "Sat, 12 Sep 2026 15:09:55 GMT"
     },
     {
-      "title": "French officials investigate if malicious act caused train derailment",
-      "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
-      "description": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
-      "pubDate": "Sat, 12 Sep 2026 15:05:53 GMT"
+      "title": "Uganda's King Oyo buried amid calls for unity over his successor",
+      "link": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
+      "description": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
+      "pubDate": "Sat, 12 Sep 2026 16:55:31 GMT"
+    },
+    {
+      "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
+      "link": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
+      "description": "The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.",
+      "pubDate": "Sun, 13 Sep 2026 02:41:51 GMT"
     },
     {
       "title": "Best friends for decades - until a DNA test revealed they were sisters",
@@ -86,12 +98,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
       "description": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
       "pubDate": "Sat, 12 Sep 2026 10:00:05 GMT"
-    },
-    {
-      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
-      "description": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
-      "pubDate": "Fri, 11 Sep 2026 19:44:58 GMT"
     },
     {
       "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
