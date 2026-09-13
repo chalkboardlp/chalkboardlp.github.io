@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T18:12:08.349215+00:00",
+  "updated": "2026-09-13T20:49:06.306041+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -7,13 +7,19 @@
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
       "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
       "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-      "pubDate": "Sun, 13 Sep 2026 17:38:29 GMT"
+      "pubDate": "Sun, 13 Sep 2026 19:14:21 GMT"
     },
     {
       "title": "Trump downplays warnings of AI risks, citing rivalry with China",
       "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
       "description": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
-      "pubDate": "Sun, 13 Sep 2026 18:03:44 GMT"
+      "pubDate": "Sun, 13 Sep 2026 18:49:37 GMT"
+    },
+    {
+      "title": "Questions mount over what an AI 'slowdown' would look like",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+      "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+      "pubDate": "Sun, 13 Sep 2026 18:20:22 GMT"
     },
     {
       "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
@@ -34,10 +40,10 @@
       "pubDate": "Sun, 13 Sep 2026 11:23:42 GMT"
     },
     {
-      "title": "Trump doubles down on united Ireland comments on day two of visit",
+      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
       "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "description": "The US president was speaking at the Irish Open on Sunday and said \"many people agree\" with his comments.",
-      "pubDate": "Sun, 13 Sep 2026 18:09:56 GMT"
+      "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+      "pubDate": "Sun, 13 Sep 2026 19:34:36 GMT"
     },
     {
       "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
@@ -58,12 +64,6 @@
       "pubDate": "Sun, 13 Sep 2026 00:49:08 GMT"
     },
     {
-      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-      "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
-      "pubDate": "Sun, 13 Sep 2026 09:05:10 GMT"
-    },
-    {
       "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
       "link": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
       "description": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
@@ -80,6 +80,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
       "description": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
       "pubDate": "Sat, 12 Sep 2026 23:51:05 GMT"
+    },
+    {
+      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+      "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+      "pubDate": "Sun, 13 Sep 2026 09:05:10 GMT"
     },
     {
       "title": "Best friends for decades - until a DNA test revealed they were sisters",
