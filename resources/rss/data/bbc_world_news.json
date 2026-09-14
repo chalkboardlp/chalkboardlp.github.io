@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T23:09:48.735229+00:00",
+  "updated": "2026-09-14T01:04:02.443060+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -12,7 +12,7 @@
     {
       "title": "Trump downplays warnings of AI risks, citing rivalry with China",
       "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "description": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
       "pubDate": "Sun, 13 Sep 2026 18:49:37 GMT"
     },
     {
