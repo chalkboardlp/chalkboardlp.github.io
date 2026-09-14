@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-14T01:04:02.443060+00:00",
+  "updated": "2026-09-14T06:16:34.918585+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
       "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-      "pubDate": "Sun, 13 Sep 2026 19:14:21 GMT"
+      "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+      "pubDate": "Mon, 14 Sep 2026 03:38:13 GMT"
     },
     {
       "title": "Trump downplays warnings of AI risks, citing rivalry with China",
@@ -22,10 +22,10 @@
       "pubDate": "Sun, 13 Sep 2026 18:20:22 GMT"
     },
     {
-      "title": "Swedish party blocs tied after Sunday vote, projections say",
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
       "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "description": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority.",
-      "pubDate": "Sun, 13 Sep 2026 22:27:54 GMT"
+      "description": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
+      "pubDate": "Mon, 14 Sep 2026 01:58:59 GMT"
     },
     {
       "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
@@ -44,6 +44,12 @@
       "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
       "description": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
       "pubDate": "Sun, 13 Sep 2026 11:23:42 GMT"
+    },
+    {
+      "title": "Hyrox athlete sparks debate for continuing race after soiling herself",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
+      "description": "Some have raised concerns around hygiene while others saluted her resolve to finish the race.",
+      "pubDate": "Mon, 14 Sep 2026 05:34:13 GMT"
     },
     {
       "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
@@ -106,10 +112,16 @@
       "pubDate": "Sat, 12 Sep 2026 21:25:28 GMT"
     },
     {
-      "title": "Céline Dion fans prepare for comeback concert in Paris",
-      "link": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
-      "description": "Fans of the Canadian singer greeted her as she left her hotel on Saturday.",
-      "pubDate": "Sat, 12 Sep 2026 17:36:20 GMT"
+      "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
+      "link": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss",
+      "description": "No casualties were reported after a Russian drone struck a train shortly after Boris Johnson and top European officials left the area.",
+      "pubDate": "Mon, 14 Sep 2026 01:12:20 GMT"
+    },
+    {
+      "title": "'She's back': Fans dance, sing and cry after Céline Dion's comeback concert in Paris",
+      "link": "https://www.bbc.co.uk/news/videos/cpq01p1wn78o?at_medium=RSS&at_campaign=rss",
+      "description": "Thousands turned out to witness Céline Dion perform in Paris on Saturday, her first show after a six year illness-induced hiatus.",
+      "pubDate": "Sun, 13 Sep 2026 02:59:29 GMT"
     },
     {
       "title": "How global trade and oil prices could be hit by Houthi advance",
@@ -128,18 +140,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
       "description": "The BBC asks people in Washington what they were doing on that day and how 11 September 2001 changed the country.",
       "pubDate": "Fri, 11 Sep 2026 02:48:43 GMT"
-    },
-    {
-      "title": "Brother of Muslim police cadet killed in 9/11 'disappointed' by calls for Mamdani to sit out memorial",
-      "link": "https://www.bbc.co.uk/news/videos/ce8e67l4330o?at_medium=RSS&at_campaign=rss",
-      "description": "Zeshan Hamdani speaks out after push back against New York Mayor Zohran Mamdani, who is Muslim, attending 9/11 events.",
-      "pubDate": "Fri, 11 Sep 2026 04:10:24 GMT"
-    },
-    {
-      "title": "Drone display recreates the Twin Towers over New York City",
-      "link": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
-      "description": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
-      "pubDate": "Thu, 10 Sep 2026 14:19:26 GMT"
     }
   ]
 }
