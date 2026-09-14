@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-14T18:38:05.582759+00:00",
+  "updated": "2026-09-14T22:30:16.745737+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "De La Espriella launches all-out offensive against corruption and “white-collar criminals”",
+      "link": "https://thecitypaperbogota.com/news/de-la-espriella-launches-all-out-offensive-against-corruption-and-white-collar-criminals/",
+      "description": "Colombian President Abelardo De La Espriella launched a forceful attack on corruption during an televised address to the nation Sunday, targeting both those convicted of crimes involving public funds and those who, he says, attempt to use their positions, influence or personal connections to secure special treatment. In a speech focused on the victims of [&#8230;]",
+      "pubDate": "Mon, 14 Sep 2026 21:03:46 +0000"
+    },
     {
       "title": "What we remember when we remember 9/11",
       "link": "https://thecitypaperbogota.com/global/what-we-remember-when-we-remember-9-11/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/petro-uses-independence-day-address-to-challenge-election-results/",
       "description": "Outgoing Colombian President Gustavo Petro used his final Independence Day address to Congress on Monday to question the legitimacy of Colombia&#8217;s presidential election, accuse the United States of imposing the country&#8217;s next leader and urge supporters to prepare mass protests if the incoming government reverses his reforms. The speech, delivered less than three weeks before [&#8230;]",
       "pubDate": "Tue, 21 Jul 2026 19:58:24 +0000"
-    },
-    {
-      "title": "New U.S.-Colombia chapter takes shape as Rubio meets Colombia’s vice president-elect",
-      "link": "https://thecitypaperbogota.com/news/new-u-s-colombia-chapter-takes-shape-as-rubio-meets-colombias-vice-president-elect/",
-      "description": "U.S. Secretary of State Marco Rubio met Colombia&#8217;s Vice President-elect José Manuel Restrepo on Wednesday, signaling what both sides described as the beginning of a new phase in bilateral relations as President-elect Abelardo de la Espriella prepares to take office on Aug. 7. The closed-door meeting at the State Department brought together senior members of [&#8230;]",
-      "pubDate": "Thu, 16 Jul 2026 16:43:27 +0000"
     }
   ]
 }

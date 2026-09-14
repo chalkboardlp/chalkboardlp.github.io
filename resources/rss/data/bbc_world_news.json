@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T18:38:03.811348+00:00",
+  "updated": "2026-09-14T22:30:13.094566+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -34,10 +34,10 @@
       "pubDate": "Mon, 14 Sep 2026 11:28:36 GMT"
     },
     {
-      "title": "Body of missing runner found in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
-      "description": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
-      "pubDate": "Mon, 14 Sep 2026 14:58:48 GMT"
+      "title": "Legendary costume designer Bob Mackie dies aged 87",
+      "link": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
+      "description": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
+      "pubDate": "Mon, 14 Sep 2026 21:29:12 GMT"
     },
     {
       "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
@@ -56,6 +56,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
       "description": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
       "pubDate": "Mon, 14 Sep 2026 16:23:42 GMT"
+    },
+    {
+      "title": "Body of missing runner found in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+      "description": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
+      "pubDate": "Mon, 14 Sep 2026 14:58:48 GMT"
     },
     {
       "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
