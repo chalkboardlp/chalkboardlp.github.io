@@ -1,37 +1,67 @@
 {
-  "updated": "2026-09-14T06:16:34.918585+00:00",
+  "updated": "2026-09-14T12:54:38.318574+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
+      "title": "China criticises idea it is in 'malicious competition' over AI",
+      "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+      "description": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+      "pubDate": "Mon, 14 Sep 2026 11:31:39 GMT"
+    },
+    {
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
       "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
       "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-      "pubDate": "Mon, 14 Sep 2026 03:38:13 GMT"
+      "pubDate": "Mon, 14 Sep 2026 12:18:13 GMT"
     },
     {
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-      "pubDate": "Sun, 13 Sep 2026 18:49:37 GMT"
-    },
-    {
-      "title": "Questions mount over what an AI 'slowdown' would look like",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-      "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
-      "pubDate": "Sun, 13 Sep 2026 18:20:22 GMT"
+      "title": "Thousands demand end to violence in Mexican cartel hotspot",
+      "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
+      "description": "The city has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
+      "pubDate": "Mon, 14 Sep 2026 11:28:36 GMT"
     },
     {
       "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
       "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
       "description": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
-      "pubDate": "Mon, 14 Sep 2026 01:58:59 GMT"
+      "pubDate": "Mon, 14 Sep 2026 08:36:09 GMT"
     },
     {
       "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
       "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
       "description": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
       "pubDate": "Sun, 13 Sep 2026 13:30:38 GMT"
+    },
+    {
+      "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+      "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
+      "description": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
+      "pubDate": "Mon, 14 Sep 2026 08:58:27 GMT"
+    },
+    {
+      "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+      "link": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
+      "description": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.",
+      "pubDate": "Mon, 14 Sep 2026 11:35:08 GMT"
+    },
+    {
+      "title": "Hyrox apologises for allowing race to continue after athlete soils herself",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
+      "description": "Some raised concerns around hygiene while others praised the competitor's resolve to finish the race and push through adversity.",
+      "pubDate": "Mon, 14 Sep 2026 11:20:07 GMT"
+    },
+    {
+      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+      "pubDate": "Sun, 13 Sep 2026 19:34:36 GMT"
+    },
+    {
+      "title": "Bali police investigate after Australian man and children found dead in home",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
+      "description": "Police were called after the man's wife became concerned and asked neighbours to check on her family.",
+      "pubDate": "Mon, 14 Sep 2026 07:15:35 GMT"
     },
     {
       "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
@@ -44,18 +74,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
       "description": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
       "pubDate": "Sun, 13 Sep 2026 11:23:42 GMT"
-    },
-    {
-      "title": "Hyrox athlete sparks debate for continuing race after soiling herself",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
-      "description": "Some have raised concerns around hygiene while others saluted her resolve to finish the race.",
-      "pubDate": "Mon, 14 Sep 2026 05:34:13 GMT"
-    },
-    {
-      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-      "pubDate": "Sun, 13 Sep 2026 19:34:36 GMT"
     },
     {
       "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
@@ -86,6 +104,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
       "description": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
       "pubDate": "Sat, 12 Sep 2026 23:51:05 GMT"
+    },
+    {
+      "title": "Questions mount over what an AI 'slowdown' would look like",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+      "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+      "pubDate": "Sun, 13 Sep 2026 18:20:22 GMT"
     },
     {
       "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
