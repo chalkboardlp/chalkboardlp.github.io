@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T12:54:38.318574+00:00",
+  "updated": "2026-09-14T18:38:03.811348+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -16,28 +16,46 @@
       "pubDate": "Mon, 14 Sep 2026 12:18:13 GMT"
     },
     {
-      "title": "Thousands demand end to violence in Mexican cartel hotspot",
-      "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
-      "description": "The city has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
-      "pubDate": "Mon, 14 Sep 2026 11:28:36 GMT"
-    },
-    {
       "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
       "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "description": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
+      "description": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
       "pubDate": "Mon, 14 Sep 2026 08:36:09 GMT"
     },
     {
-      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-      "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-      "description": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
-      "pubDate": "Sun, 13 Sep 2026 13:30:38 GMT"
+      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+      "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+      "description": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
+      "pubDate": "Mon, 14 Sep 2026 14:08:12 GMT"
+    },
+    {
+      "title": "Thousands demand end to violence in Mexican cartel hotspot",
+      "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
+      "description": "Culiacán has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
+      "pubDate": "Mon, 14 Sep 2026 11:28:36 GMT"
+    },
+    {
+      "title": "Body of missing runner found in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+      "description": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
+      "pubDate": "Mon, 14 Sep 2026 14:58:48 GMT"
     },
     {
       "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
       "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
       "description": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
       "pubDate": "Mon, 14 Sep 2026 08:58:27 GMT"
+    },
+    {
+      "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+      "link": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
+      "description": "DHS inspectors say they found the immigration-detention centre violated basic standards for hygiene, medical care, food and safety.",
+      "pubDate": "Mon, 14 Sep 2026 16:48:10 GMT"
+    },
+    {
+      "title": "Africa's richest man launches continent's biggest share sale",
+      "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
+      "description": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
+      "pubDate": "Mon, 14 Sep 2026 16:23:42 GMT"
     },
     {
       "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
@@ -56,6 +74,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
       "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
       "pubDate": "Sun, 13 Sep 2026 19:34:36 GMT"
+    },
+    {
+      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+      "description": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+      "pubDate": "Sun, 13 Sep 2026 13:30:38 GMT"
     },
     {
       "title": "Bali police investigate after Australian man and children found dead in home",
@@ -134,6 +158,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
       "description": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
       "pubDate": "Sat, 12 Sep 2026 21:25:28 GMT"
+    },
+    {
+      "title": "Flash flooding interrupts half-marathon, submerges cars",
+      "link": "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&at_campaign=rss",
+      "description": "Parts of New York, New Jersey and Connecticut were hit by flash flooding, leading to water rescues, stranded motorists and half-marathon runners battling the floodwaters.",
+      "pubDate": "Mon, 14 Sep 2026 15:01:28 GMT"
     },
     {
       "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
