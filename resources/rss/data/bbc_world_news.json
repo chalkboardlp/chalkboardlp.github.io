@@ -1,25 +1,37 @@
 {
-  "updated": "2026-09-15T01:27:39.042443+00:00",
+  "updated": "2026-09-15T07:43:50.336716+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "China criticises idea it is in 'malicious competition' over AI",
-      "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-      "description": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
-      "pubDate": "Mon, 14 Sep 2026 11:31:39 GMT"
+      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+      "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+      "pubDate": "Tue, 15 Sep 2026 03:47:27 GMT"
     },
     {
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-      "pubDate": "Mon, 14 Sep 2026 12:18:13 GMT"
+      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
+      "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+      "description": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
+      "pubDate": "Tue, 15 Sep 2026 02:50:36 GMT"
     },
     {
-      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-      "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "description": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
-      "pubDate": "Mon, 14 Sep 2026 08:36:09 GMT"
+      "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
+      "description": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
+      "pubDate": "Tue, 15 Sep 2026 03:50:06 GMT"
+    },
+    {
+      "title": "Nato jets down drone that entered Lithuanian airspace",
+      "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+      "description": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
+      "pubDate": "Tue, 15 Sep 2026 06:29:17 GMT"
+    },
+    {
+      "title": "US confirms for first time it has deployed space weapons",
+      "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+      "description": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
+      "pubDate": "Tue, 15 Sep 2026 01:52:02 GMT"
     },
     {
       "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
@@ -28,16 +40,46 @@
       "pubDate": "Mon, 14 Sep 2026 14:08:12 GMT"
     },
     {
-      "title": "Thousands demand end to violence in Mexican cartel hotspot",
-      "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
-      "description": "Culiacán has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
-      "pubDate": "Mon, 14 Sep 2026 11:28:36 GMT"
-    },
-    {
       "title": "Legendary costume designer Bob Mackie dies aged 87",
       "link": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
       "description": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
       "pubDate": "Mon, 14 Sep 2026 21:29:12 GMT"
+    },
+    {
+      "title": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
+      "link": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss",
+      "description": "An Instagram post from the couple said two nights of their wedding festivities in the Bahamas were partially funded by Umar Kremlev.",
+      "pubDate": "Mon, 14 Sep 2026 22:56:44 GMT"
+    },
+    {
+      "title": "China criticises idea it is in 'malicious competition' over AI",
+      "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+      "description": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+      "pubDate": "Mon, 14 Sep 2026 11:31:39 GMT"
+    },
+    {
+      "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+      "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+      "description": "The Trump administration had asked the court to lift a federal judge's temporary block on new rules for mail-in ballots.",
+      "pubDate": "Tue, 15 Sep 2026 01:15:15 GMT"
+    },
+    {
+      "title": "China tightens travel restrictions for citizens",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&at_campaign=rss",
+      "description": "Observers say the new rules will further tighten the Chinese government's control over its citizens.",
+      "pubDate": "Tue, 15 Sep 2026 06:43:09 GMT"
+    },
+    {
+      "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
+      "description": "The film accuses the Israeli army of mass civilian killing in Gaza, and Israeli officials say it could be treasonous.",
+      "pubDate": "Mon, 14 Sep 2026 18:26:20 GMT"
+    },
+    {
+      "title": "US scraps limits on emissions from coal and gas power plants",
+      "link": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
+      "description": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
+      "pubDate": "Mon, 14 Sep 2026 22:04:14 GMT"
     },
     {
       "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
@@ -82,12 +124,6 @@
       "pubDate": "Sun, 13 Sep 2026 19:34:36 GMT"
     },
     {
-      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-      "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-      "description": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
-      "pubDate": "Sun, 13 Sep 2026 13:30:38 GMT"
-    },
-    {
       "title": "Bali police investigate after Australian man and children found dead in home",
       "link": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
       "description": "Police were called after the man's wife became concerned and asked neighbours to check on her family.",
@@ -100,34 +136,10 @@
       "pubDate": "Sun, 13 Sep 2026 14:25:56 GMT"
     },
     {
-      "title": "Iran war reshapes Brics ties but also exposes divisions",
-      "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-      "description": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
-      "pubDate": "Sun, 13 Sep 2026 11:23:42 GMT"
-    },
-    {
-      "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
-      "link": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
-      "description": "The heavyweight champion took on the likes of Muhammad Ali and Joe Frazier, and was known for never once getting knocked out or knocked down.",
-      "pubDate": "Sun, 13 Sep 2026 14:01:44 GMT"
-    },
-    {
-      "title": "US congressman swims to safety after his plane is forced to land on a lake",
-      "link": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
-      "description": "The small plane carrying Rep Tom Tiffany had a mechanical issue that forced the pilot to make an emergency landing on a Wisconsin lake.",
-      "pubDate": "Sun, 13 Sep 2026 15:30:43 GMT"
-    },
-    {
-      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-      "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
-      "description": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
-      "pubDate": "Sun, 13 Sep 2026 00:49:08 GMT"
-    },
-    {
-      "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
-      "link": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
-      "description": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
-      "pubDate": "Sat, 12 Sep 2026 21:19:11 GMT"
+      "title": "Ukraine's postal workers deliver lifeline under Russian fire",
+      "link": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
+      "description": "The state post service delivers pensions, medicine and letters to people just miles from the front.",
+      "pubDate": "Tue, 15 Sep 2026 05:01:46 GMT"
     },
     {
       "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
@@ -166,40 +178,28 @@
       "pubDate": "Sat, 12 Sep 2026 21:25:28 GMT"
     },
     {
+      "title": "Mass nesting brings swarms of turtles to Mexican beach",
+      "link": "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo?at_medium=RSS&at_campaign=rss",
+      "description": "Thousands of turtles arrived at La Escobilla beach in Oaxaca within 48 hours, sanctuary officials said.",
+      "pubDate": "Tue, 15 Sep 2026 01:08:55 GMT"
+    },
+    {
+      "title": "Superstars and broken records: 2026 Emmy highlights",
+      "link": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss",
+      "description": "The 78th Primetime Emmy Awards were hosted by Law & Order star Mariska Hargitay at the Peacock Theatre in Los Angeles.",
+      "pubDate": "Tue, 15 Sep 2026 05:14:24 GMT"
+    },
+    {
+      "title": "‘Great’ or ‘alarming’ - Should AI be reined in?",
+      "link": "https://www.bbc.co.uk/news/videos/cmdx5wdl7z0lo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC asked people in Washington DC about the technology’s rapid development and whether it poses a threat to humanity, as some experts warn.",
+      "pubDate": "Mon, 14 Sep 2026 21:58:41 GMT"
+    },
+    {
       "title": "Flash flooding interrupts half-marathon, submerges cars",
       "link": "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&at_campaign=rss",
       "description": "Parts of New York, New Jersey and Connecticut were hit by flash flooding, leading to water rescues, stranded motorists and half-marathon runners battling the floodwaters.",
       "pubDate": "Mon, 14 Sep 2026 15:01:28 GMT"
-    },
-    {
-      "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
-      "link": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss",
-      "description": "No casualties were reported after a Russian drone struck a train shortly after Boris Johnson and top European officials left the area.",
-      "pubDate": "Mon, 14 Sep 2026 01:12:20 GMT"
-    },
-    {
-      "title": "'She's back': Fans dance, sing and cry after Céline Dion's comeback concert in Paris",
-      "link": "https://www.bbc.co.uk/news/videos/cpq01p1wn78o?at_medium=RSS&at_campaign=rss",
-      "description": "Thousands turned out to witness Céline Dion perform in Paris on Saturday, her first show after a six year illness-induced hiatus.",
-      "pubDate": "Sun, 13 Sep 2026 02:59:29 GMT"
-    },
-    {
-      "title": "How global trade and oil prices could be hit by Houthi advance",
-      "link": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
-      "description": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
-      "pubDate": "Fri, 11 Sep 2026 16:13:39 GMT"
-    },
-    {
-      "title": "Has Trump won over voters with his midterm convention?",
-      "link": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term.",
-      "pubDate": "Fri, 11 Sep 2026 06:16:54 GMT"
-    },
-    {
-      "title": "Watch: Americans remember what they were doing on 9/11",
-      "link": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC asks people in Washington what they were doing on that day and how 11 September 2001 changed the country.",
-      "pubDate": "Fri, 11 Sep 2026 02:48:43 GMT"
     }
   ]
 }
