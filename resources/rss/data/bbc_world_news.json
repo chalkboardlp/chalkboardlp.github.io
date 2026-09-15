@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T07:43:50.336716+00:00",
+  "updated": "2026-09-15T13:32:30.429480+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -7,13 +7,13 @@
       "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
       "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
       "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
-      "pubDate": "Tue, 15 Sep 2026 03:47:27 GMT"
+      "pubDate": "Tue, 15 Sep 2026 08:49:31 GMT"
     },
     {
-      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
-      "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
-      "description": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
-      "pubDate": "Tue, 15 Sep 2026 02:50:36 GMT"
+      "title": "Denmark says Russian warship fired flares at military helicopter",
+      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+      "description": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
+      "pubDate": "Tue, 15 Sep 2026 11:40:00 GMT"
     },
     {
       "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
@@ -22,22 +22,46 @@
       "pubDate": "Tue, 15 Sep 2026 03:50:06 GMT"
     },
     {
-      "title": "Nato jets down drone that entered Lithuanian airspace",
-      "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
-      "description": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
-      "pubDate": "Tue, 15 Sep 2026 06:29:17 GMT"
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+      "description": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
+      "pubDate": "Tue, 15 Sep 2026 12:32:30 GMT"
     },
     {
       "title": "US confirms for first time it has deployed space weapons",
       "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
       "description": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
-      "pubDate": "Tue, 15 Sep 2026 01:52:02 GMT"
+      "pubDate": "Tue, 15 Sep 2026 08:48:28 GMT"
     },
     {
-      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
-      "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
-      "description": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
-      "pubDate": "Mon, 14 Sep 2026 14:08:12 GMT"
+      "title": "Colombian ex-foreign minister charged over nanny's lie detector test",
+      "link": "https://www.bbc.co.uk/news/articles/c61580330nj1o?at_medium=RSS&at_campaign=rss",
+      "description": "Laura Sarabia is accused of ordering police to interrogate her nanny after cash allegedly went missing from her flat.",
+      "pubDate": "Tue, 15 Sep 2026 12:59:21 GMT"
+    },
+    {
+      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+      "description": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
+      "pubDate": "Tue, 15 Sep 2026 13:05:36 GMT"
+    },
+    {
+      "title": "Nato jets down drone that entered Lithuanian airspace",
+      "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+      "description": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
+      "pubDate": "Tue, 15 Sep 2026 09:07:35 GMT"
+    },
+    {
+      "title": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
+      "link": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss",
+      "description": "An Instagram post from the couple said two nights of their wedding festivities in the Bahamas were partially funded by Umar Kremlev.",
+      "pubDate": "Mon, 14 Sep 2026 22:56:44 GMT"
+    },
+    {
+      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
+      "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+      "description": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
+      "pubDate": "Tue, 15 Sep 2026 02:50:36 GMT"
     },
     {
       "title": "Legendary costume designer Bob Mackie dies aged 87",
@@ -46,10 +70,10 @@
       "pubDate": "Mon, 14 Sep 2026 21:29:12 GMT"
     },
     {
-      "title": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
-      "link": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss",
-      "description": "An Instagram post from the couple said two nights of their wedding festivities in the Bahamas were partially funded by Umar Kremlev.",
-      "pubDate": "Mon, 14 Sep 2026 22:56:44 GMT"
+      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+      "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+      "description": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
+      "pubDate": "Mon, 14 Sep 2026 14:08:12 GMT"
     },
     {
       "title": "China criticises idea it is in 'malicious competition' over AI",
@@ -61,7 +85,7 @@
       "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
       "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
       "description": "The Trump administration had asked the court to lift a federal judge's temporary block on new rules for mail-in ballots.",
-      "pubDate": "Tue, 15 Sep 2026 01:15:15 GMT"
+      "pubDate": "Tue, 15 Sep 2026 11:49:33 GMT"
     },
     {
       "title": "China tightens travel restrictions for citizens",
@@ -98,42 +122,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
       "description": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
       "pubDate": "Mon, 14 Sep 2026 16:23:42 GMT"
-    },
-    {
-      "title": "Body of missing runner found in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
-      "description": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
-      "pubDate": "Mon, 14 Sep 2026 14:58:48 GMT"
-    },
-    {
-      "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
-      "link": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
-      "description": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.",
-      "pubDate": "Mon, 14 Sep 2026 11:35:08 GMT"
-    },
-    {
-      "title": "Hyrox apologises for allowing race to continue after athlete soils herself",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
-      "description": "Some raised concerns around hygiene while others praised the competitor's resolve to finish the race and push through adversity.",
-      "pubDate": "Mon, 14 Sep 2026 11:20:07 GMT"
-    },
-    {
-      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-      "pubDate": "Sun, 13 Sep 2026 19:34:36 GMT"
-    },
-    {
-      "title": "Bali police investigate after Australian man and children found dead in home",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
-      "description": "Police were called after the man's wife became concerned and asked neighbours to check on her family.",
-      "pubDate": "Mon, 14 Sep 2026 07:15:35 GMT"
-    },
-    {
-      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-      "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
-      "description": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
-      "pubDate": "Sun, 13 Sep 2026 14:25:56 GMT"
     },
     {
       "title": "Ukraine's postal workers deliver lifeline under Russian fire",
