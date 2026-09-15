@@ -1,19 +1,55 @@
 {
-  "updated": "2026-09-15T13:32:30.429480+00:00",
+  "updated": "2026-09-15T18:11:58.454785+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
-    {
-      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-      "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
-      "pubDate": "Tue, 15 Sep 2026 08:49:31 GMT"
-    },
     {
       "title": "Denmark says Russian warship fired flares at military helicopter",
       "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
       "description": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
       "pubDate": "Tue, 15 Sep 2026 11:40:00 GMT"
+    },
+    {
+      "title": "What weapon could the US have put into space?",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+      "description": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
+      "pubDate": "Tue, 15 Sep 2026 14:23:14 GMT"
+    },
+    {
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+      "description": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
+      "pubDate": "Tue, 15 Sep 2026 16:55:04 GMT"
+    },
+    {
+      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+      "description": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
+      "pubDate": "Tue, 15 Sep 2026 16:13:41 GMT"
+    },
+    {
+      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "description": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
+      "pubDate": "Tue, 15 Sep 2026 15:31:34 GMT"
+    },
+    {
+      "title": "Canada is a 'safe harbour' for global finance, Carney says",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+      "description": "The prime minister is hosting a major global investment summit, with the goal of attracting money into the country amid a trade war with the US.",
+      "pubDate": "Tue, 15 Sep 2026 17:54:46 GMT"
+    },
+    {
+      "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+      "description": "The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.",
+      "pubDate": "Tue, 15 Sep 2026 16:01:54 GMT"
+    },
+    {
+      "title": "Ash from Mount Etna grounds flights at Sicily airport",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo?at_medium=RSS&at_campaign=rss",
+      "description": "All flights are suspended from one of Italy's busiest airports until Tuesday night.",
+      "pubDate": "Tue, 15 Sep 2026 14:35:04 GMT"
     },
     {
       "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
@@ -22,28 +58,22 @@
       "pubDate": "Tue, 15 Sep 2026 03:50:06 GMT"
     },
     {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-      "description": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
-      "pubDate": "Tue, 15 Sep 2026 12:32:30 GMT"
+      "title": "British woman abducted in Malawi, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&at_campaign=rss",
+      "description": "The mother of two young children was kidnapped in the middle of the day in the main city, Blantyre.",
+      "pubDate": "Tue, 15 Sep 2026 17:44:45 GMT"
     },
     {
-      "title": "US confirms for first time it has deployed space weapons",
-      "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
-      "description": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
-      "pubDate": "Tue, 15 Sep 2026 08:48:28 GMT"
+      "title": "More than 100,000 people in Japan are now aged 100 or older",
+      "link": "https://www.bbc.co.uk/news/articles/cmzezj5e18xxo?at_medium=RSS&at_campaign=rss",
+      "description": "Figures show 88% of the centenarians are women as the population continues to age and shrink.",
+      "pubDate": "Tue, 15 Sep 2026 13:43:15 GMT"
     },
     {
       "title": "Colombian ex-foreign minister charged over nanny's lie detector test",
       "link": "https://www.bbc.co.uk/news/articles/c61580330nj1o?at_medium=RSS&at_campaign=rss",
       "description": "Laura Sarabia is accused of ordering police to interrogate her nanny after cash allegedly went missing from her flat.",
       "pubDate": "Tue, 15 Sep 2026 12:59:21 GMT"
-    },
-    {
-      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-      "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
-      "description": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
-      "pubDate": "Tue, 15 Sep 2026 13:05:36 GMT"
     },
     {
       "title": "Nato jets down drone that entered Lithuanian airspace",
@@ -76,52 +106,10 @@
       "pubDate": "Mon, 14 Sep 2026 14:08:12 GMT"
     },
     {
-      "title": "China criticises idea it is in 'malicious competition' over AI",
-      "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-      "description": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
-      "pubDate": "Mon, 14 Sep 2026 11:31:39 GMT"
-    },
-    {
-      "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
-      "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
-      "description": "The Trump administration had asked the court to lift a federal judge's temporary block on new rules for mail-in ballots.",
-      "pubDate": "Tue, 15 Sep 2026 11:49:33 GMT"
-    },
-    {
-      "title": "China tightens travel restrictions for citizens",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&at_campaign=rss",
-      "description": "Observers say the new rules will further tighten the Chinese government's control over its citizens.",
-      "pubDate": "Tue, 15 Sep 2026 06:43:09 GMT"
-    },
-    {
-      "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
-      "description": "The film accuses the Israeli army of mass civilian killing in Gaza, and Israeli officials say it could be treasonous.",
-      "pubDate": "Mon, 14 Sep 2026 18:26:20 GMT"
-    },
-    {
-      "title": "US scraps limits on emissions from coal and gas power plants",
-      "link": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
-      "description": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
-      "pubDate": "Mon, 14 Sep 2026 22:04:14 GMT"
-    },
-    {
-      "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
-      "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
-      "description": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
-      "pubDate": "Mon, 14 Sep 2026 08:58:27 GMT"
-    },
-    {
-      "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
-      "link": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
-      "description": "DHS inspectors say they found the immigration-detention centre violated basic standards for hygiene, medical care, food and safety.",
-      "pubDate": "Mon, 14 Sep 2026 16:48:10 GMT"
-    },
-    {
-      "title": "Africa's richest man launches continent's biggest share sale",
-      "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
-      "description": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
-      "pubDate": "Mon, 14 Sep 2026 16:23:42 GMT"
+      "title": "Satellite image reveals major damage that shut crucial Saudi oil pipeline",
+      "link": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
+      "description": "Experts tell BBC Verify the pipeline's closure could cut oil supplies by as much as 3.6 million barrels per day.",
+      "pubDate": "Tue, 15 Sep 2026 14:21:14 GMT"
     },
     {
       "title": "Ukraine's postal workers deliver lifeline under Russian fire",
@@ -142,28 +130,10 @@
       "pubDate": "Sun, 13 Sep 2026 18:20:22 GMT"
     },
     {
-      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-      "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
-      "pubDate": "Sun, 13 Sep 2026 09:05:10 GMT"
-    },
-    {
-      "title": "Best friends for decades - until a DNA test revealed they were sisters",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
-      "description": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands.",
-      "pubDate": "Sat, 12 Sep 2026 22:00:28 GMT"
-    },
-    {
-      "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-      "link": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
-      "description": "The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.",
-      "pubDate": "Sun, 13 Sep 2026 02:41:51 GMT"
-    },
-    {
-      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-      "description": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
-      "pubDate": "Sat, 12 Sep 2026 21:25:28 GMT"
+      "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
+      "link": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
+      "description": "The US has confirmed it deployed a space weapon in Earth's orbit, the first time it has acknowledged such offensive capabilities.",
+      "pubDate": "Tue, 15 Sep 2026 17:35:02 GMT"
     },
     {
       "title": "Mass nesting brings swarms of turtles to Mexican beach",
@@ -182,12 +152,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cmdx5wdl7z0lo?at_medium=RSS&at_campaign=rss",
       "description": "The BBC asked people in Washington DC about the technology’s rapid development and whether it poses a threat to humanity, as some experts warn.",
       "pubDate": "Mon, 14 Sep 2026 21:58:41 GMT"
-    },
-    {
-      "title": "Flash flooding interrupts half-marathon, submerges cars",
-      "link": "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&at_campaign=rss",
-      "description": "Parts of New York, New Jersey and Connecticut were hit by flash flooding, leading to water rescues, stranded motorists and half-marathon runners battling the floodwaters.",
-      "pubDate": "Mon, 14 Sep 2026 15:01:28 GMT"
     }
   ]
 }
