@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-16T16:53:51.956135+00:00",
+  "updated": "2026-09-16T20:07:04.997582+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "19 minors reported missing in Bogotá in a single week",
+      "link": "https://thecitypaperbogota.com/bogota/nineteen-minors-reported-missing-in-bogota-in-a-single-week/",
+      "description": "The disappearance of children and adolescents has become a growing concern in Bogotá after the city’s Security Secretariat reported 19 cases during the last week, the majority involving minors. Twelve of those reported missing were subsequently found alive, while the search continues for the remaining seven. Authorities said several of the cases were linked to [&#8230;]",
+      "pubDate": "Wed, 16 Sep 2026 19:29:46 +0000"
+    },
     {
       "title": "Chocó is still moving more than a month after Colombia’s 7.4 earthquake",
       "link": "https://thecitypaperbogota.com/news/choco-is-still-moving-more-than-a-month-after-colombias-7-4-earthquake/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/colombias-de-la-espriella-to-close-14-embassies-cut-ties-with-cuba-and-nicaragua/",
       "description": "Colombia&#8217;s president-elect Abelardo De la Espriella announced Sunday, a sweeping overhaul of the country&#8217;s diplomatic network, pledging to close 14 embassies and 15 consulates. He also pledged to sever diplomatic relations with Cuba and Nicaragua, and redirect budget cuts toward security and public investment after taking office on August 7. In a video message posted [&#8230;]",
       "pubDate": "Mon, 27 Jul 2026 15:24:06 +0000"
-    },
-    {
-      "title": "Colombia Denies Entry to Nearly 19,000 Foreigners Since 2022",
-      "link": "https://thecitypaperbogota.com/news/colombia-denies-entry-to-nearly-19000-foreigners-since-2022/",
-      "description": "Colombia&#8217;s immigration authority has denied entry to nearly 19,000 foreign nationals since President Gustavo Petro took office in August 2022, citing national security concerns, immigration violations, fraudulent documentation and other legal grounds, according to figures released Monday by Migración Colombia. The government said 18,994 foreigners were refused entry between August 2022 and June 2026 under [&#8230;]",
-      "pubDate": "Mon, 27 Jul 2026 13:27:53 +0000"
     }
   ]
 }
