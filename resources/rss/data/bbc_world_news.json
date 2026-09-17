@@ -1,37 +1,43 @@
 {
-  "updated": "2026-09-17T13:26:43.915938+00:00",
+  "updated": "2026-09-17T18:12:34.030019+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-      "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
-      "pubDate": "Thu, 17 Sep 2026 05:00:18 GMT"
-    },
-    {
-      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-      "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-      "pubDate": "Thu, 17 Sep 2026 08:22:12 GMT"
+      "title": "Canada welcomes EU proposal to become 'associate member'",
+      "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
+      "description": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
+      "pubDate": "Thu, 17 Sep 2026 12:27:18 GMT"
     },
     {
       "title": "Ninth woman's body found as South African police investigate string of deaths",
       "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
       "description": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
-      "pubDate": "Thu, 17 Sep 2026 13:02:23 GMT"
+      "pubDate": "Thu, 17 Sep 2026 13:44:07 GMT"
     },
     {
-      "title": "Swedish PM Kristersson resigns after election loss",
-      "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
-      "description": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
-      "pubDate": "Thu, 17 Sep 2026 12:41:05 GMT"
+      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+      "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+      "pubDate": "Thu, 17 Sep 2026 15:07:47 GMT"
     },
     {
-      "title": "EU announces plan to restrict social media access for under-15s",
-      "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
-      "description": "Under the plans, only children over 15 would be able to set up their own social media accounts.",
-      "pubDate": "Thu, 17 Sep 2026 10:00:14 GMT"
+      "title": "Hyrox athlete apologises for continuing race after soiling herself",
+      "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
+      "description": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
+      "pubDate": "Thu, 17 Sep 2026 15:05:13 GMT"
+    },
+    {
+      "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+      "link": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+      "description": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
+      "pubDate": "Thu, 17 Sep 2026 17:08:00 GMT"
+    },
+    {
+      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+      "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
+      "pubDate": "Thu, 17 Sep 2026 05:00:18 GMT"
     },
     {
       "title": "Aztec document goes on display in Mexico after 186 years abroad",
@@ -40,16 +46,34 @@
       "pubDate": "Thu, 17 Sep 2026 11:00:41 GMT"
     },
     {
+      "title": "EU announces plan to restrict social media access for under-15s",
+      "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
+      "description": "Under the plans, only children over 15 would be able to set up their own social media accounts.",
+      "pubDate": "Thu, 17 Sep 2026 10:00:14 GMT"
+    },
+    {
+      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+      "pubDate": "Thu, 17 Sep 2026 08:22:12 GMT"
+    },
+    {
+      "title": "Swedish PM Kristersson resigns after election loss",
+      "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
+      "description": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
+      "pubDate": "Thu, 17 Sep 2026 12:41:05 GMT"
+    },
+    {
+      "title": "Klopp wants to 'reclaim' flag amid German elections",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
+      "description": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
+      "pubDate": "Thu, 17 Sep 2026 13:02:40 GMT"
+    },
+    {
       "title": "US interest rates raised for first time in three years",
       "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
       "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
       "pubDate": "Thu, 17 Sep 2026 00:40:17 GMT"
-    },
-    {
-      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
-      "link": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
-      "description": "There is no doubt over the outcome of this vote, but for the Kremlin they are still an important moment.",
-      "pubDate": "Thu, 17 Sep 2026 05:00:36 GMT"
     },
     {
       "title": "Abducted South African journalist found dead with gunshot wounds",
@@ -142,22 +166,22 @@
       "pubDate": "Wed, 16 Sep 2026 15:33:19 GMT"
     },
     {
-      "title": "Colombia and Brazil deadliest countries for environmental activists, report says",
-      "link": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss",
-      "description": "The two countries accounted for 52% of killings of environmental activists in 2025, according to Global Witness.",
-      "pubDate": "Wed, 16 Sep 2026 11:02:54 GMT"
+      "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
+      "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
+      "description": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes Katya Adler.",
+      "pubDate": "Thu, 17 Sep 2026 16:59:43 GMT"
     },
     {
-      "title": "US limits visas for South African officials over alleged anti-white discrimination",
-      "link": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
-      "description": "Secretary of State Marco Rubio says South Africa has not addressed US concerns over racial inequality.",
-      "pubDate": "Wed, 16 Sep 2026 13:57:03 GMT"
+      "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Verify tracks down the location of a Houthi video showing the wreckage of an F-15 they claim to have shot down.",
+      "pubDate": "Thu, 17 Sep 2026 13:47:36 GMT"
     },
     {
-      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
-      "link": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
-      "description": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\".",
-      "pubDate": "Wed, 16 Sep 2026 12:26:00 GMT"
+      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
+      "link": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
+      "description": "There is no doubt over the outcome of this vote, but for the Kremlin they are still an important moment.",
+      "pubDate": "Thu, 17 Sep 2026 05:00:36 GMT"
     },
     {
       "title": "Why Trump is all-in on AI despite the warnings",
