@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-17T07:38:38.843084+00:00",
+  "updated": "2026-09-17T13:26:45.576850+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Festival El Mundo brings 13 nations together through food in Bogotá",
+      "link": "https://thecitypaperbogota.com/bogota/festival-el-mundo-brings-13-nations-together-through-food-in-bogota/",
+      "description": "Bogotá is preparing to turn gastronomy into a meeting point for cultures with the first edition of the Festival Gastronómico y Cultural El Mundo en el Corazón de Bogotá, taking place September 19 and 20 at Parque El Country. Admission is free to the two-day festival, which brings together 13 participating nations and the UN [&#8230;]",
+      "pubDate": "Thu, 17 Sep 2026 13:00:20 +0000"
+    },
     {
       "title": "19 minors reported missing in Bogotá in a single week",
       "link": "https://thecitypaperbogota.com/bogota/nineteen-minors-reported-missing-in-bogota-in-a-single-week/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/rubio-expected-to-lead-u-s-delegation-to-presidential-inauguration-in-cali/",
       "description": "U.S. Secretary of State Marco Rubio is expected to attend the inauguration of Colombia&#8217;s president-elect Abelardo De La Espriella on August 7, a ceremony that will make history as the country&#8217;s first presidential transfer of power to be held outside Bogotá. The inauguration will take place at 3:00 p.m. at the Arena USC on the [&#8230;]",
       "pubDate": "Thu, 30 Jul 2026 20:07:22 +0000"
-    },
-    {
-      "title": "Colombia’s De la Espriella to Close 14 Embassies, Cut Ties With Cuba and Nicaragua",
-      "link": "https://thecitypaperbogota.com/news/colombias-de-la-espriella-to-close-14-embassies-cut-ties-with-cuba-and-nicaragua/",
-      "description": "Colombia&#8217;s president-elect Abelardo De la Espriella announced Sunday, a sweeping overhaul of the country&#8217;s diplomatic network, pledging to close 14 embassies and 15 consulates. He also pledged to sever diplomatic relations with Cuba and Nicaragua, and redirect budget cuts toward security and public investment after taking office on August 7. In a video message posted [&#8230;]",
-      "pubDate": "Mon, 27 Jul 2026 15:24:06 +0000"
     }
   ]
 }

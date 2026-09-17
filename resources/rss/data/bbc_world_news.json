@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T07:38:37.511124+00:00",
+  "updated": "2026-09-17T13:26:43.915938+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -10,16 +10,40 @@
       "pubDate": "Thu, 17 Sep 2026 05:00:18 GMT"
     },
     {
+      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+      "pubDate": "Thu, 17 Sep 2026 08:22:12 GMT"
+    },
+    {
+      "title": "Ninth woman's body found as South African police investigate string of deaths",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+      "description": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
+      "pubDate": "Thu, 17 Sep 2026 13:02:23 GMT"
+    },
+    {
+      "title": "Swedish PM Kristersson resigns after election loss",
+      "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
+      "description": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
+      "pubDate": "Thu, 17 Sep 2026 12:41:05 GMT"
+    },
+    {
+      "title": "EU announces plan to restrict social media access for under-15s",
+      "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
+      "description": "Under the plans, only children over 15 would be able to set up their own social media accounts.",
+      "pubDate": "Thu, 17 Sep 2026 10:00:14 GMT"
+    },
+    {
+      "title": "Aztec document goes on display in Mexico after 186 years abroad",
+      "link": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss",
+      "description": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.",
+      "pubDate": "Thu, 17 Sep 2026 11:00:41 GMT"
+    },
+    {
       "title": "US interest rates raised for first time in three years",
       "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
       "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
       "pubDate": "Thu, 17 Sep 2026 00:40:17 GMT"
-    },
-    {
-      "title": "Snapchat open to putting time limits on teens, boss tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-      "description": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
-      "pubDate": "Wed, 16 Sep 2026 23:41:57 GMT"
     },
     {
       "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
@@ -28,22 +52,46 @@
       "pubDate": "Thu, 17 Sep 2026 05:00:36 GMT"
     },
     {
-      "title": "Photos show widespread damage at US sites from Iranian attacks",
-      "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-      "description": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
-      "pubDate": "Wed, 16 Sep 2026 18:36:16 GMT"
+      "title": "Abducted South African journalist found dead with gunshot wounds",
+      "link": "https://www.bbc.co.uk/news/articles/c52e047wpw7po?at_medium=RSS&at_campaign=rss",
+      "description": "The body of veteran broadcaster Owen Ndlovu was found hours after armed men kidnapped him near Johannesburg.",
+      "pubDate": "Thu, 17 Sep 2026 06:46:31 GMT"
     },
     {
-      "title": "EU chief backs plan for Canada to become 'associate member'",
-      "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-      "description": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
-      "pubDate": "Thu, 17 Sep 2026 00:32:05 GMT"
+      "title": "One dead after torrential rain and flash floods hit Barcelona region",
+      "link": "https://www.bbc.co.uk/news/articles/c9lyk27g8ln7o?at_medium=RSS&at_campaign=rss",
+      "description": "Flooding has caused widespread disruption across Valencia and Catalonia in north-east Spain.",
+      "pubDate": "Thu, 17 Sep 2026 08:39:30 GMT"
+    },
+    {
+      "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
+      "link": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
+      "description": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
+      "pubDate": "Thu, 17 Sep 2026 11:05:29 GMT"
+    },
+    {
+      "title": "India faces 100% tariff threat over Russian oil after US House vote",
+      "link": "https://www.bbc.co.uk/news/articles/c3lyrn4p870yo?at_medium=RSS&at_campaign=rss",
+      "description": "Trump’s tariff threat puts India’s Russian oil strategy- and its access to the US market - in a new bind.",
+      "pubDate": "Thu, 17 Sep 2026 05:33:29 GMT"
     },
     {
       "title": "International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown",
       "link": "https://www.bbc.co.uk/news/articles/cm986j81ky55o?at_medium=RSS&at_campaign=rss",
       "description": "The government wants to reduce net overseas migration to 225,000 people by 2028.",
       "pubDate": "Thu, 17 Sep 2026 05:05:09 GMT"
+    },
+    {
+      "title": "Photos show widespread damage at US sites from Iranian attacks",
+      "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+      "description": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+      "pubDate": "Wed, 16 Sep 2026 18:36:16 GMT"
+    },
+    {
+      "title": "Snapchat open to putting time limits on teens, boss tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+      "description": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+      "pubDate": "Wed, 16 Sep 2026 23:41:57 GMT"
     },
     {
       "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
@@ -110,12 +158,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
       "description": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\".",
       "pubDate": "Wed, 16 Sep 2026 12:26:00 GMT"
-    },
-    {
-      "title": "Philippines' Duterte seen in person at International Criminal Court for first time",
-      "link": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss",
-      "description": "He is due to be tried for crimes against humanity over thousands of deaths linked to his war on drugs.",
-      "pubDate": "Wed, 16 Sep 2026 11:50:09 GMT"
     },
     {
       "title": "Why Trump is all-in on AI despite the warnings",
