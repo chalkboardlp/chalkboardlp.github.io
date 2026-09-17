@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T18:12:34.030019+00:00",
+  "updated": "2026-09-17T21:21:19.475787+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -19,7 +19,7 @@
       "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
       "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
       "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
-      "pubDate": "Thu, 17 Sep 2026 15:07:47 GMT"
+      "pubDate": "Thu, 17 Sep 2026 20:34:30 GMT"
     },
     {
       "title": "Hyrox athlete apologises for continuing race after soiling herself",
@@ -28,22 +28,28 @@
       "pubDate": "Thu, 17 Sep 2026 15:05:13 GMT"
     },
     {
+      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
+      "pubDate": "Thu, 17 Sep 2026 20:44:53 GMT"
+    },
+    {
       "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
       "link": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
       "description": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
       "pubDate": "Thu, 17 Sep 2026 17:08:00 GMT"
     },
     {
-      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-      "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
-      "pubDate": "Thu, 17 Sep 2026 05:00:18 GMT"
-    },
-    {
       "title": "Aztec document goes on display in Mexico after 186 years abroad",
       "link": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss",
       "description": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.",
       "pubDate": "Thu, 17 Sep 2026 11:00:41 GMT"
+    },
+    {
+      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+      "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
+      "pubDate": "Thu, 17 Sep 2026 05:00:18 GMT"
     },
     {
       "title": "EU announces plan to restrict social media access for under-15s",
@@ -160,16 +166,22 @@
       "pubDate": "Wed, 16 Sep 2026 08:36:17 GMT"
     },
     {
-      "title": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting",
-      "link": "https://www.bbc.co.uk/news/articles/cwzrz4xmknjgo?at_medium=RSS&at_campaign=rss",
-      "description": "The conservative activist was speaking to a crowd of thousands on the university campus when he was shot and killed by a gunman positioned on a roof.",
-      "pubDate": "Wed, 16 Sep 2026 15:33:19 GMT"
-    },
-    {
       "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
       "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
       "description": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes Katya Adler.",
       "pubDate": "Thu, 17 Sep 2026 16:59:43 GMT"
+    },
+    {
+      "title": "Why Canadians are ready for closer ties with Europe",
+      "link": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
+      "description": "People the BBC spoke to are excited by the prospect of working and studying in the EU, a suggestion Carney made this week.",
+      "pubDate": "Thu, 17 Sep 2026 19:59:54 GMT"
+    },
+    {
+      "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
+      "link": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
+      "description": "Queensland's Fitzroy River has been selected for the 2032 Games, despite concerns over the course - and its inhabitants.",
+      "pubDate": "Thu, 17 Sep 2026 19:35:23 GMT"
     },
     {
       "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
@@ -214,6 +226,12 @@
       "pubDate": "Tue, 15 Sep 2026 05:01:46 GMT"
     },
     {
+      "title": "Is Canada about to join the EU?",
+      "link": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
+      "description": "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue.",
+      "pubDate": "Thu, 17 Sep 2026 16:18:35 GMT"
+    },
+    {
       "title": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
       "link": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss",
       "description": "The BBC goes inside a fortified storage facility to view luxury goods seized by police that are now up for auction.",
@@ -230,12 +248,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cmzezj8gr224o?at_medium=RSS&at_campaign=rss",
       "description": "The unharmed horse escaped from its owner before the start of a parade in New Mexico",
       "pubDate": "Wed, 16 Sep 2026 05:57:23 GMT"
-    },
-    {
-      "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
-      "link": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's defence correspondent Jonathan Beale explains what an arms race in space might look like - and what it could mean for us on the ground.",
-      "pubDate": "Tue, 15 Sep 2026 17:35:02 GMT"
     }
   ]
 }
