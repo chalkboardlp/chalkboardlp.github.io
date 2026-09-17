@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-17T01:24:39.477542+00:00",
+  "updated": "2026-09-17T07:38:37.511124+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+      "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
+      "pubDate": "Thu, 17 Sep 2026 05:00:18 GMT"
+    },
     {
       "title": "US interest rates raised for first time in three years",
       "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
@@ -10,10 +16,16 @@
       "pubDate": "Thu, 17 Sep 2026 00:40:17 GMT"
     },
     {
-      "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+      "title": "Snapchat open to putting time limits on teens, boss tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-      "description": "Evan Speigel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+      "description": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
       "pubDate": "Wed, 16 Sep 2026 23:41:57 GMT"
+    },
+    {
+      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
+      "link": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
+      "description": "There is no doubt over the outcome of this vote, but for the Kremlin they are still an important moment.",
+      "pubDate": "Thu, 17 Sep 2026 05:00:36 GMT"
     },
     {
       "title": "Photos show widespread damage at US sites from Iranian attacks",
@@ -26,6 +38,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
       "description": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
       "pubDate": "Thu, 17 Sep 2026 00:32:05 GMT"
+    },
+    {
+      "title": "International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown",
+      "link": "https://www.bbc.co.uk/news/articles/cm986j81ky55o?at_medium=RSS&at_campaign=rss",
+      "description": "The government wants to reduce net overseas migration to 225,000 people by 2028.",
+      "pubDate": "Thu, 17 Sep 2026 05:05:09 GMT"
     },
     {
       "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
@@ -98,24 +116,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss",
       "description": "He is due to be tried for crimes against humanity over thousands of deaths linked to his war on drugs.",
       "pubDate": "Wed, 16 Sep 2026 11:50:09 GMT"
-    },
-    {
-      "title": "Legendary Nigerian actor Olu Jacobs dies aged 84",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o?at_medium=RSS&at_campaign=rss",
-      "description": "Olu Jacobs was one of Nigeria's most recognised actors, whose career spanned several decades.",
-      "pubDate": "Wed, 16 Sep 2026 13:29:39 GMT"
-    },
-    {
-      "title": "Tall athletes can't stretch their legs in container beds at Asian Games, official says",
-      "link": "https://www.bbc.co.uk/news/articles/c620lg854v45o?at_medium=RSS&at_campaign=rss",
-      "description": "South Korea's delegation slams the wooden containers housing its athletes at the Asian Games in Nagoya city.",
-      "pubDate": "Wed, 16 Sep 2026 09:33:40 GMT"
-    },
-    {
-      "title": "Lost on Mount Fuji off-season? You'll have to pay for your rescue",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo?at_medium=RSS&at_campaign=rss",
-      "description": "The fee will be imposed on those who get lost on Japan's most famous mountain during the off-peak seasons.",
-      "pubDate": "Wed, 16 Sep 2026 02:40:51 GMT"
     },
     {
       "title": "Why Trump is all-in on AI despite the warnings",
