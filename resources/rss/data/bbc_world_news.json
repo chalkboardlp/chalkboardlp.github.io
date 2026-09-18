@@ -1,13 +1,67 @@
 {
-  "updated": "2026-09-18T09:45:36.022443+00:00",
+  "updated": "2026-09-18T14:31:31.770253+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Three dead, eight injured in Philippines school shooting",
+      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "description": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+      "pubDate": "Fri, 18 Sep 2026 14:02:09 GMT"
+    },
+    {
+      "title": "Three dead and eight injured in Philippines school shooting",
       "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-      "description": "The gunman, a 16-year-old student, is among the dead in what is the third school shooting in the country since June.",
-      "pubDate": "Fri, 18 Sep 2026 09:18:21 GMT"
+      "description": "The gunman is among the dead in what is the third school shooting in the country since June.",
+      "pubDate": "Fri, 18 Sep 2026 11:01:46 GMT"
+    },
+    {
+      "title": "Police begin operation to move migrants from Ceuta beaches",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+      "description": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
+      "pubDate": "Fri, 18 Sep 2026 11:59:42 GMT"
+    },
+    {
+      "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
+      "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
+      "description": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
+      "pubDate": "Fri, 18 Sep 2026 11:49:46 GMT"
+    },
+    {
+      "title": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
+      "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "description": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says.",
+      "pubDate": "Fri, 18 Sep 2026 11:39:11 GMT"
+    },
+    {
+      "title": "New wild cat species discovered - with only one known living member",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
+      "description": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
+      "pubDate": "Thu, 17 Sep 2026 23:15:55 GMT"
+    },
+    {
+      "title": "Dozens of suspected illegal miners die in Nigerian custody",
+      "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
+      "description": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
+      "pubDate": "Fri, 18 Sep 2026 13:17:16 GMT"
+    },
+    {
+      "title": "Japan raises interest rate to new 31-year high to curb rising prices",
+      "link": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
+      "description": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
+      "pubDate": "Fri, 18 Sep 2026 07:14:57 GMT"
+    },
+    {
+      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
+      "link": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
+      "description": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote.",
+      "pubDate": "Thu, 17 Sep 2026 23:24:07 GMT"
+    },
+    {
+      "title": "Zara Larsson criticises White House for using her song in deportation video",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&at_campaign=rss",
+      "description": "The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip \"dehumanising\".",
+      "pubDate": "Fri, 18 Sep 2026 01:20:33 GMT"
     },
     {
       "title": "Canada welcomes EU proposal to become 'associate member'",
@@ -28,64 +82,16 @@
       "pubDate": "Thu, 17 Sep 2026 20:34:30 GMT"
     },
     {
-      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
-      "link": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
-      "description": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote.",
-      "pubDate": "Thu, 17 Sep 2026 23:24:07 GMT"
-    },
-    {
       "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
       "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
       "description": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
       "pubDate": "Thu, 17 Sep 2026 21:41:19 GMT"
     },
     {
-      "title": "Zara Larsson criticises White House for using her song in deportation video",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&at_campaign=rss",
-      "description": "The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip \"dehumanising\".",
-      "pubDate": "Fri, 18 Sep 2026 01:20:33 GMT"
-    },
-    {
       "title": "Hyrox athlete apologises for continuing race after soiling herself",
       "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
       "description": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
       "pubDate": "Thu, 17 Sep 2026 15:05:13 GMT"
-    },
-    {
-      "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-      "link": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
-      "description": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
-      "pubDate": "Thu, 17 Sep 2026 17:08:00 GMT"
-    },
-    {
-      "title": "Aztec document goes on display in Mexico after 186 years abroad",
-      "link": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss",
-      "description": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.",
-      "pubDate": "Thu, 17 Sep 2026 11:00:41 GMT"
-    },
-    {
-      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-      "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
-      "pubDate": "Thu, 17 Sep 2026 05:00:18 GMT"
-    },
-    {
-      "title": "EU announces plan to restrict social media access for under-15s",
-      "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
-      "description": "Under the plans, only children over 15 would be able to set up their own social media accounts.",
-      "pubDate": "Thu, 17 Sep 2026 10:00:14 GMT"
-    },
-    {
-      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-      "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-      "pubDate": "Thu, 17 Sep 2026 08:22:12 GMT"
-    },
-    {
-      "title": "Swedish PM Kristersson resigns after election loss",
-      "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
-      "description": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
-      "pubDate": "Thu, 17 Sep 2026 12:41:05 GMT"
     },
     {
       "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
