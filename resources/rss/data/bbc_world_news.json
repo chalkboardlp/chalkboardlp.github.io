@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T14:31:31.770253+00:00",
+  "updated": "2026-09-18T18:28:07.516887+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -7,7 +7,7 @@
       "title": "Russian hybrid attacks against Europe intensifying, says Macron",
       "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
       "description": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
-      "pubDate": "Fri, 18 Sep 2026 14:02:09 GMT"
+      "pubDate": "Fri, 18 Sep 2026 18:04:38 GMT"
     },
     {
       "title": "Three dead and eight injured in Philippines school shooting",
@@ -28,10 +28,22 @@
       "pubDate": "Fri, 18 Sep 2026 11:49:46 GMT"
     },
     {
-      "title": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
+      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
       "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "description": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says.",
-      "pubDate": "Fri, 18 Sep 2026 11:39:11 GMT"
+      "description": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
+      "pubDate": "Fri, 18 Sep 2026 17:31:30 GMT"
+    },
+    {
+      "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+      "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+      "description": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
+      "pubDate": "Fri, 18 Sep 2026 17:15:02 GMT"
+    },
+    {
+      "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
+      "description": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
+      "pubDate": "Fri, 18 Sep 2026 12:45:25 GMT"
     },
     {
       "title": "New wild cat species discovered - with only one known living member",
@@ -43,7 +55,7 @@
       "title": "Dozens of suspected illegal miners die in Nigerian custody",
       "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
       "description": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
-      "pubDate": "Fri, 18 Sep 2026 13:17:16 GMT"
+      "pubDate": "Fri, 18 Sep 2026 15:47:28 GMT"
     },
     {
       "title": "Japan raises interest rate to new 31-year high to curb rising prices",
@@ -68,30 +80,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
       "description": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
       "pubDate": "Thu, 17 Sep 2026 12:27:18 GMT"
-    },
-    {
-      "title": "Ninth woman's body found as South African police investigate string of deaths",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-      "description": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
-      "pubDate": "Thu, 17 Sep 2026 13:44:07 GMT"
-    },
-    {
-      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
-      "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
-      "pubDate": "Thu, 17 Sep 2026 20:34:30 GMT"
-    },
-    {
-      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
-      "pubDate": "Thu, 17 Sep 2026 21:41:19 GMT"
-    },
-    {
-      "title": "Hyrox athlete apologises for continuing race after soiling herself",
-      "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
-      "description": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
-      "pubDate": "Thu, 17 Sep 2026 15:05:13 GMT"
     },
     {
       "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
