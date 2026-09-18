@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-18T04:50:11.363052+00:00",
+  "updated": "2026-09-18T09:45:36.022443+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Three dead, eight injured in Philippines school shooting",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+      "description": "The gunman, a 16-year-old student, is among the dead in what is the third school shooting in the country since June.",
+      "pubDate": "Fri, 18 Sep 2026 09:18:21 GMT"
+    },
     {
       "title": "Canada welcomes EU proposal to become 'associate member'",
       "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
@@ -22,22 +28,34 @@
       "pubDate": "Thu, 17 Sep 2026 20:34:30 GMT"
     },
     {
+      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
+      "link": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
+      "description": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote.",
+      "pubDate": "Thu, 17 Sep 2026 23:24:07 GMT"
+    },
+    {
       "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
       "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
       "description": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
       "pubDate": "Thu, 17 Sep 2026 21:41:19 GMT"
     },
     {
-      "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-      "link": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
-      "description": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
-      "pubDate": "Thu, 17 Sep 2026 17:08:00 GMT"
+      "title": "Zara Larsson criticises White House for using her song in deportation video",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&at_campaign=rss",
+      "description": "The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip \"dehumanising\".",
+      "pubDate": "Fri, 18 Sep 2026 01:20:33 GMT"
     },
     {
       "title": "Hyrox athlete apologises for continuing race after soiling herself",
       "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
       "description": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
       "pubDate": "Thu, 17 Sep 2026 15:05:13 GMT"
+    },
+    {
+      "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+      "link": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+      "description": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
+      "pubDate": "Thu, 17 Sep 2026 17:08:00 GMT"
     },
     {
       "title": "Aztec document goes on display in Mexico after 186 years abroad",
@@ -70,106 +88,10 @@
       "pubDate": "Thu, 17 Sep 2026 12:41:05 GMT"
     },
     {
-      "title": "Klopp wants to 'reclaim' flag amid German elections",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
-      "description": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
-      "pubDate": "Thu, 17 Sep 2026 13:02:40 GMT"
-    },
-    {
-      "title": "US interest rates raised for first time in three years",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-      "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-      "pubDate": "Thu, 17 Sep 2026 00:40:17 GMT"
-    },
-    {
-      "title": "Abducted South African journalist found dead with gunshot wounds",
-      "link": "https://www.bbc.co.uk/news/articles/c52e047wpw7po?at_medium=RSS&at_campaign=rss",
-      "description": "The body of veteran broadcaster Owen Ndlovu was found hours after armed men kidnapped him near Johannesburg.",
-      "pubDate": "Thu, 17 Sep 2026 06:46:31 GMT"
-    },
-    {
-      "title": "One dead after torrential rain and flash floods hit Barcelona region",
-      "link": "https://www.bbc.co.uk/news/articles/c9lyk27g8ln7o?at_medium=RSS&at_campaign=rss",
-      "description": "Flooding has caused widespread disruption across Valencia and Catalonia in north-east Spain.",
-      "pubDate": "Thu, 17 Sep 2026 08:39:30 GMT"
-    },
-    {
-      "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
-      "link": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
-      "description": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
-      "pubDate": "Thu, 17 Sep 2026 11:05:29 GMT"
-    },
-    {
-      "title": "India faces 100% tariff threat over Russian oil after US House vote",
-      "link": "https://www.bbc.co.uk/news/articles/c3lyrn4p870yo?at_medium=RSS&at_campaign=rss",
-      "description": "Trump’s tariff threat puts India’s Russian oil strategy- and its access to the US market - in a new bind.",
-      "pubDate": "Thu, 17 Sep 2026 05:33:29 GMT"
-    },
-    {
-      "title": "International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown",
-      "link": "https://www.bbc.co.uk/news/articles/cm986j81ky55o?at_medium=RSS&at_campaign=rss",
-      "description": "The government wants to reduce net overseas migration to 225,000 people by 2028.",
-      "pubDate": "Thu, 17 Sep 2026 05:05:09 GMT"
-    },
-    {
-      "title": "Photos show widespread damage at US sites from Iranian attacks",
-      "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-      "description": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
-      "pubDate": "Wed, 16 Sep 2026 18:36:16 GMT"
-    },
-    {
-      "title": "Snapchat open to putting time limits on teens, boss tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-      "description": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
-      "pubDate": "Wed, 16 Sep 2026 23:41:57 GMT"
-    },
-    {
-      "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
-      "link": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
-      "description": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.",
-      "pubDate": "Wed, 16 Sep 2026 19:59:57 GMT"
-    },
-    {
-      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "description": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
-      "pubDate": "Wed, 16 Sep 2026 17:16:47 GMT"
-    },
-    {
-      "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
-      "link": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&at_campaign=rss",
-      "description": "The owner of the acclaimed establishment avoids jail but is made to pay 15 million won (£8,144; $10,965).",
-      "pubDate": "Wed, 16 Sep 2026 15:48:50 GMT"
-    },
-    {
-      "title": "Eight German state premiers back Merz amid speculation over future",
-      "link": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
-      "description": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend.",
-      "pubDate": "Wed, 16 Sep 2026 14:50:26 GMT"
-    },
-    {
-      "title": "Trump chief of staff Susie Wiles announces she's cancer-free",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9xrx80ekro?at_medium=RSS&at_campaign=rss",
-      "description": "The 69-year-old White House chief of staff is a powerful figure and particularly close to the US president.",
-      "pubDate": "Wed, 16 Sep 2026 19:12:48 GMT"
-    },
-    {
-      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-      "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-      "pubDate": "Wed, 16 Sep 2026 10:02:05 GMT"
-    },
-    {
-      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-      "link": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-      "description": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\".",
-      "pubDate": "Wed, 16 Sep 2026 08:36:17 GMT"
-    },
-    {
-      "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
-      "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
-      "description": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes the BBC's Katya Adler.",
-      "pubDate": "Thu, 17 Sep 2026 16:59:43 GMT"
+      "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
+      "description": "Saudi Arabia has lobbied the US for years to buy F35s, the world's most advanced fighter jet.",
+      "pubDate": "Fri, 18 Sep 2026 01:31:43 GMT"
     },
     {
       "title": "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
