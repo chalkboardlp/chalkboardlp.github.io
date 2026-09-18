@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-18T18:28:10.579078+00:00",
+  "updated": "2026-09-18T21:41:12.229292+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "ARTBO 2026: Four days of art, commerce and Bogotá’s cultural crowd",
+      "link": "https://thecitypaperbogota.com/culture/artbo-2026-four-days-of-art-commerce-and-bogotas-cultural-crowd/",
+      "description": "For four days every September, Bogotá’s art world moves into Ágora Bogotá, where collectors, curators, gallerists, artists, designers, students and the city’s cultural crowd converge for ARTBO, the capital’s annual international art fair. And then there is the opening night. The inauguration of ARTBO has become something of a ritual on Bogotá’s cultural calendar, when [&#8230;]",
+      "pubDate": "Fri, 18 Sep 2026 18:47:08 +0000"
+    },
     {
       "title": "Festival El Mundo brings 13 nations together through food in Bogotá",
       "link": "https://thecitypaperbogota.com/living/festival-el-mundo-brings-13-nations-together-through-food-in-bogota/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/travel/where-silence-still-speaks-discovering-the-monastery-of-ecce-homo-in-boyaca/",
       "description": "Eight kilometres beyond the whitewashed streets and polished boutiques of Villa de Leyva, the traffic fades into birdsong and the landscape begins to exhale. The road winds through vineyards, olive groves, patchwork fields and ochre hills before arriving at one of Colombia&#8217;s most quietly extraordinary places: the Monastery of Santo Ecce Homo in Sutamarchán. It [&#8230;]",
       "pubDate": "Fri, 31 Jul 2026 12:51:55 +0000"
-    },
-    {
-      "title": "Rubio expected to lead U.S. delegation to presidential inauguration in Cali",
-      "link": "https://thecitypaperbogota.com/news/rubio-expected-to-lead-u-s-delegation-to-presidential-inauguration-in-cali/",
-      "description": "U.S. Secretary of State Marco Rubio is expected to attend the inauguration of Colombia&#8217;s president-elect Abelardo De La Espriella on August 7, a ceremony that will make history as the country&#8217;s first presidential transfer of power to be held outside Bogotá. The inauguration will take place at 3:00 p.m. at the Arena USC on the [&#8230;]",
-      "pubDate": "Thu, 30 Jul 2026 20:07:22 +0000"
     }
   ]
 }
