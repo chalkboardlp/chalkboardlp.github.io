@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-19T10:57:30.192563+00:00",
+  "updated": "2026-09-19T14:24:43.478843+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
       "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
       "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "description": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials.",
-      "pubDate": "Fri, 18 Sep 2026 22:58:55 GMT"
+      "description": "Denmark and Greenland have welcomed the deal, which Trump claims will give the US \"permanent control over security and all other needs\" in the Danish territory.",
+      "pubDate": "Sat, 19 Sep 2026 11:36:55 GMT"
     },
     {
       "title": "Trump says he is banning CNN and Politico from White House",
@@ -19,7 +19,7 @@
       "title": "Google's Gemini AI hacked three companies in security test",
       "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
       "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
-      "pubDate": "Sat, 19 Sep 2026 04:27:11 GMT"
+      "pubDate": "Sat, 19 Sep 2026 13:39:32 GMT"
     },
     {
       "title": "Trump signs sweeping Russia sanctions bill",
@@ -34,10 +34,10 @@
       "pubDate": "Fri, 18 Sep 2026 23:04:41 GMT"
     },
     {
-      "title": "Deadly shark attack prompts rare kill order in Western Australia",
+      "title": "Shark attack prompts rare kill order in Western Australia as victim named",
       "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
-      "description": "Police boats and helicopters are patrolling Perth's beaches as authorities continue their search for the swimmer's body, and the shark that attacked him.",
-      "pubDate": "Sat, 19 Sep 2026 09:19:12 GMT"
+      "description": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
+      "pubDate": "Sat, 19 Sep 2026 11:50:22 GMT"
     },
     {
       "title": "Millions without power as Cuba hit by latest major blackout",
@@ -154,6 +154,12 @@
       "pubDate": "Thu, 17 Sep 2026 23:29:17 GMT"
     },
     {
+      "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
+      "link": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&at_campaign=rss",
+      "description": "The police have since set up a task team to investigate the murders and have urged women in the Kempton Park area to avoid walking or running alone \"particularly in isolated areas\".",
+      "pubDate": "Sat, 19 Sep 2026 11:50:50 GMT"
+    },
+    {
       "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
       "link": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
       "description": "Records in 2024 show the venue had a surplus of millions of dollars once  contributions and grants had been factored in.",
@@ -170,12 +176,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
       "description": "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue.",
       "pubDate": "Thu, 17 Sep 2026 16:18:35 GMT"
-    },
-    {
-      "title": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
-      "link": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC goes inside a fortified storage facility to view luxury goods seized by police that are now up for auction.",
-      "pubDate": "Wed, 16 Sep 2026 22:13:36 GMT"
     }
   ]
 }
