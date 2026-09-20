@@ -1,13 +1,19 @@
 {
-  "updated": "2026-09-20T01:07:38.308715+00:00",
+  "updated": "2026-09-20T06:15:20.573480+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy",
+      "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
       "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-      "description": "The mega-star singer spoke about the issue at his first concert since rapper Macklemore was removed from his tour and other artists dropped out.",
-      "pubDate": "Sun, 20 Sep 2026 01:05:31 GMT"
+      "description": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+      "pubDate": "Sun, 20 Sep 2026 04:49:11 GMT"
+    },
+    {
+      "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
+      "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+      "description": "An oil refinery was also reportedly hit in Moscow, and flights were suspended at two capital airports.",
+      "pubDate": "Sun, 20 Sep 2026 05:56:54 GMT"
     },
     {
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
@@ -82,12 +88,6 @@
       "pubDate": "Sat, 19 Sep 2026 10:27:37 GMT"
     },
     {
-      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "description": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
-      "pubDate": "Fri, 18 Sep 2026 20:17:50 GMT"
-    },
-    {
       "title": "Mum's viral barefoot race sparks debate over India's education crisis",
       "link": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
       "description": "Unprepared and in flip-flops, the 47-year-old widow ran 3km to try secure her daughter's future.",
@@ -124,6 +124,18 @@
       "pubDate": "Fri, 18 Sep 2026 23:07:16 GMT"
     },
     {
+      "title": "Watch: Fans cheer as Ed Sheeran speaks out over Macklemore controversy at show",
+      "link": "https://www.bbc.co.uk/news/videos/ck980m0pr1e0o?at_medium=RSS&at_campaign=rss",
+      "description": "Ed Sheeran told the crowd he had made mistakes after Macklemore was dropped from his tour for making pro-Palestinian remarks.",
+      "pubDate": "Sun, 20 Sep 2026 05:01:47 GMT"
+    },
+    {
+      "title": "Watch: Concertgoers and pro-Palestinian activists arrive at Ed Sheeran concert",
+      "link": "https://www.bbc.co.uk/news/videos/ckd68l9g0gy5o?at_medium=RSS&at_campaign=rss",
+      "description": "Some Ed Sheeran fans say they are excited to enjoy music and are not there for politics after Macklemore was dropped from the tour for making pro-Palestinian comments.",
+      "pubDate": "Sun, 20 Sep 2026 02:45:43 GMT"
+    },
+    {
       "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
       "link": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&at_campaign=rss",
       "description": "The police have since set up a task team to investigate the murders and have urged women in the Kempton Park area to avoid walking or running alone \"particularly in isolated areas\".",
@@ -134,18 +146,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
       "description": "Records in 2024 show the venue had a surplus of millions of dollars once  contributions and grants had been factored in.",
       "pubDate": "Fri, 18 Sep 2026 18:56:17 GMT"
-    },
-    {
-      "title": "Watch: Trump says ban on some news outlets is 'because they're fake news'",
-      "link": "https://www.bbc.co.uk/news/videos/cm93e7p1wkndo?at_medium=RSS&at_campaign=rss",
-      "description": "The US president on Friday announced he is \"immediately\" banning CNN, MS NOW and Politico from the White House.",
-      "pubDate": "Fri, 18 Sep 2026 20:35:03 GMT"
-    },
-    {
-      "title": "Is Canada about to join the EU?",
-      "link": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
-      "description": "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue.",
-      "pubDate": "Thu, 17 Sep 2026 16:18:35 GMT"
     }
   ]
 }
