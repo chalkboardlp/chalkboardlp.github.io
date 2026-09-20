@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-20T11:27:07.785204+00:00",
+  "updated": "2026-09-20T16:04:36.773201+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "'Massive' drone attack on Moscow region sees Ukraine hit oil refinery",
+      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
       "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "description": "Moscow's mayor says 450 drones were downed during the \"unprecedented attack\", in which two people died.",
+      "description": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
       "pubDate": "Sun, 20 Sep 2026 10:45:39 GMT"
     },
     {
@@ -22,16 +22,16 @@
       "pubDate": "Sun, 20 Sep 2026 07:57:32 GMT"
     },
     {
+      "title": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+      "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+      "description": "Trump said the updated plans were at the request of the US military and for national security purposes.",
+      "pubDate": "Sun, 20 Sep 2026 13:50:51 GMT"
+    },
+    {
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
       "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
       "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
       "pubDate": "Sat, 19 Sep 2026 23:49:26 GMT"
-    },
-    {
-      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
-      "pubDate": "Sat, 19 Sep 2026 23:00:27 GMT"
     },
     {
       "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
@@ -40,10 +40,16 @@
       "pubDate": "Sat, 19 Sep 2026 23:01:38 GMT"
     },
     {
-      "title": "Cultural treasures are being destroyed by war, and people want justice",
+      "title": "Cultural treasures are being destroyed worldwide - so why is no-one being punished?",
       "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
       "description": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
       "pubDate": "Sat, 19 Sep 2026 23:18:18 GMT"
+    },
+    {
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+      "pubDate": "Sat, 19 Sep 2026 23:00:27 GMT"
     },
     {
       "title": "Journalists denied White House access after Trump banned some media outlets",
@@ -58,28 +64,28 @@
       "pubDate": "Sat, 19 Sep 2026 14:05:01 GMT"
     },
     {
-      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-      "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-      "description": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
-      "pubDate": "Sat, 19 Sep 2026 21:01:56 GMT"
-    },
-    {
       "title": "Google's Gemini AI hacked three companies in security test",
       "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
       "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
       "pubDate": "Sat, 19 Sep 2026 13:39:32 GMT"
     },
     {
-      "title": "Trump signs sweeping Russia sanctions bill",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
-      "description": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
-      "pubDate": "Fri, 18 Sep 2026 22:05:47 GMT"
-    },
-    {
       "title": "Grim discoveries of murdered women spark fear in South Africa",
       "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
       "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
       "pubDate": "Fri, 18 Sep 2026 23:04:41 GMT"
+    },
+    {
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "description": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+      "pubDate": "Sat, 19 Sep 2026 21:01:56 GMT"
+    },
+    {
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "description": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
+      "pubDate": "Fri, 18 Sep 2026 22:05:47 GMT"
     },
     {
       "title": "Shark attack prompts rare kill order in Western Australia as victim named",
@@ -108,7 +114,7 @@
     {
       "title": "Mum's viral barefoot race sparks debate over India's education crisis",
       "link": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
-      "description": "Unprepared and in flip-flops, the 47-year-old widow ran 3km to try to secure her daughter's future.",
+      "description": "The 47-year-old ran - and won - a 3km race where she hoped to win enough prize money to buy study books for her daughter.",
       "pubDate": "Sat, 19 Sep 2026 23:18:06 GMT"
     },
     {
