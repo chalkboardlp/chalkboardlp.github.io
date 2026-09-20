@@ -1,19 +1,25 @@
 {
-  "updated": "2026-09-20T06:15:20.573480+00:00",
+  "updated": "2026-09-20T11:27:07.785204+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+      "title": "'Massive' drone attack on Moscow region sees Ukraine hit oil refinery",
+      "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+      "description": "Moscow's mayor says 450 drones were downed during the \"unprecedented attack\", in which two people died.",
+      "pubDate": "Sun, 20 Sep 2026 10:45:39 GMT"
+    },
+    {
+      "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
       "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-      "description": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+      "description": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
       "pubDate": "Sun, 20 Sep 2026 04:49:11 GMT"
     },
     {
-      "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
-      "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "description": "An oil refinery was also reportedly hit in Moscow, and flights were suspended at two capital airports.",
-      "pubDate": "Sun, 20 Sep 2026 05:56:54 GMT"
+      "title": "German elections under way which could decide fate of Chancellor Merz",
+      "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+      "description": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
+      "pubDate": "Sun, 20 Sep 2026 07:57:32 GMT"
     },
     {
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
@@ -34,16 +40,16 @@
       "pubDate": "Sat, 19 Sep 2026 23:01:38 GMT"
     },
     {
-      "title": "Journalists denied White House access after Trump banned some media outlets",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-      "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-      "pubDate": "Sat, 19 Sep 2026 19:13:49 GMT"
-    },
-    {
       "title": "Cultural treasures are being destroyed by war, and people want justice",
       "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
       "description": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
       "pubDate": "Sat, 19 Sep 2026 23:18:18 GMT"
+    },
+    {
+      "title": "Journalists denied White House access after Trump banned some media outlets",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+      "pubDate": "Sat, 19 Sep 2026 19:13:49 GMT"
     },
     {
       "title": "Converse pulls 'deeply upsetting' advert after backlash",
@@ -88,9 +94,21 @@
       "pubDate": "Sat, 19 Sep 2026 10:27:37 GMT"
     },
     {
+      "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+      "link": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
+      "description": "The children of key politicians jailed 25 years ago without a trace in Eritrea want answers.",
+      "pubDate": "Sat, 19 Sep 2026 23:01:45 GMT"
+    },
+    {
+      "title": "Trump escalates media fight after week of setbacks",
+      "link": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
+      "description": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher.",
+      "pubDate": "Sat, 19 Sep 2026 17:23:37 GMT"
+    },
+    {
       "title": "Mum's viral barefoot race sparks debate over India's education crisis",
       "link": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
-      "description": "Unprepared and in flip-flops, the 47-year-old widow ran 3km to try secure her daughter's future.",
+      "description": "Unprepared and in flip-flops, the 47-year-old widow ran 3km to try to secure her daughter's future.",
       "pubDate": "Sat, 19 Sep 2026 23:18:06 GMT"
     },
     {
@@ -100,31 +118,13 @@
       "pubDate": "Sat, 19 Sep 2026 23:01:57 GMT"
     },
     {
-      "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
-      "link": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
-      "description": "The children of key politicians jailed 25 years ago without a trace in Eritrea want answers.",
-      "pubDate": "Sat, 19 Sep 2026 23:01:45 GMT"
-    },
-    {
-      "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
-      "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
-      "description": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
-      "pubDate": "Fri, 18 Sep 2026 23:03:38 GMT"
-    },
-    {
-      "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
-      "link": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
-      "description": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
-      "pubDate": "Fri, 18 Sep 2026 23:18:02 GMT"
-    },
-    {
       "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
       "link": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
       "description": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
       "pubDate": "Fri, 18 Sep 2026 23:07:16 GMT"
     },
     {
-      "title": "Watch: Fans cheer as Ed Sheeran speaks out over Macklemore controversy at show",
+      "title": "Watch: Fans react as Ed Sheeran speaks out over Macklemore controversy at show",
       "link": "https://www.bbc.co.uk/news/videos/ck980m0pr1e0o?at_medium=RSS&at_campaign=rss",
       "description": "Ed Sheeran told the crowd he had made mistakes after Macklemore was dropped from his tour for making pro-Palestinian remarks.",
       "pubDate": "Sun, 20 Sep 2026 05:01:47 GMT"
