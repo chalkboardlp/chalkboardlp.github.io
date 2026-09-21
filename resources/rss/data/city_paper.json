@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-21T10:46:27.412384+00:00",
+  "updated": "2026-09-21T17:03:02.472871+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Raging wildfire threatens Villa de Leyva, authorities investigate suspected arson",
+      "link": "https://thecitypaperbogota.com/news/raging-wildfire-threatens-villa-de-leyva-authorities-investigate-suspected-arson/",
+      "description": "A massive wildfire continued to burn on Monday above the historic Colombian town of Villa de Leyva, with strong winds hampering efforts to contain the flames as authorities investigated mounting indications that the fire may have been deliberately started. The blaze, which began on Saturday afternoon near the cusp of the San Marcos mountain, has [&#8230;]",
+      "pubDate": "Mon, 21 Sep 2026 14:37:41 +0000"
+    },
     {
       "title": "ARTBO 2026: Four days of art, commerce and Bogotá’s cultural crowd",
       "link": "https://thecitypaperbogota.com/culture/artbo-2026-four-days-of-art-commerce-and-bogotas-cultural-crowd/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/de-la-espriella-to-take-office-in-cali-in-unprecedented-presidential-investiture/",
       "description": "Abelardo de la Espriella will be sworn in as Colombia’s president on Friday, August 7, in an unprecedented inauguration ceremony held outside the capital Bogotá, with the formal transfer of power taking place at the Arena of the Universidad Santiago de Cali (USC) before the new president delivers his first address to the nation from [&#8230;]",
       "pubDate": "Fri, 07 Aug 2026 17:33:36 +0000"
-    },
-    {
-      "title": "Where Silence Still Speaks: Discovering the Monastery of Ecce Homo in Boyacá",
-      "link": "https://thecitypaperbogota.com/travel/where-silence-still-speaks-discovering-the-monastery-of-ecce-homo-in-boyaca/",
-      "description": "Eight kilometres beyond the whitewashed streets and polished boutiques of Villa de Leyva, the traffic fades into birdsong and the landscape begins to exhale. The road winds through vineyards, olive groves, patchwork fields and ochre hills before arriving at one of Colombia&#8217;s most quietly extraordinary places: the Monastery of Santo Ecce Homo in Sutamarchán. It [&#8230;]",
-      "pubDate": "Fri, 31 Jul 2026 12:51:55 +0000"
     }
   ]
 }
