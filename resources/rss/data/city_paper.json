@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-22T14:52:31.776913+00:00",
+  "updated": "2026-09-22T18:54:04.775996+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "De La Espriella vows to get ‘Pinocho’ after death of paramilitary leader in Santa Marta",
+      "link": "https://thecitypaperbogota.com/news/de-la-espriella-vows-to-get-pinocho-after-death-of-paramilitary-leader-in-santa-marta/",
+      "description": "Santa Marta woke on Tuesday to deserted streets, closed businesses and suspended transport following the killing of a senior commander of the Autodefensas Conquistadoras de la Sierra Nevada (ACSN), as President Abelardo De La Espriella vowed to pursue the armed group&#8217;s leadership. José Luis Pérez Villanueva, alias “Cholo”, described by authorities as the second commander [&#8230;]",
+      "pubDate": "Tue, 22 Sep 2026 16:55:38 +0000"
+    },
     {
       "title": "Rituals: Art, memory and the rituals that hold communities together",
       "link": "https://thecitypaperbogota.com/culture/rituals-art-memory-and-the-rituals-that-hold-communities-together/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/colombia-quake-toll-rises-to-181-as-rescue-crews-search-for-survivors-under-rubble/",
       "description": "The death toll from Colombia’s powerful 7.4-magnitude earthquake rose to 181 on Tuesday, with over 1300 injured and estimated  200 missing as rescue crews continued searching collapsed buildings across the country’s western and central regions. Authorities warned that the death toll is likely to rise as emergency teams work through the rubble of damaged and [&#8230;]",
       "pubDate": "Tue, 11 Aug 2026 13:23:04 +0000"
-    },
-    {
-      "title": "Powerful 7.4 Earthquake Strikes Colombia, Collapsing Buildings Across Western Cities",
-      "link": "https://thecitypaperbogota.com/news/powerful-7-4-earthquake-strikes-colombia-collapsing-buildings-across-western-cities/",
-      "description": "A powerful magnitude 7.4 earthquake struck western Colombia on Monday morning, killing at least two people and causing significant damage across the country, with buildings collapsing in several cities and a tower of the historic cathedral in Manizales partially collapsing. The earthquake struck at 7:34 a.m. local time, with its epicenter near San José del [&#8230;]",
-      "pubDate": "Mon, 10 Aug 2026 15:23:29 +0000"
     }
   ]
 }

@@ -1,25 +1,19 @@
 {
-  "updated": "2026-09-22T14:52:28.043882+00:00",
+  "updated": "2026-09-22T18:54:02.632199+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "US to build two military bases in Greenland under new deal with Denmark",
+      "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+      "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+      "pubDate": "Tue, 22 Sep 2026 18:43:29 GMT"
+    },
     {
       "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
       "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
       "description": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
       "pubDate": "Tue, 22 Sep 2026 14:03:20 GMT"
-    },
-    {
-      "title": "Major US outlets suspend shared Trump coverage in protest at media ban",
-      "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
-      "description": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.",
-      "pubDate": "Tue, 22 Sep 2026 08:17:15 GMT"
-    },
-    {
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "description": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
-      "pubDate": "Tue, 22 Sep 2026 13:49:22 GMT"
     },
     {
       "title": "Developing El Niño becomes strongest on record weeks before expected peak",
@@ -34,13 +28,31 @@
       "pubDate": "Tue, 22 Sep 2026 10:42:47 GMT"
     },
     {
-      "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
-      "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
-      "description": "The child star who died last month at 36 had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system.",
-      "pubDate": "Tue, 22 Sep 2026 14:42:40 GMT"
+      "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
+      "description": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires.",
+      "pubDate": "Tue, 22 Sep 2026 13:58:42 GMT"
     },
     {
-      "title": "Veteran BBC Africa correspondent Mark Doyle dies",
+      "title": "Top South African policeman charged with sexual offences",
+      "link": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&at_campaign=rss",
+      "description": "Shadrack Sibiya, who has made no comment, is alleged to have groomed a 16-year-old and raped an 18-year-old.",
+      "pubDate": "Tue, 22 Sep 2026 16:54:41 GMT"
+    },
+    {
+      "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
+      "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
+      "description": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system -  was ruled an accident.",
+      "pubDate": "Tue, 22 Sep 2026 15:17:37 GMT"
+    },
+    {
+      "title": "Cyclist who dressed as man to avoid Taliban wins silver medal",
+      "link": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss",
+      "description": "Afghan cyclist Fariba Hashimi wins silver in the women's road race at the Asian Games, having fled oppression in her home country to pursue a sporting dream.",
+      "pubDate": "Tue, 22 Sep 2026 16:57:55 GMT"
+    },
+    {
+      "title": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
       "link": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&at_campaign=rss",
       "description": "Doyle was best known for reporting on African conflicts in the 1990s and 2000s, notably in Rwanda and Sierra Leone.",
       "pubDate": "Tue, 22 Sep 2026 14:16:42 GMT"
@@ -52,46 +64,34 @@
       "pubDate": "Tue, 22 Sep 2026 13:39:09 GMT"
     },
     {
-      "title": "Outrage in India over viral video of teen molested and her friend beaten",
-      "link": "https://www.bbc.co.uk/news/articles/cmz6z2vx65jeo?at_medium=RSS&at_campaign=rss",
-      "description": "Three minors were arrested after videos capturing the assault went viral in India, sparking anger.",
-      "pubDate": "Tue, 22 Sep 2026 05:14:42 GMT"
-    },
-    {
-      "title": "Doctor in court to face Rwanda genocide charges in UK",
-      "link": "https://www.bbc.co.uk/news/articles/c6790y1gj247o?at_medium=RSS&at_campaign=rss",
-      "description": "Dr Vincent Brown was charged following a seven year British investigation into the 1994 killings.",
-      "pubDate": "Tue, 22 Sep 2026 11:25:19 GMT"
-    },
-    {
       "title": "Four dead after powerful Typhoon Dujuan lashes Japan",
       "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
       "description": "The storm pulled away from Japan after bringing heavy rains and strong winds to Tokyo and surrounding areas.",
       "pubDate": "Tue, 22 Sep 2026 05:58:35 GMT"
     },
     {
-      "title": "British man missing after diving into Lake Como to rescue teenager",
-      "link": "https://www.bbc.co.uk/news/articles/cx8d38djqm25o?at_medium=RSS&at_campaign=rss",
-      "description": "The man had jumped in to save a father and son in difficulty in the water, local officials say.",
-      "pubDate": "Tue, 22 Sep 2026 11:44:34 GMT"
-    },
-    {
-      "title": "Father admits causing death of his son in Cyprus hotel fall",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
-      "description": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
-      "pubDate": "Tue, 22 Sep 2026 14:31:34 GMT"
+      "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
+      "link": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
+      "description": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall.",
+      "pubDate": "Tue, 22 Sep 2026 14:51:39 GMT"
     },
     {
       "title": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
       "link": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&at_campaign=rss",
       "description": "The delivery driver was transferred from a hospital to a detention centre, his lawyer tells US media.",
-      "pubDate": "Tue, 22 Sep 2026 05:57:46 GMT"
+      "pubDate": "Tue, 22 Sep 2026 17:17:01 GMT"
     },
     {
-      "title": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
-      "link": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
-      "description": "British Columbia has accused the company of failing to report the shooter's troubling interactions with ChatGPT to law enforcement.",
-      "pubDate": "Tue, 22 Sep 2026 01:44:17 GMT"
+      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+      "description": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
+      "pubDate": "Tue, 22 Sep 2026 13:49:22 GMT"
+    },
+    {
+      "title": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
+      "link": "https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC goes inside the prison where prisoners were trapped in stifling, cramped conditions.",
+      "pubDate": "Tue, 22 Sep 2026 16:42:23 GMT"
     },
     {
       "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
@@ -106,28 +106,16 @@
       "pubDate": "Tue, 22 Sep 2026 12:26:31 GMT"
     },
     {
-      "title": "Can you take the 'London' out of London Fashion Week?",
-      "link": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss",
-      "description": "An initiative to show that LFW is \"bigger than London\" launched this year - but will it make a difference?",
-      "pubDate": "Tue, 22 Sep 2026 09:27:28 GMT"
-    },
-    {
-      "title": "Merz's political crisis threatens Germany's obsession with stability",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgyz1n0v1xo?at_medium=RSS&at_campaign=rss",
-      "description": "Political shifts in Germany are being watched closely in Europe and beyond, Katya Adler writes.",
-      "pubDate": "Mon, 21 Sep 2026 13:30:45 GMT"
-    },
-    {
       "title": "Why a Bollywood celebrity manager's 2020 death case has been reopened",
       "link": "https://www.bbc.co.uk/news/articles/cpwl1ejlgw9o?at_medium=RSS&at_campaign=rss",
       "description": "Disha Salian's father insists her death was not suicide or an accident, but that she was gang-raped and murdered.",
       "pubDate": "Mon, 21 Sep 2026 23:32:04 GMT"
     },
     {
-      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
-      "pubDate": "Mon, 21 Sep 2026 14:14:16 GMT"
+      "title": "Why is the Bab al-Mandab Strait so important?",
+      "link": "https://www.bbc.co.uk/news/videos/c6kgw4xklvx3o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Frank Gardner explains why the narrow waterway is key to oil transportation and the world economy.",
+      "pubDate": "Tue, 22 Sep 2026 12:57:59 GMT"
     },
     {
       "title": "What to expect as world leaders descend on New York - and who won't be there",
@@ -146,12 +134,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss",
       "description": "Fighting on Yemen's west coast has prompted thousands of people to flee by boat across the Bab al-Mandab Strait.",
       "pubDate": "Mon, 21 Sep 2026 10:00:31 GMT"
-    },
-    {
-      "title": "'No surprises' as results emerge in Russian parliamentary election",
-      "link": "https://www.bbc.co.uk/news/videos/cjp30pq0rx6ro?at_medium=RSS&at_campaign=rss",
-      "description": "Preliminary results suggest that Kremlin-backed United Russia is on course to retain its constitutional majority.",
-      "pubDate": "Mon, 21 Sep 2026 06:58:30 GMT"
     }
   ]
 }
