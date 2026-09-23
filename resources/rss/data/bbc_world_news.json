@@ -1,8 +1,20 @@
 {
-  "updated": "2026-09-23T20:21:46.770343+00:00",
+  "updated": "2026-09-23T23:41:34.588159+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+      "pubDate": "Wed, 23 Sep 2026 22:01:17 GMT"
+    },
+    {
+      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "description": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+      "pubDate": "Wed, 23 Sep 2026 22:23:28 GMT"
+    },
     {
       "title": "Iran's president tells Trump it will never 'bend the knee'",
       "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
@@ -16,16 +28,22 @@
       "pubDate": "Wed, 23 Sep 2026 16:53:37 GMT"
     },
     {
-      "title": "White House rolling out red carpet for historic Xi Jinping visit",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss",
-      "description": "Trump and Xi are expected to discuss a range of issues from trade to AI during the latter's multi-day visit to Washington.",
-      "pubDate": "Wed, 23 Sep 2026 14:32:37 GMT"
+      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+      "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "description": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+      "pubDate": "Wed, 23 Sep 2026 21:26:14 GMT"
     },
     {
       "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
       "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
       "description": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
       "pubDate": "Wed, 23 Sep 2026 12:31:31 GMT"
+    },
+    {
+      "title": "UK survivor of Canadian poison seller says he exploited her despair",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
+      "description": "Elisabeth Belien tells Kenneth Law's sentencing hearing she took the poison when she was just 23 years old.",
+      "pubDate": "Wed, 23 Sep 2026 21:16:00 GMT"
     },
     {
       "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
@@ -58,52 +76,10 @@
       "pubDate": "Wed, 23 Sep 2026 14:02:55 GMT"
     },
     {
-      "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
-      "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
-      "description": "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security.",
-      "pubDate": "Wed, 23 Sep 2026 17:40:59 GMT"
-    },
-    {
-      "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
-      "link": "https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss",
-      "description": "Martin Ryan is pardoned months after he was jailed on charges of spying, but a second Frenchman remains in prison.",
-      "pubDate": "Wed, 23 Sep 2026 14:32:42 GMT"
-    },
-    {
-      "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
-      "link": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
-      "description": "Rodriguez was handpicked by Trump as leader of Venezuela was arrested and taken to the US",
-      "pubDate": "Wed, 23 Sep 2026 09:48:50 GMT"
-    },
-    {
-      "title": "South Sudan's president dissolves government ahead of country's first elections",
-      "link": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss",
-      "description": "South Sudan has not held elections since independence in 2011 - polls have twice been postponed.",
-      "pubDate": "Wed, 23 Sep 2026 11:16:25 GMT"
-    },
-    {
-      "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
-      "description": "The large storm in the Pacific Ocean is being driven by warm waters caused by the El Niño weather phenomenon.",
-      "pubDate": "Wed, 23 Sep 2026 17:58:19 GMT"
-    },
-    {
-      "title": "OpenAI gives cyber defence tools to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
-      "description": "Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable",
-      "pubDate": "Wed, 23 Sep 2026 12:01:37 GMT"
-    },
-    {
-      "title": "Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79",
-      "link": "https://www.bbc.co.uk/news/articles/cqn745px55nno?at_medium=RSS&at_campaign=rss",
-      "description": "He fronted the rock band Rose Tattoo, but became best known for his solo hit Suddenly.",
-      "pubDate": "Wed, 23 Sep 2026 13:20:19 GMT"
-    },
-    {
-      "title": "US to build two military bases in Greenland under new deal with Denmark",
-      "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-      "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
-      "pubDate": "Tue, 22 Sep 2026 21:36:55 GMT"
+      "title": "Indians are discovering the thrill of shopping without paying",
+      "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+      "description": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
+      "pubDate": "Wed, 23 Sep 2026 23:14:10 GMT"
     },
     {
       "title": "How Ceuta, football and Israel are shaping Morocco's election",
@@ -136,10 +112,10 @@
       "pubDate": "Tue, 22 Sep 2026 13:49:22 GMT"
     },
     {
-      "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
-      "pubDate": "Tue, 22 Sep 2026 14:23:39 GMT"
+      "title": "Watch: The arms race in space and how the UK is defending itself",
+      "link": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
+      "description": "The UK has jammed satellites to defend itself from hostile threats, the BBC has been told.",
+      "pubDate": "Wed, 23 Sep 2026 21:29:04 GMT"
     },
     {
       "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
@@ -158,18 +134,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
       "description": "The BBC is in Inner Mongolia where dozen of Chinese data centres are being constructed, as the country aims to lead the world in artificial intelligence.",
       "pubDate": "Tue, 22 Sep 2026 22:03:48 GMT"
-    },
-    {
-      "title": "Watch: Key moments from Andy Burnham's first UN speech",
-      "link": "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss",
-      "description": "In his first speech to the UN as UK prime minister, Burnham highlighted the risks posed by Russian disinformation.",
-      "pubDate": "Wed, 23 Sep 2026 01:25:47 GMT"
-    },
-    {
-      "title": "Watch: Threats, deals and passionate speeches at UNGA event",
-      "link": "https://www.bbc.co.uk/news/videos/cqkgx8ynj8zko?at_medium=RSS&at_campaign=rss",
-      "description": "Delegations from across the world attended the United Nations General Assembly in New York.",
-      "pubDate": "Tue, 22 Sep 2026 22:33:44 GMT"
     }
   ]
 }
