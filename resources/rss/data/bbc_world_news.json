@@ -1,13 +1,49 @@
 {
-  "updated": "2026-09-23T11:34:16.301387+00:00",
+  "updated": "2026-09-23T16:56:56.437382+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
-      "link": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
-      "description": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
-      "pubDate": "Wed, 23 Sep 2026 06:12:56 GMT"
+      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+      "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+      "pubDate": "Wed, 23 Sep 2026 15:58:13 GMT"
+    },
+    {
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+      "pubDate": "Wed, 23 Sep 2026 16:53:37 GMT"
+    },
+    {
+      "title": "White House rolling out red carpet for historic Xi Jinping visit",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss",
+      "description": "Trump and Xi are expected to discuss a range of issues from trade to AI during the latter's multi-day visit to Washington.",
+      "pubDate": "Wed, 23 Sep 2026 14:32:37 GMT"
+    },
+    {
+      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+      "description": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
+      "pubDate": "Wed, 23 Sep 2026 12:31:31 GMT"
+    },
+    {
+      "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
+      "link": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
+      "description": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
+      "pubDate": "Wed, 23 Sep 2026 12:22:53 GMT"
+    },
+    {
+      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
+      "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
+      "description": "In court, Miriam Haley said the assault had a \"devastating effect on my life and sense of security that may never go away\".",
+      "pubDate": "Wed, 23 Sep 2026 16:40:19 GMT"
+    },
+    {
+      "title": "Poland accuses Russian military helicopter of violating its airspace",
+      "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
+      "description": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
+      "pubDate": "Wed, 23 Sep 2026 15:37:20 GMT"
     },
     {
       "title": "Reports of violence against women in Gaza surge, UN agency finds",
@@ -19,37 +55,19 @@
       "title": "Eleven killed in mass shooting at house in South Africa",
       "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
       "description": "One of those killed is believed to be a pregnant woman, police said.",
-      "pubDate": "Wed, 23 Sep 2026 07:02:52 GMT"
+      "pubDate": "Wed, 23 Sep 2026 14:02:55 GMT"
     },
     {
       "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
       "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
       "description": "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security.",
-      "pubDate": "Wed, 23 Sep 2026 06:47:49 GMT"
+      "pubDate": "Wed, 23 Sep 2026 13:34:25 GMT"
     },
     {
-      "title": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
-      "link": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&at_campaign=rss",
-      "description": "More than 40,000 of the cases – which range from mild coughs to pneumonia – involve toddlers.",
-      "pubDate": "Wed, 23 Sep 2026 04:20:12 GMT"
-    },
-    {
-      "title": "Hurricane Polo intensifies into rare category 5 storm off the coast of Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
-      "description": "The storm's sudden intensification is \"truly remarkable\", the US hurricane monitoring agency said.",
-      "pubDate": "Wed, 23 Sep 2026 02:54:56 GMT"
-    },
-    {
-      "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
-      "link": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&at_campaign=rss",
-      "description": "Authorities are cracking down on \"disruptive behaviours\" including eating onboard and putting feet on seats.",
-      "pubDate": "Wed, 23 Sep 2026 00:05:34 GMT"
-    },
-    {
-      "title": "US to build two military bases in Greenland under new deal with Denmark",
-      "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-      "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
-      "pubDate": "Tue, 22 Sep 2026 21:36:55 GMT"
+      "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
+      "link": "https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss",
+      "description": "Martin Ryan is pardoned months after he was jailed on charges of spying, but a second Frenchman remains in prison.",
+      "pubDate": "Wed, 23 Sep 2026 14:32:42 GMT"
     },
     {
       "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
@@ -58,16 +76,34 @@
       "pubDate": "Wed, 23 Sep 2026 09:48:50 GMT"
     },
     {
+      "title": "South Sudan's president dissolves government ahead of country's first elections",
+      "link": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss",
+      "description": "South Sudan has not held elections since independence in 2011 - polls have twice been postponed.",
+      "pubDate": "Wed, 23 Sep 2026 11:16:25 GMT"
+    },
+    {
+      "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
+      "link": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
+      "description": "The large storm in the Pacific Ocean is being driven by warm waters caused by the El Niño weather phenomenon.",
+      "pubDate": "Wed, 23 Sep 2026 12:24:02 GMT"
+    },
+    {
+      "title": "OpenAI gives cyber defence tools to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
+      "description": "Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable",
+      "pubDate": "Wed, 23 Sep 2026 12:01:37 GMT"
+    },
+    {
       "title": "Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79",
       "link": "https://www.bbc.co.uk/news/articles/cqn745px55nno?at_medium=RSS&at_campaign=rss",
       "description": "He fronted the rock band Rose Tattoo, but became best known for his solo hit Suddenly.",
-      "pubDate": "Wed, 23 Sep 2026 11:18:28 GMT"
+      "pubDate": "Wed, 23 Sep 2026 13:20:19 GMT"
     },
     {
-      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-      "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-      "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
-      "pubDate": "Tue, 22 Sep 2026 19:06:06 GMT"
+      "title": "US to build two military bases in Greenland under new deal with Denmark",
+      "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+      "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+      "pubDate": "Tue, 22 Sep 2026 21:36:55 GMT"
     },
     {
       "title": "How Ceuta, football and Israel are shaping Morocco's election",
@@ -76,40 +112,16 @@
       "pubDate": "Tue, 22 Sep 2026 20:59:00 GMT"
     },
     {
-      "title": "Developing El Niño becomes strongest on record weeks before expected peak",
-      "link": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
-      "description": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
-      "pubDate": "Tue, 22 Sep 2026 12:54:14 GMT"
-    },
-    {
-      "title": "US judge blocks deportation of DoorDash driver shot by ICE",
-      "link": "https://www.bbc.co.uk/news/articles/cr6241825757o?at_medium=RSS&at_campaign=rss",
-      "description": "The delivery driver was transferred from a hospital to a detention centre after the shooting on Sunday.",
-      "pubDate": "Tue, 22 Sep 2026 23:36:12 GMT"
-    },
-    {
-      "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
-      "description": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires.",
-      "pubDate": "Tue, 22 Sep 2026 13:58:42 GMT"
-    },
-    {
-      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
-      "description": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
-      "pubDate": "Tue, 22 Sep 2026 19:47:44 GMT"
-    },
-    {
-      "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
-      "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
-      "description": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system -  was ruled an accident.",
-      "pubDate": "Tue, 22 Sep 2026 15:17:37 GMT"
-    },
-    {
       "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
       "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
       "description": "The BBC visits Inner Mongolia, an unlikely frontier in Beijing's AI race with Washington.",
       "pubDate": "Tue, 22 Sep 2026 22:04:31 GMT"
+    },
+    {
+      "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
+      "link": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&at_campaign=rss",
+      "description": "Authorities are cracking down on \"disruptive behaviours\" including eating onboard and putting feet on seats.",
+      "pubDate": "Wed, 23 Sep 2026 00:05:34 GMT"
     },
     {
       "title": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
@@ -130,13 +142,13 @@
       "pubDate": "Tue, 22 Sep 2026 14:23:39 GMT"
     },
     {
-      "title": "What is the White House pool and why is it in a row with Trump?",
-      "link": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
-      "description": "The White House press pool is at the centre of a major row between President Donald Trump and TV networks. What is it?",
-      "pubDate": "Tue, 22 Sep 2026 19:25:16 GMT"
+      "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
+      "link": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
+      "description": "Around 175,000 people in Indonesia have suffered from respiratory illness since August.",
+      "pubDate": "Wed, 23 Sep 2026 15:46:28 GMT"
     },
     {
-      "title": "What's at stake when Trump and Xi meet in the US?",
+      "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
       "link": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
       "description": "The BBC’s China correspondent and US editor explain everything you need to know ahead of the Trump-Xi meeting in Washington DC.",
       "pubDate": "Wed, 23 Sep 2026 11:00:09 GMT"
@@ -158,12 +170,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cqkgx8ynj8zko?at_medium=RSS&at_campaign=rss",
       "description": "Delegations from across the world attended the United Nations General Assembly in New York.",
       "pubDate": "Tue, 22 Sep 2026 22:33:44 GMT"
-    },
-    {
-      "title": "Burnham 'gets it' says Trump, as the two leaders meet for first time",
-      "link": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
-      "description": "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal.",
-      "pubDate": "Tue, 22 Sep 2026 19:15:57 GMT"
     }
   ]
 }
