@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T22:08:14.251788+00:00",
+  "updated": "2026-09-23T00:32:04.652952+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -55,7 +55,7 @@
       "title": "US judge blocks deportation of DoorDash driver shot by ICE",
       "link": "https://www.bbc.co.uk/news/articles/cr6241825757o?at_medium=RSS&at_campaign=rss",
       "description": "The delivery driver was transferred from a hospital to a detention centre after the shooting on Sunday.",
-      "pubDate": "Tue, 22 Sep 2026 21:09:25 GMT"
+      "pubDate": "Tue, 22 Sep 2026 23:36:12 GMT"
     },
     {
       "title": "Eleven injured in shooting outside Turkish school",
@@ -124,6 +124,12 @@
       "pubDate": "Mon, 21 Sep 2026 23:32:04 GMT"
     },
     {
+      "title": "Watch: Threats, deals and passionate speeches at UNGA event",
+      "link": "https://www.bbc.co.uk/news/videos/cqkgx8ynj8zko?at_medium=RSS&at_campaign=rss",
+      "description": "Delegations from across the world attended the United Nations General Assembly in New York.",
+      "pubDate": "Tue, 22 Sep 2026 22:33:44 GMT"
+    },
+    {
       "title": "Burnham 'gets it' says Trump, as the two leaders meet for first time",
       "link": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
       "description": "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal.",
@@ -140,12 +146,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
       "description": "The BBC’s Sarah Smith outlines which world leaders Trump is set to meet and the key topics expected on the agenda.",
       "pubDate": "Tue, 22 Sep 2026 04:05:58 GMT"
-    },
-    {
-      "title": "Watch: Timelapse shows typhoon barrelling towards Japan",
-      "link": "https://www.bbc.co.uk/news/videos/cm0j3224p6j8o?at_medium=RSS&at_campaign=rss",
-      "description": "The typhoon is passing Japan's eastern coast, bringing major disruption and heavy rainfall in its wake.",
-      "pubDate": "Mon, 21 Sep 2026 16:52:12 GMT"
     }
   ]
 }
