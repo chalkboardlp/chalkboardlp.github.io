@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-24T19:09:14.168175+00:00",
+  "updated": "2026-09-24T22:23:45.785034+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "description": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+      "pubDate": "Thu, 24 Sep 2026 21:21:47 GMT"
+    },
     {
       "title": "White House restores access to media outlets banned by Trump after judge's order",
       "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
       "description": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
       "pubDate": "Thu, 24 Sep 2026 17:49:20 GMT"
-    },
-    {
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "description": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
-      "pubDate": "Thu, 24 Sep 2026 15:42:07 GMT"
     },
     {
       "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
@@ -22,10 +22,28 @@
       "pubDate": "Thu, 24 Sep 2026 18:06:40 GMT"
     },
     {
-      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-      "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-      "pubDate": "Thu, 24 Sep 2026 16:00:29 GMT"
+      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+      "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+      "description": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
+      "pubDate": "Thu, 24 Sep 2026 19:02:36 GMT"
+    },
+    {
+      "title": "Priest killed and four injured in knife attack at Polish abbey",
+      "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+      "description": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
+      "pubDate": "Thu, 24 Sep 2026 19:18:12 GMT"
+    },
+    {
+      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+      "description": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
+      "pubDate": "Thu, 24 Sep 2026 19:32:59 GMT"
+    },
+    {
+      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+      "description": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
+      "pubDate": "Thu, 24 Sep 2026 17:55:44 GMT"
     },
     {
       "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
@@ -40,16 +58,22 @@
       "pubDate": "Thu, 24 Sep 2026 14:37:34 GMT"
     },
     {
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+      "pubDate": "Thu, 24 Sep 2026 16:00:29 GMT"
+    },
+    {
       "title": "Greek PM urges UK PM to return Elgin Marbles permanently",
       "link": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
       "description": "Andy Burnham said in 2023 the sculptures should be returned to Greece with \"no strings attached\".",
       "pubDate": "Thu, 24 Sep 2026 16:36:33 GMT"
     },
     {
-      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
-      "description": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
-      "pubDate": "Thu, 24 Sep 2026 17:55:44 GMT"
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "description": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+      "pubDate": "Thu, 24 Sep 2026 15:42:07 GMT"
     },
     {
       "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
@@ -158,6 +182,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
       "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
       "pubDate": "Tue, 22 Sep 2026 20:59:00 GMT"
+    },
+    {
+      "title": "Watch: UN delegates walk out of Netanyahu speech",
+      "link": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss",
+      "description": "The Israeli delegation could be be seen cheering in support during Netanyahu's speech.",
+      "pubDate": "Thu, 24 Sep 2026 18:29:29 GMT"
     },
     {
       "title": "A red carpet and military flyover - How Trump welcomed Xi",
