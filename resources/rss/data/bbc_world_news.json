@@ -1,43 +1,55 @@
 {
-  "updated": "2026-09-24T15:05:02.352100+00:00",
+  "updated": "2026-09-24T19:09:14.168175+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "White House 'repeatedly violated' court order to restore press access, say media outlets",
+      "title": "White House restores access to media outlets banned by Trump after judge's order",
       "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "description": "Employees from CNN, Politico and MS Now reported being denied entry, with some having passes confiscated.",
-      "pubDate": "Thu, 24 Sep 2026 14:55:34 GMT"
+      "description": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
+      "pubDate": "Thu, 24 Sep 2026 17:49:20 GMT"
     },
     {
       "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
       "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
       "description": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
-      "pubDate": "Thu, 24 Sep 2026 07:10:58 GMT"
+      "pubDate": "Thu, 24 Sep 2026 15:42:07 GMT"
     },
     {
-      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
-      "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
-      "description": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
-      "pubDate": "Thu, 24 Sep 2026 14:08:38 GMT"
+      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+      "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+      "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+      "pubDate": "Thu, 24 Sep 2026 18:06:40 GMT"
     },
     {
       "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
       "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
       "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-      "pubDate": "Thu, 24 Sep 2026 11:59:23 GMT"
+      "pubDate": "Thu, 24 Sep 2026 16:00:29 GMT"
     },
     {
       "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
       "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
       "description": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
-      "pubDate": "Thu, 24 Sep 2026 12:49:32 GMT"
+      "pubDate": "Thu, 24 Sep 2026 15:37:45 GMT"
     },
     {
       "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
       "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
       "description": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
       "pubDate": "Thu, 24 Sep 2026 14:37:34 GMT"
+    },
+    {
+      "title": "Greek PM urges UK PM to return Elgin Marbles permanently",
+      "link": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
+      "description": "Andy Burnham said in 2023 the sculptures should be returned to Greece with \"no strings attached\".",
+      "pubDate": "Thu, 24 Sep 2026 16:36:33 GMT"
+    },
+    {
+      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+      "description": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
+      "pubDate": "Thu, 24 Sep 2026 17:55:44 GMT"
     },
     {
       "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
@@ -98,6 +110,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
       "description": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
       "pubDate": "Wed, 23 Sep 2026 05:02:26 GMT"
+    },
+    {
+      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+      "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
+      "description": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
+      "pubDate": "Thu, 24 Sep 2026 14:08:38 GMT"
     },
     {
       "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
