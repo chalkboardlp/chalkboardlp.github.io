@@ -1,16 +1,22 @@
 {
-  "updated": "2026-09-24T04:48:33.776352+00:00",
+  "updated": "2026-09-24T10:00:05.790905+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
       "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "description": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
-      "pubDate": "Thu, 24 Sep 2026 03:22:54 GMT"
+      "description": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+      "pubDate": "Thu, 24 Sep 2026 07:10:58 GMT"
     },
     {
-      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+      "title": "Trump offers warm welcome as China's Xi arrives for US visit",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
+      "description": "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.",
+      "pubDate": "Thu, 24 Sep 2026 03:52:21 GMT"
+    },
+    {
+      "title": "Trump and Xi come face-to-face as US and China jostle for dominance over AI",
       "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
       "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
       "pubDate": "Wed, 23 Sep 2026 22:01:17 GMT"
@@ -25,7 +31,7 @@
       "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
       "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
       "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-      "pubDate": "Thu, 24 Sep 2026 04:37:47 GMT"
+      "pubDate": "Thu, 24 Sep 2026 09:28:33 GMT"
     },
     {
       "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
@@ -88,7 +94,7 @@
       "pubDate": "Thu, 24 Sep 2026 00:50:24 GMT"
     },
     {
-      "title": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
+      "title": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
       "link": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
       "description": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
       "pubDate": "Wed, 23 Sep 2026 23:58:50 GMT"
