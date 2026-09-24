@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-23T23:41:34.588159+00:00",
+  "updated": "2026-09-24T04:48:33.776352+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "description": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+      "pubDate": "Thu, 24 Sep 2026 03:22:54 GMT"
+    },
     {
       "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
       "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
       "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
       "pubDate": "Wed, 23 Sep 2026 22:01:17 GMT"
-    },
-    {
-      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "description": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
-      "pubDate": "Wed, 23 Sep 2026 22:23:28 GMT"
     },
     {
       "title": "Iran's president tells Trump it will never 'bend the knee'",
@@ -25,7 +25,7 @@
       "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
       "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
       "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-      "pubDate": "Wed, 23 Sep 2026 16:53:37 GMT"
+      "pubDate": "Thu, 24 Sep 2026 04:37:47 GMT"
     },
     {
       "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
@@ -76,6 +76,30 @@
       "pubDate": "Wed, 23 Sep 2026 14:02:55 GMT"
     },
     {
+      "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
+      "link": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
+      "description": "With four measles-related deaths in Pennsylvania, health officials are hoping to get people on board with vaccines in private.",
+      "pubDate": "Thu, 24 Sep 2026 00:15:46 GMT"
+    },
+    {
+      "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+      "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
+      "description": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
+      "pubDate": "Thu, 24 Sep 2026 00:50:24 GMT"
+    },
+    {
+      "title": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
+      "link": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
+      "pubDate": "Wed, 23 Sep 2026 23:58:50 GMT"
+    },
+    {
+      "title": "'Make women feel seen': Why the Dutch have a new word for labia",
+      "link": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss",
+      "description": "Campaigners hope the new words will lead to less body shaming and more sex positivity.",
+      "pubDate": "Wed, 23 Sep 2026 23:42:38 GMT"
+    },
+    {
       "title": "Indians are discovering the thrill of shopping without paying",
       "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
       "description": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
@@ -88,28 +112,10 @@
       "pubDate": "Tue, 22 Sep 2026 20:59:00 GMT"
     },
     {
-      "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC visits Inner Mongolia, an unlikely frontier in Beijing's AI race with Washington.",
-      "pubDate": "Tue, 22 Sep 2026 22:04:31 GMT"
-    },
-    {
-      "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
-      "link": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&at_campaign=rss",
-      "description": "Authorities are cracking down on \"disruptive behaviours\" including eating onboard and putting feet on seats.",
-      "pubDate": "Wed, 23 Sep 2026 00:05:34 GMT"
-    },
-    {
-      "title": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
-      "link": "https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC goes inside the prison where prisoners were trapped in stifling, cramped conditions.",
-      "pubDate": "Tue, 22 Sep 2026 16:42:23 GMT"
-    },
-    {
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "description": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
-      "pubDate": "Tue, 22 Sep 2026 13:49:22 GMT"
+      "title": "A red carpet and military flyover - How Trump welcomed Xi",
+      "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
+      "description": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
+      "pubDate": "Wed, 23 Sep 2026 23:03:56 GMT"
     },
     {
       "title": "Watch: The arms race in space and how the UK is defending itself",
@@ -128,12 +134,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
       "description": "The BBC’s China correspondent and US editor explain everything you need to know ahead of the Trump-Xi meeting in Washington DC.",
       "pubDate": "Wed, 23 Sep 2026 11:00:09 GMT"
-    },
-    {
-      "title": "Rare look at the remote engine rooms fuelling China's AI boom",
-      "link": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC is in Inner Mongolia where dozen of Chinese data centres are being constructed, as the country aims to lead the world in artificial intelligence.",
-      "pubDate": "Tue, 22 Sep 2026 22:03:48 GMT"
     }
   ]
 }
