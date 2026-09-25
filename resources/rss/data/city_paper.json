@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-25T13:46:07.506375+00:00",
+  "updated": "2026-09-25T18:35:56.146612+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "De La Espriella keeps his promise and sends Colombia’s Vice-President Restrepo to UN",
+      "link": "https://thecitypaperbogota.com/news/de-la-espriella-keeps-his-promise-and-sends-colombias-vice-president-restrepo-to-un/",
+      "description": "President Abelardo De La Espriella kept one of his most closely watched campaign promises on Thursday, remaining in Colombia to attend to the security situation in Santa Marta and Cali, rather than travelling to Manhattan for the 81st Session of the United Nations General Assembly. Instead, the president entrusted his first address to the UN [&#8230;]",
+      "pubDate": "Fri, 25 Sep 2026 16:10:11 +0000"
+    },
     {
       "title": "What next for Santa Marta after De la Espriella militarized the coastal city?",
       "link": "https://thecitypaperbogota.com/news/what-next-for-santa-marta-after-de-la-espriella-militarized-the-coastal-city/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/shakira-pledges-us1-25-m-to-rebuild-earthquake-damaged-schools-in-choco/",
       "description": "Colombia&#8217;s Shakira has pledged US$1.25 million toward rebuilding schools and educational infrastructure damaged by the earthquake that struck Colombia’s Pacific region on August 10, announcing a major recovery initiative during a visit to Chocó on Monday. The award-winning singer and pop superstar arrived in Quibdó accompanied by American philanthropist Howard Graham Buffett, representatives of CAF, [&#8230;]",
       "pubDate": "Wed, 19 Aug 2026 19:10:24 +0000"
-    },
-    {
-      "title": "UNGRD Decision Not to Request Foreign Rescuers Sparks Controversy",
-      "link": "https://thecitypaperbogota.com/news/petro-government-declined-foreign-rescue-teams-as-earthquake-death-toll-hits-285/",
-      "description": "Amidst the rubble and destruction caused by Monday&#8217;s devastating 7.4-magnitude earthquake across much as Central and Southwest Colombia, reports are surfacing that the leftist government of ex-President Gustavo Petro initially decided that the country did not need specialized international search-and-rescue teams.  According to a letter signed by Javier Pava, the former head of the National [&#8230;]",
-      "pubDate": "Fri, 14 Aug 2026 17:31:10 +0000"
     }
   ]
 }
