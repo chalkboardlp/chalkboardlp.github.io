@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-25T18:35:54.634589+00:00",
+  "updated": "2026-09-25T22:19:20.950500+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+      "description": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+      "pubDate": "Fri, 25 Sep 2026 20:47:49 GMT"
+    },
     {
       "title": "Special agents' blood and urine test results stolen in FBI hack",
       "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
@@ -16,16 +22,16 @@
       "pubDate": "Fri, 25 Sep 2026 15:06:41 GMT"
     },
     {
-      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-      "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-      "description": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
-      "pubDate": "Fri, 25 Sep 2026 03:57:09 GMT"
-    },
-    {
       "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
       "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
       "description": "Critics have questioned the reliability of the data, warning it could  result in US citizens being wrongly removed from electoral rolls.",
-      "pubDate": "Fri, 25 Sep 2026 18:29:28 GMT"
+      "pubDate": "Fri, 25 Sep 2026 19:13:35 GMT"
+    },
+    {
+      "title": "Trump's plans for massive arch move ahead",
+      "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
+      "description": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
+      "pubDate": "Fri, 25 Sep 2026 18:27:46 GMT"
     },
     {
       "title": "Students strike across Germany in protest against military service",
@@ -38,6 +44,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
       "description": "A gunman shot Jim Copenhaver twice while also killing another man and grazing Trump's ear with a bullet.",
       "pubDate": "Fri, 25 Sep 2026 13:23:33 GMT"
+    },
+    {
+      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+      "description": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+      "pubDate": "Fri, 25 Sep 2026 03:57:09 GMT"
     },
     {
       "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
@@ -82,10 +94,10 @@
       "pubDate": "Thu, 24 Sep 2026 19:32:59 GMT"
     },
     {
-      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+      "title": "Media outlets banned by Trump resume White House coverage after judge's order",
       "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "description": "CNN and MS NOW reporters say they were barred from covering a state dinner after a judge ruled their passes should be restored.",
-      "pubDate": "Fri, 25 Sep 2026 01:10:35 GMT"
+      "description": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
+      "pubDate": "Fri, 25 Sep 2026 18:36:30 GMT"
     },
     {
       "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
