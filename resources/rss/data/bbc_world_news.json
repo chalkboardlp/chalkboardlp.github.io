@@ -1,8 +1,20 @@
 {
-  "updated": "2026-09-25T01:29:43.476693+00:00",
+  "updated": "2026-09-25T07:47:10.884968+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+      "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "description": "Trump said he and Xi had \"never gotten along better\" as he hosted the Chinese president at the lavish White House event.",
+      "pubDate": "Fri, 25 Sep 2026 06:40:18 GMT"
+    },
+    {
+      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+      "description": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+      "pubDate": "Fri, 25 Sep 2026 03:57:09 GMT"
+    },
     {
       "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
       "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
@@ -12,7 +24,7 @@
     {
       "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
       "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "description": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored.",
+      "description": "CNN and MS NOW reporters say they were barred from covering a state dinner after a judge ruled their passes should be restored.",
       "pubDate": "Fri, 25 Sep 2026 01:10:35 GMT"
     },
     {
@@ -130,12 +142,6 @@
       "pubDate": "Wed, 23 Sep 2026 18:51:12 GMT"
     },
     {
-      "title": "Poland accuses Russian military helicopter of violating its airspace",
-      "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
-      "description": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
-      "pubDate": "Wed, 23 Sep 2026 15:37:20 GMT"
-    },
-    {
       "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
       "link": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
       "description": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
@@ -184,6 +190,18 @@
       "pubDate": "Wed, 23 Sep 2026 23:14:10 GMT"
     },
     {
+      "title": "Pomp and toasts: Day 2 of Trump and Xi in DC",
+      "link": "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss",
+      "description": "Xi’s first visit to Washington in a decade was a display of pomp and pageantry, with Trump offering his guest a two-month truce on the brewing tariff war.",
+      "pubDate": "Fri, 25 Sep 2026 05:54:07 GMT"
+    },
+    {
+      "title": "The world’s two most powerful men just met. How did it go?",
+      "link": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for Beijing and Washington.",
+      "pubDate": "Fri, 25 Sep 2026 01:27:10 GMT"
+    },
+    {
       "title": "Watch: UN delegates walk out of Netanyahu speech",
       "link": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss",
       "description": "The Israeli delegation could be be seen cheering in support during Netanyahu's speech.",
@@ -206,12 +224,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
       "description": "Around 175,000 people in Indonesia have suffered from respiratory illness since August.",
       "pubDate": "Wed, 23 Sep 2026 15:46:28 GMT"
-    },
-    {
-      "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
-      "link": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC’s China correspondent and US editor explain everything you need to know ahead of the Trump-Xi meeting in Washington DC.",
-      "pubDate": "Wed, 23 Sep 2026 11:00:09 GMT"
     }
   ]
 }
