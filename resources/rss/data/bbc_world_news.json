@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T22:23:45.785034+00:00",
+  "updated": "2026-09-25T01:29:43.476693+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -7,13 +7,19 @@
       "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
       "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
       "description": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
-      "pubDate": "Thu, 24 Sep 2026 21:21:47 GMT"
+      "pubDate": "Fri, 25 Sep 2026 00:44:04 GMT"
     },
     {
-      "title": "White House restores access to media outlets banned by Trump after judge's order",
+      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
       "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "description": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
-      "pubDate": "Thu, 24 Sep 2026 17:49:20 GMT"
+      "description": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored.",
+      "pubDate": "Fri, 25 Sep 2026 01:10:35 GMT"
+    },
+    {
+      "title": "Hundreds of thousands expected in Paris for Pope's visit",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "description": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
+      "pubDate": "Thu, 24 Sep 2026 23:17:00 GMT"
     },
     {
       "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
@@ -130,10 +136,10 @@
       "pubDate": "Wed, 23 Sep 2026 15:37:20 GMT"
     },
     {
-      "title": "Reports of violence against women in Gaza surge, UN agency finds",
-      "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
-      "description": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
-      "pubDate": "Wed, 23 Sep 2026 05:02:26 GMT"
+      "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
+      "link": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
+      "description": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
+      "pubDate": "Thu, 24 Sep 2026 23:41:10 GMT"
     },
     {
       "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
@@ -176,12 +182,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
       "description": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
       "pubDate": "Wed, 23 Sep 2026 23:14:10 GMT"
-    },
-    {
-      "title": "How Ceuta, football and Israel are shaping Morocco's election",
-      "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-      "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
-      "pubDate": "Tue, 22 Sep 2026 20:59:00 GMT"
     },
     {
       "title": "Watch: UN delegates walk out of Netanyahu speech",
