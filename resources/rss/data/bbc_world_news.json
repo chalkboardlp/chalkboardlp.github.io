@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-26T19:51:26.657803+00:00",
+  "updated": "2026-09-26T22:49:11.428603+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
       "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
       "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "description": "The US president says Tehran had only put forward the proposal because it is losing the war.",
-      "pubDate": "Sat, 26 Sep 2026 18:17:12 GMT"
+      "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
+      "pubDate": "Sat, 26 Sep 2026 22:15:59 GMT"
     },
     {
       "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
@@ -22,22 +22,28 @@
       "pubDate": "Sat, 26 Sep 2026 12:47:25 GMT"
     },
     {
-      "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
-      "description": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
-      "pubDate": "Sat, 26 Sep 2026 15:12:25 GMT"
-    },
-    {
       "title": "German town bans 'stumbling stone' memorials to Nazi victims",
       "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
       "description": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
       "pubDate": "Sat, 26 Sep 2026 15:48:51 GMT"
     },
     {
-      "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
       "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
       "description": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
-      "pubDate": "Sat, 26 Sep 2026 17:47:09 GMT"
+      "pubDate": "Sat, 26 Sep 2026 22:04:26 GMT"
+    },
+    {
+      "title": "Republic of Ireland to wear black armbands for Israel game",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+      "pubDate": "Sat, 26 Sep 2026 19:59:00 GMT"
+    },
+    {
+      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
+      "link": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
+      "description": "Christy Spivey tells the BBC she only has more questions now police think Tasia Fortune's body was put in the tree after her death.",
+      "pubDate": "Sat, 26 Sep 2026 21:13:13 GMT"
     },
     {
       "title": "Bangkok roads submerged as flood disaster declared",
@@ -46,10 +52,10 @@
       "pubDate": "Sat, 26 Sep 2026 07:21:30 GMT"
     },
     {
-      "title": "Tenth woman's body found in South Africa suburb as police probe killings",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
-      "description": "The deaths have sparked a national outcry about the scale of violence against women in the country.",
-      "pubDate": "Sat, 26 Sep 2026 18:30:04 GMT"
+      "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
+      "description": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
+      "pubDate": "Sat, 26 Sep 2026 15:12:25 GMT"
     },
     {
       "title": "Brazil's Lula bans online gambling ahead of presidential election",
@@ -58,16 +64,16 @@
       "pubDate": "Sat, 26 Sep 2026 15:46:40 GMT"
     },
     {
+      "title": "Tenth woman's body found as South Africa police probe killings",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
+      "description": "The deaths have sparked a national outcry about the scale of violence against women in the country.",
+      "pubDate": "Sat, 26 Sep 2026 18:30:04 GMT"
+    },
+    {
       "title": "White House bars CNN from travelling with Trump on Air Force One",
       "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
       "description": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
       "pubDate": "Sat, 26 Sep 2026 19:16:14 GMT"
-    },
-    {
-      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
-      "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
-      "description": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
-      "pubDate": "Sat, 26 Sep 2026 01:24:31 GMT"
     },
     {
       "title": "South African white genocide does not exist, new ambassador to US tells BBC",
