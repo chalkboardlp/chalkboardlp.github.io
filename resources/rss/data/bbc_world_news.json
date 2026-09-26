@@ -1,13 +1,25 @@
 {
-  "updated": "2026-09-26T01:32:41.409331+00:00",
+  "updated": "2026-09-26T07:39:54.775262+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
       "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
       "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "description": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
-      "pubDate": "Fri, 25 Sep 2026 23:38:48 GMT"
+      "description": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+      "pubDate": "Sat, 26 Sep 2026 05:03:09 GMT"
+    },
+    {
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+      "pubDate": "Sat, 26 Sep 2026 02:50:56 GMT"
+    },
+    {
+      "title": "Bangkok roads submerged as flood disaster declared",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "description": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
+      "pubDate": "Sat, 26 Sep 2026 07:21:30 GMT"
     },
     {
       "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
@@ -22,22 +34,22 @@
       "pubDate": "Fri, 25 Sep 2026 23:20:48 GMT"
     },
     {
-      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
-      "description": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
-      "pubDate": "Fri, 25 Sep 2026 23:05:40 GMT"
-    },
-    {
-      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-      "description": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
-      "pubDate": "Sat, 26 Sep 2026 01:25:30 GMT"
+      "title": "White House bars CNN from travelling with Trump on Air Force One",
+      "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+      "description": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
+      "pubDate": "Sat, 26 Sep 2026 05:09:09 GMT"
     },
     {
       "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
       "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
       "description": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
       "pubDate": "Sat, 26 Sep 2026 01:24:31 GMT"
+    },
+    {
+      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+      "description": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
+      "pubDate": "Fri, 25 Sep 2026 23:05:40 GMT"
     },
     {
       "title": "Pope warns against 'losing humanity' to AI machines",
@@ -118,12 +130,6 @@
       "pubDate": "Fri, 25 Sep 2026 14:24:19 GMT"
     },
     {
-      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-      "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
-      "description": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
-      "pubDate": "Thu, 24 Sep 2026 19:32:59 GMT"
-    },
-    {
       "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
       "link": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
       "description": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
@@ -166,6 +172,24 @@
       "pubDate": "Thu, 24 Sep 2026 00:15:46 GMT"
     },
     {
+      "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
+      "link": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Nada Tawfik explains why Israel's Benjamin Netanyahu was not arrested after speaking at the UN, despite an ICC arrest warrant.",
+      "pubDate": "Fri, 25 Sep 2026 18:41:13 GMT"
+    },
+    {
+      "title": "Bangkok declares disaster as heavy rains spark flooding",
+      "link": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&at_campaign=rss",
+      "description": "Days of near continuous downpours have caused widespread flooding in the Thai capital.",
+      "pubDate": "Sat, 26 Sep 2026 06:28:58 GMT"
+    },
+    {
+      "title": "Watch: Karaoke and butterflies - US cities celebrate Dolly Parton Day",
+      "link": "https://www.bbc.co.uk/news/videos/crvgyye2w772o?at_medium=RSS&at_campaign=rss",
+      "description": "The day is observed on 25 September, or 9/25, as a nod to the late Queen of Country's hit song 9 to 5.",
+      "pubDate": "Sat, 26 Sep 2026 01:06:33 GMT"
+    },
+    {
       "title": "Thousands turn out to greet Pope in France",
       "link": "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
       "description": "The BBC's Hugh Schofield looks at why the visit is met with enthusiasm the Church attributes to growing spirituality among the French.",
@@ -188,18 +212,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
       "description": "The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for Beijing and Washington.",
       "pubDate": "Fri, 25 Sep 2026 01:27:10 GMT"
-    },
-    {
-      "title": "Watch: UN delegates walk out of Netanyahu speech",
-      "link": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss",
-      "description": "The Israeli delegation cheered in support during Netanyahu's speech. Nada Tawfik in New York explains what happened.",
-      "pubDate": "Thu, 24 Sep 2026 18:29:29 GMT"
-    },
-    {
-      "title": "A red carpet and military flyover - How Trump welcomed Xi",
-      "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
-      "description": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
-      "pubDate": "Wed, 23 Sep 2026 23:03:56 GMT"
     }
   ]
 }
