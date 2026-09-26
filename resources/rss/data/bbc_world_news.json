@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-25T22:19:20.950500+00:00",
+  "updated": "2026-09-26T01:32:41.409331+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "description": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+      "pubDate": "Fri, 25 Sep 2026 23:38:48 GMT"
+    },
     {
       "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
       "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
@@ -10,16 +16,40 @@
       "pubDate": "Fri, 25 Sep 2026 20:47:49 GMT"
     },
     {
-      "title": "Special agents' blood and urine test results stolen in FBI hack",
-      "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-      "description": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-      "pubDate": "Fri, 25 Sep 2026 13:56:16 GMT"
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+      "description": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+      "pubDate": "Fri, 25 Sep 2026 23:20:48 GMT"
+    },
+    {
+      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+      "description": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
+      "pubDate": "Fri, 25 Sep 2026 23:05:40 GMT"
+    },
+    {
+      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "description": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
+      "pubDate": "Sat, 26 Sep 2026 01:25:30 GMT"
+    },
+    {
+      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
+      "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
+      "description": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
+      "pubDate": "Sat, 26 Sep 2026 01:24:31 GMT"
     },
     {
       "title": "Pope warns against 'losing humanity' to AI machines",
       "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
       "description": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
       "pubDate": "Fri, 25 Sep 2026 15:06:41 GMT"
+    },
+    {
+      "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+      "link": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&at_campaign=rss",
+      "description": "The city has seen a string of incidents in which people have climbed out of manholes late at night.",
+      "pubDate": "Fri, 25 Sep 2026 17:59:03 GMT"
     },
     {
       "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
@@ -94,34 +124,22 @@
       "pubDate": "Thu, 24 Sep 2026 19:32:59 GMT"
     },
     {
-      "title": "Media outlets banned by Trump resume White House coverage after judge's order",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "description": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
-      "pubDate": "Fri, 25 Sep 2026 18:36:30 GMT"
+      "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
+      "description": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
+      "pubDate": "Fri, 25 Sep 2026 23:08:02 GMT"
     },
     {
-      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-      "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
-      "description": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
-      "pubDate": "Thu, 24 Sep 2026 19:02:36 GMT"
+      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+      "description": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
+      "pubDate": "Fri, 25 Sep 2026 22:12:48 GMT"
     },
     {
-      "title": "Priest killed and four injured in knife attack at Polish abbey",
-      "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-      "description": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
-      "pubDate": "Thu, 24 Sep 2026 19:18:12 GMT"
-    },
-    {
-      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
-      "description": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
-      "pubDate": "Thu, 24 Sep 2026 17:55:44 GMT"
-    },
-    {
-      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
-      "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
-      "description": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
-      "pubDate": "Thu, 24 Sep 2026 14:37:34 GMT"
+      "title": "Are Ethiopians marching back to war in Tigray?",
+      "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+      "description": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
+      "pubDate": "Fri, 25 Sep 2026 23:42:39 GMT"
     },
     {
       "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
@@ -148,22 +166,10 @@
       "pubDate": "Thu, 24 Sep 2026 00:15:46 GMT"
     },
     {
-      "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-      "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
-      "description": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
-      "pubDate": "Thu, 24 Sep 2026 00:50:24 GMT"
-    },
-    {
-      "title": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
-      "link": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
-      "pubDate": "Wed, 23 Sep 2026 23:58:50 GMT"
-    },
-    {
-      "title": "'Make women feel seen': Why the Dutch have a new word for labia",
-      "link": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss",
-      "description": "Campaigners hope the new words will lead to less body shaming and more sex positivity.",
-      "pubDate": "Wed, 23 Sep 2026 23:42:38 GMT"
+      "title": "Thousands turn out to greet Pope in France",
+      "link": "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Hugh Schofield looks at why the visit is met with enthusiasm the Church attributes to growing spirituality among the French.",
+      "pubDate": "Fri, 25 Sep 2026 15:44:55 GMT"
     },
     {
       "title": "Robbie Williams' surprise singalong after Peru gig cancelled",
@@ -194,12 +200,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
       "description": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
       "pubDate": "Wed, 23 Sep 2026 23:03:56 GMT"
-    },
-    {
-      "title": "Watch: The arms race in space and how the UK is defending itself",
-      "link": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
-      "description": "The UK has jammed satellites to defend itself from hostile threats, the BBC has been told.",
-      "pubDate": "Wed, 23 Sep 2026 21:29:04 GMT"
     }
   ]
 }
