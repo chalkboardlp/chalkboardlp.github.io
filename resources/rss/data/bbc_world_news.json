@@ -1,19 +1,13 @@
 {
-  "updated": "2026-09-27T22:09:26.173188+00:00",
+  "updated": "2026-09-28T00:44:56.329046+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-      "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-      "pubDate": "Sun, 27 Sep 2026 07:44:11 GMT"
-    },
-    {
-      "title": "Two mass shootings in South Africa leave 27 dead",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-      "pubDate": "Sun, 27 Sep 2026 14:09:22 GMT"
+      "title": "Inside Yemen's front-line city as Houthis battle for control",
+      "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+      "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+      "pubDate": "Sun, 27 Sep 2026 21:16:31 GMT"
     },
     {
       "title": "Embattled Serbian president resigns, paving way for early elections",
@@ -28,16 +22,16 @@
       "pubDate": "Sun, 27 Sep 2026 17:05:26 GMT"
     },
     {
+      "title": "Two mass shootings in South Africa leave 27 dead",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+      "pubDate": "Sun, 27 Sep 2026 14:09:22 GMT"
+    },
+    {
       "title": "Four killed in helicopter crash near Montreal",
       "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
       "description": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC.",
       "pubDate": "Sun, 27 Sep 2026 02:43:10 GMT"
-    },
-    {
-      "title": "One dead as nor'easter storm pummels New York and New Jersey",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "description": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
-      "pubDate": "Sun, 27 Sep 2026 12:34:26 GMT"
     },
     {
       "title": "Venezuela releases dozens of political prisoners as election calls grow",
@@ -46,10 +40,28 @@
       "pubDate": "Sun, 27 Sep 2026 15:56:25 GMT"
     },
     {
+      "title": "Switzerland rejects stricter interpretation of its neutrality",
+      "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
+      "description": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
+      "pubDate": "Sun, 27 Sep 2026 16:02:17 GMT"
+    },
+    {
+      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+      "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+      "pubDate": "Sun, 27 Sep 2026 07:44:11 GMT"
+    },
+    {
       "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
       "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
       "description": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
       "pubDate": "Sun, 27 Sep 2026 19:47:21 GMT"
+    },
+    {
+      "title": "One dead as nor'easter storm pummels New York and New Jersey",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "description": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
+      "pubDate": "Sun, 27 Sep 2026 23:37:26 GMT"
     },
     {
       "title": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
@@ -62,12 +74,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c3ew9e5lg01vo?at_medium=RSS&at_campaign=rss",
       "description": "The 34-year-old is under investigation for incidents that began in February 2024 up until as recently as last month.",
       "pubDate": "Sun, 27 Sep 2026 16:35:41 GMT"
-    },
-    {
-      "title": "Switzerland rejects stricter interpretation of its neutrality",
-      "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
-      "description": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
-      "pubDate": "Sun, 27 Sep 2026 16:02:17 GMT"
     },
     {
       "title": "German town bans 'stumbling stone' memorials to Nazi victims",
@@ -94,16 +100,16 @@
       "pubDate": "Sat, 26 Sep 2026 12:47:25 GMT"
     },
     {
-      "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
-      "description": "The independent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
-      "pubDate": "Sat, 26 Sep 2026 15:12:25 GMT"
+      "title": "Why some Indian civil servants become heroes for doing their jobs",
+      "link": "https://www.bbc.co.uk/news/articles/cw980vje6l3eo?at_medium=RSS&at_campaign=rss",
+      "description": "In a system often marked by red tape and exhausting delays, officers seen to be following the rules get adulation.",
+      "pubDate": "Sun, 27 Sep 2026 23:01:37 GMT"
     },
     {
-      "title": "Brazil's Lula bans online gambling ahead of presidential election",
-      "link": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
-      "description": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
-      "pubDate": "Sat, 26 Sep 2026 15:46:40 GMT"
+      "title": "News media must stay relevant or 'society will struggle', says World News Day boss",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss",
+      "description": "World News Day aims to highlight the role of news providers in investigating and explaining important events.",
+      "pubDate": "Sun, 27 Sep 2026 23:27:22 GMT"
     },
     {
       "title": "Before BTS and Blackpink, there was Big Bang: Now the Kings of K-pop are back",
@@ -122,18 +128,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
       "description": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
       "pubDate": "Fri, 25 Sep 2026 22:12:48 GMT"
-    },
-    {
-      "title": "What is kratom, the 'gas station heroin' alarming officials in the US?",
-      "link": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro?at_medium=RSS&at_campaign=rss",
-      "description": "Kratom, found during an investigation into the deaths of two college students, has been sold in the US for around a decade.",
-      "pubDate": "Fri, 25 Sep 2026 20:06:39 GMT"
-    },
-    {
-      "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
-      "description": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
-      "pubDate": "Fri, 25 Sep 2026 23:08:02 GMT"
     },
     {
       "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
