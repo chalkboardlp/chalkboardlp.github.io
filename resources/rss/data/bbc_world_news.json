@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T15:27:15.646211+00:00",
+  "updated": "2026-09-28T22:00:08.212996+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -10,22 +10,46 @@
       "pubDate": "Sun, 27 Sep 2026 21:16:31 GMT"
     },
     {
-      "title": "Trump-Xi summit: What wasn't said might matter the most",
-      "link": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
-      "description": "The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know.",
-      "pubDate": "Mon, 28 Sep 2026 07:52:23 GMT"
-    },
-    {
-      "title": "Mexico's Pacific coast braces for Hurricane Polo",
-      "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
-      "description": "The category-three storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast.",
-      "pubDate": "Mon, 28 Sep 2026 11:05:49 GMT"
-    },
-    {
       "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
       "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
       "description": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
       "pubDate": "Mon, 28 Sep 2026 14:57:31 GMT"
+    },
+    {
+      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+      "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+      "description": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
+      "pubDate": "Mon, 28 Sep 2026 17:26:21 GMT"
+    },
+    {
+      "title": "French PM warns against escalation of school protests after 164 arrested",
+      "link": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
+      "description": "Students are protesting over issues such as overcrowded classes, but the prime minister has condemned reports of violence.",
+      "pubDate": "Mon, 28 Sep 2026 21:46:53 GMT"
+    },
+    {
+      "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
+      "link": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
+      "description": "Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning.",
+      "pubDate": "Mon, 28 Sep 2026 15:39:19 GMT"
+    },
+    {
+      "title": "Iran court upholds lashes sentence for singer who performed without hijab",
+      "link": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
+      "description": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
+      "pubDate": "Mon, 28 Sep 2026 17:15:00 GMT"
+    },
+    {
+      "title": "Stand-up comic released after being convicted of insulting Erdoğan",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
+      "description": "Turkish comedian Deniz Göktaş also faces a travel ban but has been released due to time served.",
+      "pubDate": "Mon, 28 Sep 2026 20:23:12 GMT"
+    },
+    {
+      "title": "Four bodies found after avalanche hits Himalayan climbing group",
+      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+      "description": "Rescuers are still looking for 12 Nepalese cook staff who were preparing for climbers to ascend the Himlung Himal peak.",
+      "pubDate": "Mon, 28 Sep 2026 16:13:44 GMT"
     },
     {
       "title": "Plan for controversial Sydney data centre scrapped after push-back",
@@ -34,10 +58,28 @@
       "pubDate": "Mon, 28 Sep 2026 12:47:09 GMT"
     },
     {
-      "title": "Two mass shootings in South Africa leave 28 dead",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-      "pubDate": "Mon, 28 Sep 2026 06:46:03 GMT"
+      "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
+      "link": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
+      "description": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
+      "pubDate": "Mon, 28 Sep 2026 18:11:07 GMT"
+    },
+    {
+      "title": "Remains of dozens of suspected kidnap victims found in Nigerian forests",
+      "link": "https://www.bbc.co.uk/news/articles/c6e30x757nx4o?at_medium=RSS&at_campaign=rss",
+      "description": "Investigations are ongoing to establish the identities of at least 28 people whose remains were recovered by police.",
+      "pubDate": "Mon, 28 Sep 2026 16:25:00 GMT"
+    },
+    {
+      "title": "Mexico's Pacific coast braces for Hurricane Polo",
+      "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+      "description": "The category-three storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast.",
+      "pubDate": "Mon, 28 Sep 2026 11:05:49 GMT"
+    },
+    {
+      "title": "Trump-Xi summit: What wasn't said might matter the most",
+      "link": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
+      "description": "The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know.",
+      "pubDate": "Mon, 28 Sep 2026 07:52:23 GMT"
     },
     {
       "title": "Embattled Serbian president resigns, paving way for early elections",
@@ -70,12 +112,6 @@
       "pubDate": "Sun, 27 Sep 2026 19:47:21 GMT"
     },
     {
-      "title": "Two bodies found after avalanche hits Himalayan climbing group",
-      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-      "description": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
-      "pubDate": "Sun, 27 Sep 2026 17:05:26 GMT"
-    },
-    {
       "title": "Switzerland rejects stricter interpretation of its neutrality",
       "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
       "description": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
@@ -104,6 +140,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
       "description": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
       "pubDate": "Sat, 26 Sep 2026 15:48:51 GMT"
+    },
+    {
+      "title": "Stuck between superpowers: How Australia navigates the China-US rivalry",
+      "link": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
+      "description": "Australia is increasingly concerned about China's military might - but Beijing is also its biggest trade partner.",
+      "pubDate": "Mon, 28 Sep 2026 18:37:15 GMT"
     },
     {
       "title": "Why some Indian civil servants become heroes for doing their jobs",
@@ -136,6 +178,24 @@
       "pubDate": "Fri, 25 Sep 2026 22:12:48 GMT"
     },
     {
+      "title": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
+      "link": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
+      "description": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today.",
+      "pubDate": "Mon, 28 Sep 2026 13:59:06 GMT"
+    },
+    {
+      "title": "People escape historic Kyiv building hit by Russian drone",
+      "link": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Paul Adams reports from the scene of the strike on Ukraine's National Academy of Sciences.",
+      "pubDate": "Mon, 28 Sep 2026 17:04:14 GMT"
+    },
+    {
+      "title": "Women protest in the streets of Delhi after string of sexual assaults",
+      "link": "https://www.bbc.co.uk/news/videos/cm70lpg5z45go?at_medium=RSS&at_campaign=rss",
+      "description": "BBC correspondent Azadeh Moshiri reports from Delhi, where hundreds of women are protesting.",
+      "pubDate": "Mon, 28 Sep 2026 16:15:57 GMT"
+    },
+    {
       "title": "Watch: Madonna and Taylor Swift win big at the MTV VMAs",
       "link": "https://www.bbc.co.uk/news/videos/ckvgy6j4594yo?at_medium=RSS&at_campaign=rss",
       "description": "Taylor Swift, Madonna, and LISA were among the big winners at the MTV Video Music Awards (VMAs) on Sunday evening in downtown Los Angeles.",
@@ -152,12 +212,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
       "description": "Celebrities posed for the cameras ahead of the 2026 MTV Video Music Awards in Los Angeles.",
       "pubDate": "Mon, 28 Sep 2026 01:16:18 GMT"
-    },
-    {
-      "title": "Shipwreck uncovered on Nantucket island during nor'easter storm",
-      "link": "https://www.bbc.co.uk/news/videos/cmg497x0p4x3o?at_medium=RSS&at_campaign=rss",
-      "description": "The so-called nor'easter storm has washed up what may be a shipwreck from the 19th century in Massachusetts, local media says.",
-      "pubDate": "Mon, 28 Sep 2026 00:52:49 GMT"
     }
   ]
 }

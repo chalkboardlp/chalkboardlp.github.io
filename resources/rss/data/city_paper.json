@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-28T15:27:16.945982+00:00",
+  "updated": "2026-09-28T22:00:09.847449+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Colombia’s Unfinished Business of Peace: De La Espriella and JEP",
+      "link": "https://thecitypaperbogota.com/news/colombias-unfinished-business-of-peace-de-la-espriella-and-jep/",
+      "description": "Ten years after Colombia first signed its historic peace agreement with the FARC, the country&#8217;s experiment with transitional justice has reached a critical moment. The anniversary arrives not as a celebration of an uncontested peace, but amid a confrontation over the future of the Special Jurisdiction for Peace, or JEP, the tribunal established to investigate [&#8230;]",
+      "pubDate": "Mon, 28 Sep 2026 19:44:11 +0000"
+    },
     {
       "title": "De La Espriella keeps his promise and sends Colombia’s Vice-President Restrepo to UN",
       "link": "https://thecitypaperbogota.com/news/de-la-espriella-keeps-his-promise-and-sends-colombias-vice-president-restrepo-to-un/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/wildfires-consume-30000-hectares-across-tolima-criminal-groups-suspected/",
       "description": "More than 30,000 hectares have been burned across Colombia&#8217;s Tolima department as firefighters battle one of the region&#8217;s worst wildfire emergencies in years, but authorities are now investigating a darker possibility: that some of the fires are being deliberately set by criminal groups seeking to divert security forces, destabilize communities and gain control of territory. Interior [&#8230;]",
       "pubDate": "Mon, 24 Aug 2026 14:03:57 +0000"
-    },
-    {
-      "title": "Shakira Pledges US$1.25 M to Rebuild Earthquake-Damaged Schools in Chocó",
-      "link": "https://thecitypaperbogota.com/news/shakira-pledges-us1-25-m-to-rebuild-earthquake-damaged-schools-in-choco/",
-      "description": "Colombia&#8217;s Shakira has pledged US$1.25 million toward rebuilding schools and educational infrastructure damaged by the earthquake that struck Colombia’s Pacific region on August 10, announcing a major recovery initiative during a visit to Chocó on Monday. The award-winning singer and pop superstar arrived in Quibdó accompanied by American philanthropist Howard Graham Buffett, representatives of CAF, [&#8230;]",
-      "pubDate": "Wed, 19 Aug 2026 19:10:24 +0000"
     }
   ]
 }
