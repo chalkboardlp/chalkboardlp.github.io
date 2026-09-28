@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T06:52:30.084083+00:00",
+  "updated": "2026-09-28T15:27:15.646211+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -10,16 +10,28 @@
       "pubDate": "Sun, 27 Sep 2026 21:16:31 GMT"
     },
     {
-      "title": "Embattled Serbian president resigns, paving way for early elections",
-      "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
-      "description": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
-      "pubDate": "Sun, 27 Sep 2026 20:04:21 GMT"
+      "title": "Trump-Xi summit: What wasn't said might matter the most",
+      "link": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
+      "description": "The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know.",
+      "pubDate": "Mon, 28 Sep 2026 07:52:23 GMT"
     },
     {
-      "title": "Two bodies found after avalanche hits Himalayan climbing group",
-      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-      "description": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
-      "pubDate": "Sun, 27 Sep 2026 17:05:26 GMT"
+      "title": "Mexico's Pacific coast braces for Hurricane Polo",
+      "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+      "description": "The category-three storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast.",
+      "pubDate": "Mon, 28 Sep 2026 11:05:49 GMT"
+    },
+    {
+      "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
+      "description": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
+      "pubDate": "Mon, 28 Sep 2026 14:57:31 GMT"
+    },
+    {
+      "title": "Plan for controversial Sydney data centre scrapped after push-back",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&at_campaign=rss",
+      "description": "Goodman Group, the property giant behind the Project Mars data centre, says the decision is due to changes to the \"policy and regulatory environment\".",
+      "pubDate": "Mon, 28 Sep 2026 12:47:09 GMT"
     },
     {
       "title": "Two mass shootings in South Africa leave 28 dead",
@@ -28,16 +40,40 @@
       "pubDate": "Mon, 28 Sep 2026 06:46:03 GMT"
     },
     {
-      "title": "Four killed in helicopter crash near Montreal",
-      "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
-      "description": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC.",
-      "pubDate": "Sun, 27 Sep 2026 02:43:10 GMT"
+      "title": "Embattled Serbian president resigns, paving way for early elections",
+      "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+      "description": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
+      "pubDate": "Sun, 27 Sep 2026 20:04:21 GMT"
+    },
+    {
+      "title": "One dead as nor'easter storm pummels New York and New Jersey",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "description": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
+      "pubDate": "Sun, 27 Sep 2026 23:37:26 GMT"
     },
     {
       "title": "Venezuela releases dozens of political prisoners as election calls grow",
       "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
       "description": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
       "pubDate": "Sun, 27 Sep 2026 15:56:25 GMT"
+    },
+    {
+      "title": "Four killed in helicopter crash near Montreal",
+      "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
+      "description": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC.",
+      "pubDate": "Sun, 27 Sep 2026 02:43:10 GMT"
+    },
+    {
+      "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+      "description": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+      "pubDate": "Sun, 27 Sep 2026 19:47:21 GMT"
+    },
+    {
+      "title": "Two bodies found after avalanche hits Himalayan climbing group",
+      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+      "description": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
+      "pubDate": "Sun, 27 Sep 2026 17:05:26 GMT"
     },
     {
       "title": "Switzerland rejects stricter interpretation of its neutrality",
@@ -50,18 +86,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
       "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
       "pubDate": "Sun, 27 Sep 2026 07:44:11 GMT"
-    },
-    {
-      "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
-      "description": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
-      "pubDate": "Sun, 27 Sep 2026 19:47:21 GMT"
-    },
-    {
-      "title": "One dead as nor'easter storm pummels New York and New Jersey",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "description": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
-      "pubDate": "Sun, 27 Sep 2026 23:37:26 GMT"
     },
     {
       "title": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
@@ -80,24 +104,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
       "description": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
       "pubDate": "Sat, 26 Sep 2026 15:48:51 GMT"
-    },
-    {
-      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
-      "link": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
-      "description": "Christy Spivey tells the BBC she only has more questions now police think Tasia Fortune's body was put in the tree after her death.",
-      "pubDate": "Sat, 26 Sep 2026 21:13:13 GMT"
-    },
-    {
-      "title": "Bangkok roads submerged as flood disaster declared",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-      "description": "Authorities said the heavy rains have subsided but the flooding is not yet over.",
-      "pubDate": "Sun, 27 Sep 2026 04:45:08 GMT"
-    },
-    {
-      "title": "British national among six dead in building explosion close to Acropolis in Athens",
-      "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-      "description": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
-      "pubDate": "Sat, 26 Sep 2026 12:47:25 GMT"
     },
     {
       "title": "Why some Indian civil servants become heroes for doing their jobs",
@@ -142,19 +148,13 @@
       "pubDate": "Sun, 27 Sep 2026 21:00:06 GMT"
     },
     {
-      "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
-      "link": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
-      "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
-      "pubDate": "Sun, 27 Sep 2026 21:00:06 GMT"
-    },
-    {
       "title": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
       "link": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
       "description": "Celebrities posed for the cameras ahead of the 2026 MTV Video Music Awards in Los Angeles.",
       "pubDate": "Mon, 28 Sep 2026 01:16:18 GMT"
     },
     {
-      "title": "Watch: Shipwreck uncovered on Nantucket island during nor'easter storm",
+      "title": "Shipwreck uncovered on Nantucket island during nor'easter storm",
       "link": "https://www.bbc.co.uk/news/videos/cmg497x0p4x3o?at_medium=RSS&at_campaign=rss",
       "description": "The so-called nor'easter storm has washed up what may be a shipwreck from the 19th century in Massachusetts, local media says.",
       "pubDate": "Mon, 28 Sep 2026 00:52:49 GMT"
