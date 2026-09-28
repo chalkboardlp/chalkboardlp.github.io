@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T00:44:56.329046+00:00",
+  "updated": "2026-09-28T06:52:30.084083+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -22,10 +22,10 @@
       "pubDate": "Sun, 27 Sep 2026 17:05:26 GMT"
     },
     {
-      "title": "Two mass shootings in South Africa leave 27 dead",
+      "title": "Two mass shootings in South Africa leave 28 dead",
       "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
       "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-      "pubDate": "Sun, 27 Sep 2026 14:09:22 GMT"
+      "pubDate": "Mon, 28 Sep 2026 06:46:03 GMT"
     },
     {
       "title": "Four killed in helicopter crash near Montreal",
@@ -106,7 +106,7 @@
       "pubDate": "Sun, 27 Sep 2026 23:01:37 GMT"
     },
     {
-      "title": "News media must stay relevant or 'society will struggle', says World News Day boss",
+      "title": "News media must stay relevant or 'society will struggle', says World News Day organiser",
       "link": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss",
       "description": "World News Day aims to highlight the role of news providers in investigating and explaining important events.",
       "pubDate": "Sun, 27 Sep 2026 23:27:22 GMT"
@@ -130,34 +130,34 @@
       "pubDate": "Fri, 25 Sep 2026 22:12:48 GMT"
     },
     {
+      "title": "Watch: Madonna and Taylor Swift win big at the MTV VMAs",
+      "link": "https://www.bbc.co.uk/news/videos/ckvgy6j4594yo?at_medium=RSS&at_campaign=rss",
+      "description": "Taylor Swift, Madonna, and LISA were among the big winners at the MTV Video Music Awards (VMAs) on Sunday evening in downtown Los Angeles.",
+      "pubDate": "Mon, 28 Sep 2026 06:22:52 GMT"
+    },
+    {
       "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
       "link": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
       "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
       "pubDate": "Sun, 27 Sep 2026 21:00:06 GMT"
     },
     {
-      "title": "Watch: The ups and downs of SpaceX's 13 Starship test flights",
-      "link": "https://www.bbc.co.uk/news/videos/cm0e30lpngxpo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Ricky Boleto looks how previous SpaceX test flights went.",
-      "pubDate": "Sun, 27 Sep 2026 20:05:07 GMT"
+      "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+      "link": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
+      "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+      "pubDate": "Sun, 27 Sep 2026 21:00:06 GMT"
     },
     {
-      "title": "Are claims of a white genocide in South Africa real?",
-      "link": "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
-      "description": "Thousands of white crosses have been displayed in Washington by an Afrikaner lobby group But South Africa's new ambassador Roelf Meyer says there is not a genocide.",
-      "pubDate": "Sat, 26 Sep 2026 21:20:17 GMT"
+      "title": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
+      "link": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
+      "description": "Celebrities posed for the cameras ahead of the 2026 MTV Video Music Awards in Los Angeles.",
+      "pubDate": "Mon, 28 Sep 2026 01:16:18 GMT"
     },
     {
-      "title": "Watch: Bangkok declared flood disaster zone",
-      "link": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&at_campaign=rss",
-      "description": "Heavy rain over the last two days has overwhelmed Bangkok's water systems, with more rain forecast on Sunday.",
-      "pubDate": "Sat, 26 Sep 2026 15:34:18 GMT"
-    },
-    {
-      "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
-      "link": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Nada Tawfik explains why Israel's Benjamin Netanyahu was not arrested after speaking at the UN, despite an ICC arrest warrant.",
-      "pubDate": "Fri, 25 Sep 2026 18:41:13 GMT"
+      "title": "Watch: Shipwreck uncovered on Nantucket island during nor'easter storm",
+      "link": "https://www.bbc.co.uk/news/videos/cmg497x0p4x3o?at_medium=RSS&at_campaign=rss",
+      "description": "The so-called nor'easter storm has washed up what may be a shipwreck from the 19th century in Massachusetts, local media says.",
+      "pubDate": "Mon, 28 Sep 2026 00:52:49 GMT"
     }
   ]
 }
