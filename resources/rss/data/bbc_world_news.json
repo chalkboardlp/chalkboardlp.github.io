@@ -1,13 +1,25 @@
 {
-  "updated": "2026-09-28T22:00:08.212996+00:00",
+  "updated": "2026-09-29T01:56:41.196190+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "description": "OpenAI also issued an update on incidents in which its models accessed Australian government systems.",
+      "pubDate": "Tue, 29 Sep 2026 01:51:25 GMT"
+    },
     {
       "title": "Inside Yemen's front-line city as Houthis battle for control",
       "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
       "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
       "pubDate": "Sun, 27 Sep 2026 21:16:31 GMT"
+    },
+    {
+      "title": "New York Times executive fatally shot allegedly by elderly in-laws",
+      "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+      "description": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
+      "pubDate": "Mon, 28 Sep 2026 20:50:03 GMT"
     },
     {
       "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
@@ -16,16 +28,22 @@
       "pubDate": "Mon, 28 Sep 2026 14:57:31 GMT"
     },
     {
-      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-      "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
-      "description": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
-      "pubDate": "Mon, 28 Sep 2026 17:26:21 GMT"
-    },
-    {
       "title": "French PM warns against escalation of school protests after 164 arrested",
       "link": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
       "description": "Students are protesting over issues such as overcrowded classes, but the prime minister has condemned reports of violence.",
       "pubDate": "Mon, 28 Sep 2026 21:46:53 GMT"
+    },
+    {
+      "title": "Tennessee governor rejects clemency bid for Christa Pike as execution looms",
+      "link": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
+      "description": "If the execution proceeds, Pike would be the first woman executed in Tennessee in more than 200 years.",
+      "pubDate": "Mon, 28 Sep 2026 22:27:33 GMT"
+    },
+    {
+      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+      "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+      "description": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
+      "pubDate": "Mon, 28 Sep 2026 17:26:21 GMT"
     },
     {
       "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
@@ -61,7 +79,7 @@
       "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
       "link": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
       "description": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
-      "pubDate": "Mon, 28 Sep 2026 18:11:07 GMT"
+      "pubDate": "Tue, 29 Sep 2026 00:38:23 GMT"
     },
     {
       "title": "Remains of dozens of suspected kidnap victims found in Nigerian forests",
@@ -70,10 +88,10 @@
       "pubDate": "Mon, 28 Sep 2026 16:25:00 GMT"
     },
     {
-      "title": "Mexico's Pacific coast braces for Hurricane Polo",
+      "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
       "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
-      "description": "The category-three storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast.",
-      "pubDate": "Mon, 28 Sep 2026 11:05:49 GMT"
+      "description": "The category-three storm is expected to make landfall of north of Cabo San Lucas, a popular tourist area, on the Mexican peninsula of Baja California Sur.",
+      "pubDate": "Mon, 28 Sep 2026 23:43:48 GMT"
     },
     {
       "title": "Trump-Xi summit: What wasn't said might matter the most",
@@ -124,28 +142,22 @@
       "pubDate": "Sun, 27 Sep 2026 07:44:11 GMT"
     },
     {
-      "title": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
-      "description": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
-      "pubDate": "Sat, 26 Sep 2026 23:04:08 GMT"
-    },
-    {
-      "title": "Woman charged with stealing from patients and staff at hospitals across Ontario",
-      "link": "https://www.bbc.co.uk/news/articles/c3ew9e5lg01vo?at_medium=RSS&at_campaign=rss",
-      "description": "The 34-year-old is under investigation for incidents that began in February 2024 up until as recently as last month.",
-      "pubDate": "Sun, 27 Sep 2026 16:35:41 GMT"
-    },
-    {
-      "title": "German town bans 'stumbling stone' memorials to Nazi victims",
-      "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
-      "description": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
-      "pubDate": "Sat, 26 Sep 2026 15:48:51 GMT"
-    },
-    {
-      "title": "Stuck between superpowers: How Australia navigates the China-US rivalry",
+      "title": "The Frenemy: How Australia navigates superpower rivalry",
       "link": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
       "description": "Australia is increasingly concerned about China's military might - but Beijing is also its biggest trade partner.",
       "pubDate": "Mon, 28 Sep 2026 18:37:15 GMT"
+    },
+    {
+      "title": "Sign before praying: A new conversion law is affecting churchgoers in Indian state",
+      "link": "https://www.bbc.co.uk/news/articles/cmj4jg2vxvpdo?at_medium=RSS&at_campaign=rss",
+      "description": "A new anti-conversion law in Maharashtra is raising questions about faith, choice and freedom.",
+      "pubDate": "Tue, 29 Sep 2026 00:50:19 GMT"
+    },
+    {
+      "title": "Journalist to be crowned king in Uganda after bitter succession dispute",
+      "link": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
+      "description": "Kijanangoma is being crowned amid a dispute over a young heir whom the royal clan does not recognise.",
+      "pubDate": "Mon, 28 Sep 2026 23:44:49 GMT"
     },
     {
       "title": "Why some Indian civil servants become heroes for doing their jobs",
@@ -164,18 +176,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cq39me84zrkdo?at_medium=RSS&at_campaign=rss",
       "description": "Big Bang played London's Tottenham Hotspur Stadium, marking a long-awaited return for the group that helped build the blueprint for modern K-pop.",
       "pubDate": "Sun, 27 Sep 2026 08:51:23 GMT"
-    },
-    {
-      "title": "Young people in China are fangirling over a professor who gets their anxiety",
-      "link": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
-      "description": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
-      "pubDate": "Sat, 26 Sep 2026 22:02:18 GMT"
-    },
-    {
-      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
-      "description": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
-      "pubDate": "Fri, 25 Sep 2026 22:12:48 GMT"
     },
     {
       "title": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
