@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T20:48:00.762693+00:00",
+  "updated": "2026-09-30T00:26:20.415295+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -8,6 +8,24 @@
       "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
       "description": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
       "pubDate": "Tue, 29 Sep 2026 16:23:58 GMT"
+    },
+    {
+      "title": "Chinese AI tool told researchers how to make bioweapons",
+      "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+      "description": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
+      "pubDate": "Tue, 29 Sep 2026 23:15:29 GMT"
+    },
+    {
+      "title": "South Africa to clean up high-risk areas after 12 women killed",
+      "link": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
+      "description": "The deaths sparked a national outcry about the scale of violence against women in the country.",
+      "pubDate": "Tue, 29 Sep 2026 22:33:39 GMT"
+    },
+    {
+      "title": "Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries",
+      "link": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss",
+      "description": "The announcement comes after multiple lawsuits alleged that hundreds of riders suffered brain injuries from X2, a ride with seats that spin 360 degrees.",
+      "pubDate": "Tue, 29 Sep 2026 22:33:13 GMT"
     },
     {
       "title": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
@@ -22,16 +40,28 @@
       "pubDate": "Tue, 29 Sep 2026 12:39:18 GMT"
     },
     {
-      "title": "Dutch police arrest suspected member of group that claimed FBI hack",
-      "link": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
-      "description": "The suspect, 24, was arrested before the alleged cyber attack took place.",
-      "pubDate": "Tue, 29 Sep 2026 15:40:10 GMT"
+      "title": "More than 400 detained as France student protests escalate",
+      "link": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
+      "description": "Students have been protesting conditions and resources in high schools since last week.",
+      "pubDate": "Tue, 29 Sep 2026 21:55:13 GMT"
     },
     {
       "title": "First female prime minister named in Morocco after winning elections",
       "link": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
       "description": "Her appointment by the king makes her only the second woman to lead a government in the Arab world.",
       "pubDate": "Tue, 29 Sep 2026 17:14:10 GMT"
+    },
+    {
+      "title": "Dutch police arrest suspected member of group that claimed FBI hack",
+      "link": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
+      "description": "The suspect, 24, was arrested before the alleged cyber attack took place.",
+      "pubDate": "Tue, 29 Sep 2026 15:40:10 GMT"
+    },
+    {
+      "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
+      "description": "Russia has been accused of launching sabotage attacks across a number of European Nato countries which have been helping Ukraine.",
+      "pubDate": "Tue, 29 Sep 2026 19:36:41 GMT"
     },
     {
       "title": "Eiffel Tower chief to quit after female staff replaced by men during religious visit",
@@ -52,16 +82,10 @@
       "pubDate": "Tue, 29 Sep 2026 14:50:09 GMT"
     },
     {
-      "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
-      "description": "Russia has been accused of launching sabotage attacks across a number of European Nato countries which have been helping Ukraine.",
-      "pubDate": "Tue, 29 Sep 2026 19:36:41 GMT"
-    },
-    {
       "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
       "link": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
       "description": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
-      "pubDate": "Tue, 29 Sep 2026 14:25:12 GMT"
+      "pubDate": "Tue, 29 Sep 2026 21:09:00 GMT"
     },
     {
       "title": "Man charged over AI image of crocodile in Singapore reservoir",
@@ -72,8 +96,8 @@
     {
       "title": "Former American Idol contestant and pastor found guilty of murdering wife",
       "link": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
-      "description": "Caleb Flynn shot his wife, Ashley, dead in their Ohio home in February before saying in a 911 call she was killed by burglars.",
-      "pubDate": "Tue, 29 Sep 2026 20:42:10 GMT"
+      "description": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home.",
+      "pubDate": "Tue, 29 Sep 2026 22:13:36 GMT"
     },
     {
       "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
@@ -85,7 +109,7 @@
       "title": "Trump rules out joint US-China venture to develop AI",
       "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
       "description": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth.",
-      "pubDate": "Tue, 29 Sep 2026 20:24:18 GMT"
+      "pubDate": "Tue, 29 Sep 2026 21:45:01 GMT"
     },
     {
       "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
@@ -106,22 +130,10 @@
       "pubDate": "Tue, 29 Sep 2026 13:38:06 GMT"
     },
     {
-      "title": "Malaysia begins controversial repatriation of asylum seekers to Myanmar",
-      "link": "https://www.bbc.co.uk/news/articles/ckj06542e5neo?at_medium=RSS&at_campaign=rss",
-      "description": "Human rights groups say some 5,000 returnees could face violence, persecution and forced conscription.",
-      "pubDate": "Tue, 29 Sep 2026 13:29:04 GMT"
-    },
-    {
-      "title": "New York Times executive fatally shot by elderly in-laws, police say",
-      "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
-      "description": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
-      "pubDate": "Tue, 29 Sep 2026 17:48:08 GMT"
-    },
-    {
-      "title": "Tennessee governor declines to halt execution of state's lone woman on death row",
-      "link": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
-      "description": "If the execution proceeds, Pike would be the first woman put to death in Tennessee in more than 200 years.",
-      "pubDate": "Tue, 29 Sep 2026 02:36:46 GMT"
+      "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
+      "link": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
+      "description": "Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks.",
+      "pubDate": "Tue, 29 Sep 2026 23:33:34 GMT"
     },
     {
       "title": "Are Trump's US government funded ads illegal?",
@@ -148,10 +160,10 @@
       "pubDate": "Tue, 29 Sep 2026 20:09:27 GMT"
     },
     {
-      "title": "Sign before praying: A new conversion law is affecting churchgoers in Indian state",
-      "link": "https://www.bbc.co.uk/news/articles/cmj4jg2vxvpdo?at_medium=RSS&at_campaign=rss",
-      "description": "A new anti-conversion law in Maharashtra is raising questions about faith, choice and freedom.",
-      "pubDate": "Tue, 29 Sep 2026 00:50:19 GMT"
+      "title": "Fires and blockades as students stage school protests across France",
+      "link": "https://www.bbc.co.uk/news/videos/cmy0zey3ey2lo?at_medium=RSS&at_campaign=rss",
+      "description": "More than 400 people, mainly minors, were arrested on Tuesday, the country's interior minister says.",
+      "pubDate": "Tue, 29 Sep 2026 21:53:36 GMT"
     },
     {
       "title": "The journalist who became king in Uganda",
