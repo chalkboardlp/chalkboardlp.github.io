@@ -1,13 +1,25 @@
 {
-  "updated": "2026-09-30T19:18:41.798571+00:00",
+  "updated": "2026-09-30T23:47:58.316949+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
       "title": "What we know about stabbing on Flydubai flight to Israel",
       "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "description": "The captain and first officer were injured, and one pilot has been arrested, officials say.",
-      "pubDate": "Wed, 30 Sep 2026 17:51:49 GMT"
+      "description": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
+      "pubDate": "Wed, 30 Sep 2026 21:36:31 GMT"
+    },
+    {
+      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+      "description": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
+      "pubDate": "Wed, 30 Sep 2026 23:10:06 GMT"
+    },
+    {
+      "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "description": "The death by lethal injection was scheduled to happen earlier on Wednesday before judges from a lower court paused the execution.",
+      "pubDate": "Wed, 30 Sep 2026 23:42:10 GMT"
     },
     {
       "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
@@ -16,16 +28,22 @@
       "pubDate": "Wed, 30 Sep 2026 17:14:03 GMT"
     },
     {
+      "title": "Tiny image sparks big backlash in Nikon photo contest",
+      "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
+      "description": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
+      "pubDate": "Wed, 30 Sep 2026 23:10:19 GMT"
+    },
+    {
       "title": "UK-France 'one in, one out' migrant scheme scrapped",
       "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
       "description": "Some 1,500 people have been removed to France since the scheme began just over a year ago.",
       "pubDate": "Wed, 30 Sep 2026 17:11:08 GMT"
     },
     {
-      "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-      "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-      "description": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
-      "pubDate": "Wed, 30 Sep 2026 15:29:11 GMT"
+      "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+      "link": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
+      "description": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.",
+      "pubDate": "Wed, 30 Sep 2026 22:01:16 GMT"
     },
     {
       "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
@@ -100,22 +118,16 @@
       "pubDate": "Wed, 30 Sep 2026 05:01:04 GMT"
     },
     {
-      "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-      "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
-      "description": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
-      "pubDate": "Wed, 30 Sep 2026 05:24:52 GMT"
+      "title": "China has cracked down on AI relationships. Is it ahead of the game?",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss",
+      "description": "Beijing has cracked down on AI chatbots that can replicate human relationships. Experts are asking if this is the right thing to do.",
+      "pubDate": "Wed, 30 Sep 2026 23:25:23 GMT"
     },
     {
-      "title": "Dozens hurt and hundreds arrested in wave of French school protests",
-      "link": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
-      "description": "Students have been protesting against conditions and resources in secondary schools since last week.",
-      "pubDate": "Wed, 30 Sep 2026 13:18:01 GMT"
-    },
-    {
-      "title": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o?at_medium=RSS&at_campaign=rss",
-      "description": "The owner said he chose the name because he wanted to run the \"best Chinese restaurant\" in South Korea.",
-      "pubDate": "Wed, 30 Sep 2026 04:21:11 GMT"
+      "title": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
+      "description": "Other passengers on the Israel-bound flight described the \"terrifying\" moment the plane dropped.",
+      "pubDate": "Wed, 30 Sep 2026 21:38:54 GMT"
     },
     {
       "title": "Three takeaways from Trump's 'Super Intelligence' summit",
@@ -140,12 +152,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
       "description": "President Trump has faced criticism after fronting adverts which were paid for by the US government.",
       "pubDate": "Tue, 29 Sep 2026 01:12:52 GMT"
-    },
-    {
-      "title": "How an alleged rape sent an Indian university into turmoil and emptied hostels",
-      "link": "https://www.bbc.co.uk/news/articles/c6kg8dxrv54do?at_medium=RSS&at_campaign=rss",
-      "description": "Police are trying to verify whether a female student was raped at Lovely Professional University (LPU).",
-      "pubDate": "Tue, 29 Sep 2026 08:12:39 GMT"
     },
     {
       "title": "Passengers describe stabbing on Israel-bound plane",
