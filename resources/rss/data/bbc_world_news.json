@@ -1,28 +1,28 @@
 {
-  "updated": "2026-10-01T05:50:31.725704+00:00",
+  "updated": "2026-10-01T13:11:21.826138+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
+      "title": "US death row inmate survives execution attempt after two lethal injections",
       "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "description": "Her lawyer says Pike is being \"provided life-saving measures\" after two syringes of pentobarbital.",
-      "pubDate": "Thu, 01 Oct 2026 05:34:41 GMT"
+      "description": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
+      "pubDate": "Thu, 01 Oct 2026 09:59:59 GMT"
     },
     {
-      "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+      "title": "What happened in failed execution of Christa Pike - and what next?",
+      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+      "pubDate": "Thu, 01 Oct 2026 12:51:14 GMT"
+    },
+    {
+      "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
       "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-      "description": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
-      "pubDate": "Thu, 01 Oct 2026 03:43:06 GMT"
+      "description": "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says.",
+      "pubDate": "Thu, 01 Oct 2026 11:26:46 GMT"
     },
     {
-      "title": "What we know about stabbing on Flydubai flight to Israel",
-      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "description": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
-      "pubDate": "Thu, 01 Oct 2026 02:31:24 GMT"
-    },
-    {
-      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
       "description": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
       "pubDate": "Wed, 30 Sep 2026 23:10:06 GMT"
@@ -34,10 +34,46 @@
       "pubDate": "Thu, 01 Oct 2026 00:08:23 GMT"
     },
     {
-      "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
-      "description": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks.",
-      "pubDate": "Wed, 30 Sep 2026 17:14:03 GMT"
+      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+      "description": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
+      "pubDate": "Thu, 01 Oct 2026 11:37:46 GMT"
+    },
+    {
+      "title": "Japan raises permanent residency fee by 20 times",
+      "link": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
+      "description": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
+      "pubDate": "Thu, 01 Oct 2026 02:57:43 GMT"
+    },
+    {
+      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
+      "description": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
+      "pubDate": "Thu, 01 Oct 2026 12:38:55 GMT"
+    },
+    {
+      "title": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
+      "link": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&at_campaign=rss",
+      "description": "Chaos has surrounded the St Petersburg shows since the stadium said it had not agreed to host the rapper.",
+      "pubDate": "Thu, 01 Oct 2026 12:13:28 GMT"
+    },
+    {
+      "title": "K-pop star convicted of violating military service law",
+      "link": "https://www.bbc.co.uk/news/articles/cjn5d52d3lk5o?at_medium=RSS&at_campaign=rss",
+      "description": "The member of K-pop band Winner was given a suspended prison sentence for repeated absences from his national service work.",
+      "pubDate": "Thu, 01 Oct 2026 05:24:10 GMT"
+    },
+    {
+      "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
+      "link": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
+      "description": "Chivayo was known for his lavish lifestyle, close ties to African presidents and lucrative government contracts.",
+      "pubDate": "Thu, 01 Oct 2026 13:02:10 GMT"
+    },
+    {
+      "title": "Cornell case highlights 'draining' maze for victims to report campus sex assaults",
+      "link": "https://www.bbc.co.uk/news/articles/crpd0wdnlgxno?at_medium=RSS&at_campaign=rss",
+      "description": "Victims often have to navigate both university and local law enforcement processes to find justice.",
+      "pubDate": "Thu, 01 Oct 2026 11:40:35 GMT"
     },
     {
       "title": "Tiny image sparks big backlash in Nikon photo contest",
@@ -56,6 +92,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
       "description": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.",
       "pubDate": "Wed, 30 Sep 2026 22:01:16 GMT"
+    },
+    {
+      "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
+      "description": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks.",
+      "pubDate": "Wed, 30 Sep 2026 17:14:03 GMT"
     },
     {
       "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
@@ -103,7 +145,7 @@
       "title": "Africa's richest man launches Kenya oil refinery despite land protests",
       "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
       "description": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
-      "pubDate": "Wed, 30 Sep 2026 11:25:12 GMT"
+      "pubDate": "Thu, 01 Oct 2026 07:04:27 GMT"
     },
     {
       "title": "'He will never walk free': Indian judge's letter promises child sex abuse survivor",
@@ -124,13 +166,19 @@
       "pubDate": "Tue, 29 Sep 2026 22:33:13 GMT"
     },
     {
+      "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+      "link": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
+      "description": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
+      "pubDate": "Thu, 01 Oct 2026 08:39:28 GMT"
+    },
+    {
       "title": "China has cracked down on AI relationships. Is it ahead of the game?",
       "link": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss",
       "description": "Beijing has cracked down on AI chatbots that can replicate human relationships. Experts are asking if this is the right thing to do.",
       "pubDate": "Wed, 30 Sep 2026 23:25:23 GMT"
     },
     {
-      "title": "The children dying in India's remote tribal heartland",
+      "title": "Inside India's forest villages, where a dangerous mix of crises led to 32 child deaths",
       "link": "https://www.bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&at_campaign=rss",
       "description": "At least 32 children have died in India's Balaghat district since May amid outbreaks of measles and malaria.",
       "pubDate": "Wed, 30 Sep 2026 23:41:34 GMT"
@@ -148,16 +196,10 @@
       "pubDate": "Wed, 30 Sep 2026 04:01:52 GMT"
     },
     {
-      "title": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
-      "link": "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss",
-      "description": "The US journalist says he realised he was a \"a pawn in a greater game\" when he was not interrogated or tortured by FSB agents.",
-      "pubDate": "Tue, 29 Sep 2026 12:43:04 GMT"
-    },
-    {
-      "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
-      "link": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
-      "description": "Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks.",
-      "pubDate": "Tue, 29 Sep 2026 23:33:34 GMT"
+      "title": "Watch: Why are students protesting at schools in France?",
+      "link": "https://www.bbc.co.uk/news/videos/cwy8z8rney97o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Hugh Schofield is in Paris as a wave of school protests over overcrowded classes and teacher shortages spreads across France.",
+      "pubDate": "Thu, 01 Oct 2026 12:31:18 GMT"
     },
     {
       "title": "Plummeting Israel flight like 'rollercoaster', says passenger",
@@ -182,18 +224,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cmwyz8j9j85wo?at_medium=RSS&at_campaign=rss",
       "description": "Indonesian lawmakers on Wednesday ordered the demolition of a controversial luxury compound inside a penitentiary near the capital.",
       "pubDate": "Wed, 30 Sep 2026 10:41:03 GMT"
-    },
-    {
-      "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
-      "link": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
-      "description": "The municipality building in Baglung was left teetering on an unstable ledge due to floods before it fell into a river.",
-      "pubDate": "Wed, 30 Sep 2026 03:21:28 GMT"
-    },
-    {
-      "title": "Fires and blockades as students stage school protests across France",
-      "link": "https://www.bbc.co.uk/news/videos/cmy0zey3ey2lo?at_medium=RSS&at_campaign=rss",
-      "description": "More than 400 people, mainly minors, were arrested on Tuesday, the country's interior minister says.",
-      "pubDate": "Tue, 29 Sep 2026 21:53:36 GMT"
     }
   ]
 }
