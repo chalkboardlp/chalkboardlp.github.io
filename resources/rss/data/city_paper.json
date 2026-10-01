@@ -1,8 +1,14 @@
 {
-  "updated": "2026-10-01T13:11:23.737937+00:00",
+  "updated": "2026-10-01T18:53:15.993993+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Colombia security debate moves to Bogotá as congressman seeks military deployment",
+      "link": "https://thecitypaperbogota.com/news/colombia-security-debate-moves-to-bogota-as-congressman-seeks-military-deployment/",
+      "description": "A proposal to deploy Colombia&#8217;s armed forces in three of Bogotá&#8217;s most populous localities has opened a new debate over the role of soldiers in urban security, days after President Abelardo De La Espriella ordered a military deployment in the Caribbean city of Santa Marta following a wave of violence attributed to a criminal organization. [&#8230;]",
+      "pubDate": "Thu, 01 Oct 2026 15:26:17 +0000"
+    },
     {
       "title": "Tallis Scholars bring five decades of Renaissance polyphony to Bogotá",
       "link": "https://thecitypaperbogota.com/culture/tallis-scholars-bring-five-decades-of-renaissance-polyphony-to-bogota/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/de-la-espriella-announces-recovery-for-tolima-as-fires-destroy-50000-hectares/",
       "description": "President Abelardo De La Espriella announced a sweeping recovery program for Colombia’s fire-ravaged Tolima department on Sunday, saying more than 50,000 hectares had been affected by wildfires and warning that investigators had found indications that many of the blazes were deliberately started. The announcement came during a nationally televised address from Bogotá in which De [&#8230;]",
       "pubDate": "Mon, 31 Aug 2026 14:29:23 +0000"
-    },
-    {
-      "title": "Colombia’s De la Espriella announces military strike against FARC dissidents in Guaviare",
-      "link": "https://thecitypaperbogota.com/news/colombias-de-la-espriella-announces-military-strike-against-farc-dissidents-in-guaviare/",
-      "description": "Colombian President Abelardo de la Espriella announced Thursday that the country&#8217;s Armed Forces have carried out a military strike against the FARC dissident faction commanded by alias Calarcá in the southern department of Guaviare. According to initial reports, eight members of the criminal armed group have been killed. De la Espriella said the operation, code-named [&#8230;]",
-      "pubDate": "Thu, 27 Aug 2026 17:34:07 +0000"
     }
   ]
 }
