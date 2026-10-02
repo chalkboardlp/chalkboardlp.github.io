@@ -1,8 +1,20 @@
 {
-  "updated": "2026-10-02T15:49:20.257876+00:00",
+  "updated": "2026-10-02T20:44:08.596964+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Riot police clash with students as education protests rage in France",
+      "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+      "description": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
+      "pubDate": "Fri, 02 Oct 2026 17:43:10 GMT"
+    },
+    {
+      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+      "description": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
+      "pubDate": "Fri, 02 Oct 2026 17:44:08 GMT"
+    },
     {
       "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
       "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
@@ -10,16 +22,16 @@
       "pubDate": "Fri, 02 Oct 2026 09:08:06 GMT"
     },
     {
-      "title": "Cornell students gather to voice anger over alleged gang rape",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
-      "description": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced.",
-      "pubDate": "Fri, 02 Oct 2026 10:00:24 GMT"
-    },
-    {
       "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
       "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
       "description": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
       "pubDate": "Fri, 02 Oct 2026 15:26:37 GMT"
+    },
+    {
+      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+      "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+      "description": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
+      "pubDate": "Fri, 02 Oct 2026 15:30:12 GMT"
     },
     {
       "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
@@ -55,7 +67,7 @@
       "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
       "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
       "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
-      "pubDate": "Fri, 02 Oct 2026 10:04:56 GMT"
+      "pubDate": "Fri, 02 Oct 2026 16:08:25 GMT"
     },
     {
       "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
@@ -127,7 +139,7 @@
       "title": "What happened in the failed execution of Christa Pike - and what next?",
       "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
       "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
-      "pubDate": "Fri, 02 Oct 2026 15:01:15 GMT"
+      "pubDate": "Fri, 02 Oct 2026 17:35:10 GMT"
     },
     {
       "title": "Spain and China are cosying up - to the anger of many in the EU",
