@@ -1,8 +1,20 @@
 {
-  "updated": "2026-10-02T02:15:00.129338+00:00",
+  "updated": "2026-10-02T08:33:50.427921+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "description": "Capt Smit Machchhar, who was stabbed during the flight, speaks to Indian Prime Minister Narendra Modi.",
+      "pubDate": "Fri, 02 Oct 2026 08:16:53 GMT"
+    },
+    {
+      "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+      "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+      "description": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+      "pubDate": "Fri, 02 Oct 2026 08:16:32 GMT"
+    },
     {
       "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
       "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
@@ -10,10 +22,28 @@
       "pubDate": "Thu, 01 Oct 2026 22:28:45 GMT"
     },
     {
-      "title": "What happened in the failed execution of Christa Pike - and what next?",
-      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
-      "pubDate": "Fri, 02 Oct 2026 02:11:34 GMT"
+      "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
+      "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
+      "description": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.",
+      "pubDate": "Fri, 02 Oct 2026 02:49:44 GMT"
+    },
+    {
+      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+      "description": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
+      "pubDate": "Fri, 02 Oct 2026 03:09:13 GMT"
+    },
+    {
+      "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
+      "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
+      "description": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.",
+      "pubDate": "Fri, 02 Oct 2026 05:53:51 GMT"
+    },
+    {
+      "title": "OpenAI fires workers for 'mishandling sensitive information'",
+      "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+      "description": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+      "pubDate": "Fri, 02 Oct 2026 08:20:32 GMT"
     },
     {
       "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
@@ -22,10 +52,40 @@
       "pubDate": "Thu, 01 Oct 2026 19:59:24 GMT"
     },
     {
+      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+      "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+      "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
+      "pubDate": "Fri, 02 Oct 2026 08:01:10 GMT"
+    },
+    {
+      "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
+      "link": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
+      "description": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator.",
+      "pubDate": "Fri, 02 Oct 2026 04:21:31 GMT"
+    },
+    {
+      "title": "Fires break out at French schools as students protest nationwide",
+      "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
+      "description": "The French government holds a crisis meeting as demonstrations grow and become violent in places.",
+      "pubDate": "Thu, 01 Oct 2026 19:19:00 GMT"
+    },
+    {
       "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
       "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
       "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
       "pubDate": "Thu, 01 Oct 2026 19:38:30 GMT"
+    },
+    {
+      "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
+      "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
+      "description": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
+      "pubDate": "Thu, 01 Oct 2026 14:05:55 GMT"
+    },
+    {
+      "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
+      "link": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
+      "description": "It is estimated more than 200 people have died in blazes in the north-east of the country over the summer.",
+      "pubDate": "Thu, 01 Oct 2026 16:31:35 GMT"
     },
     {
       "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
@@ -34,10 +94,10 @@
       "pubDate": "Thu, 01 Oct 2026 20:30:47 GMT"
     },
     {
-      "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
-      "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
-      "description": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
-      "pubDate": "Thu, 01 Oct 2026 14:05:55 GMT"
+      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
+      "description": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
+      "pubDate": "Thu, 01 Oct 2026 15:05:36 GMT"
     },
     {
       "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
@@ -52,22 +112,10 @@
       "pubDate": "Thu, 01 Oct 2026 02:57:43 GMT"
     },
     {
-      "title": "Fires break out at French schools as students protest nationwide",
-      "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
-      "description": "The French government holds a crisis meeting as demonstrations grow and become violent in places.",
-      "pubDate": "Thu, 01 Oct 2026 19:19:00 GMT"
-    },
-    {
       "title": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
       "link": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&at_campaign=rss",
       "description": "Chaos has surrounded the St Petersburg shows since the stadium said it had not agreed to host the rapper.",
       "pubDate": "Thu, 01 Oct 2026 12:13:28 GMT"
-    },
-    {
-      "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
-      "link": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
-      "description": "It is estimated more than 200 people have died in blazes in the north-east of the country over the summer.",
-      "pubDate": "Thu, 01 Oct 2026 16:31:35 GMT"
     },
     {
       "title": "K-pop star convicted of violating military service law",
@@ -76,46 +124,34 @@
       "pubDate": "Thu, 01 Oct 2026 05:24:10 GMT"
     },
     {
-      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
-      "description": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
-      "pubDate": "Thu, 01 Oct 2026 00:08:23 GMT"
+      "title": "What happened in the failed execution of Christa Pike - and what next?",
+      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+      "pubDate": "Fri, 02 Oct 2026 02:11:34 GMT"
     },
     {
-      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
-      "description": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
-      "pubDate": "Thu, 01 Oct 2026 15:05:36 GMT"
+      "title": "Spain and China are cosying up - to the anger of many in the EU",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
+      "description": "Amid global tumult, the two countries' alliance is not the only unlikely pairing.",
+      "pubDate": "Thu, 01 Oct 2026 23:42:33 GMT"
     },
     {
-      "title": "Cornell case highlights 'draining' maze for victims to report campus sex assaults",
-      "link": "https://www.bbc.co.uk/news/articles/crpd0wdnlgxno?at_medium=RSS&at_campaign=rss",
-      "description": "Victims often have to navigate both university and local law enforcement processes to find justice.",
-      "pubDate": "Thu, 01 Oct 2026 11:40:35 GMT"
+      "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+      "link": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
+      "description": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
+      "pubDate": "Thu, 01 Oct 2026 23:00:05 GMT"
     },
     {
-      "title": "Tiny image sparks big backlash in Nikon photo contest",
-      "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
-      "description": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
-      "pubDate": "Wed, 30 Sep 2026 23:10:19 GMT"
+      "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
+      "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
+      "description": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
+      "pubDate": "Thu, 01 Oct 2026 23:32:59 GMT"
     },
     {
-      "title": "California bans child marriage, a practice still legal in 32 US states",
-      "link": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss",
-      "description": "Gov Gavin Newsom called it a \"long overdue measure to protect young Californians\".",
-      "pubDate": "Thu, 01 Oct 2026 00:57:04 GMT"
-    },
-    {
-      "title": "Africa's richest man launches Kenya oil refinery despite land protests",
-      "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
-      "description": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
-      "pubDate": "Thu, 01 Oct 2026 07:04:27 GMT"
-    },
-    {
-      "title": "Flydubai passenger describes hugging his children as plane nosedived during attack",
-      "link": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po?at_medium=RSS&at_campaign=rss",
-      "description": "Adam Polovincik tells the BBC he told his young children \"everything is going to be all right\" as flight plunged more than 17,000ft (5,200m).",
-      "pubDate": "Thu, 01 Oct 2026 13:57:28 GMT"
+      "title": "Making politics 'fun, trendy, sexy': How Gen Z could shape Kenya's next election",
+      "link": "https://www.bbc.co.uk/news/articles/cwly7v7kk17mo?at_medium=RSS&at_campaign=rss",
+      "description": "A voter mobilisation campaign has registered huge numbers of young people but it is not clear who they are backing.",
+      "pubDate": "Thu, 01 Oct 2026 23:46:12 GMT"
     },
     {
       "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
@@ -124,40 +160,22 @@
       "pubDate": "Thu, 01 Oct 2026 15:04:32 GMT"
     },
     {
-      "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
-      "description": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
-      "pubDate": "Wed, 30 Sep 2026 23:10:06 GMT"
+      "title": "What we know about Christa Pike’s condition after failed execution",
+      "link": "https://www.bbc.co.uk/news/videos/cwe8e82jgm8po?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC’s Ione Wells reports from outside the Tennessee hospital where Pike is said to have arrived Wednesday night after surviving two lethal injection attempts.",
+      "pubDate": "Thu, 01 Oct 2026 20:09:34 GMT"
     },
     {
-      "title": "China has cracked down on AI relationships. Is it ahead of the game?",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss",
-      "description": "Beijing has cracked down on AI chatbots that can replicate human relationships. Experts are asking if this is the right thing to do.",
-      "pubDate": "Wed, 30 Sep 2026 23:25:23 GMT"
+      "title": "Cornell students voice frustration at public hearing over rape case",
+      "link": "https://www.bbc.co.uk/news/videos/cwe8e8jpnpy5o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Nada Tawfik was at the hearing, where the university's Student Assembly led a discussion around safety concerns and sexual violence on campus.",
+      "pubDate": "Fri, 02 Oct 2026 01:29:16 GMT"
     },
     {
-      "title": "Inside India's forest villages, where a dangerous mix of crises led to 32 child deaths",
-      "link": "https://www.bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&at_campaign=rss",
-      "description": "At least 32 children have died in India's Balaghat district since May amid outbreaks of measles and malaria.",
-      "pubDate": "Wed, 30 Sep 2026 23:41:34 GMT"
-    },
-    {
-      "title": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
-      "description": "Other passengers on the Israel-bound flight described the \"terrifying\" moment the plane dropped.",
-      "pubDate": "Wed, 30 Sep 2026 21:38:54 GMT"
-    },
-    {
-      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-      "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-      "description": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
-      "pubDate": "Wed, 30 Sep 2026 04:01:52 GMT"
-    },
-    {
-      "title": "Watch: Why are students protesting at schools in France?",
-      "link": "https://www.bbc.co.uk/news/videos/cwy8z8rney97o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Hugh Schofield is in Paris as a wave of school protests over overcrowded classes and teacher shortages spreads across France.",
-      "pubDate": "Thu, 01 Oct 2026 12:31:18 GMT"
+      "title": "Why are these endangered moths swarming Australia's east coast?",
+      "link": "https://www.bbc.co.uk/news/videos/c6rr4r704en4o?at_medium=RSS&at_campaign=rss",
+      "description": "The sudden influx of Bogong moths has caused a stir in cities like Sydney and Canberra, with people filming them infiltrating their homes and cars.",
+      "pubDate": "Thu, 01 Oct 2026 22:26:05 GMT"
     },
     {
       "title": "Plummeting Israel flight like 'rollercoaster', says passenger",
@@ -166,22 +184,10 @@
       "pubDate": "Thu, 01 Oct 2026 03:52:20 GMT"
     },
     {
-      "title": "Passengers describe stabbing on Israel-bound plane",
-      "link": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss",
-      "description": "Passengers on the Flydubai flight bound for Israel filmed the moments following the stabbing.",
-      "pubDate": "Wed, 30 Sep 2026 15:07:00 GMT"
-    },
-    {
-      "title": "Couple describes relief at rescue after whale destroys their yacht",
-      "link": "https://www.bbc.co.uk/news/videos/c6n4ken4n7n7o?at_medium=RSS&at_campaign=rss",
-      "description": "Jeremy and Jemma Cooper were 500 miles off the coast of New Zealand when their yacht, the Tai Tam, collided with a sperm whale.",
-      "pubDate": "Wed, 30 Sep 2026 11:01:58 GMT"
-    },
-    {
-      "title": "Luxury prison in Indonesia demolished after public outcry",
-      "link": "https://www.bbc.co.uk/news/videos/cmwyz8j9j85wo?at_medium=RSS&at_campaign=rss",
-      "description": "Indonesian lawmakers on Wednesday ordered the demolition of a controversial luxury compound inside a penitentiary near the capital.",
-      "pubDate": "Wed, 30 Sep 2026 10:41:03 GMT"
+      "title": "SpaceX launches crew to ISS",
+      "link": "https://www.bbc.co.uk/news/videos/c5rm9mdperemo?at_medium=RSS&at_campaign=rss",
+      "description": "The Falcon 9 rocket blasted off from Cape Canaveral with two Americans, a Russian and a Canadian who will spend up to six months aboard the International Space Station.",
+      "pubDate": "Thu, 01 Oct 2026 16:32:17 GMT"
     }
   ]
 }
