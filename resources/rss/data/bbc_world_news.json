@@ -1,31 +1,31 @@
 {
-  "updated": "2026-10-02T20:44:08.596964+00:00",
+  "updated": "2026-10-03T00:29:27.036748+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
+      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "description": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "pubDate": "Fri, 02 Oct 2026 20:25:19 GMT"
+    },
+    {
+      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+      "description": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
+      "pubDate": "Fri, 02 Oct 2026 20:32:07 GMT"
+    },
+    {
+      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+      "description": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+      "pubDate": "Fri, 02 Oct 2026 23:53:35 GMT"
+    },
+    {
       "title": "Riot police clash with students as education protests rage in France",
       "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-      "description": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
-      "pubDate": "Fri, 02 Oct 2026 17:43:10 GMT"
-    },
-    {
-      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-      "description": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
-      "pubDate": "Fri, 02 Oct 2026 17:44:08 GMT"
-    },
-    {
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-      "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-      "pubDate": "Fri, 02 Oct 2026 09:08:06 GMT"
-    },
-    {
-      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
-      "description": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
-      "pubDate": "Fri, 02 Oct 2026 15:26:37 GMT"
+      "description": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
+      "pubDate": "Fri, 02 Oct 2026 21:13:27 GMT"
     },
     {
       "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
@@ -34,10 +34,34 @@
       "pubDate": "Fri, 02 Oct 2026 15:30:12 GMT"
     },
     {
-      "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
-      "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
-      "description": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
-      "pubDate": "Fri, 02 Oct 2026 14:01:09 GMT"
+      "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+      "link": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
+      "description": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\".",
+      "pubDate": "Fri, 02 Oct 2026 23:06:00 GMT"
+    },
+    {
+      "title": "Women given shorts at Oktoberfest to prevent upskirting",
+      "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
+      "description": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
+      "pubDate": "Fri, 02 Oct 2026 23:16:03 GMT"
+    },
+    {
+      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+      "description": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
+      "pubDate": "Fri, 02 Oct 2026 15:26:37 GMT"
+    },
+    {
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+      "pubDate": "Fri, 02 Oct 2026 09:08:06 GMT"
+    },
+    {
+      "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
+      "link": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
+      "description": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.",
+      "pubDate": "Fri, 02 Oct 2026 21:00:41 GMT"
     },
     {
       "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
@@ -130,16 +154,34 @@
       "pubDate": "Thu, 01 Oct 2026 05:24:10 GMT"
     },
     {
+      "title": "The South African men trying to end violence against women: 'Every man needs to play a part'",
+      "link": "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss",
+      "description": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
+      "pubDate": "Fri, 02 Oct 2026 23:56:21 GMT"
+    },
+    {
+      "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
+      "link": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
+      "description": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
+      "pubDate": "Fri, 02 Oct 2026 23:37:13 GMT"
+    },
+    {
+      "title": "The vanishing world of India's street magicians",
+      "link": "https://www.bbc.co.uk/news/articles/ck7v4v8pmzdeo?at_medium=RSS&at_campaign=rss",
+      "description": "India's street performers are struggling to survive as audiences shrink and public spaces become harder to access.",
+      "pubDate": "Fri, 02 Oct 2026 22:59:05 GMT"
+    },
+    {
+      "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
+      "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
+      "description": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
+      "pubDate": "Fri, 02 Oct 2026 14:01:09 GMT"
+    },
+    {
       "title": "School protests send shivers down French government's spine",
       "link": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
       "description": "A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.",
       "pubDate": "Fri, 02 Oct 2026 12:43:02 GMT"
-    },
-    {
-      "title": "What happened in the failed execution of Christa Pike - and what next?",
-      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
-      "pubDate": "Fri, 02 Oct 2026 17:35:10 GMT"
     },
     {
       "title": "Spain and China are cosying up - to the anger of many in the EU",
@@ -154,22 +196,10 @@
       "pubDate": "Thu, 01 Oct 2026 23:00:05 GMT"
     },
     {
-      "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
-      "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
-      "description": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
-      "pubDate": "Thu, 01 Oct 2026 23:32:59 GMT"
-    },
-    {
-      "title": "Making politics 'fun, trendy, sexy': How Gen Z could shape Kenya's next election",
-      "link": "https://www.bbc.co.uk/news/articles/cwly7v7kk17mo?at_medium=RSS&at_campaign=rss",
-      "description": "A voter mobilisation campaign has registered huge numbers of young people but it is not clear who they are backing.",
-      "pubDate": "Thu, 01 Oct 2026 23:46:12 GMT"
-    },
-    {
-      "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-      "link": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
-      "description": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
-      "pubDate": "Fri, 02 Oct 2026 11:52:04 GMT"
+      "title": "Watch: Why students in France are protesting",
+      "link": "https://www.bbc.co.uk/news/videos/cr5ynddn318eo?at_medium=RSS&at_campaign=rss",
+      "description": "Demonstrations started in the French capital, then spread across the country in the days that followed.",
+      "pubDate": "Fri, 02 Oct 2026 15:02:15 GMT"
     },
     {
       "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
@@ -194,12 +224,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c6rr4r704en4o?at_medium=RSS&at_campaign=rss",
       "description": "The sudden influx of Bogong moths has caused a stir in cities like Sydney and Canberra, with people filming them infiltrating their homes and cars.",
       "pubDate": "Thu, 01 Oct 2026 22:26:05 GMT"
-    },
-    {
-      "title": "Plummeting Israel flight like 'rollercoaster', says passenger",
-      "link": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss",
-      "description": "An aeroplane flying to Israel fell 17,000ft (5,200m) in less than two minutes before it was diverted.",
-      "pubDate": "Thu, 01 Oct 2026 03:52:20 GMT"
     }
   ]
 }
