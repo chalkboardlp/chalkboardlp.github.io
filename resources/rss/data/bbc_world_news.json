@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T15:21:40.848309+00:00",
+  "updated": "2026-10-04T19:36:38.203976+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -16,10 +16,10 @@
       "pubDate": "Sun, 04 Oct 2026 14:25:32 GMT"
     },
     {
-      "title": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
+      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
       "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
       "description": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-      "pubDate": "Sun, 04 Oct 2026 14:24:56 GMT"
+      "pubDate": "Sun, 04 Oct 2026 16:51:30 GMT"
     },
     {
       "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
@@ -28,10 +28,10 @@
       "pubDate": "Sun, 04 Oct 2026 13:33:05 GMT"
     },
     {
-      "title": "Australia investigating Flydubai co-pilot's links to country",
-      "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
-      "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
-      "pubDate": "Sun, 04 Oct 2026 06:19:17 GMT"
+      "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+      "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+      "description": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
+      "pubDate": "Sun, 04 Oct 2026 16:24:48 GMT"
     },
     {
       "title": "US Marine arrested over murder of woman in Okinawa, Japan",
@@ -40,16 +40,22 @@
       "pubDate": "Sun, 04 Oct 2026 14:36:57 GMT"
     },
     {
+      "title": "Indian police accused of sexual harassment against journalists at protest",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+      "description": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
+      "pubDate": "Sun, 04 Oct 2026 17:01:19 GMT"
+    },
+    {
+      "title": "Australia investigating Flydubai co-pilot's links to country",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+      "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+      "pubDate": "Sun, 04 Oct 2026 06:19:17 GMT"
+    },
+    {
       "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
       "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
       "description": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
       "pubDate": "Sun, 04 Oct 2026 11:03:20 GMT"
-    },
-    {
-      "title": "Cornell president says university 'must do better' after frat house rape allegations",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-      "description": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
-      "pubDate": "Sun, 04 Oct 2026 00:11:25 GMT"
     },
     {
       "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
@@ -64,19 +70,19 @@
       "pubDate": "Sun, 04 Oct 2026 03:49:06 GMT"
     },
     {
+      "title": "Cornell president says university 'must do better' after frat house rape allegations",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+      "description": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
+      "pubDate": "Sun, 04 Oct 2026 00:11:25 GMT"
+    },
+    {
       "title": "US father and son arrested after 'gas station heroin' deaths",
       "link": "https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo?at_medium=RSS&at_campaign=rss",
       "description": "They are accused of selling at least one student derivatives of kratom, often called \"gas station heroin\" in the US.",
       "pubDate": "Sat, 03 Oct 2026 22:39:06 GMT"
     },
     {
-      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-      "description": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
-      "pubDate": "Sat, 03 Oct 2026 17:48:42 GMT"
-    },
-    {
-      "title": "Why Canada is preparing for a (long shot) US invasion",
+      "title": "Why Canada is wargaming a (long shot) US invasion",
       "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
       "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
       "pubDate": "Sat, 03 Oct 2026 23:30:06 GMT"
