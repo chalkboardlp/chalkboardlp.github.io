@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T19:36:38.203976+00:00",
+  "updated": "2026-10-04T23:08:53.657268+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -22,6 +22,12 @@
       "pubDate": "Sun, 04 Oct 2026 16:51:30 GMT"
     },
     {
+      "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "description": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "pubDate": "Sun, 04 Oct 2026 21:11:49 GMT"
+    },
+    {
       "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
       "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
       "description": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
@@ -34,16 +40,16 @@
       "pubDate": "Sun, 04 Oct 2026 16:24:48 GMT"
     },
     {
+      "title": "Indian police accused of sexually harassing journalists at protest",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+      "description": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
+      "pubDate": "Sun, 04 Oct 2026 17:01:19 GMT"
+    },
+    {
       "title": "US Marine arrested over murder of woman in Okinawa, Japan",
       "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
       "description": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
       "pubDate": "Sun, 04 Oct 2026 14:36:57 GMT"
-    },
-    {
-      "title": "Indian police accused of sexual harassment against journalists at protest",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
-      "description": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
-      "pubDate": "Sun, 04 Oct 2026 17:01:19 GMT"
     },
     {
       "title": "Australia investigating Flydubai co-pilot's links to country",
@@ -52,10 +58,10 @@
       "pubDate": "Sun, 04 Oct 2026 06:19:17 GMT"
     },
     {
-      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+      "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
       "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
       "description": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
-      "pubDate": "Sun, 04 Oct 2026 11:03:20 GMT"
+      "pubDate": "Sun, 04 Oct 2026 20:14:49 GMT"
     },
     {
       "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
