@@ -1,8 +1,14 @@
 {
-  "updated": "2026-10-05T09:02:12.849145+00:00",
+  "updated": "2026-10-05T18:26:45.790901+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Abelardo’s first Sixty Days: Security at Home, Investment Abroad",
+      "link": "https://thecitypaperbogota.com/news/abelardos-first-sixty-days-security-at-home-investment-abroad/",
+      "description": "After 60 days, Abelardo de la Espriella has made one thing unmistakably clear: the era of Gustavo Petro&#8217;s “Total Peace” is over. There will be no intermediaries, no back-channel negotiations and no political accommodation with Colombia&#8217;s illegal armed groups. The new government is betting instead on military pressure, territorial control and the restoration of the [&#8230;]",
+      "pubDate": "Mon, 05 Oct 2026 14:29:10 +0000"
+    },
     {
       "title": "Colombia security debate moves to Bogotá as congressman seeks military deployment",
       "link": "https://thecitypaperbogota.com/news/colombia-security-debate-moves-to-bogota-as-congressman-seeks-military-deployment/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/colombias-armed-groups-turn-tiktok-and-facebook-into-recruiting-grounds-for-children/",
       "description": "Colombia’s long-running conflict has found a new recruiting ground, one that fits inside a child’s pocket. Human Rights Watch has warned that illegal armed groups are increasingly using TikTok, Facebook and other social-media platforms to recruit children, combining propaganda, promises of money and status, coded language and carefully chosen emojis to draw minors toward illegal [&#8230;]",
       "pubDate": "Tue, 01 Sep 2026 19:21:58 +0000"
-    },
-    {
-      "title": "De La Espriella announces recovery for Tolima as fires destroy 50,000 hectares",
-      "link": "https://thecitypaperbogota.com/news/de-la-espriella-announces-recovery-for-tolima-as-fires-destroy-50000-hectares/",
-      "description": "President Abelardo De La Espriella announced a sweeping recovery program for Colombia’s fire-ravaged Tolima department on Sunday, saying more than 50,000 hectares had been affected by wildfires and warning that investigators had found indications that many of the blazes were deliberately started. The announcement came during a nationally televised address from Bogotá in which De [&#8230;]",
-      "pubDate": "Mon, 31 Aug 2026 14:29:23 +0000"
     }
   ]
 }

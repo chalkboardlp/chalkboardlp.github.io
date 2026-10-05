@@ -1,8 +1,56 @@
 {
-  "updated": "2026-10-05T09:02:10.906519+00:00",
+  "updated": "2026-10-05T18:26:44.245864+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
+      "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+      "description": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
+      "pubDate": "Mon, 05 Oct 2026 16:13:35 GMT"
+    },
+    {
+      "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+      "description": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
+      "pubDate": "Mon, 05 Oct 2026 11:34:59 GMT"
+    },
+    {
+      "title": "Teenager's hand blown off during confrontation between France school protesters and police",
+      "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
+      "description": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
+      "pubDate": "Mon, 05 Oct 2026 16:32:18 GMT"
+    },
+    {
+      "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+      "link": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
+      "description": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.",
+      "pubDate": "Mon, 05 Oct 2026 15:17:23 GMT"
+    },
+    {
+      "title": "Spanish PM Sánchez calls early election after housing protests",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
+      "description": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
+      "pubDate": "Mon, 05 Oct 2026 10:18:47 GMT"
+    },
+    {
+      "title": "Nobel Prize awarded for revealing inner workings of the brain",
+      "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "description": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
+      "pubDate": "Mon, 05 Oct 2026 11:04:37 GMT"
+    },
+    {
+      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+      "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+      "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+      "pubDate": "Mon, 05 Oct 2026 16:13:21 GMT"
+    },
+    {
+      "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
+      "link": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
+      "description": "For many locals on this island, the arrest has brought decades of frustration back to the fore.",
+      "pubDate": "Mon, 05 Oct 2026 08:22:41 GMT"
+    },
     {
       "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
       "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
@@ -10,28 +58,22 @@
       "pubDate": "Mon, 05 Oct 2026 03:16:16 GMT"
     },
     {
-      "title": "Watch: How Brazil's dramatic election unfolded",
-      "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
-      "description": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
-      "pubDate": "Mon, 05 Oct 2026 04:51:24 GMT"
+      "title": "Georgia officials hunt for suspect in shooting that killed two and injured 35",
+      "link": "https://www.bbc.co.uk/news/articles/c6e9lj5r3ej7o?at_medium=RSS&at_campaign=rss",
+      "description": "A homecoming celebration turned into a scene of deadly violence, as dozens of shots were fired into a crowd.",
+      "pubDate": "Mon, 05 Oct 2026 12:08:21 GMT"
     },
     {
-      "title": "US air force removes all bombers from British military base RAF Fairford",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-      "description": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
-      "pubDate": "Mon, 05 Oct 2026 08:28:37 GMT"
+      "title": "Bombs preventing rescue of kidnapped youths, Nigerian police say",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go?at_medium=RSS&at_campaign=rss",
+      "description": "The father of one of the 19 young abductees tells the BBC he hasn't eaten in three days out of worry.",
+      "pubDate": "Mon, 05 Oct 2026 12:59:56 GMT"
     },
     {
-      "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "description": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
-      "pubDate": "Mon, 05 Oct 2026 06:15:29 GMT"
-    },
-    {
-      "title": "France closes up to 500 schools Monday over student protests",
-      "link": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
-      "description": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says.",
-      "pubDate": "Mon, 05 Oct 2026 04:49:14 GMT"
+      "title": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "description": "Saudi-backed forces say they seized the port city of Mocha, near the Bab al-Mandab Strait, at the start of an offensive against the Houthis.",
+      "pubDate": "Mon, 05 Oct 2026 17:49:59 GMT"
     },
     {
       "title": "All six passengers presumed dead after plane went missing off US coast",
@@ -40,52 +82,28 @@
       "pubDate": "Mon, 05 Oct 2026 04:00:35 GMT"
     },
     {
-      "title": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
-      "link": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
-      "description": "Thousands have taken to the streets after talks between authorities and Khan's party ended in deadlock.",
-      "pubDate": "Mon, 05 Oct 2026 05:28:46 GMT"
+      "title": "Trump chooses top spy boss to run new AI taskforce",
+      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "description": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
+      "pubDate": "Mon, 05 Oct 2026 10:03:38 GMT"
     },
     {
-      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-      "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-      "description": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
-      "pubDate": "Sun, 04 Oct 2026 12:09:04 GMT"
+      "title": "How India became dangerously addicted to Chinese imports",
+      "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
+      "description": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
+      "pubDate": "Mon, 05 Oct 2026 01:42:11 GMT"
     },
     {
-      "title": "Forced to call him 'Dad': Trial over sexual abuse in disabled care home shocks South Korea",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4z93n9n1zo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC spoke to one of three residents at a care home who were sexually assaulted by a staff member.",
-      "pubDate": "Sun, 04 Oct 2026 22:11:33 GMT"
+      "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester City's owners have been found guilty of injecting money into the club. At Manchester United, fans are frustrated at how much has been taken out.",
+      "pubDate": "Mon, 05 Oct 2026 08:08:02 GMT"
     },
     {
-      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-      "description": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-      "pubDate": "Sun, 04 Oct 2026 16:51:30 GMT"
-    },
-    {
-      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
-      "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
-      "description": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
-      "pubDate": "Mon, 05 Oct 2026 08:29:12 GMT"
-    },
-    {
-      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-      "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-      "pubDate": "Sun, 04 Oct 2026 14:25:32 GMT"
-    },
-    {
-      "title": "Indian police accused of sexually harassing journalists at protest",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
-      "description": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
-      "pubDate": "Sun, 04 Oct 2026 17:01:19 GMT"
-    },
-    {
-      "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
-      "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
-      "description": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
-      "pubDate": "Sun, 04 Oct 2026 16:24:48 GMT"
+      "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
+      "link": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo?at_medium=RSS&at_campaign=rss",
+      "description": "The star reveals why he is \"very selective\" about releasing music - and shares his future collab hopes.",
+      "pubDate": "Mon, 05 Oct 2026 11:10:28 GMT"
     },
     {
       "title": "Why Canada is wargaming a (long shot) US invasion",
@@ -94,34 +112,22 @@
       "pubDate": "Sat, 03 Oct 2026 23:30:06 GMT"
     },
     {
-      "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
-      "link": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss",
-      "description": "Ghana is a predominantly Christian country where preaching on public transport is widespread.",
-      "pubDate": "Sat, 03 Oct 2026 23:37:46 GMT"
+      "title": "Watch: How Spain's housing crisis has resulted in an early general election",
+      "link": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
+      "description": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
+      "pubDate": "Mon, 05 Oct 2026 09:03:30 GMT"
     },
     {
-      "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
-      "link": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
-      "description": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
-      "pubDate": "Fri, 02 Oct 2026 23:37:13 GMT"
+      "title": "Watch: How Brazil's dramatic election unfolded",
+      "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+      "description": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
+      "pubDate": "Mon, 05 Oct 2026 04:51:24 GMT"
     },
     {
       "title": "Rare tornado whips through small Australian town",
       "link": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
       "description": "The twister was caught on camera in Ulladulla, New South Wales, damaging property and downing trees.",
       "pubDate": "Sun, 04 Oct 2026 04:15:36 GMT"
-    },
-    {
-      "title": "Why has Brazil accused the US of election interference?",
-      "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-      "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
-      "pubDate": "Sat, 03 Oct 2026 13:52:13 GMT"
-    },
-    {
-      "title": "Will Spain's housing crisis lead to a snap election?",
-      "link": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis.",
-      "pubDate": "Sat, 03 Oct 2026 12:26:30 GMT"
     },
     {
       "title": "Newly released video shows Luigi Mangione’s arrest",
