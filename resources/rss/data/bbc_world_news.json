@@ -1,49 +1,25 @@
 {
-  "updated": "2026-10-06T07:33:57.559753+00:00",
+  "updated": "2026-10-06T15:10:40.245032+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-      "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-      "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
-      "pubDate": "Tue, 06 Oct 2026 07:02:24 GMT"
+      "title": "Former German spy chief arrested for espionage and treason",
+      "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+      "description": "August Hanning is accused of obtaining classified information for a foreign power.",
+      "pubDate": "Tue, 06 Oct 2026 10:05:42 GMT"
     },
     {
-      "title": "France braces for national day of school protests after injuries and mass arrests",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
-      "description": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
-      "pubDate": "Mon, 05 Oct 2026 21:18:10 GMT"
+      "title": "Ship sinks and crew missing after Black Sea drone attack",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
+      "description": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
+      "pubDate": "Tue, 06 Oct 2026 11:53:21 GMT"
     },
     {
-      "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
-      "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
-      "description": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.",
-      "pubDate": "Mon, 05 Oct 2026 22:28:02 GMT"
-    },
-    {
-      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-      "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-      "description": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
-      "pubDate": "Tue, 06 Oct 2026 02:37:46 GMT"
-    },
-    {
-      "title": "Nigeria mourns as 32 killed in military plane crash",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
-      "description": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
-      "pubDate": "Tue, 06 Oct 2026 06:33:13 GMT"
-    },
-    {
-      "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss",
-      "description": "The city's space boom raises questions about the role of the state in backing important industries.",
-      "pubDate": "Mon, 05 Oct 2026 23:07:08 GMT"
-    },
-    {
-      "title": "Yemeni military says it has 'secured' Red Sea waterway",
-      "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-      "description": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
-      "pubDate": "Tue, 06 Oct 2026 04:29:53 GMT"
+      "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
+      "description": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
+      "pubDate": "Tue, 06 Oct 2026 13:36:46 GMT"
     },
     {
       "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
@@ -52,10 +28,76 @@
       "pubDate": "Tue, 06 Oct 2026 02:22:24 GMT"
     },
     {
+      "title": "'Ghost particles' from space telescope wins physics Nobel",
+      "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+      "description": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
+      "pubDate": "Tue, 06 Oct 2026 11:24:19 GMT"
+    },
+    {
+      "title": "Kenya confirms its first Ebola death as outbreak spreads",
+      "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+      "description": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
+      "pubDate": "Tue, 06 Oct 2026 13:10:42 GMT"
+    },
+    {
+      "title": "AfD candidate elected speaker of German regional parliament for first time",
+      "link": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
+      "description": "Although Tobias Rausch's role is largely symbolic, opponents have described the result as a watershed moment.",
+      "pubDate": "Tue, 06 Oct 2026 14:44:03 GMT"
+    },
+    {
+      "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
+      "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
+      "description": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.",
+      "pubDate": "Mon, 05 Oct 2026 22:28:02 GMT"
+    },
+    {
+      "title": "Indian opposition MPs detained in protest against election chief",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+      "description": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections.",
+      "pubDate": "Tue, 06 Oct 2026 10:05:22 GMT"
+    },
+    {
+      "title": "Seven arrested for using Ghanaian banknotes to make 'money bouquets'",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn3g53dkqo?at_medium=RSS&at_campaign=rss",
+      "description": "The arrests are part of the country's efforts to curb the misuse and abuse of the national currency.",
+      "pubDate": "Tue, 06 Oct 2026 12:00:10 GMT"
+    },
+    {
+      "title": "Yemeni military says it has 'secured' Red Sea waterway",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "description": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
+      "pubDate": "Tue, 06 Oct 2026 07:43:07 GMT"
+    },
+    {
+      "title": "Nigeria mourns 25 killed as military plane crashes into swamp",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+      "description": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
+      "pubDate": "Tue, 06 Oct 2026 12:51:05 GMT"
+    },
+    {
+      "title": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
+      "link": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss",
+      "description": "US televangelist Jim Bakker co-founded The PTL Club with his then-wife Tammy Faye before being jailed for fraud and conspiracy.",
+      "pubDate": "Tue, 06 Oct 2026 13:31:56 GMT"
+    },
+    {
+      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+      "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+      "description": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
+      "pubDate": "Tue, 06 Oct 2026 11:42:52 GMT"
+    },
+    {
       "title": "OpenAI admits response to Australian government hacks 'not good enough'",
       "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
       "description": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
       "pubDate": "Tue, 06 Oct 2026 06:53:17 GMT"
+    },
+    {
+      "title": "Samoa leader apologises for Nazi salute after video from 2007 emerges",
+      "link": "https://www.bbc.co.uk/news/articles/c862ylle91k7o?at_medium=RSS&at_campaign=rss",
+      "description": "Schmidt acknowledged that his actions \"were inappropriate and capable of causing offence and hurt\".",
+      "pubDate": "Tue, 06 Oct 2026 02:36:21 GMT"
     },
     {
       "title": "Watch: Moment Indonesian shoe shop is torn apart by explosion",
@@ -70,46 +112,46 @@
       "pubDate": "Mon, 05 Oct 2026 22:58:25 GMT"
     },
     {
-      "title": "Samoa leader apologises for Nazi salute after video from 2007 emerges",
-      "link": "https://www.bbc.co.uk/news/articles/c862ylle91k7o?at_medium=RSS&at_campaign=rss",
-      "description": "Schmidt acknowledged that his actions \"were inappropriate and capable of causing offence and hurt\".",
-      "pubDate": "Tue, 06 Oct 2026 02:36:21 GMT"
-    },
-    {
       "title": "US 'watching closely' after plague researcher dies in Russia",
       "link": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
       "description": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
-      "pubDate": "Mon, 05 Oct 2026 21:33:49 GMT"
+      "pubDate": "Tue, 06 Oct 2026 07:58:19 GMT"
     },
     {
-      "title": "Flávio Bolsonaro rides right-wing wave to win first round of Brazil election",
-      "link": "https://www.bbc.co.uk/news/articles/cqj6je4jen6po?at_medium=RSS&at_campaign=rss",
-      "description": "Flávio Bolsonaro's success could be the latest example of a resurgence of right-wing support in Latin America.",
-      "pubDate": "Mon, 05 Oct 2026 20:42:19 GMT"
+      "title": "The small African nation ready for Messi's big night",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqly0lx461m8o?at_medium=RSS&at_campaign=rss",
+      "description": "Benin are about to have their own moment in the limelight as they visit Argentina for Lionel Messi's final game.",
+      "pubDate": "Tue, 06 Oct 2026 07:50:34 GMT"
     },
     {
-      "title": "A simple guide to the US midterms",
+      "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
+      "description": "Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks.",
+      "pubDate": "Tue, 06 Oct 2026 09:48:37 GMT"
+    },
+    {
+      "title": "Children brave snipers and mortars to go to school near Yemen front line",
+      "link": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss",
+      "description": "In rare access to Taiz, the BBC World Service speaks to children, teachers and families affected by the war.",
+      "pubDate": "Tue, 06 Oct 2026 07:23:24 GMT"
+    },
+    {
+      "title": "What are the US midterms? A simple guide",
       "link": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
       "description": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency.",
       "pubDate": "Mon, 05 Oct 2026 23:40:58 GMT"
     },
     {
-      "title": "How India became dangerously addicted to Chinese imports",
-      "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
-      "description": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
-      "pubDate": "Mon, 05 Oct 2026 01:42:11 GMT"
+      "title": "'There are now thousands of people': At the scene of student protests in Lille",
+      "link": "https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Europe correspondent Nick Beake reports from a large demonstration in northern France.",
+      "pubDate": "Tue, 06 Oct 2026 15:02:56 GMT"
     },
     {
-      "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss",
-      "description": "Manchester City's owners have been found guilty of injecting money into the club. At Manchester United, fans are frustrated at how much has been taken out.",
-      "pubDate": "Mon, 05 Oct 2026 08:08:02 GMT"
-    },
-    {
-      "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
-      "link": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo?at_medium=RSS&at_campaign=rss",
-      "description": "The star reveals why he is \"very selective\" about releasing music - and shares his future collab hopes.",
-      "pubDate": "Mon, 05 Oct 2026 11:10:28 GMT"
+      "title": "Watch: How Russia responded to US after plague researcher death",
+      "link": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
+      "description": "The US and Russia have each offered to help each other tackling infectious diseases.",
+      "pubDate": "Tue, 06 Oct 2026 13:32:42 GMT"
     },
     {
       "title": "Watch: How Spain's housing crisis has resulted in an early general election",
@@ -122,24 +164,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
       "description": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
       "pubDate": "Mon, 05 Oct 2026 04:51:24 GMT"
-    },
-    {
-      "title": "Rare tornado whips through small Australian town",
-      "link": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
-      "description": "The twister was caught on camera in Ulladulla, New South Wales, damaging property and downing trees.",
-      "pubDate": "Sun, 04 Oct 2026 04:15:36 GMT"
-    },
-    {
-      "title": "Newly released video shows Luigi Mangione’s arrest",
-      "link": "https://www.bbc.co.uk/news/videos/cmewelkydwwyo?at_medium=RSS&at_campaign=rss",
-      "description": "The bodycam footage also shows a police officer finding a gun in Mangione's backpack, days after the killing of UnitedHealthcare CEO Brian Thompson.",
-      "pubDate": "Fri, 02 Oct 2026 20:37:34 GMT"
-    },
-    {
-      "title": "How widely used is the death penalty in the US?",
-      "link": "https://www.bbc.co.uk/news/videos/c54g1e3yxv0ko?at_medium=RSS&at_campaign=rss",
-      "description": "The death penalty is back in the news after Christa Pike survived two lethal injection attempts in Tennessee - but how widely used is it in the US?",
-      "pubDate": "Fri, 02 Oct 2026 19:56:28 GMT"
     }
   ]
 }
