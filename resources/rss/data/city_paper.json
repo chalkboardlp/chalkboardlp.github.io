@@ -1,8 +1,14 @@
 {
-  "updated": "2026-10-07T14:30:29.119392+00:00",
+  "updated": "2026-10-07T20:36:46.107844+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "De La Espriella Sets Ground Rules for Indigenous Protest in Conflict Region",
+      "link": "https://thecitypaperbogota.com/news/de-la-espriella-sets-ground-rules-for-indigenous-protest-in-conflict-region/",
+      "description": "President Abelardo de la Espriella has set clear ground rules for an indigenous mobilization scheduled for October 11–14 in Cauca, guaranteeing the right to peaceful protest while warning that his government will not permit road blockades, violence or attempts to paralyze the department. The warning comes as the Consejo Regional Indígena del Cauca (CRIC) prepares [&#8230;]",
+      "pubDate": "Wed, 07 Oct 2026 15:03:18 +0000"
+    },
     {
       "title": "Bogotá’s Weather Turns Electric With Hailstorms",
       "link": "https://thecitypaperbogota.com/bogota/bogotas-weather-turns-electric-with-hailstorms/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/culture/bogotas-sacred-music-festival-turns-15-with-la-concordia/",
       "description": "Bogotá&#8217;s iconic Teatro Colón is the starting point for a month-long exploration of music, spirituality and the many ways in which cultures find common ground in a city of contrasts. The occasion is the 15th edition of the International Sacred Music Festival, which opens on under a theme that is both musical and quietly ambitious: [&#8230;]",
       "pubDate": "Fri, 04 Sep 2026 16:31:26 +0000"
-    },
-    {
-      "title": "Colombia’s ‘Miracle’ Chick Offers Hope for a Bird on the Brink",
-      "link": "https://thecitypaperbogota.com/news/colombias-miracle-chick-offers-hope-for-a-bird-on-the-brink/",
-      "description": "In a country where the morning chorus can include more bird species than anywhere else on Earth, the arrival of one tiny chick carries an outsized significance. Named Milagro, or “Miracle,” the newly hatched blue-billed curassow (Crax alberti) represents more than a successful breeding effort. The female chick is a rare new generation of a [&#8230;]",
-      "pubDate": "Thu, 03 Sep 2026 12:15:24 +0000"
     }
   ]
 }
