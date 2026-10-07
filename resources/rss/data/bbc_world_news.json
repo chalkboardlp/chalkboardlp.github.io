@@ -1,13 +1,19 @@
 {
-  "updated": "2026-10-07T07:14:18.337196+00:00",
+  "updated": "2026-10-07T14:30:26.094717+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
+      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "description": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+      "pubDate": "Wed, 07 Oct 2026 12:16:58 GMT"
+    },
+    {
       "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
       "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "description": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
-      "pubDate": "Wed, 07 Oct 2026 07:07:22 GMT"
+      "description": "A medical expert advising her legal team says the murderer of Colleen Slemmer is communicating in a \"basic way\".",
+      "pubDate": "Wed, 07 Oct 2026 10:12:36 GMT"
     },
     {
       "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
@@ -16,16 +22,58 @@
       "pubDate": "Wed, 07 Oct 2026 05:02:18 GMT"
     },
     {
-      "title": "What is pneumonic plague and how does it spread?",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
-      "description": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
-      "pubDate": "Tue, 06 Oct 2026 15:35:22 GMT"
+      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+      "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+      "description": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
+      "pubDate": "Wed, 07 Oct 2026 12:58:03 GMT"
     },
     {
-      "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
-      "description": "David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said.",
-      "pubDate": "Tue, 06 Oct 2026 19:53:45 GMT"
+      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 22",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "description": "Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.",
+      "pubDate": "Wed, 07 Oct 2026 14:21:45 GMT"
+    },
+    {
+      "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
+      "link": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
+      "description": "The 73-year-old has been arrested over allegations that a charity she is linked to misused donations.",
+      "pubDate": "Wed, 07 Oct 2026 09:49:31 GMT"
+    },
+    {
+      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+      "description": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
+      "pubDate": "Wed, 07 Oct 2026 11:51:52 GMT"
+    },
+    {
+      "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
+      "description": "The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya.",
+      "pubDate": "Wed, 07 Oct 2026 12:46:39 GMT"
+    },
+    {
+      "title": "Japan beer giants raided over alleged price-fixing cartel",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
+      "description": "Asahi, Kirin and Suntory confirmed their premises were searched by Japanese competition authorities.",
+      "pubDate": "Wed, 07 Oct 2026 12:09:59 GMT"
+    },
+    {
+      "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
+      "link": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss",
+      "description": "She starred opposite Marlon Brando in On the Waterfront, then alongside Cary Grant in Hitchcock's North by Northwest.",
+      "pubDate": "Wed, 07 Oct 2026 07:37:16 GMT"
+    },
+    {
+      "title": "California pair charged with abusing at least 14 surrogate-born children",
+      "link": "https://www.bbc.co.uk/news/articles/crx23dvnp8vxo?at_medium=RSS&at_campaign=rss",
+      "description": "Guojun Xuan and Silvia Zhang were arrested at their Arcadia mansion after 21 children were removed from their custody last year.",
+      "pubDate": "Wed, 07 Oct 2026 09:38:00 GMT"
+    },
+    {
+      "title": "India's opposition leader dragged on to bus as police break up protest",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+      "description": "Opposition leaders allege that CEC Gyanesh Kumar manipulated voter rolls to favour PM Narendra Modi's party.",
+      "pubDate": "Wed, 07 Oct 2026 07:45:47 GMT"
     },
     {
       "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
@@ -34,40 +82,16 @@
       "pubDate": "Tue, 06 Oct 2026 23:07:44 GMT"
     },
     {
-      "title": "Former Australian bishop jailed for sexually abusing young men",
-      "link": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss",
-      "description": "The former Bishop of Broome is one of the most senior Catholic clerics in the world to face sex abuse charges.",
-      "pubDate": "Wed, 07 Oct 2026 04:22:07 GMT"
+      "title": "What is pneumonic plague and how does it spread?",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
+      "description": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
+      "pubDate": "Tue, 06 Oct 2026 15:35:22 GMT"
     },
     {
-      "title": "Tear gas in Paris and Marseille as school protests grow across France",
-      "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
-      "description": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
-      "pubDate": "Tue, 06 Oct 2026 18:03:19 GMT"
-    },
-    {
-      "title": "Pornhub returns to Australia but only for adults with Apple devices",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdlzvl9ego?at_medium=RSS&at_campaign=rss",
-      "description": "The world's most popular porn site went dark in March in Australia due to age verification laws.",
-      "pubDate": "Wed, 07 Oct 2026 04:39:59 GMT"
-    },
-    {
-      "title": "Former German spy chief arrested for espionage and treason",
-      "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-      "description": "August Hanning is accused of obtaining classified information for a foreign power.",
-      "pubDate": "Tue, 06 Oct 2026 10:05:42 GMT"
-    },
-    {
-      "title": "'Ghost particles' from space telescope wins physics Nobel",
-      "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-      "description": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
-      "pubDate": "Tue, 06 Oct 2026 11:24:19 GMT"
-    },
-    {
-      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-      "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-      "description": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
-      "pubDate": "Tue, 06 Oct 2026 20:15:31 GMT"
+      "title": "How did Christa Pike survive two lethal injections - and what happens now?",
+      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "description": "The convicted killer of Colleen Slemmer is said to be awake and speaking in hospital in Tennessee after an execution attempt.",
+      "pubDate": "Wed, 07 Oct 2026 10:01:47 GMT"
     },
     {
       "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
@@ -94,10 +118,10 @@
       "pubDate": "Tue, 06 Oct 2026 18:42:58 GMT"
     },
     {
-      "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
-      "description": "Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks.",
-      "pubDate": "Tue, 06 Oct 2026 09:48:37 GMT"
+      "title": "What we know about Christa Pike’s ‘unprecedented' recovery after failed execution",
+      "link": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.",
+      "pubDate": "Tue, 06 Oct 2026 23:42:35 GMT"
     },
     {
       "title": "Watch: Riot police clash with school protesters and use tear gas in France",
@@ -116,12 +140,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
       "description": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
       "pubDate": "Mon, 05 Oct 2026 09:03:30 GMT"
-    },
-    {
-      "title": "Watch: How Brazil's dramatic election unfolded",
-      "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
-      "description": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
-      "pubDate": "Mon, 05 Oct 2026 04:51:24 GMT"
     }
   ]
 }
