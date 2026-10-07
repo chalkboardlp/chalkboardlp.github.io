@@ -1,8 +1,14 @@
 {
-  "updated": "2026-10-06T20:18:55.574175+00:00",
+  "updated": "2026-10-07T00:41:30.707581+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+      "description": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+      "pubDate": "Tue, 06 Oct 2026 23:52:53 GMT"
+    },
     {
       "title": "Tear gas in Paris and Marseille as school protests grow across France",
       "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
@@ -16,16 +22,10 @@
       "pubDate": "Tue, 06 Oct 2026 10:05:42 GMT"
     },
     {
-      "title": "Ship sinks and crew missing after Black Sea drone attack",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
-      "description": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
-      "pubDate": "Tue, 06 Oct 2026 11:53:21 GMT"
-    },
-    {
-      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-      "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-      "description": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
-      "pubDate": "Tue, 06 Oct 2026 20:15:31 GMT"
+      "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+      "link": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
+      "description": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
+      "pubDate": "Tue, 06 Oct 2026 23:07:44 GMT"
     },
     {
       "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
@@ -46,22 +46,34 @@
       "pubDate": "Tue, 06 Oct 2026 16:02:32 GMT"
     },
     {
-      "title": "'Ghost particles' from space telescope wins physics Nobel",
-      "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-      "description": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
-      "pubDate": "Tue, 06 Oct 2026 11:24:19 GMT"
-    },
-    {
       "title": "AfD candidate elected speaker of German regional parliament for first time",
       "link": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
       "description": "Although Tobias Rausch's role is largely symbolic, opponents have described the result as a watershed moment.",
       "pubDate": "Tue, 06 Oct 2026 14:44:03 GMT"
     },
     {
+      "title": "'Ghost particles' from space telescope wins physics Nobel",
+      "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+      "description": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
+      "pubDate": "Tue, 06 Oct 2026 11:24:19 GMT"
+    },
+    {
+      "title": "Ship sinks and crew missing after Black Sea drone attack",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
+      "description": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
+      "pubDate": "Tue, 06 Oct 2026 11:53:21 GMT"
+    },
+    {
       "title": "Indian opposition MPs detained in protest against election chief",
       "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
       "description": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections.",
       "pubDate": "Tue, 06 Oct 2026 10:05:22 GMT"
+    },
+    {
+      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+      "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+      "description": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
+      "pubDate": "Tue, 06 Oct 2026 20:15:31 GMT"
     },
     {
       "title": "Seven arrested for using Ghanaian banknotes to make 'money bouquets'",
@@ -118,6 +130,18 @@
       "pubDate": "Tue, 06 Oct 2026 04:57:16 GMT"
     },
     {
+      "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
+      "link": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
+      "description": "Relatives are finding themselves with no compensation and facing an administrative nightmare.",
+      "pubDate": "Tue, 06 Oct 2026 22:17:56 GMT"
+    },
+    {
+      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
+      "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+      "description": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
+      "pubDate": "Tue, 06 Oct 2026 18:42:58 GMT"
+    },
+    {
       "title": "The small African nation ready for Messi's big night",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqly0lx461m8o?at_medium=RSS&at_campaign=rss",
       "description": "Benin are about to have their own moment in the limelight as they visit Argentina for Lionel Messi's final game.",
@@ -130,22 +154,16 @@
       "pubDate": "Tue, 06 Oct 2026 09:48:37 GMT"
     },
     {
-      "title": "Children brave snipers and mortars to go to school near Yemen front line",
-      "link": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss",
-      "description": "In rare access to Taiz, the BBC World Service speaks to children, teachers and families affected by the war.",
-      "pubDate": "Tue, 06 Oct 2026 07:23:24 GMT"
-    },
-    {
       "title": "What are the US midterms? A simple guide",
       "link": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
       "description": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency.",
       "pubDate": "Mon, 05 Oct 2026 23:40:58 GMT"
     },
     {
-      "title": "Watch: At the scene of student protests in Lille",
-      "link": "https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Europe correspondent Nick Beake reports from a large demonstration in northern France.",
-      "pubDate": "Tue, 06 Oct 2026 15:02:56 GMT"
+      "title": "Watch: Riot police clash with school protesters and use tear gas in France",
+      "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
+      "description": "Hundreds of thousands of people have taken to the streets across France amid a wave of protests by high-school pupils.",
+      "pubDate": "Tue, 06 Oct 2026 21:22:22 GMT"
     },
     {
       "title": "Watch: How Russia responded to US after plague researcher death",
