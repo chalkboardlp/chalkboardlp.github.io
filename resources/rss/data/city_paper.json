@@ -1,8 +1,14 @@
 {
-  "updated": "2026-10-08T15:35:56.677674+00:00",
+  "updated": "2026-10-08T21:18:57.418916+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "With FARC’s Political Party Over, Colombia’s Peace Accord Faces Deadline",
+      "link": "https://thecitypaperbogota.com/news/with-farcs-political-party-over-colombias-peace-accord-faces-deadline/",
+      "description": "Nine years after Colombia signed its historic peace agreement with the Revolutionary Armed Forces of Colombia (FARC), one of the central political promises of the Final Accord has run out of road. Comunes, the party formed by the last FARC Secretariat and guerrilla warlords, has lost its legal status after failing to secure sufficient support [&#8230;]",
+      "pubDate": "Thu, 08 Oct 2026 17:15:15 +0000"
+    },
     {
       "title": "De La Espriella Sets Ground Rules for Indigenous Protest in Conflict Region",
       "link": "https://thecitypaperbogota.com/news/de-la-espriella-sets-ground-rules-for-indigenous-protest-in-conflict-region/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/purace-keeps-colombia-on-alert-after-volcanic-eruptions-across-the-pacific/",
       "description": "Colombia’s Puracé volcano remains under an orange alert after another episode of seismic activity was recorded in the southwestern department of Cauca on Sunday night, adding to a sustained period of volcanic unrest that has included ash emissions, volcanic tremor, gas releases and slow deformation of the ground. A magnitude-4.1 earthquake was recorded at 8:58 [&#8230;]",
       "pubDate": "Mon, 07 Sep 2026 16:22:50 +0000"
-    },
-    {
-      "title": "Bogotá’s Sacred Music Festival Turns 15 With ‘La Concordia’",
-      "link": "https://thecitypaperbogota.com/culture/bogotas-sacred-music-festival-turns-15-with-la-concordia/",
-      "description": "Bogotá&#8217;s iconic Teatro Colón is the starting point for a month-long exploration of music, spirituality and the many ways in which cultures find common ground in a city of contrasts. The occasion is the 15th edition of the International Sacred Music Festival, which opens on under a theme that is both musical and quietly ambitious: [&#8230;]",
-      "pubDate": "Fri, 04 Sep 2026 16:31:26 +0000"
     }
   ]
 }
