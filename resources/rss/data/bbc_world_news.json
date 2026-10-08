@@ -1,25 +1,79 @@
 {
-  "updated": "2026-10-08T07:23:21.641152+00:00",
+  "updated": "2026-10-08T15:35:54.646742+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "description": "Ukraine accused Russia of targeting the crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+      "pubDate": "Thu, 08 Oct 2026 12:43:56 GMT"
+    },
+    {
+      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+      "description": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
+      "pubDate": "Thu, 08 Oct 2026 15:02:32 GMT"
+    },
+    {
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "description": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+      "pubDate": "Thu, 08 Oct 2026 15:07:59 GMT"
+    },
+    {
+      "title": "Residents airlifted to safety after flooding in central Chile",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+      "description": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
+      "pubDate": "Thu, 08 Oct 2026 11:31:22 GMT"
+    },
+    {
+      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+      "description": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
+      "pubDate": "Thu, 08 Oct 2026 12:32:12 GMT"
+    },
+    {
+      "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
+      "description": "Many Palestinians are still living in cramped tent cities, with the US plan to end the war largely stalled.",
+      "pubDate": "Thu, 08 Oct 2026 05:06:09 GMT"
+    },
+    {
+      "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
+      "link": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
+      "description": "Mochamad Subchi Azal Tsani had been secretly released on parole in 2025, after serving less than half his sentence.",
+      "pubDate": "Thu, 08 Oct 2026 12:04:25 GMT"
+    },
+    {
       "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
       "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
-      "description": "Bassam al-Hassan, linked to reporter Austin Tice's abduction, is being sheltered in return for information.",
+      "description": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
       "pubDate": "Thu, 08 Oct 2026 05:00:44 GMT"
     },
     {
       "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
       "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
       "description": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
-      "pubDate": "Thu, 08 Oct 2026 07:06:15 GMT"
+      "pubDate": "Thu, 08 Oct 2026 15:21:46 GMT"
     },
     {
-      "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
-      "link": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
-      "description": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.",
-      "pubDate": "Thu, 08 Oct 2026 03:02:06 GMT"
+      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+      "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+      "description": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
+      "pubDate": "Thu, 08 Oct 2026 12:11:31 GMT"
+    },
+    {
+      "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
+      "link": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
+      "description": "Bernadette Greene-Placentia says her memory of the attack is spotty and that she was knocked unconscious.",
+      "pubDate": "Thu, 08 Oct 2026 14:10:58 GMT"
+    },
+    {
+      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+      "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+      "description": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
+      "pubDate": "Thu, 08 Oct 2026 09:56:02 GMT"
     },
     {
       "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
@@ -28,22 +82,46 @@
       "pubDate": "Thu, 08 Oct 2026 07:15:45 GMT"
     },
     {
-      "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
-      "link": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
-      "description": "Pioneering computer scientist led the development of the software for Nasa's Apollo mission and was awarded the Presidential Medal of Freedom.",
-      "pubDate": "Thu, 08 Oct 2026 05:10:40 GMT"
-    },
-    {
       "title": "France's school protests: What lies behind the anger",
       "link": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
       "description": "Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.",
       "pubDate": "Thu, 08 Oct 2026 03:38:46 GMT"
     },
     {
+      "title": "Outspoken Indian actor Nana Patekar suddenly dies at 75",
+      "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+      "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
+      "pubDate": "Thu, 08 Oct 2026 03:41:34 GMT"
+    },
+    {
+      "title": "Bear kills man in home attack near Mongolian capital",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg79wz9v2yo?at_medium=RSS&at_campaign=rss",
+      "description": "Police say the bear entered a traditional nomadic dwelling near Ulaanbaatar, killing a man and seriously injured a woman.",
+      "pubDate": "Thu, 08 Oct 2026 11:52:59 GMT"
+    },
+    {
+      "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
+      "link": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
+      "description": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.",
+      "pubDate": "Thu, 08 Oct 2026 03:02:06 GMT"
+    },
+    {
       "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
       "link": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
       "description": "The families allege that men with links to the Saudi government helped those who carried out the 2001 attacks, something the country denies.",
       "pubDate": "Wed, 07 Oct 2026 23:18:40 GMT"
+    },
+    {
+      "title": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss",
+      "description": "Residents of Adigrat tell the BBC they have seen truck loads of soldiers from Eritrea moving south.",
+      "pubDate": "Wed, 07 Oct 2026 18:40:52 GMT"
+    },
+    {
+      "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
+      "link": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
+      "description": "Pioneering computer scientist led the development of the software for Nasa's Apollo mission and was awarded the Presidential Medal of Freedom.",
+      "pubDate": "Thu, 08 Oct 2026 05:10:40 GMT"
     },
     {
       "title": "Trump wants a new Camp David-like retreat at his Florida golf club",
@@ -54,13 +132,13 @@
     {
       "title": "Former Venezuelan President Nicolás Maduro expected to face more charges this week",
       "link": "https://www.bbc.co.uk/news/articles/cx62y37r1p8eo?at_medium=RSS&at_campaign=rss",
-      "description": "The new charges are expected to accuse Maduro and his wife of playing a role in the torture of Americans in Venezuelan prisons, US media reports.",
+      "description": "Federal prosecutors in New York filed an updated indictment on Thursday",
       "pubDate": "Wed, 07 Oct 2026 22:50:00 GMT"
     },
     {
-      "title": "Japan beer giants raided over alleged price-fixing cartel",
+      "title": "Asahi and Kirin among Japan beer giants raided over alleged price-fixing cartel",
       "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "description": "Asahi, Sapporo, Kirin and Suntory confirmed to the BBC that their premises had been searched by the Japanese competition authority.",
+      "description": "Japan's Fair Trade Commission conducted searches of the country's largest beer-makers.",
       "pubDate": "Thu, 08 Oct 2026 00:53:46 GMT"
     },
     {
@@ -68,12 +146,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
       "description": "The Houthis have claimed responsibility for the attacks, which mark an escalation in the conflict.",
       "pubDate": "Thu, 08 Oct 2026 03:32:35 GMT"
-    },
-    {
-      "title": "Veteran Indian actor Nana Patekar dies at 75",
-      "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-      "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
-      "pubDate": "Thu, 08 Oct 2026 03:41:34 GMT"
     },
     {
       "title": "Canada suspends plans to expand assisted dying to people with mental illness",
@@ -112,7 +184,7 @@
       "pubDate": "Wed, 07 Oct 2026 05:00:21 GMT"
     },
     {
-      "title": "Cornell rape case accuser has received ‘threats’, attorney tells BBC Newsnight",
+      "title": "Cornell rape case accuser has received ‘threats’, attorney tells BBC Newshour",
       "link": "https://www.bbc.co.uk/news/videos/ckly0420q7ypo?at_medium=RSS&at_campaign=rss",
       "description": "Thomas Giuffra is representing a woman, known in legal documents as Jane Doe, who alleges she was raped at a frat house on campus in 2024.",
       "pubDate": "Thu, 08 Oct 2026 00:46:36 GMT"
