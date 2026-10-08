@@ -1,73 +1,61 @@
 {
-  "updated": "2026-10-08T00:59:30.509244+00:00",
+  "updated": "2026-10-08T07:23:21.641152+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+      "description": "Bassam al-Hassan, linked to reporter Austin Tice's abduction, is being sheltered in return for information.",
+      "pubDate": "Thu, 08 Oct 2026 05:00:44 GMT"
+    },
+    {
+      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+      "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+      "description": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
+      "pubDate": "Thu, 08 Oct 2026 07:06:15 GMT"
+    },
+    {
+      "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
+      "link": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
+      "description": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.",
+      "pubDate": "Thu, 08 Oct 2026 03:02:06 GMT"
+    },
+    {
+      "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
       "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
       "description": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
-      "pubDate": "Thu, 08 Oct 2026 00:09:17 GMT"
+      "pubDate": "Thu, 08 Oct 2026 07:15:45 GMT"
     },
     {
-      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-      "link": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
-      "description": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
-      "pubDate": "Wed, 07 Oct 2026 20:27:03 GMT"
+      "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
+      "link": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
+      "description": "Pioneering computer scientist led the development of the software for Nasa's Apollo mission and was awarded the Presidential Medal of Freedom.",
+      "pubDate": "Thu, 08 Oct 2026 05:10:40 GMT"
     },
     {
-      "title": "Israelis demand accountability over 7 October failures three years after attacks",
-      "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
-      "description": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
-      "pubDate": "Wed, 07 Oct 2026 16:00:18 GMT"
+      "title": "France's school protests: What lies behind the anger",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
+      "description": "Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.",
+      "pubDate": "Thu, 08 Oct 2026 03:38:46 GMT"
     },
     {
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "description": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
-      "pubDate": "Wed, 07 Oct 2026 17:47:31 GMT"
+      "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
+      "description": "The families allege that men with links to the Saudi government helped those who carried out the 2001 attacks, something the country denies.",
+      "pubDate": "Wed, 07 Oct 2026 23:18:40 GMT"
     },
     {
-      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
-      "link": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-      "description": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
-      "pubDate": "Wed, 07 Oct 2026 19:30:51 GMT"
+      "title": "Trump wants a new Camp David-like retreat at his Florida golf club",
+      "link": "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o?at_medium=RSS&at_campaign=rss",
+      "description": "Trump's estate would stand in stark contrast to the rustic Camp David and mark another tradition transformed by Trump.",
+      "pubDate": "Thu, 08 Oct 2026 03:00:50 GMT"
     },
     {
-      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-      "description": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
-      "pubDate": "Wed, 07 Oct 2026 18:27:40 GMT"
-    },
-    {
-      "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
-      "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-      "description": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.",
-      "pubDate": "Wed, 07 Oct 2026 18:12:58 GMT"
-    },
-    {
-      "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
-      "link": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
-      "description": "The 73-year-old has been arrested over allegations that a charity she is linked to misused donations.",
-      "pubDate": "Wed, 07 Oct 2026 09:49:31 GMT"
-    },
-    {
-      "title": "Chinese runner dropped by sponsor after riding bike during marathon",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&at_campaign=rss",
-      "description": "Sun Yuanyuan was seemingly pictured on the back of another person's bike during part of the Berlin Marathon.",
-      "pubDate": "Wed, 07 Oct 2026 20:29:31 GMT"
-    },
-    {
-      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
-      "description": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
-      "pubDate": "Wed, 07 Oct 2026 11:51:52 GMT"
-    },
-    {
-      "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
-      "description": "The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya.",
-      "pubDate": "Wed, 07 Oct 2026 12:46:39 GMT"
+      "title": "Former Venezuelan President Nicolás Maduro expected to face more charges this week",
+      "link": "https://www.bbc.co.uk/news/articles/cx62y37r1p8eo?at_medium=RSS&at_campaign=rss",
+      "description": "The new charges are expected to accuse Maduro and his wife of playing a role in the torture of Americans in Venezuelan prisons, US media reports.",
+      "pubDate": "Wed, 07 Oct 2026 22:50:00 GMT"
     },
     {
       "title": "Japan beer giants raided over alleged price-fixing cartel",
@@ -76,16 +64,40 @@
       "pubDate": "Thu, 08 Oct 2026 00:53:46 GMT"
     },
     {
-      "title": "What is pneumonic plague and how does it spread?",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
-      "description": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
-      "pubDate": "Tue, 06 Oct 2026 15:35:22 GMT"
+      "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
+      "description": "The Houthis have claimed responsibility for the attacks, which mark an escalation in the conflict.",
+      "pubDate": "Thu, 08 Oct 2026 03:32:35 GMT"
     },
     {
-      "title": "What happened in the failed execution of Christa Pike - and how did she survive?",
-      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "description": "The convicted killer of Colleen Slemmer is said to be awake and speaking in hospital in Tennessee after an execution attempt.",
-      "pubDate": "Wed, 07 Oct 2026 10:01:47 GMT"
+      "title": "Veteran Indian actor Nana Patekar dies at 75",
+      "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+      "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
+      "pubDate": "Thu, 08 Oct 2026 03:41:34 GMT"
+    },
+    {
+      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+      "description": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
+      "pubDate": "Wed, 07 Oct 2026 19:30:51 GMT"
+    },
+    {
+      "title": "Israelis demand accountability over 7 October failures three years after attacks",
+      "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
+      "description": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
+      "pubDate": "Wed, 07 Oct 2026 16:00:18 GMT"
+    },
+    {
+      "title": "Why Zimbabwe tycoon 'Sir Wicknell' was loved and hated in Africa",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2wlplnelxo?at_medium=RSS&at_campaign=rss",
+      "description": "Wicknell Chivayo divided opinion in life and continues to do so in death.",
+      "pubDate": "Wed, 07 Oct 2026 23:29:15 GMT"
+    },
+    {
+      "title": "She made India fall in love with women's cricket - now her era as captain is over",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
+      "description": "The skipper who led India to the historic 2025 World Cup win has stepped down from her role in all three formats.",
+      "pubDate": "Wed, 07 Oct 2026 23:31:00 GMT"
     },
     {
       "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
@@ -100,40 +112,28 @@
       "pubDate": "Wed, 07 Oct 2026 05:00:21 GMT"
     },
     {
-      "title": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help alleged victims.",
-      "pubDate": "Tue, 06 Oct 2026 20:40:01 GMT"
+      "title": "Cornell rape case accuser has received ‘threats’, attorney tells BBC Newsnight",
+      "link": "https://www.bbc.co.uk/news/videos/ckly0420q7ypo?at_medium=RSS&at_campaign=rss",
+      "description": "Thomas Giuffra is representing a woman, known in legal documents as Jane Doe, who alleges she was raped at a frat house on campus in 2024.",
+      "pubDate": "Thu, 08 Oct 2026 00:46:36 GMT"
     },
     {
-      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
-      "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-      "description": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
-      "pubDate": "Tue, 06 Oct 2026 18:42:58 GMT"
+      "title": "'House of Horrors': California couple accused of abusing surrogate-born children",
+      "link": "https://www.bbc.co.uk/news/videos/cmx236yd1nr6o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Madeline Gerber describes the conditions of the mansion where the children - some as young as two months old - were living.",
+      "pubDate": "Wed, 07 Oct 2026 22:20:03 GMT"
     },
     {
-      "title": "What we know about Christa Pike’s ‘unprecedented' recovery after failed execution",
-      "link": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.",
-      "pubDate": "Tue, 06 Oct 2026 23:42:35 GMT"
+      "title": "How toxic haze is causing Singapore’s landmarks to disappear",
+      "link": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC’s Tessa Wong breaks down how one of Indonesia’s worst wildfire seasons is impacting countries around South East Asia.",
+      "pubDate": "Wed, 07 Oct 2026 22:10:20 GMT"
     },
     {
       "title": "Watch: Riot police clash with school protesters and use tear gas in France",
       "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
       "description": "Hundreds of thousands of people have taken to the streets across France amid a wave of protests by high-school pupils.",
       "pubDate": "Tue, 06 Oct 2026 21:22:22 GMT"
-    },
-    {
-      "title": "Watch: How Russia responded to US after plague researcher death",
-      "link": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
-      "description": "The US and Russia have each offered to help each other tackling infectious diseases.",
-      "pubDate": "Tue, 06 Oct 2026 13:32:42 GMT"
-    },
-    {
-      "title": "Watch: How Spain's housing crisis has resulted in an early general election",
-      "link": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
-      "description": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
-      "pubDate": "Mon, 05 Oct 2026 09:03:30 GMT"
     }
   ]
 }
