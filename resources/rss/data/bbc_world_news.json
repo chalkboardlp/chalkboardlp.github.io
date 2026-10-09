@@ -1,8 +1,20 @@
 {
-  "updated": "2026-10-08T21:18:55.148470+00:00",
+  "updated": "2026-10-09T02:08:46.104005+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+      "description": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+      "pubDate": "Thu, 08 Oct 2026 23:11:10 GMT"
+    },
+    {
+      "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "description": "The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+      "pubDate": "Fri, 09 Oct 2026 01:25:33 GMT"
+    },
     {
       "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
       "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
@@ -16,10 +28,10 @@
       "pubDate": "Thu, 08 Oct 2026 15:02:32 GMT"
     },
     {
-      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-      "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-      "description": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
-      "pubDate": "Thu, 08 Oct 2026 17:38:59 GMT"
+      "title": "Adidas sues Australian label White Fox over four stripes design",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+      "description": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+      "pubDate": "Thu, 08 Oct 2026 18:17:28 GMT"
     },
     {
       "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
@@ -28,10 +40,16 @@
       "pubDate": "Thu, 08 Oct 2026 19:10:06 GMT"
     },
     {
-      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-      "description": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
-      "pubDate": "Thu, 08 Oct 2026 12:32:12 GMT"
+      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "description": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
+      "pubDate": "Thu, 08 Oct 2026 14:33:23 GMT"
+    },
+    {
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "description": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+      "pubDate": "Thu, 08 Oct 2026 17:38:59 GMT"
     },
     {
       "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
@@ -40,10 +58,22 @@
       "pubDate": "Thu, 08 Oct 2026 17:16:32 GMT"
     },
     {
+      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+      "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+      "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
+      "pubDate": "Thu, 08 Oct 2026 20:38:11 GMT"
+    },
+    {
       "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
       "link": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
       "description": "Mochamad Subchi Azal Tsani had been secretly released on parole in 2025, after serving less than half his sentence.",
       "pubDate": "Thu, 08 Oct 2026 12:04:25 GMT"
+    },
+    {
+      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+      "description": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
+      "pubDate": "Thu, 08 Oct 2026 12:32:12 GMT"
     },
     {
       "title": "Residents airlifted to safety after flooding in central Chile",
@@ -56,12 +86,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
       "description": "The US will provide $1.5bn (£1.1bn) under the deal that was negotiated after Trump cut USAID funding.",
       "pubDate": "Thu, 08 Oct 2026 16:24:05 GMT"
-    },
-    {
-      "title": "Adidas sues Australian label White Fox over four stripes design",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
-      "description": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
-      "pubDate": "Thu, 08 Oct 2026 18:17:28 GMT"
     },
     {
       "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
@@ -106,12 +130,6 @@
       "pubDate": "Thu, 08 Oct 2026 03:38:46 GMT"
     },
     {
-      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
-      "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-      "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
-      "pubDate": "Thu, 08 Oct 2026 20:38:11 GMT"
-    },
-    {
       "title": "Bear kills man in home attack near Mongolian capital",
       "link": "https://www.bbc.co.uk/news/articles/ckvg79wz9v2yo?at_medium=RSS&at_campaign=rss",
       "description": "Police say the bear entered a traditional nomadic dwelling near Ulaanbaatar, killing a man and seriously injured a woman.",
@@ -148,22 +166,10 @@
       "pubDate": "Thu, 08 Oct 2026 03:00:50 GMT"
     },
     {
-      "title": "Former Venezuelan President Nicolás Maduro expected to face more charges this week",
-      "link": "https://www.bbc.co.uk/news/articles/cx62y37r1p8eo?at_medium=RSS&at_campaign=rss",
-      "description": "Federal prosecutors in New York filed an updated indictment on Thursday",
-      "pubDate": "Wed, 07 Oct 2026 22:50:00 GMT"
-    },
-    {
-      "title": "Asahi and Kirin among Japan beer giants raided over alleged price-fixing cartel",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "description": "Japan's Fair Trade Commission conducted searches of the country's largest beer-makers.",
-      "pubDate": "Thu, 08 Oct 2026 00:53:46 GMT"
-    },
-    {
-      "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
-      "description": "The Houthis have claimed responsibility for the attacks, which mark an escalation in the conflict.",
-      "pubDate": "Thu, 08 Oct 2026 03:32:35 GMT"
+      "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+      "link": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
+      "description": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
+      "pubDate": "Thu, 08 Oct 2026 23:14:02 GMT"
     },
     {
       "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
@@ -190,34 +196,28 @@
       "pubDate": "Wed, 07 Oct 2026 16:00:18 GMT"
     },
     {
-      "title": "The Republican candidates walking a Trump tightrope",
-      "link": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
-      "description": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party.",
-      "pubDate": "Wed, 07 Oct 2026 05:00:21 GMT"
+      "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
+      "link": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&at_campaign=rss",
+      "description": "The consulate, first established in 1838, was set to be closed by the Israeli government in retaliation for UK sanctions.",
+      "pubDate": "Thu, 08 Oct 2026 12:01:55 GMT"
     },
     {
-      "title": "Cornell rape case accuser has received ‘threats’, attorney tells BBC Newshour",
-      "link": "https://www.bbc.co.uk/news/videos/ckly0420q7ypo?at_medium=RSS&at_campaign=rss",
-      "description": "Thomas Giuffra is representing a woman, known in legal documents as Jane Doe, who alleges she was raped at a frat house on campus in 2024.",
-      "pubDate": "Thu, 08 Oct 2026 00:46:36 GMT"
+      "title": "What Americans think about the death penalty",
+      "link": "https://www.bbc.co.uk/news/videos/cjx236wl9416o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC spoke to Americans and international tourists in Washington DC about their views on the death penalty following the botched execution of Christa Pike in Tennessee.",
+      "pubDate": "Thu, 08 Oct 2026 21:49:14 GMT"
     },
     {
-      "title": "'House of Horrors': California couple accused of abusing surrogate-born children",
-      "link": "https://www.bbc.co.uk/news/videos/cmx236yd1nr6o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Madeline Gerber describes the conditions of the mansion where the children - some as young as two months old - were living.",
-      "pubDate": "Wed, 07 Oct 2026 22:20:03 GMT"
+      "title": "BBC on Hurricane Isaias and its expected Gulf Coast landfall",
+      "link": "https://www.bbc.co.uk/news/videos/ckz65l2gne1po?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Weather's Chris Fawkes says the first hurricane of the 2026 Atlantic season could bring dangerous winds, storm surge and heavy rains to the Gulf Coast Friday.",
+      "pubDate": "Thu, 08 Oct 2026 19:39:32 GMT"
     },
     {
       "title": "How toxic haze is causing Singapore’s landmarks to disappear",
       "link": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&at_campaign=rss",
       "description": "The BBC’s Tessa Wong breaks down how one of Indonesia’s worst wildfire seasons is impacting countries around South East Asia.",
       "pubDate": "Wed, 07 Oct 2026 22:10:20 GMT"
-    },
-    {
-      "title": "Watch: Riot police clash with school protesters and use tear gas in France",
-      "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
-      "description": "Hundreds of thousands of people have taken to the streets across France amid a wave of protests by high-school pupils.",
-      "pubDate": "Tue, 06 Oct 2026 21:22:22 GMT"
     }
   ]
 }
