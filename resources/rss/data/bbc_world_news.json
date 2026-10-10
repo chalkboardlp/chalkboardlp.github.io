@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T18:34:28.715014+00:00",
+  "updated": "2026-10-10T22:31:02.618288+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -7,19 +7,19 @@
       "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
       "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
       "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-      "pubDate": "Sat, 10 Oct 2026 18:24:03 GMT"
+      "pubDate": "Sat, 10 Oct 2026 19:28:28 GMT"
     },
     {
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
       "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
       "description": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-      "pubDate": "Sat, 10 Oct 2026 14:16:50 GMT"
+      "pubDate": "Sat, 10 Oct 2026 20:51:12 GMT"
     },
     {
       "title": "Several injured in attack on airport in Saudi capital Riyadh",
       "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
       "description": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
-      "pubDate": "Sat, 10 Oct 2026 16:56:32 GMT"
+      "pubDate": "Sat, 10 Oct 2026 21:27:10 GMT"
     },
     {
       "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
@@ -28,16 +28,10 @@
       "pubDate": "Sat, 10 Oct 2026 17:44:26 GMT"
     },
     {
-      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-      "description": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
-      "pubDate": "Sat, 10 Oct 2026 12:29:31 GMT"
-    },
-    {
-      "title": "Woman injures three people in third Poland school knife attack in a week",
-      "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
-      "description": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
-      "pubDate": "Sat, 10 Oct 2026 14:58:55 GMT"
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "description": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+      "pubDate": "Sat, 10 Oct 2026 22:02:07 GMT"
     },
     {
       "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
@@ -46,10 +40,22 @@
       "pubDate": "Sat, 10 Oct 2026 18:22:29 GMT"
     },
     {
+      "title": "Woman injures three people in third Poland school knife attack in a week",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
+      "description": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
+      "pubDate": "Sat, 10 Oct 2026 14:58:55 GMT"
+    },
+    {
       "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
       "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
       "description": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
       "pubDate": "Sat, 10 Oct 2026 15:23:47 GMT"
+    },
+    {
+      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+      "description": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
+      "pubDate": "Sat, 10 Oct 2026 12:29:31 GMT"
     },
     {
       "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
@@ -148,6 +154,12 @@
       "pubDate": "Fri, 09 Oct 2026 07:19:24 GMT"
     },
     {
+      "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
+      "link": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
+      "description": "The US president's said President Volodymyr Zelensky \"wants to make problems for the world\".",
+      "pubDate": "Sat, 10 Oct 2026 19:25:03 GMT"
+    },
+    {
       "title": "BBC breaks down video of the aftermath of New York City ICE shooting",
       "link": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&at_campaign=rss",
       "description": "The BBC's Nada Tawfik goes through new dramatic body cam footage that shows the tense moments when police arrive on scene.",
@@ -170,18 +182,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
       "description": "BBC correspondent Joe Inwood explains how Pillay's childhood in South Africa led her to become a driving force in international law from Myanmar to Gaza.",
       "pubDate": "Fri, 09 Oct 2026 15:26:33 GMT"
-    },
-    {
-      "title": "Tornado rips through Sicilian town and city",
-      "link": "https://www.bbc.co.uk/news/videos/cm4g1wwl0lxko?at_medium=RSS&at_campaign=rss",
-      "description": "Dramatic footage shows huge tornado moving through Marsala and Petrosino, causing damage to buildings and cars.",
-      "pubDate": "Fri, 09 Oct 2026 16:25:00 GMT"
-    },
-    {
-      "title": "Why is it so hard to put out Indonesian fires shrouding the region in toxic smog?",
-      "link": "https://www.bbc.co.uk/news/videos/c862y63x657no?at_medium=RSS&at_campaign=rss",
-      "description": "We explain why Indonesia’s peatland fires are so difficult to battle and produce so much haze.",
-      "pubDate": "Fri, 09 Oct 2026 09:37:56 GMT"
     }
   ]
 }
