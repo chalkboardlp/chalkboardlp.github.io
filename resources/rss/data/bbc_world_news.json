@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T22:31:02.618288+00:00",
+  "updated": "2026-10-11T01:52:40.762342+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -7,19 +7,25 @@
       "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
       "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
       "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-      "pubDate": "Sat, 10 Oct 2026 19:28:28 GMT"
+      "pubDate": "Sun, 11 Oct 2026 01:41:29 GMT"
+    },
+    {
+      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "description": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
+      "pubDate": "Sun, 11 Oct 2026 00:21:52 GMT"
+    },
+    {
+      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+      "description": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+      "pubDate": "Sat, 10 Oct 2026 22:13:08 GMT"
     },
     {
       "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
       "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
       "description": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
       "pubDate": "Sat, 10 Oct 2026 20:51:12 GMT"
-    },
-    {
-      "title": "Several injured in attack on airport in Saudi capital Riyadh",
-      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "description": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
-      "pubDate": "Sat, 10 Oct 2026 21:27:10 GMT"
     },
     {
       "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
@@ -31,13 +37,19 @@
       "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
       "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
       "description": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
-      "pubDate": "Sat, 10 Oct 2026 22:02:07 GMT"
+      "pubDate": "Sat, 10 Oct 2026 23:19:55 GMT"
     },
     {
       "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
       "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
       "description": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
       "pubDate": "Sat, 10 Oct 2026 18:22:29 GMT"
+    },
+    {
+      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
+      "description": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
+      "pubDate": "Sat, 10 Oct 2026 12:28:51 GMT"
     },
     {
       "title": "Woman injures three people in third Poland school knife attack in a week",
@@ -62,12 +74,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
       "description": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
       "pubDate": "Sat, 10 Oct 2026 10:06:23 GMT"
-    },
-    {
-      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
-      "description": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
-      "pubDate": "Sat, 10 Oct 2026 12:28:51 GMT"
     },
     {
       "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
@@ -112,6 +118,12 @@
       "pubDate": "Fri, 09 Oct 2026 17:14:44 GMT"
     },
     {
+      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+      "link": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+      "description": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
+      "pubDate": "Sat, 10 Oct 2026 23:31:35 GMT"
+    },
+    {
       "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
       "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
       "description": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
@@ -154,6 +166,12 @@
       "pubDate": "Fri, 09 Oct 2026 07:19:24 GMT"
     },
     {
+      "title": "Why have hundreds of 'cockroach' protesters been detained in Delhi",
+      "link": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss",
+      "description": "Thousands of security personnel were deployed in Delhi ahead of the Gen-Z led Cockroach Janta Party protest on Saturday calling for electoral reforms.",
+      "pubDate": "Sat, 10 Oct 2026 14:13:13 GMT"
+    },
+    {
       "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
       "link": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
       "description": "The US president's said President Volodymyr Zelensky \"wants to make problems for the world\".",
@@ -176,12 +194,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cqm263x40y37o?at_medium=RSS&at_campaign=rss",
       "description": "Thailand’s Queen Suthida made her first solo flight in a fighter jet, according to the Thai Royal Household.",
       "pubDate": "Fri, 09 Oct 2026 19:48:26 GMT"
-    },
-    {
-      "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
-      "link": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
-      "description": "BBC correspondent Joe Inwood explains how Pillay's childhood in South Africa led her to become a driving force in international law from Myanmar to Gaza.",
-      "pubDate": "Fri, 09 Oct 2026 15:26:33 GMT"
     }
   ]
 }
