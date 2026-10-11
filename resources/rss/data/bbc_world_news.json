@@ -1,25 +1,37 @@
 {
-  "updated": "2026-10-11T08:48:42.324511+00:00",
+  "updated": "2026-10-11T15:39:29.367432+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-      "pubDate": "Sun, 11 Oct 2026 01:41:29 GMT"
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "pubDate": "Sun, 11 Oct 2026 14:38:10 GMT"
     },
     {
-      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-      "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
-      "description": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
-      "pubDate": "Sat, 10 Oct 2026 22:13:08 GMT"
+      "title": "Pope Leo to have surgery after lump found on lung",
+      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+      "description": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+      "pubDate": "Sun, 11 Oct 2026 13:38:55 GMT"
     },
     {
-      "title": "Delhi braces for more protests as 'cockroach' group's leaders released",
-      "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-      "description": "Police say they will keep restricting access to the city centre after 7,000 people were detained and released on Saturday.",
-      "pubDate": "Sun, 11 Oct 2026 07:10:49 GMT"
+      "title": "Homes and bridges swept away as fresh floods hit Nepal",
+      "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+      "description": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
+      "pubDate": "Sun, 11 Oct 2026 12:03:52 GMT"
+    },
+    {
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "description": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
+      "pubDate": "Sun, 11 Oct 2026 15:32:23 GMT"
+    },
+    {
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+      "description": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
+      "pubDate": "Sun, 11 Oct 2026 15:18:52 GMT"
     },
     {
       "title": "US justice department investigates TV networks over Trump pool coverage",
@@ -28,28 +40,22 @@
       "pubDate": "Sun, 11 Oct 2026 05:05:43 GMT"
     },
     {
-      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-      "description": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
-      "pubDate": "Sat, 10 Oct 2026 23:19:55 GMT"
-    },
-    {
       "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
       "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
       "description": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
       "pubDate": "Sat, 10 Oct 2026 18:22:29 GMT"
     },
     {
+      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+      "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+      "description": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
+      "pubDate": "Sun, 11 Oct 2026 11:11:42 GMT"
+    },
+    {
       "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
       "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
       "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
       "pubDate": "Sat, 10 Oct 2026 17:44:26 GMT"
-    },
-    {
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "description": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-      "pubDate": "Sat, 10 Oct 2026 20:51:12 GMT"
     },
     {
       "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
@@ -62,6 +68,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
       "description": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
       "pubDate": "Sat, 10 Oct 2026 14:58:55 GMT"
+    },
+    {
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "description": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+      "pubDate": "Sat, 10 Oct 2026 20:51:12 GMT"
     },
     {
       "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
@@ -118,16 +130,28 @@
       "pubDate": "Fri, 09 Oct 2026 17:14:44 GMT"
     },
     {
+      "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "description": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
+      "pubDate": "Sun, 11 Oct 2026 15:32:32 GMT"
+    },
+    {
       "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
       "link": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
       "description": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
       "pubDate": "Sat, 10 Oct 2026 23:31:35 GMT"
     },
     {
-      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-      "description": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-      "pubDate": "Fri, 09 Oct 2026 22:30:22 GMT"
+      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+      "description": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+      "pubDate": "Sat, 10 Oct 2026 22:13:08 GMT"
+    },
+    {
+      "title": "Public executions in the US stopped nearly a century ago -  why are they resuming now?",
+      "link": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
+      "description": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong.",
+      "pubDate": "Sat, 10 Oct 2026 09:17:36 GMT"
     },
     {
       "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
@@ -136,10 +160,10 @@
       "pubDate": "Sat, 10 Oct 2026 04:51:57 GMT"
     },
     {
-      "title": "Public executions in the US stopped nearly a century ago -  why are they resuming now?",
-      "link": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
-      "description": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong.",
-      "pubDate": "Sat, 10 Oct 2026 09:17:36 GMT"
+      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "description": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+      "pubDate": "Fri, 09 Oct 2026 22:30:22 GMT"
     },
     {
       "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
@@ -164,6 +188,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
       "description": "Neha Bora has emerged as one of the most recognisable faces from India's recent Gen Z-led protests.",
       "pubDate": "Fri, 09 Oct 2026 07:19:24 GMT"
+    },
+    {
+      "title": "Buildings swept away as flash floods hit central Nepal",
+      "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
+      "description": "A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country.",
+      "pubDate": "Sun, 11 Oct 2026 10:34:02 GMT"
     },
     {
       "title": "Why have hundreds of 'cockroach' protesters been detained in Delhi",
