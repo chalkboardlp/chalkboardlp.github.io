@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T01:52:40.762342+00:00",
+  "updated": "2026-10-11T08:48:42.324511+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -10,28 +10,22 @@
       "pubDate": "Sun, 11 Oct 2026 01:41:29 GMT"
     },
     {
-      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "description": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
-      "pubDate": "Sun, 11 Oct 2026 00:21:52 GMT"
-    },
-    {
       "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
       "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
       "description": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
       "pubDate": "Sat, 10 Oct 2026 22:13:08 GMT"
     },
     {
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "description": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-      "pubDate": "Sat, 10 Oct 2026 20:51:12 GMT"
+      "title": "Delhi braces for more protests as 'cockroach' group's leaders released",
+      "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+      "description": "Police say they will keep restricting access to the city centre after 7,000 people were detained and released on Saturday.",
+      "pubDate": "Sun, 11 Oct 2026 07:10:49 GMT"
     },
     {
-      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
-      "pubDate": "Sat, 10 Oct 2026 17:44:26 GMT"
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "description": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "pubDate": "Sun, 11 Oct 2026 05:05:43 GMT"
     },
     {
       "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
@@ -44,6 +38,18 @@
       "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
       "description": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
       "pubDate": "Sat, 10 Oct 2026 18:22:29 GMT"
+    },
+    {
+      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+      "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+      "pubDate": "Sat, 10 Oct 2026 17:44:26 GMT"
+    },
+    {
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "description": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+      "pubDate": "Sat, 10 Oct 2026 20:51:12 GMT"
     },
     {
       "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
@@ -62,12 +68,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
       "description": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
       "pubDate": "Sat, 10 Oct 2026 15:23:47 GMT"
-    },
-    {
-      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-      "description": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
-      "pubDate": "Sat, 10 Oct 2026 12:29:31 GMT"
     },
     {
       "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
