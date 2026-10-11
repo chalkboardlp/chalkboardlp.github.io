@@ -1,8 +1,14 @@
 {
-  "updated": "2026-10-11T15:39:29.367432+00:00",
+  "updated": "2026-10-11T20:15:23.821400+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Saudi capital airport hit by second Houthi strike in two days",
+      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "description": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
+      "pubDate": "Sun, 11 Oct 2026 16:41:37 GMT"
+    },
     {
       "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
       "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
@@ -10,10 +16,10 @@
       "pubDate": "Sun, 11 Oct 2026 14:38:10 GMT"
     },
     {
-      "title": "Pope Leo to have surgery after lump found on lung",
-      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-      "description": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
-      "pubDate": "Sun, 11 Oct 2026 13:38:55 GMT"
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "description": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+      "pubDate": "Sun, 11 Oct 2026 17:27:24 GMT"
     },
     {
       "title": "Homes and bridges swept away as fresh floods hit Nepal",
@@ -22,16 +28,28 @@
       "pubDate": "Sun, 11 Oct 2026 12:03:52 GMT"
     },
     {
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+      "description": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
+      "pubDate": "Sun, 11 Oct 2026 15:18:52 GMT"
+    },
+    {
+      "title": "Orangutans released back into Borneo forest after devastating fires",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+      "description": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
+      "pubDate": "Sun, 11 Oct 2026 19:08:04 GMT"
+    },
+    {
       "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
       "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
       "description": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
       "pubDate": "Sun, 11 Oct 2026 15:32:23 GMT"
     },
     {
-      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
-      "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
-      "description": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
-      "pubDate": "Sun, 11 Oct 2026 15:18:52 GMT"
+      "title": "Pope Leo to have surgery after lump found on lung",
+      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+      "description": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+      "pubDate": "Sun, 11 Oct 2026 13:38:55 GMT"
     },
     {
       "title": "US justice department investigates TV networks over Trump pool coverage",
@@ -70,69 +88,15 @@
       "pubDate": "Sat, 10 Oct 2026 14:58:55 GMT"
     },
     {
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "description": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-      "pubDate": "Sat, 10 Oct 2026 20:51:12 GMT"
-    },
-    {
       "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
       "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
       "description": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
       "pubDate": "Sat, 10 Oct 2026 15:23:47 GMT"
     },
     {
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-      "description": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
-      "pubDate": "Sat, 10 Oct 2026 10:06:23 GMT"
-    },
-    {
-      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
-      "description": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
-      "pubDate": "Sat, 10 Oct 2026 14:49:32 GMT"
-    },
-    {
-      "title": "US country music star Ella Langley cancels show due to 'security threat'",
-      "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
-      "description": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\".",
-      "pubDate": "Sat, 10 Oct 2026 02:02:54 GMT"
-    },
-    {
-      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-      "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-      "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
-      "pubDate": "Sat, 10 Oct 2026 04:34:55 GMT"
-    },
-    {
-      "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-      "description": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
-      "pubDate": "Fri, 09 Oct 2026 21:55:51 GMT"
-    },
-    {
-      "title": "JD Vance casts doubt on firing squad execution and says he would not watch it",
-      "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-      "description": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
-      "pubDate": "Fri, 09 Oct 2026 21:50:47 GMT"
-    },
-    {
-      "title": "Man named Hitler Mussolini elected mayor in Peru",
-      "link": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
-      "description": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
-      "pubDate": "Fri, 09 Oct 2026 16:32:22 GMT"
-    },
-    {
-      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-      "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-      "description": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
-      "pubDate": "Fri, 09 Oct 2026 17:14:44 GMT"
-    },
-    {
-      "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
       "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
-      "description": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
+      "description": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
       "pubDate": "Sun, 11 Oct 2026 15:32:32 GMT"
     },
     {
@@ -158,36 +122,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
       "description": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
       "pubDate": "Sat, 10 Oct 2026 04:51:57 GMT"
-    },
-    {
-      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-      "description": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-      "pubDate": "Fri, 09 Oct 2026 22:30:22 GMT"
-    },
-    {
-      "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
-      "link": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
-      "description": "Students taking to the streets have become a focal point in the country's increasingly polarised politics.",
-      "pubDate": "Fri, 09 Oct 2026 23:24:33 GMT"
-    },
-    {
-      "title": "Questions remain over Ebola patient who travelled across three nations undetected",
-      "link": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
-      "description": "Fresh details reveal how the 40-year-old businessman flew and crossed regional borders while seriously ill.",
-      "pubDate": "Sat, 10 Oct 2026 00:00:08 GMT"
-    },
-    {
-      "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
-      "description": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
-      "pubDate": "Fri, 09 Oct 2026 09:43:22 GMT"
-    },
-    {
-      "title": "Meet India's feisty Gen Z protester who is taking on Modi",
-      "link": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
-      "description": "Neha Bora has emerged as one of the most recognisable faces from India's recent Gen Z-led protests.",
-      "pubDate": "Fri, 09 Oct 2026 07:19:24 GMT"
     },
     {
       "title": "Buildings swept away as flash floods hit central Nepal",
