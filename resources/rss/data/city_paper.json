@@ -1,8 +1,14 @@
 {
-  "updated": "2026-10-13T19:15:55.276135+00:00",
+  "updated": "2026-10-13T23:17:52.363139+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Bogotá to deploy over 4,000 anti-riot police in day of protests against De la Espriella",
+      "link": "https://thecitypaperbogota.com/news/bogota-to-deploy-over-4000-anti-riot-police-in-day-of-protests-against-de-la-espriella/",
+      "description": "More than 4,000 members of the National police&#8217;s Anti-riot Squad &#8211; ESMAD &#8211;  are expected to be deployed on Bogotá&#8217;s streets on Wednesday as former president Gustavo Petro prepares to join trade unions in a nationwide mobilization against President Abelardo de la Espriella. Wednesday’s rallies will test the government&#8217;s security guarantees in maintaing public order [&#8230;]",
+      "pubDate": "Tue, 13 Oct 2026 20:26:37 +0000"
+    },
     {
       "title": "British-Born Cancer Specialist Dies After Medellín’s EDC Music Festival",
       "link": "https://thecitypaperbogota.com/news/british-born-cancer-specialist-dies-after-medellins-edc-music-festival/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/colombia-moves-to-revive-aerial-eradication-of-coca-crops/",
       "description": "Colombia is moving rapidly to revive aerial eradication of coca, but the chemical at the centre of its first proposed test will not be glyphosate, known commercially as &#8220;Round Up&#8221;. The government of President Abelardo de la Espriella has approved a pilot programme to test the aerial spraying of coca crops with glufosinate ammonium, an [&#8230;]",
       "pubDate": "Thu, 10 Sep 2026 20:09:43 +0000"
-    },
-    {
-      "title": "Rubio’s Whirlwind Visit Signals a New Era in U.S.-Colombia Relations",
-      "link": "https://thecitypaperbogota.com/news/rubios-whirlwind-visit-signals-a-new-era-in-u-s-colombia-relations/",
-      "description": "U.S. Secretary of State Marco Rubio’s whirlwind visit to Colombia on Tuesday marked a decisive shift in relations between Washington and Bogotá, with President Abelardo De La Espriella presenting his government as a renewed strategic partner for the United States in Latin America. Meeting in Barranquilla, the alternate seat of Colombia’s presidency since De La [&#8230;]",
-      "pubDate": "Wed, 09 Sep 2026 16:03:29 +0000"
     }
   ]
 }
