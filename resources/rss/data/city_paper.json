@@ -1,8 +1,14 @@
 {
-  "updated": "2026-10-13T11:46:17.677587+00:00",
+  "updated": "2026-10-13T19:15:55.276135+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "British-Born Cancer Specialist Dies After Medellín’s EDC Music Festival",
+      "link": "https://thecitypaperbogota.com/news/british-born-cancer-specialist-dies-after-medellins-edc-music-festival/",
+      "description": "The death of a British-born cancer specialist after an electronic music festival in Medellín this weekend has cast a shadow over the Colombian debut of one of the world&#8217;s best-known dance music brands. A second foreign attendee from Costa Rica also died during the Electric Daisy Carnival (EDC), held October 10 and 11 at Medellín&#8217;s [&#8230;]",
+      "pubDate": "Tue, 13 Oct 2026 14:58:08 +0000"
+    },
     {
       "title": "From Cemetery Duty to a U.S. Indictment: Timochenko’s Name Resurfaces in Maduro Case",
       "link": "https://thecitypaperbogota.com/news/from-cemetery-duty-to-a-u-s-indictment-timochenkos-name-resurfaces-in-maduro-case/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/rubios-whirlwind-visit-signals-a-new-era-in-u-s-colombia-relations/",
       "description": "U.S. Secretary of State Marco Rubio’s whirlwind visit to Colombia on Tuesday marked a decisive shift in relations between Washington and Bogotá, with President Abelardo De La Espriella presenting his government as a renewed strategic partner for the United States in Latin America. Meeting in Barranquilla, the alternate seat of Colombia’s presidency since De La [&#8230;]",
       "pubDate": "Wed, 09 Sep 2026 16:03:29 +0000"
-    },
-    {
-      "title": "Rubio Arrives in Colombia as Washington Seeks New Strategic Alliance",
-      "link": "https://thecitypaperbogota.com/news/rubio-arrives-in-colombia-as-washington-seeks-new-strategic-alliance/",
-      "description": "U.S. Secretary of State Marco Rubio is expected to arrive in Barranquilla on Tuesday afternoon for a high-level meeting with Colombian President Abelardo De La Espriella, in what could become a defining moment in the reconstruction of relations between Bogotá and Washington. The visit, confirmed by Colombia’s Foreign Ministry, will be Rubio’s first official trip [&#8230;]",
-      "pubDate": "Tue, 08 Sep 2026 16:55:58 +0000"
     }
   ]
 }
