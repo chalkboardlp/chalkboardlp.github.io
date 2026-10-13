@@ -1,8 +1,50 @@
 {
-  "updated": "2026-10-13T03:33:03.680783+00:00",
+  "updated": "2026-10-13T11:46:16.251823+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
+      "description": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
+      "pubDate": "Tue, 13 Oct 2026 05:02:34 GMT"
+    },
+    {
+      "title": "Breaking Bad actor RJ Mitte dies aged 34",
+      "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+      "description": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+      "pubDate": "Tue, 13 Oct 2026 08:03:34 GMT"
+    },
+    {
+      "title": "One dead and several hurt after rollercoaster incident at Six Flags",
+      "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+      "description": "Aerial footage at the park after the incident shows a stuck rollercoaster with riders being helped off.",
+      "pubDate": "Tue, 13 Oct 2026 10:28:07 GMT"
+    },
+    {
+      "title": "US emergency call records reveal confusion after failed execution of Christa Pike",
+      "link": "https://www.bbc.co.uk/news/articles/ck1exg6qjdz3o?at_medium=RSS&at_campaign=rss",
+      "description": "The killer of Colleen Slemmer was ultimately taken to hospital after two doses of lethal injection did not kill her.",
+      "pubDate": "Tue, 13 Oct 2026 09:11:08 GMT"
+    },
+    {
+      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+      "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
+      "description": "Eleven crew members are missing after a merchant ship was sunk overnight, local officials say.",
+      "pubDate": "Tue, 13 Oct 2026 10:57:17 GMT"
+    },
+    {
+      "title": "Super El Niño sets another record as it strengthens to 'unprecedented levels'",
+      "link": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss",
+      "description": "El Niño has continued to strengthen, with several key measures now in record territory. Simon King explores how it compares to previous events.",
+      "pubDate": "Tue, 13 Oct 2026 11:18:44 GMT"
+    },
+    {
+      "title": "Ex-president named leader of new DR Congo rebel coalition",
+      "link": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
+      "description": "Joseph Kabila had previously denied having links to the M23 rebels, which control much of eastern DR Congo.",
+      "pubDate": "Tue, 13 Oct 2026 11:23:55 GMT"
+    },
     {
       "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
       "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
@@ -10,28 +52,16 @@
       "pubDate": "Mon, 12 Oct 2026 21:20:51 GMT"
     },
     {
-      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-      "link": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
-      "description": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
-      "pubDate": "Mon, 12 Oct 2026 20:17:37 GMT"
+      "title": "India 'cockroach' leaders detained after entering barricaded protest site",
+      "link": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
+      "description": "Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists.",
+      "pubDate": "Tue, 13 Oct 2026 07:31:10 GMT"
     },
     {
-      "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
-      "description": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
-      "pubDate": "Mon, 12 Oct 2026 05:00:52 GMT"
-    },
-    {
-      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-      "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-      "description": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
-      "pubDate": "Tue, 13 Oct 2026 01:26:02 GMT"
-    },
-    {
-      "title": "Breaking Bad actor RJ Mitte dies aged 34",
-      "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-      "description": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
-      "pubDate": "Tue, 13 Oct 2026 00:12:25 GMT"
+      "title": "Watch: US man eyes pumpkin world record after fifth contest win",
+      "link": "https://www.bbc.co.uk/news/videos/c80405zkgyqvo?at_medium=RSS&at_campaign=rss",
+      "description": "Horticulture teacher Travis Gienger hauled his pumpkin from Minnesota to Half Moon Bay, California where he won the annual event.",
+      "pubDate": "Tue, 13 Oct 2026 04:04:57 GMT"
     },
     {
       "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
@@ -40,22 +70,40 @@
       "pubDate": "Mon, 12 Oct 2026 16:46:49 GMT"
     },
     {
+      "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+      "description": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
+      "pubDate": "Mon, 12 Oct 2026 05:00:52 GMT"
+    },
+    {
       "title": "Immigration agents search congresswoman Ilhan Omar's home",
       "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
       "description": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
-      "pubDate": "Mon, 12 Oct 2026 22:05:31 GMT"
+      "pubDate": "Tue, 13 Oct 2026 10:37:39 GMT"
     },
     {
-      "title": "Fridges in French supermarkets hit by cyber attack",
-      "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-      "description": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
-      "pubDate": "Mon, 12 Oct 2026 18:31:32 GMT"
+      "title": "Dating app Bumble in $1bn takeover talks, say reports",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+      "description": "The dating app which recently ditched its \"women-first\" chat rule could be bought by an investment firm.",
+      "pubDate": "Tue, 13 Oct 2026 01:50:47 GMT"
     },
     {
       "title": "Qantas flight grounded after bedbug outbreak",
       "link": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
       "description": "The flight from Italy to Australia was cancelled after passengers on the plane's previous journey complained of bug bites.",
       "pubDate": "Mon, 12 Oct 2026 21:01:45 GMT"
+    },
+    {
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "description": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+      "pubDate": "Tue, 13 Oct 2026 04:30:09 GMT"
+    },
+    {
+      "title": "Fridges in French supermarkets hit by cyber attack",
+      "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+      "description": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
+      "pubDate": "Mon, 12 Oct 2026 18:31:32 GMT"
     },
     {
       "title": "Tom Cruise film Digger forecast to become one of Hollywood's biggest flops",
@@ -118,16 +166,34 @@
       "pubDate": "Sun, 11 Oct 2026 15:32:23 GMT"
     },
     {
-      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-      "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
-      "pubDate": "Sun, 11 Oct 2026 14:38:10 GMT"
+      "title": "The island where locals say data centres are taking their water",
+      "link": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo?at_medium=RSS&at_campaign=rss",
+      "description": "\"Not a single drop has come through our taps for the last three months,\" a local tells the BBC.",
+      "pubDate": "Mon, 12 Oct 2026 22:30:55 GMT"
     },
     {
-      "title": "Pope Leo to have surgery after lump found on lung",
-      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-      "description": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
-      "pubDate": "Sun, 11 Oct 2026 13:38:55 GMT"
+      "title": "Boardroom feud tests trusted Indian business empire",
+      "link": "https://www.bbc.co.uk/news/articles/c54g1mp7lz7zo?at_medium=RSS&at_campaign=rss",
+      "description": "The dispute raises questions about the Indian conglomerate's governance, succession plans and future.",
+      "pubDate": "Mon, 12 Oct 2026 23:10:32 GMT"
+    },
+    {
+      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+      "link": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
+      "description": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
+      "pubDate": "Mon, 12 Oct 2026 20:17:37 GMT"
+    },
+    {
+      "title": "Death threats and isolation - the cost of fighting sexual violence in Iraq",
+      "link": "https://www.bbc.co.uk/news/articles/cqd089r55vp3o?at_medium=RSS&at_campaign=rss",
+      "description": "Women say they share stories of abuse to highlight the issue, despite social pressure and safety fears.",
+      "pubDate": "Tue, 13 Oct 2026 05:02:57 GMT"
+    },
+    {
+      "title": "Where the US midterm elections will be won and lost",
+      "link": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
+      "description": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump’s final two years as president.",
+      "pubDate": "Tue, 13 Oct 2026 05:02:44 GMT"
     },
     {
       "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
@@ -148,16 +214,10 @@
       "pubDate": "Sun, 11 Oct 2026 23:13:51 GMT"
     },
     {
-      "title": "Robert Pattinson on new film Primetime and how hunting predators became hit TV",
-      "link": "https://www.bbc.co.uk/news/articles/cmn5d92423vyo?at_medium=RSS&at_campaign=rss",
-      "description": "The actor portrays the real-life host of American TV show, To Catch a Predator, in his latest film.",
-      "pubDate": "Sun, 11 Oct 2026 23:39:12 GMT"
-    },
-    {
-      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
-      "description": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
-      "pubDate": "Sun, 11 Oct 2026 15:32:32 GMT"
+      "title": "BBC's Orla Guerin travels with Yemen's southern national security forces through desert battlefield",
+      "link": "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&at_campaign=rss",
+      "description": "Orla Guerin travelled through Yemen, with forces loyal to its internationally recognised government, to a remote desert battlefield where Houthi rebels were dislodged just days ago.",
+      "pubDate": "Tue, 13 Oct 2026 04:27:22 GMT"
     },
     {
       "title": "Watch: What could Trump's energy ceasefire mean for Ukraine?",
