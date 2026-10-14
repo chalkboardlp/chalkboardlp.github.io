@@ -1,25 +1,25 @@
 {
-  "updated": "2026-10-14T13:43:01.333775+00:00",
+  "updated": "2026-10-14T18:38:02.634500+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+      "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
       "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
       "description": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
       "pubDate": "Wed, 14 Oct 2026 13:11:17 GMT"
     },
     {
-      "title": "US inflation rises more than expected ahead of midterm elections",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "description": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-      "pubDate": "Wed, 14 Oct 2026 13:40:36 GMT"
+      "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
+      "link": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+      "description": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
+      "pubDate": "Wed, 14 Oct 2026 15:12:46 GMT"
     },
     {
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "description": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
-      "pubDate": "Wed, 14 Oct 2026 11:17:51 GMT"
+      "title": "US inflation rises more than expected - here's what is happening with prices",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "description": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+      "pubDate": "Wed, 14 Oct 2026 15:26:14 GMT"
     },
     {
       "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
@@ -28,10 +28,34 @@
       "pubDate": "Wed, 14 Oct 2026 13:41:51 GMT"
     },
     {
-      "title": "Saudi employee charged with planting recording device in OpenAI office",
-      "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-      "description": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
-      "pubDate": "Tue, 13 Oct 2026 21:42:49 GMT"
+      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+      "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+      "description": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
+      "pubDate": "Wed, 14 Oct 2026 13:35:29 GMT"
+    },
+    {
+      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+      "description": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
+      "pubDate": "Wed, 14 Oct 2026 16:47:32 GMT"
+    },
+    {
+      "title": "Kenya confirms second Ebola case - a relative of the first victim",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+      "description": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
+      "pubDate": "Wed, 14 Oct 2026 17:23:01 GMT"
+    },
+    {
+      "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
+      "link": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
+      "description": "It comes amidst an an ongoing pay dispute between public sector workers and the Irish government.",
+      "pubDate": "Wed, 14 Oct 2026 14:18:18 GMT"
+    },
+    {
+      "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
+      "link": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
+      "description": "All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.",
+      "pubDate": "Wed, 14 Oct 2026 15:34:19 GMT"
     },
     {
       "title": "Turkish police raid opposition TV station, halting live broadcasts",
@@ -52,58 +76,34 @@
       "pubDate": "Wed, 14 Oct 2026 11:24:25 GMT"
     },
     {
+      "title": "Saudi employee charged with planting recording device in OpenAI office",
+      "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "description": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "pubDate": "Tue, 13 Oct 2026 21:42:49 GMT"
+    },
+    {
       "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
       "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
-      "description": "It comes ahead of a meeting between the prime minister and President Zelensky at Downing Street.",
-      "pubDate": "Wed, 14 Oct 2026 13:09:51 GMT"
+      "description": "It comes as the prime minister meets President Zelensky at Downing Street.",
+      "pubDate": "Wed, 14 Oct 2026 15:56:57 GMT"
     },
     {
-      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-      "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-      "description": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
-      "pubDate": "Tue, 13 Oct 2026 19:23:28 GMT"
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "description": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+      "pubDate": "Wed, 14 Oct 2026 15:54:04 GMT"
     },
     {
-      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-      "description": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
-      "pubDate": "Wed, 14 Oct 2026 10:08:26 GMT"
+      "title": "Are the European Women's World Cup play-offs working?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo?at_medium=RSS&at_campaign=rss",
+      "description": "The ease in which England saw off Greece in round one of the Women's World Cup qualifying play-offs showed just how inefficient the structure currently is.",
+      "pubDate": "Wed, 14 Oct 2026 13:25:56 GMT"
     },
     {
-      "title": "Zimbabwean author denies using AI to write award-winning story",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
-      "description": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
-      "pubDate": "Tue, 13 Oct 2026 23:31:10 GMT"
-    },
-    {
-      "title": "Lena Dunham's Girls to return for limited HBO run",
-      "link": "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo?at_medium=RSS&at_campaign=rss",
-      "description": "Ten years after the series finale, the \"Girls\" are getting back together to explore the \"milestone of turning forty\", HBO says.",
-      "pubDate": "Wed, 14 Oct 2026 02:09:30 GMT"
-    },
-    {
-      "title": "Russia arrests Japanese journalist on spying charges",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
-      "description": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
-      "pubDate": "Wed, 14 Oct 2026 08:00:03 GMT"
-    },
-    {
-      "title": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot",
-      "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "description": "The Saudi energy ministry says the Houthi attack caused a \"limited fire\" at Aramco's headquarters complex in Dhahran.",
-      "pubDate": "Wed, 14 Oct 2026 12:26:13 GMT"
-    },
-    {
-      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-      "description": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
-      "pubDate": "Wed, 14 Oct 2026 11:08:47 GMT"
-    },
-    {
-      "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-      "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-      "description": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
-      "pubDate": "Tue, 13 Oct 2026 17:10:50 GMT"
+      "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
+      "link": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&at_campaign=rss",
+      "description": "Striking images including an urban coyote and an elephant carrying a dead calf are among this year's winners.",
+      "pubDate": "Tue, 13 Oct 2026 23:26:54 GMT"
     },
     {
       "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
@@ -118,22 +118,28 @@
       "pubDate": "Tue, 13 Oct 2026 22:01:43 GMT"
     },
     {
-      "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
-      "link": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
-      "description": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less.",
-      "pubDate": "Tue, 13 Oct 2026 22:07:40 GMT"
+      "title": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
+      "link": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&at_campaign=rss",
+      "description": "Châtaigniers en fleurs, also known as Chestnut Trees in Blossom, is expected to receive record bids at auction this weekend.",
+      "pubDate": "Wed, 14 Oct 2026 04:21:25 GMT"
     },
     {
       "title": "What we know about the deadly Six Flags rollercoaster incident in Georgia",
       "link": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
       "description": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at an amusement park.",
-      "pubDate": "Wed, 14 Oct 2026 00:59:16 GMT"
+      "pubDate": "Wed, 14 Oct 2026 15:46:46 GMT"
     },
     {
-      "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
-      "link": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
-      "description": "Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks.",
-      "pubDate": "Tue, 13 Oct 2026 13:27:31 GMT"
+      "title": "What if you could turn off your algorithm? Australia is about to try",
+      "link": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
+      "description": "New legislation is being tabled in Australia's parliament on Thursday to force big tech to allow users to switch off algorithms which send them recommended content.",
+      "pubDate": "Wed, 14 Oct 2026 18:00:54 GMT"
+    },
+    {
+      "title": "What we know about the Pope's lung cancer diagnosis",
+      "link": "https://www.bbc.co.uk/news/videos/cwyvrmp9qgrgo?at_medium=RSS&at_campaign=rss",
+      "description": "The Pope is recovering in hospital after a successful surgery to remove part of his right lung.",
+      "pubDate": "Wed, 14 Oct 2026 12:37:33 GMT"
     },
     {
       "title": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
@@ -152,18 +158,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
       "description": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.",
       "pubDate": "Tue, 13 Oct 2026 22:00:20 GMT"
-    },
-    {
-      "title": "Inside Katie Zacharia's very brief White House briefing",
-      "link": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign.",
-      "pubDate": "Tue, 13 Oct 2026 17:04:37 GMT"
-    },
-    {
-      "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
-      "link": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
-      "description": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week.",
-      "pubDate": "Tue, 13 Oct 2026 18:23:22 GMT"
     }
   ]
 }
