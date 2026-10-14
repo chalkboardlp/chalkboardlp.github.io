@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T23:17:51.063473+00:00",
+  "updated": "2026-10-14T01:57:45.779298+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -7,13 +7,19 @@
       "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
       "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
       "description": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-      "pubDate": "Tue, 13 Oct 2026 20:46:06 GMT"
+      "pubDate": "Wed, 14 Oct 2026 00:17:00 GMT"
     },
     {
       "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
       "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
       "description": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
       "pubDate": "Tue, 13 Oct 2026 21:42:49 GMT"
+    },
+    {
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "description": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "pubDate": "Tue, 13 Oct 2026 23:42:22 GMT"
     },
     {
       "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
@@ -34,22 +40,28 @@
       "pubDate": "Tue, 13 Oct 2026 19:51:14 GMT"
     },
     {
-      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-      "description": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
-      "pubDate": "Tue, 13 Oct 2026 18:25:28 GMT"
-    },
-    {
       "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
       "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
       "description": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
       "pubDate": "Tue, 13 Oct 2026 19:23:28 GMT"
     },
     {
+      "title": "Zimbabwean author denies using AI to write award-winning story",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
+      "description": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
+      "pubDate": "Tue, 13 Oct 2026 23:31:10 GMT"
+    },
+    {
+      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+      "description": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
+      "pubDate": "Tue, 13 Oct 2026 18:25:28 GMT"
+    },
+    {
       "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
       "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
       "description": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
-      "pubDate": "Tue, 13 Oct 2026 22:14:33 GMT"
+      "pubDate": "Wed, 14 Oct 2026 01:56:57 GMT"
     },
     {
       "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
@@ -76,18 +88,6 @@
       "pubDate": "Tue, 13 Oct 2026 08:03:34 GMT"
     },
     {
-      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-      "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-      "description": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
-      "pubDate": "Tue, 13 Oct 2026 14:51:59 GMT"
-    },
-    {
-      "title": "BBC FM radio transmissions suspended in Afghanistan",
-      "link": "https://www.bbc.co.uk/news/articles/cm8ezp4g7p6po?at_medium=RSS&at_campaign=rss",
-      "description": "BBC programming is still reaching audiences on shortwave, medium wave, via satellite and online.",
-      "pubDate": "Tue, 13 Oct 2026 12:13:57 GMT"
-    },
-    {
       "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
       "link": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
       "description": "As loneliness grows in China, a new industry is emerging to provide companionship and support.",
@@ -106,16 +106,22 @@
       "pubDate": "Tue, 13 Oct 2026 22:07:40 GMT"
     },
     {
+      "title": "What we know about the man who died falling from a Six Flags rollercoaster",
+      "link": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
+      "description": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia.",
+      "pubDate": "Wed, 14 Oct 2026 00:59:16 GMT"
+    },
+    {
       "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
       "link": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
       "description": "Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks.",
       "pubDate": "Tue, 13 Oct 2026 13:27:31 GMT"
     },
     {
-      "title": "The island where locals say data centres are taking their water",
-      "link": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo?at_medium=RSS&at_campaign=rss",
-      "description": "\"Not a single drop has come through our taps for the last three months,\" a local tells the BBC.",
-      "pubDate": "Mon, 12 Oct 2026 22:30:55 GMT"
+      "title": "Watch: 'Traumatic' - Witnesses recount moment man fell out of Six Flags roller coaster",
+      "link": "https://www.bbc.co.uk/news/videos/cqy8le2mrd0po?at_medium=RSS&at_campaign=rss",
+      "description": "One person has died and others were injured after an incident on a rollercoaster at an amusement park in the US state of Georgia.",
+      "pubDate": "Tue, 13 Oct 2026 23:42:15 GMT"
     },
     {
       "title": "Why the lonely in China are hiring 'temporary children'",
@@ -134,12 +140,6 @@
       "link": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
       "description": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week.",
       "pubDate": "Tue, 13 Oct 2026 18:23:22 GMT"
-    },
-    {
-      "title": "BBC's Orla Guerin travels with Yemen's southern national security forces through desert battlefield",
-      "link": "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&at_campaign=rss",
-      "description": "Orla Guerin travelled through Yemen, with forces loyal to its internationally recognised government, to a remote desert battlefield where Houthi rebels were dislodged just days ago.",
-      "pubDate": "Tue, 13 Oct 2026 04:27:22 GMT"
     }
   ]
 }
