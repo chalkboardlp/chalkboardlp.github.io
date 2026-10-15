@@ -1,8 +1,14 @@
 {
-  "updated": "2026-10-15T18:17:08.585067+00:00",
+  "updated": "2026-10-15T21:28:05.381470+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Bus hits train stopped on French side of  Channel Tunnel, with 19 injured",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+      "description": "Two people were severely injured and evacuated by helicopter but no one's life appeared to be in danger, officials said.",
+      "pubDate": "Thu, 15 Oct 2026 21:12:14 GMT"
+    },
     {
       "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
       "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
@@ -16,16 +22,28 @@
       "pubDate": "Thu, 15 Oct 2026 16:50:18 GMT"
     },
     {
+      "title": "Maduro pleads not guilty to new torture-related charges in New York",
+      "link": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
+      "description": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges.",
+      "pubDate": "Thu, 15 Oct 2026 16:52:44 GMT"
+    },
+    {
       "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
       "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
       "description": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
       "pubDate": "Thu, 15 Oct 2026 15:26:16 GMT"
     },
     {
-      "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-      "link": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
-      "description": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
-      "pubDate": "Thu, 15 Oct 2026 10:05:29 GMT"
+      "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+      "description": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+      "pubDate": "Thu, 15 Oct 2026 17:18:49 GMT"
+    },
+    {
+      "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
+      "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
+      "description": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought.",
+      "pubDate": "Thu, 15 Oct 2026 15:00:05 GMT"
     },
     {
       "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
@@ -44,6 +62,18 @@
       "link": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
       "description": "Protests have taken place over the rules which have seen pupils wearing hijabs turned away from schools.",
       "pubDate": "Thu, 15 Oct 2026 16:15:06 GMT"
+    },
+    {
+      "title": "Letters with 'suspicious substances' sent to US election offices",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
+      "description": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
+      "pubDate": "Thu, 15 Oct 2026 20:52:13 GMT"
+    },
+    {
+      "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+      "link": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
+      "description": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
+      "pubDate": "Thu, 15 Oct 2026 10:05:29 GMT"
     },
     {
       "title": "Obama says drift towards extremism 'not inevitable'",
