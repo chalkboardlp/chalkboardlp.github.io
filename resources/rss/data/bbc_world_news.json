@@ -1,19 +1,25 @@
 {
-  "updated": "2026-10-15T13:24:59.610430+00:00",
+  "updated": "2026-10-15T18:17:08.585067+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
+      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+      "description": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+      "pubDate": "Thu, 15 Oct 2026 17:47:22 GMT"
+    },
+    {
       "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
       "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
       "description": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
-      "pubDate": "Thu, 15 Oct 2026 12:03:51 GMT"
+      "pubDate": "Thu, 15 Oct 2026 16:50:18 GMT"
     },
     {
       "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
       "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-      "description": "Rescue officials fear more people are buried under the debris in the north-western city of Peshawar.",
-      "pubDate": "Thu, 15 Oct 2026 12:28:26 GMT"
+      "description": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
+      "pubDate": "Thu, 15 Oct 2026 15:26:16 GMT"
     },
     {
       "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
@@ -22,10 +28,10 @@
       "pubDate": "Thu, 15 Oct 2026 10:05:29 GMT"
     },
     {
-      "title": "Eight crew missing after drone attack leaves tanker ablaze off Romania's coast",
+      "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
       "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
       "description": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
-      "pubDate": "Thu, 15 Oct 2026 11:12:54 GMT"
+      "pubDate": "Thu, 15 Oct 2026 14:51:30 GMT"
     },
     {
       "title": "White House defends new press secretary over her legal credentials",
@@ -34,16 +40,22 @@
       "pubDate": "Thu, 15 Oct 2026 08:41:04 GMT"
     },
     {
-      "title": "Brazil's Congress approves shorter working week in win for Lula",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
-      "description": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.",
-      "pubDate": "Thu, 15 Oct 2026 10:05:17 GMT"
+      "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
+      "link": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
+      "description": "Protests have taken place over the rules which have seen pupils wearing hijabs turned away from schools.",
+      "pubDate": "Thu, 15 Oct 2026 16:15:06 GMT"
     },
     {
       "title": "Obama says drift towards extremism 'not inevitable'",
       "link": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
       "description": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. .",
       "pubDate": "Thu, 15 Oct 2026 10:51:53 GMT"
+    },
+    {
+      "title": "Brazil's Congress approves shorter working week in win for Lula",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
+      "description": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.",
+      "pubDate": "Thu, 15 Oct 2026 10:05:17 GMT"
     },
     {
       "title": "At the Brooklyn shop in 'surreal' row with Kelly Clarkson over mechanical bird",
@@ -112,34 +124,34 @@
       "pubDate": "Wed, 14 Oct 2026 23:32:11 GMT"
     },
     {
-      "title": "How a Chinese-made toy gets to a US retailer",
+      "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
       "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
-      "description": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
+      "description": "With the festive season on the horizon, we trace toys from factories in China to US shelves.",
       "pubDate": "Wed, 14 Oct 2026 23:01:28 GMT"
     },
     {
-      "title": "Watch: Harry and Meghan at first joint engagement since UK return",
-      "link": "https://www.bbc.co.uk/news/videos/cme8r0eexr3yo?at_medium=RSS&at_campaign=rss",
-      "description": "The Duke and Duchess of Sussex are making several public appearances in Nottingham.",
-      "pubDate": "Thu, 15 Oct 2026 11:10:59 GMT"
+      "title": "An Australian band’s ‘unreal’ journey to break a gig world record",
+      "link": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo?at_medium=RSS&at_campaign=rss",
+      "description": "The dream rock band called Fathom travelled roughly 700km across Australia by car, helicopter and plane to play nine shows in 12 hours.",
+      "pubDate": "Thu, 15 Oct 2026 18:09:58 GMT"
+    },
+    {
+      "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
+      "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
+      "description": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives.",
+      "pubDate": "Thu, 15 Oct 2026 17:31:37 GMT"
+    },
+    {
+      "title": "Watch: Pupils heard 'cracking' sound heard moments before Pakistan school roof collapse",
+      "link": "https://www.bbc.co.uk/news/videos/cmq8n5gv1pnpo?at_medium=RSS&at_campaign=rss",
+      "description": "Our Urdu correspondent reports from the scene in Peshawar, north-west Pakistan, where emergency services have been responding to the incident.",
+      "pubDate": "Thu, 15 Oct 2026 15:05:29 GMT"
     },
     {
       "title": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
       "link": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss",
       "description": "Thick orange smog descended on the Indonesian city of Palangka Raya as wildfires continue raging nearby.",
       "pubDate": "Thu, 15 Oct 2026 03:26:36 GMT"
-    },
-    {
-      "title": "What if you could turn off your algorithm? Australia is about to try",
-      "link": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
-      "description": "New legislation is being tabled in Australia's parliament on Thursday to force big tech to allow users to switch off algorithms which send them recommended content.",
-      "pubDate": "Wed, 14 Oct 2026 18:00:54 GMT"
-    },
-    {
-      "title": "What's going on between Kelly Clarkson and a Brooklyn store bird?",
-      "link": "https://www.bbc.co.uk/news/videos/c6e3x9z8jpj1o?at_medium=RSS&at_campaign=rss",
-      "description": "The Since U Been Gone singer claims she was \"looked at as if I couldn't afford\" an item in the store.",
-      "pubDate": "Thu, 15 Oct 2026 08:19:00 GMT"
     }
   ]
 }
