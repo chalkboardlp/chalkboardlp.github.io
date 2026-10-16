@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-16T16:37:40.395090+00:00",
+  "updated": "2026-10-16T19:57:15.143108+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Inside Ukrainian offensive pushing Russia back on front line where Starlink plays a key role",
+      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
       "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
       "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
       "pubDate": "Fri, 16 Oct 2026 16:00:30 GMT"
@@ -16,10 +16,10 @@
       "pubDate": "Fri, 16 Oct 2026 14:31:04 GMT"
     },
     {
-      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-      "description": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
-      "pubDate": "Fri, 16 Oct 2026 15:59:30 GMT"
+      "title": "Trump denies limiting Ukraine access to Starlink network",
+      "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+      "description": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
+      "pubDate": "Fri, 16 Oct 2026 19:33:48 GMT"
     },
     {
       "title": "Pope pictured for first time since surgery and cancer diagnosis",
@@ -32,12 +32,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
       "description": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
       "pubDate": "Fri, 16 Oct 2026 11:44:31 GMT"
-    },
-    {
-      "title": "US senators call for investigation into Ukraine's Starlink restrictions",
-      "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
-      "description": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
-      "pubDate": "Fri, 16 Oct 2026 14:19:50 GMT"
     },
     {
       "title": "Dad fined after son, 2, died in Cyprus hotel fall",
@@ -160,6 +154,24 @@
       "pubDate": "Wed, 14 Oct 2026 22:19:13 GMT"
     },
     {
+      "title": "Actor Imran Khan ordered to leave India after participating in protest",
+      "link": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
+      "description": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October.",
+      "pubDate": "Thu, 15 Oct 2026 08:17:07 GMT"
+    },
+    {
+      "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+      "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
+      "description": "Australia has proposed a switch to force social media platforms to let users turn off recommended content.",
+      "pubDate": "Fri, 16 Oct 2026 18:11:29 GMT"
+    },
+    {
+      "title": "What we learned from heated US midterm Senate debates",
+      "link": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
+      "description": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
+      "pubDate": "Fri, 16 Oct 2026 19:09:37 GMT"
+    },
+    {
       "title": "They fled Russia, but the West sent them back",
       "link": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
       "description": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge.",
@@ -176,18 +188,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
       "description": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
       "pubDate": "Thu, 15 Oct 2026 11:25:19 GMT"
-    },
-    {
-      "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
-      "link": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
-      "pubDate": "Thu, 15 Oct 2026 05:00:23 GMT"
-    },
-    {
-      "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
-      "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
-      "description": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought.",
-      "pubDate": "Thu, 15 Oct 2026 15:00:05 GMT"
     },
     {
       "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
