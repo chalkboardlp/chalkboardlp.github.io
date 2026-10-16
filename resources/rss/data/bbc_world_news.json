@@ -1,8 +1,26 @@
 {
-  "updated": "2026-10-16T00:24:02.001563+00:00",
+  "updated": "2026-10-16T05:51:00.867956+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Three children and teacher killed in US primary school shooting",
+      "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+      "description": "The suspect was shot dead by a community member who followed him into the Oregon school, police said.",
+      "pubDate": "Fri, 16 Oct 2026 03:45:09 GMT"
+    },
+    {
+      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+      "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+      "description": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+      "pubDate": "Fri, 16 Oct 2026 01:36:45 GMT"
+    },
+    {
+      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+      "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
+      "pubDate": "Fri, 16 Oct 2026 05:00:17 GMT"
+    },
     {
       "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
       "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
@@ -32,12 +50,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
       "description": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
       "pubDate": "Thu, 15 Oct 2026 15:26:16 GMT"
-    },
-    {
-      "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
-      "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
-      "description": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought.",
-      "pubDate": "Thu, 15 Oct 2026 15:00:05 GMT"
     },
     {
       "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
@@ -136,6 +148,12 @@
       "pubDate": "Thu, 15 Oct 2026 02:26:07 GMT"
     },
     {
+      "title": "They fled Russia, but the West sent them back",
+      "link": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
+      "description": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge.",
+      "pubDate": "Fri, 16 Oct 2026 04:57:28 GMT"
+    },
+    {
       "title": "Are student protests being manipulated ahead of France's presidential election?",
       "link": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
       "description": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
@@ -154,16 +172,10 @@
       "pubDate": "Thu, 15 Oct 2026 05:00:23 GMT"
     },
     {
-      "title": "How backlash against data centres could shape the US midterm elections",
-      "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
-      "description": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
-      "pubDate": "Wed, 14 Oct 2026 23:02:57 GMT"
-    },
-    {
-      "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
-      "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
-      "description": "With the festive season on the horizon, we trace toys from factories in China to US shelves.",
-      "pubDate": "Wed, 14 Oct 2026 23:01:28 GMT"
+      "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
+      "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
+      "description": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought.",
+      "pubDate": "Thu, 15 Oct 2026 15:00:05 GMT"
     },
     {
       "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
