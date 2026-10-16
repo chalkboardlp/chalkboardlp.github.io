@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-16T05:51:00.867956+00:00",
+  "updated": "2026-10-16T11:21:42.270836+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Three children and teacher killed in US primary school shooting",
+      "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
       "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-      "description": "The suspect was shot dead by a community member who followed him into the Oregon school, police said.",
-      "pubDate": "Fri, 16 Oct 2026 03:45:09 GMT"
+      "description": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say.",
+      "pubDate": "Fri, 16 Oct 2026 10:36:50 GMT"
     },
     {
       "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
       "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
       "description": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
-      "pubDate": "Fri, 16 Oct 2026 01:36:45 GMT"
+      "pubDate": "Fri, 16 Oct 2026 08:27:16 GMT"
     },
     {
       "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
@@ -22,16 +22,22 @@
       "pubDate": "Fri, 16 Oct 2026 05:00:17 GMT"
     },
     {
-      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-      "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-      "description": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
-      "pubDate": "Thu, 15 Oct 2026 17:47:22 GMT"
+      "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "description": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
+      "pubDate": "Fri, 16 Oct 2026 10:37:47 GMT"
     },
     {
-      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-      "description": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
-      "pubDate": "Thu, 15 Oct 2026 16:50:18 GMT"
+      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+      "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+      "description": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
+      "pubDate": "Fri, 16 Oct 2026 08:45:54 GMT"
+    },
+    {
+      "title": "Dad fined after son, 2, died in Cyprus hotel fall",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
+      "description": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
+      "pubDate": "Fri, 16 Oct 2026 10:28:56 GMT"
     },
     {
       "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
@@ -40,22 +46,34 @@
       "pubDate": "Thu, 15 Oct 2026 22:37:21 GMT"
     },
     {
-      "title": "Maduro pleads not guilty to new torture-related charges in New York",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
-      "description": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges.",
-      "pubDate": "Thu, 15 Oct 2026 16:52:44 GMT"
-    },
-    {
       "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
       "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
       "description": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
       "pubDate": "Thu, 15 Oct 2026 15:26:16 GMT"
     },
     {
+      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+      "description": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+      "pubDate": "Thu, 15 Oct 2026 17:47:22 GMT"
+    },
+    {
       "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
       "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
       "description": "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.",
       "pubDate": "Thu, 15 Oct 2026 23:27:21 GMT"
+    },
+    {
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "description": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+      "pubDate": "Thu, 15 Oct 2026 16:50:18 GMT"
+    },
+    {
+      "title": "Maduro pleads not guilty to new torture-related charges in New York",
+      "link": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
+      "description": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges.",
+      "pubDate": "Thu, 15 Oct 2026 16:52:44 GMT"
     },
     {
       "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
