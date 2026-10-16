@@ -1,19 +1,49 @@
 {
-  "updated": "2026-10-16T11:21:42.270836+00:00",
+  "updated": "2026-10-16T16:37:40.395090+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
-      "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-      "description": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say.",
-      "pubDate": "Fri, 16 Oct 2026 10:36:50 GMT"
+      "title": "Inside Ukrainian offensive pushing Russia back on front line where Starlink plays a key role",
+      "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+      "pubDate": "Fri, 16 Oct 2026 16:00:30 GMT"
     },
     {
-      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-      "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
-      "description": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
-      "pubDate": "Fri, 16 Oct 2026 08:27:16 GMT"
+      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+      "pubDate": "Fri, 16 Oct 2026 14:31:04 GMT"
+    },
+    {
+      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "description": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
+      "pubDate": "Fri, 16 Oct 2026 15:59:30 GMT"
+    },
+    {
+      "title": "Pope pictured for first time since surgery and cancer diagnosis",
+      "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+      "description": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+      "pubDate": "Fri, 16 Oct 2026 14:36:39 GMT"
+    },
+    {
+      "title": "India's 'cockroach' party founder detained ahead of protest",
+      "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+      "description": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
+      "pubDate": "Fri, 16 Oct 2026 11:44:31 GMT"
+    },
+    {
+      "title": "US senators call for investigation into Ukraine's Starlink restrictions",
+      "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
+      "description": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
+      "pubDate": "Fri, 16 Oct 2026 14:19:50 GMT"
+    },
+    {
+      "title": "Dad fined after son, 2, died in Cyprus hotel fall",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
+      "description": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
+      "pubDate": "Fri, 16 Oct 2026 14:21:32 GMT"
     },
     {
       "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
@@ -22,28 +52,22 @@
       "pubDate": "Fri, 16 Oct 2026 05:00:17 GMT"
     },
     {
-      "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
-      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-      "description": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
-      "pubDate": "Fri, 16 Oct 2026 10:37:47 GMT"
+      "title": "Albanian protests turn violent: What we know",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
+      "description": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
+      "pubDate": "Fri, 16 Oct 2026 14:33:32 GMT"
+    },
+    {
+      "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
+      "description": "Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms.",
+      "pubDate": "Fri, 16 Oct 2026 14:57:51 GMT"
     },
     {
       "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
       "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
       "description": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
       "pubDate": "Fri, 16 Oct 2026 08:45:54 GMT"
-    },
-    {
-      "title": "Dad fined after son, 2, died in Cyprus hotel fall",
-      "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
-      "description": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
-      "pubDate": "Fri, 16 Oct 2026 10:28:56 GMT"
-    },
-    {
-      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-      "description": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
-      "pubDate": "Thu, 15 Oct 2026 22:37:21 GMT"
     },
     {
       "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
@@ -62,6 +86,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
       "description": "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.",
       "pubDate": "Thu, 15 Oct 2026 23:27:21 GMT"
+    },
+    {
+      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+      "description": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+      "pubDate": "Thu, 15 Oct 2026 22:37:21 GMT"
     },
     {
       "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
@@ -130,42 +160,6 @@
       "pubDate": "Wed, 14 Oct 2026 22:19:13 GMT"
     },
     {
-      "title": "Actor Imran Khan ordered to leave India after participating in protest",
-      "link": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
-      "description": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October.",
-      "pubDate": "Thu, 15 Oct 2026 08:17:07 GMT"
-    },
-    {
-      "title": "Australian woman charged with lacing colleague's curry with snail poison",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3gnep35gko?at_medium=RSS&at_campaign=rss",
-      "description": "The alleged victim, who was in a relationship with the woman, had spotted bright green pellets in the meal.",
-      "pubDate": "Thu, 15 Oct 2026 04:17:45 GMT"
-    },
-    {
-      "title": "North Korea and China open new bridge after 12-year delay",
-      "link": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
-      "description": "China is the North's largest trading partner and a lifeline against the sanctions Pyongyang faces.",
-      "pubDate": "Thu, 15 Oct 2026 06:24:45 GMT"
-    },
-    {
-      "title": "Indian woman and boyfriend get death sentence in 'blue drum' murder case",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy435gd311o?at_medium=RSS&at_campaign=rss",
-      "description": "The body was recovered from a large blue plastic storage container - locally called a drum.",
-      "pubDate": "Thu, 15 Oct 2026 07:25:54 GMT"
-    },
-    {
-      "title": "Student protesters attack government buildings in Albania",
-      "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
-      "description": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
-      "pubDate": "Wed, 14 Oct 2026 20:29:05 GMT"
-    },
-    {
-      "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
-      "description": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers said in a letter.",
-      "pubDate": "Thu, 15 Oct 2026 02:26:07 GMT"
-    },
-    {
       "title": "They fled Russia, but the West sent them back",
       "link": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
       "description": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge.",
@@ -196,34 +190,34 @@
       "pubDate": "Thu, 15 Oct 2026 15:00:05 GMT"
     },
     {
+      "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+      "link": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
+      "description": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
+      "pubDate": "Fri, 16 Oct 2026 15:45:10 GMT"
+    },
+    {
+      "title": "Watch: Did Tesla really just unveil a flying car?",
+      "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
+      "description": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
+      "pubDate": "Fri, 16 Oct 2026 12:32:31 GMT"
+    },
+    {
+      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+      "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+      "description": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+      "pubDate": "Fri, 16 Oct 2026 08:27:16 GMT"
+    },
+    {
+      "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
+      "link": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
+      "description": "Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank.",
+      "pubDate": "Fri, 16 Oct 2026 11:40:41 GMT"
+    },
+    {
       "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
       "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
       "description": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives.",
       "pubDate": "Thu, 15 Oct 2026 17:31:37 GMT"
-    },
-    {
-      "title": "Watch: Moment drone hits supermarket in Odesa",
-      "link": "https://www.bbc.co.uk/news/videos/cmwyq62z0n19o?at_medium=RSS&at_campaign=rss",
-      "description": "CCTV video verified by the BBC shows the drone strike in the town of Mayaky in Ukraine's Odesa region.",
-      "pubDate": "Thu, 15 Oct 2026 17:06:12 GMT"
-    },
-    {
-      "title": "At the scene of a school roof collapse in Pakistan",
-      "link": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss",
-      "description": "At least 33 pupils and a teacher were killed according to hospital officials, and more than a dozen were injured.",
-      "pubDate": "Thu, 15 Oct 2026 20:31:02 GMT"
-    },
-    {
-      "title": "Watch: What the data centre boom means for Arizona ahead of midterm elections",
-      "link": "https://www.bbc.co.uk/news/videos/cw62yvzv9mm3o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Shaimaa Khalil travelled to the US state to hear from residents who live alongside these giant facilities.",
-      "pubDate": "Thu, 15 Oct 2026 19:46:07 GMT"
-    },
-    {
-      "title": "Watch: Australian band breaks world record for most gigs in 12 hours",
-      "link": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo?at_medium=RSS&at_campaign=rss",
-      "description": "The dream rock band called Fathom travelled roughly 700km across Australia by car, helicopter and plane to play nine shows in 12 hours.",
-      "pubDate": "Thu, 15 Oct 2026 18:09:58 GMT"
     }
   ]
 }
