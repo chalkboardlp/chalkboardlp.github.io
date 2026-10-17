@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T11:36:41.641696+00:00",
+  "updated": "2026-10-17T15:32:46.187506+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -7,10 +7,10 @@
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
       "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "pubDate": "Sat, 17 Oct 2026 09:42:13 GMT"
+      "pubDate": "Sat, 17 Oct 2026 11:56:06 GMT"
     },
     {
-      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
       "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
       "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
       "pubDate": "Sat, 17 Oct 2026 09:58:17 GMT"
@@ -28,10 +28,10 @@
       "pubDate": "Sat, 17 Oct 2026 02:33:09 GMT"
     },
     {
-      "title": "Katie Zacharia leaving White House role less than five days into job",
-      "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-      "description": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
-      "pubDate": "Sat, 17 Oct 2026 09:14:10 GMT"
+      "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+      "description": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
+      "pubDate": "Sat, 17 Oct 2026 12:11:58 GMT"
     },
     {
       "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
@@ -40,16 +40,28 @@
       "pubDate": "Sat, 17 Oct 2026 10:46:41 GMT"
     },
     {
+      "title": "Pope discharged from hospital days after lung cancer surgery",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+      "description": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
+      "pubDate": "Sat, 17 Oct 2026 13:51:36 GMT"
+    },
+    {
+      "title": "Katie Zacharia leaving White House role less than five days into job",
+      "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+      "description": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
+      "pubDate": "Sat, 17 Oct 2026 09:14:10 GMT"
+    },
+    {
       "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
       "link": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
       "description": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
       "pubDate": "Sat, 17 Oct 2026 01:55:45 GMT"
     },
     {
-      "title": "Pope's health should not be taken 'for granted', says top Vatican diplomat",
-      "link": "https://www.bbc.co.uk/news/articles/c6kg53zrexdeo?at_medium=RSS&at_campaign=rss",
-      "description": "Archbishop Paul Gallagher tells the BBC there was no sign of the Pope's ill health prior to his operation this week.",
-      "pubDate": "Sat, 17 Oct 2026 05:01:40 GMT"
+      "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
+      "description": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
+      "pubDate": "Sat, 17 Oct 2026 00:38:34 GMT"
     },
     {
       "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
@@ -62,18 +74,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
       "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
       "pubDate": "Fri, 16 Oct 2026 14:31:04 GMT"
-    },
-    {
-      "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
-      "description": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
-      "pubDate": "Sat, 17 Oct 2026 00:38:34 GMT"
-    },
-    {
-      "title": "Trump denies limiting Ukraine access to Starlink network",
-      "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-      "description": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
-      "pubDate": "Fri, 16 Oct 2026 19:33:48 GMT"
     },
     {
       "title": "The uncertain future of Canada's 30 rescued belugas",
@@ -100,16 +100,16 @@
       "pubDate": "Fri, 16 Oct 2026 23:07:18 GMT"
     },
     {
-      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-      "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-      "pubDate": "Fri, 16 Oct 2026 16:00:30 GMT"
-    },
-    {
       "title": "What we learned from heated US midterm Senate debates",
       "link": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
       "description": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
       "pubDate": "Fri, 16 Oct 2026 19:09:37 GMT"
+    },
+    {
+      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+      "pubDate": "Fri, 16 Oct 2026 16:00:30 GMT"
     },
     {
       "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
