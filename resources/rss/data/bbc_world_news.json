@@ -1,19 +1,37 @@
 {
-  "updated": "2026-10-17T01:18:51.995249+00:00",
+  "updated": "2026-10-17T06:56:00.542856+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-      "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-      "pubDate": "Fri, 16 Oct 2026 16:00:30 GMT"
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+      "pubDate": "Sat, 17 Oct 2026 02:33:09 GMT"
+    },
+    {
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "pubDate": "Sat, 17 Oct 2026 06:39:40 GMT"
     },
     {
       "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
       "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
       "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-      "pubDate": "Fri, 16 Oct 2026 23:07:38 GMT"
+      "pubDate": "Sat, 17 Oct 2026 06:49:48 GMT"
+    },
+    {
+      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+      "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+      "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
+      "pubDate": "Sat, 17 Oct 2026 03:11:10 GMT"
+    },
+    {
+      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+      "pubDate": "Fri, 16 Oct 2026 16:00:30 GMT"
     },
     {
       "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
@@ -22,10 +40,10 @@
       "pubDate": "Fri, 16 Oct 2026 14:31:04 GMT"
     },
     {
-      "title": "Katie Zacharia leaving her White House role less than five days on the job",
+      "title": "Katie Zacharia leaving White House role less than five days into job",
       "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-      "description": "Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness.",
-      "pubDate": "Fri, 16 Oct 2026 21:05:05 GMT"
+      "description": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
+      "pubDate": "Sat, 17 Oct 2026 05:20:40 GMT"
     },
     {
       "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
@@ -106,34 +124,16 @@
       "pubDate": "Thu, 15 Oct 2026 23:27:21 GMT"
     },
     {
-      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-      "description": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
-      "pubDate": "Thu, 15 Oct 2026 22:37:21 GMT"
-    },
-    {
       "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
       "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
       "description": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
       "pubDate": "Thu, 15 Oct 2026 23:38:46 GMT"
     },
     {
-      "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
-      "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
-      "description": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
-      "pubDate": "Thu, 15 Oct 2026 14:51:30 GMT"
-    },
-    {
-      "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
-      "link": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
-      "description": "Protests have taken place over the rules which have seen pupils wearing hijabs turned away from schools.",
-      "pubDate": "Thu, 15 Oct 2026 16:15:06 GMT"
-    },
-    {
-      "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-      "link": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
-      "description": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
-      "pubDate": "Thu, 15 Oct 2026 10:05:29 GMT"
+      "title": "The uncertain future of Canada's 30 rescued belugas",
+      "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
+      "description": "An international rescue operation for the last 30 captive whales in Canada made headlines. Then five of them died.",
+      "pubDate": "Sat, 17 Oct 2026 01:18:08 GMT"
     },
     {
       "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
@@ -164,12 +164,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
       "description": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
       "pubDate": "Thu, 15 Oct 2026 23:25:06 GMT"
-    },
-    {
-      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "description": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
-      "pubDate": "Thu, 15 Oct 2026 11:25:19 GMT"
     },
     {
       "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
