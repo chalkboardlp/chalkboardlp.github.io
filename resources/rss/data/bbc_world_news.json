@@ -1,16 +1,10 @@
 {
-  "updated": "2026-10-18T20:41:08.435611+00:00",
+  "updated": "2026-10-18T23:10:56.577043+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-      "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-      "pubDate": "Sun, 18 Oct 2026 12:07:31 GMT"
-    },
-    {
-      "title": "Macron calls for calm in France and warns rioting must not escalate",
+      "title": "Macron calls for 'calm and order' after riots across France",
       "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
       "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
       "pubDate": "Sun, 18 Oct 2026 20:33:21 GMT"
@@ -19,7 +13,19 @@
       "title": "What we know so far about deadly fire at Canadian military base",
       "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
       "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
-      "pubDate": "Sun, 18 Oct 2026 19:42:37 GMT"
+      "pubDate": "Sun, 18 Oct 2026 21:37:56 GMT"
+    },
+    {
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "description": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "pubDate": "Sun, 18 Oct 2026 22:10:45 GMT"
+    },
+    {
+      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+      "pubDate": "Sun, 18 Oct 2026 21:00:22 GMT"
     },
     {
       "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
@@ -28,16 +34,22 @@
       "pubDate": "Sun, 18 Oct 2026 15:46:10 GMT"
     },
     {
-      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
-      "pubDate": "Sun, 18 Oct 2026 05:04:31 GMT"
+      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+      "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+      "description": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+      "pubDate": "Sun, 18 Oct 2026 19:53:27 GMT"
     },
     {
       "title": "European diplomats attacked by Israeli settlers in West Bank",
       "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
       "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
       "pubDate": "Sun, 18 Oct 2026 12:16:14 GMT"
+    },
+    {
+      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+      "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
+      "description": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
+      "pubDate": "Sun, 18 Oct 2026 13:47:07 GMT"
     },
     {
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
@@ -50,12 +62,6 @@
       "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
       "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
       "pubDate": "Sat, 17 Oct 2026 20:53:00 GMT"
-    },
-    {
-      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
-      "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
-      "description": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
-      "pubDate": "Sun, 18 Oct 2026 13:47:07 GMT"
     },
     {
       "title": "At least 17 dead in crush at Hindu festival event in India",
@@ -88,22 +94,10 @@
       "pubDate": "Sat, 17 Oct 2026 13:51:36 GMT"
     },
     {
-      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-      "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
-      "pubDate": "Sat, 17 Oct 2026 03:11:10 GMT"
-    },
-    {
       "title": "Brazil sees record fall in Amazon deforestation as key election looms",
       "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
       "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
       "pubDate": "Sat, 17 Oct 2026 02:33:09 GMT"
-    },
-    {
-      "title": "Katie Zacharia leaving White House role less than five days into job",
-      "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-      "description": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
-      "pubDate": "Sat, 17 Oct 2026 09:14:10 GMT"
     },
     {
       "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
@@ -148,6 +142,12 @@
       "pubDate": "Fri, 16 Oct 2026 16:00:30 GMT"
     },
     {
+      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+      "pubDate": "Sun, 18 Oct 2026 21:00:22 GMT"
+    },
+    {
       "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
       "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
       "description": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
@@ -170,24 +170,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
       "description": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
       "pubDate": "Fri, 16 Oct 2026 15:45:10 GMT"
-    },
-    {
-      "title": "Watch: Did Tesla really just unveil a flying car?",
-      "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
-      "description": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
-      "pubDate": "Fri, 16 Oct 2026 12:32:31 GMT"
-    },
-    {
-      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-      "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
-      "description": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
-      "pubDate": "Fri, 16 Oct 2026 08:27:16 GMT"
-    },
-    {
-      "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
-      "link": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
-      "description": "Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank.",
-      "pubDate": "Fri, 16 Oct 2026 11:40:41 GMT"
     }
   ]
 }
