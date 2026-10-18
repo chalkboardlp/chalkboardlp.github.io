@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-18T14:00:37.866996+00:00",
+  "updated": "2026-10-18T17:22:16.085983+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
       "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
       "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-      "description": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+      "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
       "pubDate": "Sun, 18 Oct 2026 12:07:31 GMT"
     },
     {
       "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
       "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
       "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "pubDate": "Sun, 18 Oct 2026 11:57:49 GMT"
+      "pubDate": "Sun, 18 Oct 2026 15:46:10 GMT"
     },
     {
       "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
@@ -28,12 +28,6 @@
       "pubDate": "Sun, 18 Oct 2026 12:16:14 GMT"
     },
     {
-      "title": "Several dead or injured in major fire at Canada military base",
-      "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "description": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
-      "pubDate": "Sun, 18 Oct 2026 12:41:59 GMT"
-    },
-    {
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
       "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
@@ -44,6 +38,12 @@
       "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
       "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
       "pubDate": "Sat, 17 Oct 2026 20:53:00 GMT"
+    },
+    {
+      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+      "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
+      "description": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
+      "pubDate": "Sun, 18 Oct 2026 13:47:07 GMT"
     },
     {
       "title": "At least 17 dead in crush at Hindu festival event in India",
