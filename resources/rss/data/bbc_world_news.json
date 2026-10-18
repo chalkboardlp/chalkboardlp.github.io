@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T17:22:16.085983+00:00",
+  "updated": "2026-10-18T20:41:08.435611+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -8,6 +8,18 @@
       "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
       "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
       "pubDate": "Sun, 18 Oct 2026 12:07:31 GMT"
+    },
+    {
+      "title": "Macron calls for calm in France and warns rioting must not escalate",
+      "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+      "pubDate": "Sun, 18 Oct 2026 20:33:21 GMT"
+    },
+    {
+      "title": "What we know so far about deadly fire at Canadian military base",
+      "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+      "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
+      "pubDate": "Sun, 18 Oct 2026 19:42:37 GMT"
     },
     {
       "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
