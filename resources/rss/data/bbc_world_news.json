@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T00:02:25.342398+00:00",
+  "updated": "2026-10-18T04:30:23.095900+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -10,16 +10,22 @@
       "pubDate": "Sat, 17 Oct 2026 20:52:17 GMT"
     },
     {
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "pubDate": "Sat, 17 Oct 2026 19:19:19 GMT"
-    },
-    {
       "title": "European diplomats attacked by Israeli settlers in West Bank",
       "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
       "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
       "pubDate": "Sat, 17 Oct 2026 23:52:38 GMT"
+    },
+    {
+      "title": "Deadly fire breaks out at Canada military base",
+      "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "description": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
+      "pubDate": "Sun, 18 Oct 2026 04:00:50 GMT"
+    },
+    {
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "pubDate": "Sun, 18 Oct 2026 01:10:25 GMT"
     },
     {
       "title": "Anti-government protesters battle with police in Albania",
