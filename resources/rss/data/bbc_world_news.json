@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-18T09:36:31.796269+00:00",
+  "updated": "2026-10-18T14:00:37.866996+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
-      "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-      "description": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
-      "pubDate": "Sun, 18 Oct 2026 05:56:20 GMT"
+      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+      "description": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+      "pubDate": "Sun, 18 Oct 2026 12:07:31 GMT"
     },
     {
-      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
-      "description": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
-      "pubDate": "Sat, 17 Oct 2026 22:09:50 GMT"
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "pubDate": "Sun, 18 Oct 2026 11:57:49 GMT"
     },
     {
       "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
@@ -25,13 +25,13 @@
       "title": "European diplomats attacked by Israeli settlers in West Bank",
       "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
       "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-      "pubDate": "Sat, 17 Oct 2026 23:52:38 GMT"
+      "pubDate": "Sun, 18 Oct 2026 12:16:14 GMT"
     },
     {
       "title": "Several dead or injured in major fire at Canada military base",
       "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
       "description": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
-      "pubDate": "Sun, 18 Oct 2026 08:52:41 GMT"
+      "pubDate": "Sun, 18 Oct 2026 12:41:59 GMT"
     },
     {
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
@@ -44,12 +44,6 @@
       "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
       "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
       "pubDate": "Sat, 17 Oct 2026 20:53:00 GMT"
-    },
-    {
-      "title": "Church makes sainthood case for 'WW1 hero' priest",
-      "link": "https://www.bbc.co.uk/news/articles/cmg47rwddpxko?at_medium=RSS&at_campaign=rss",
-      "description": "Fr Willie Doyle was killed during World War One while trying to help injured and dying soldiers.",
-      "pubDate": "Sun, 18 Oct 2026 05:15:53 GMT"
     },
     {
       "title": "At least 17 dead in crush at Hindu festival event in India",
@@ -100,6 +94,12 @@
       "pubDate": "Sat, 17 Oct 2026 09:14:10 GMT"
     },
     {
+      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+      "description": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+      "pubDate": "Sat, 17 Oct 2026 22:09:50 GMT"
+    },
+    {
       "title": "The uncertain future of Canada's 30 rescued belugas",
       "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
       "description": "An international rescue operation for the last 30 captive whales in Canada made headlines. Then five of them died.",
@@ -134,6 +134,18 @@
       "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
       "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
       "pubDate": "Fri, 16 Oct 2026 16:00:30 GMT"
+    },
+    {
+      "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+      "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
+      "description": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
+      "pubDate": "Sun, 18 Oct 2026 11:09:32 GMT"
+    },
+    {
+      "title": "Parisians wake up to protest damage and looted shops",
+      "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+      "description": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
+      "pubDate": "Sun, 18 Oct 2026 10:58:39 GMT"
     },
     {
       "title": "How day of protests unfolded as disorder breaks out across France",
