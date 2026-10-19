@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-19T19:54:51.360805+00:00",
+  "updated": "2026-10-19T23:40:09.328393+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Australian MP critically injured after being hit by car in apparent attack",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-      "description": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
-      "pubDate": "Mon, 19 Oct 2026 14:09:54 GMT"
+      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+      "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+      "description": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+      "pubDate": "Mon, 19 Oct 2026 21:14:53 GMT"
     },
     {
       "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
       "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
-      "pubDate": "Mon, 19 Oct 2026 18:23:50 GMT"
+      "pubDate": "Mon, 19 Oct 2026 20:49:00 GMT"
     },
     {
       "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
@@ -22,16 +22,22 @@
       "pubDate": "Mon, 19 Oct 2026 17:18:04 GMT"
     },
     {
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-      "description": "The Saudi government did not immediately respond to BBC requests for comment.",
-      "pubDate": "Mon, 19 Oct 2026 16:22:12 GMT"
+      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+      "description": "The two top tennis pros married in 2021 and have one child together.",
+      "pubDate": "Mon, 19 Oct 2026 21:02:33 GMT"
     },
     {
-      "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
-      "description": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
-      "pubDate": "Mon, 19 Oct 2026 13:44:57 GMT"
+      "title": "Five ways El Niño is affecting the weather around the world",
+      "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
+      "description": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
+      "pubDate": "Mon, 19 Oct 2026 23:08:25 GMT"
+    },
+    {
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "description": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "pubDate": "Mon, 19 Oct 2026 21:12:30 GMT"
     },
     {
       "title": "Exiled critic of Rwandan president found beheaded",
@@ -106,22 +112,28 @@
       "pubDate": "Mon, 19 Oct 2026 07:35:06 GMT"
     },
     {
+      "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
+      "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
+      "description": "In the apparent attack on MP Helen Haines, the worst fears of politicians and public figures appear to have been realised.",
+      "pubDate": "Mon, 19 Oct 2026 16:32:47 GMT"
+    },
+    {
+      "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
+      "link": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
+      "description": "Will Fatima El Mansouri advance women’s rights amid religious and political barriers?",
+      "pubDate": "Mon, 19 Oct 2026 23:30:03 GMT"
+    },
+    {
+      "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
+      "link": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
+      "description": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India.",
+      "pubDate": "Mon, 19 Oct 2026 23:04:08 GMT"
+    },
+    {
       "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
       "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
       "description": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
       "pubDate": "Mon, 19 Oct 2026 00:06:25 GMT"
-    },
-    {
-      "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
-      "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
-      "description": "The apparent attack on MP Helen Haines suggests the worst fears of politicians and public figures appear to have been realised.",
-      "pubDate": "Mon, 19 Oct 2026 16:32:47 GMT"
-    },
-    {
-      "title": "In pictures: French landmarks damaged and destroyed by violent protesters",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8n7l0le11o?at_medium=RSS&at_campaign=rss",
-      "description": "France is used to protests but the violence and damage seen across the country is shocking many people.",
-      "pubDate": "Mon, 19 Oct 2026 15:21:03 GMT"
     },
     {
       "title": "Funding shortages force World Food Programme to cut aid to Gaza",
@@ -130,16 +142,22 @@
       "pubDate": "Mon, 19 Oct 2026 06:00:18 GMT"
     },
     {
-      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
-      "pubDate": "Sun, 18 Oct 2026 05:04:31 GMT"
+      "title": "Clean up begins after French riots but police remain",
+      "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
+      "description": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.",
+      "pubDate": "Mon, 19 Oct 2026 21:30:08 GMT"
     },
     {
-      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-      "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
-      "pubDate": "Sun, 18 Oct 2026 21:00:22 GMT"
+      "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+      "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
+      "description": "The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says.",
+      "pubDate": "Mon, 19 Oct 2026 20:00:43 GMT"
+    },
+    {
+      "title": "US Church on frontline of battle against drug known as 'tranq'",
+      "link": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
+      "description": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
+      "pubDate": "Mon, 19 Oct 2026 21:05:54 GMT"
     },
     {
       "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
@@ -152,18 +170,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
       "description": "Violence broke out across France, with more than half a million people taking to the streets over the weekend.",
       "pubDate": "Mon, 19 Oct 2026 06:40:35 GMT"
-    },
-    {
-      "title": "How day of protests unfolded as disorder breaks out across France",
-      "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
-      "description": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
-      "pubDate": "Sat, 17 Oct 2026 21:33:17 GMT"
-    },
-    {
-      "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
-      "link": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
-      "description": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
-      "pubDate": "Fri, 16 Oct 2026 15:45:10 GMT"
     }
   ]
 }
