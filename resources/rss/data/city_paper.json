@@ -1,8 +1,14 @@
 {
-  "updated": "2026-10-19T13:17:53.601535+00:00",
+  "updated": "2026-10-19T19:54:52.591672+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Who Gets to Tell Colombia’s Story? National Museum on Frontline Over Historical Memory",
+      "link": "https://thecitypaperbogota.com/news/who-gets-to-tell-colombias-story-national-museum-on-frontline-over-historical-memory/",
+      "description": "At least 30 National Riot Police officers stood outside Colombia’s National Museum on Monday as academics, artists and historians gathered to debate a question that reaches far beyond the objects recently removed from display: who gets to decide how the country remembers its past? The museum was closed, as it is every Monday. But the [&#8230;]",
+      "pubDate": "Mon, 19 Oct 2026 19:45:24 +0000"
+    },
     {
       "title": "De la Espriella Targets Wokeism and Petro’s Revisionism of Colombia’s M-19",
       "link": "https://thecitypaperbogota.com/news/de-la-espriella-targets-wokeism-and-petros-revisionism-of-colombias-m-19/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/choco-is-still-moving-more-than-a-month-after-colombias-7-4-earthquake/",
       "description": "A seismic swarm around Sipí and Istmina in the middle San Juan region of Chocó continues to produce tremors across the department as President De La Espriella visits to oversee reconstruction. The earth beneath Chocó has continued to move more than a month after a magnitude 7.4 earthquake struck Colombia&#8217;s Pacific litoral, with a series [&#8230;]",
       "pubDate": "Tue, 15 Sep 2026 16:28:12 +0000"
-    },
-    {
-      "title": "De La Espriella launches all-out offensive against corruption and “white-collar criminals”",
-      "link": "https://thecitypaperbogota.com/news/de-la-espriella-launches-all-out-offensive-against-corruption-and-white-collar-criminals/",
-      "description": "Colombian President Abelardo De La Espriella launched a forceful attack on corruption during an televised address to the nation Sunday, targeting both those convicted of crimes involving public funds and those who, he says, attempt to use their positions, influence or personal connections to secure special treatment. In a speech focused on the victims of [&#8230;]",
-      "pubDate": "Mon, 14 Sep 2026 21:03:46 +0000"
     }
   ]
 }
