@@ -1,19 +1,37 @@
 {
-  "updated": "2026-10-20T04:48:15.425103+00:00",
+  "updated": "2026-10-20T10:02:54.908052+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-      "description": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots.",
-      "pubDate": "Mon, 19 Oct 2026 21:14:53 GMT"
+      "title": "Suspect arrested after historic town hall set alight during disorder - French media",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "description": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+      "pubDate": "Tue, 20 Oct 2026 08:58:26 GMT"
     },
     {
       "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
       "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
       "pubDate": "Mon, 19 Oct 2026 20:49:00 GMT"
+    },
+    {
+      "title": "Seventh day of violent clashes between Albanian protesters and police",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+      "description": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
+      "pubDate": "Tue, 20 Oct 2026 02:45:05 GMT"
+    },
+    {
+      "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+      "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+      "description": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
+      "pubDate": "Tue, 20 Oct 2026 03:10:39 GMT"
+    },
+    {
+      "title": "Mission blasts off for Mars to grab a piece of its moon",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+      "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+      "pubDate": "Mon, 19 Oct 2026 19:45:46 GMT"
     },
     {
       "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
@@ -28,15 +46,15 @@
       "pubDate": "Mon, 19 Oct 2026 21:02:33 GMT"
     },
     {
-      "title": "Five ways El Niño is affecting the weather around the world",
-      "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
-      "description": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
-      "pubDate": "Mon, 19 Oct 2026 23:08:25 GMT"
+      "title": "Vinted blocks French looters listing stolen goods for sale",
+      "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
+      "description": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
+      "pubDate": "Mon, 19 Oct 2026 16:46:35 GMT"
     },
     {
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+      "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
       "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-      "description": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "description": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
       "pubDate": "Mon, 19 Oct 2026 21:12:30 GMT"
     },
     {
@@ -52,16 +70,16 @@
       "pubDate": "Mon, 19 Oct 2026 16:20:51 GMT"
     },
     {
+      "title": "Obama blasts federal probe of Ilhan Omar as 'so appalling'",
+      "link": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
+      "description": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
+      "pubDate": "Mon, 19 Oct 2026 16:16:51 GMT"
+    },
+    {
       "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
       "link": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
       "description": "The game continued after the incident. The American Conference said the decision was made before his death was known.",
       "pubDate": "Mon, 19 Oct 2026 14:13:18 GMT"
-    },
-    {
-      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
-      "link": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
-      "description": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
-      "pubDate": "Mon, 19 Oct 2026 16:16:51 GMT"
     },
     {
       "title": "Personal attacks fire up debate before Brazil's run-off vote",
@@ -112,10 +130,22 @@
       "pubDate": "Mon, 19 Oct 2026 07:35:06 GMT"
     },
     {
+      "title": "How is the US economy really doing under President Trump?",
+      "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+      "description": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
+      "pubDate": "Tue, 20 Oct 2026 05:00:45 GMT"
+    },
+    {
       "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
       "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
-      "description": "In the wake of the apparent attack on MP Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
+      "description": "In the wake of the apparent attack on Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
       "pubDate": "Tue, 20 Oct 2026 02:54:05 GMT"
+    },
+    {
+      "title": "Five ways El Niño is affecting the weather around the world",
+      "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
+      "description": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
+      "pubDate": "Mon, 19 Oct 2026 23:08:25 GMT"
     },
     {
       "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
@@ -128,12 +158,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
       "description": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India.",
       "pubDate": "Mon, 19 Oct 2026 23:04:08 GMT"
-    },
-    {
-      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
-      "description": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
-      "pubDate": "Mon, 19 Oct 2026 00:06:25 GMT"
     },
     {
       "title": "Funding shortages force World Food Programme to cut aid to Gaza",
@@ -154,7 +178,7 @@
       "pubDate": "Mon, 19 Oct 2026 20:00:43 GMT"
     },
     {
-      "title": "US church on frontline of battle against drug known as 'tranq'",
+      "title": "US church on front line of battle against drug known as 'tranq'",
       "link": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
       "description": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
       "pubDate": "Tue, 20 Oct 2026 00:02:32 GMT"
