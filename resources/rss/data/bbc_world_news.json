@@ -1,19 +1,61 @@
 {
-  "updated": "2026-10-20T10:02:54.908052+00:00",
+  "updated": "2026-10-20T15:05:25.369160+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Suspect arrested after historic town hall set alight during disorder - French media",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-      "description": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
-      "pubDate": "Tue, 20 Oct 2026 08:58:26 GMT"
+      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+      "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+      "description": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.",
+      "pubDate": "Tue, 20 Oct 2026 13:51:40 GMT"
     },
     {
-      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-      "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
-      "pubDate": "Mon, 19 Oct 2026 20:49:00 GMT"
+      "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
+      "description": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
+      "pubDate": "Tue, 20 Oct 2026 12:08:06 GMT"
+    },
+    {
+      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
+      "description": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
+      "pubDate": "Tue, 20 Oct 2026 11:25:35 GMT"
+    },
+    {
+      "title": "Sudan army drones hit mourners and fuel market killing more than 200 people, sources say",
+      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+      "description": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+      "pubDate": "Tue, 20 Oct 2026 14:24:19 GMT"
+    },
+    {
+      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+      "description": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
+      "pubDate": "Tue, 20 Oct 2026 11:45:49 GMT"
+    },
+    {
+      "title": "Why Israeli Gen Z voters are drawn to the far right",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
+      "description": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
+      "pubDate": "Tue, 20 Oct 2026 08:53:06 GMT"
+    },
+    {
+      "title": "Kenya cult leader's children still being starved weeks before trial, son says",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
+      "description": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
+      "pubDate": "Tue, 20 Oct 2026 13:23:32 GMT"
+    },
+    {
+      "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
+      "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+      "description": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
+      "pubDate": "Tue, 20 Oct 2026 03:10:39 GMT"
+    },
+    {
+      "title": "Suspect arrested after historic town hall set alight - French media",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "description": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+      "pubDate": "Tue, 20 Oct 2026 12:45:43 GMT"
     },
     {
       "title": "Seventh day of violent clashes between Albanian protesters and police",
@@ -22,22 +64,10 @@
       "pubDate": "Tue, 20 Oct 2026 02:45:05 GMT"
     },
     {
-      "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
-      "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
-      "description": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
-      "pubDate": "Tue, 20 Oct 2026 03:10:39 GMT"
-    },
-    {
       "title": "Mission blasts off for Mars to grab a piece of its moon",
       "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
       "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
       "pubDate": "Mon, 19 Oct 2026 19:45:46 GMT"
-    },
-    {
-      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-      "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-      "pubDate": "Mon, 19 Oct 2026 17:18:04 GMT"
     },
     {
       "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
@@ -48,7 +78,7 @@
     {
       "title": "Vinted blocks French looters listing stolen goods for sale",
       "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
-      "description": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
+      "description": "The platform said since the weekend it had \"taken immediate action to identify and remove listings linked to looting\".",
       "pubDate": "Mon, 19 Oct 2026 16:46:35 GMT"
     },
     {
@@ -64,10 +94,10 @@
       "pubDate": "Mon, 19 Oct 2026 13:42:41 GMT"
     },
     {
-      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
       "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-      "description": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
-      "pubDate": "Mon, 19 Oct 2026 16:20:51 GMT"
+      "description": "Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says.",
+      "pubDate": "Tue, 20 Oct 2026 14:09:42 GMT"
     },
     {
       "title": "Obama blasts federal probe of Ilhan Omar as 'so appalling'",
@@ -118,28 +148,10 @@
       "pubDate": "Sun, 18 Oct 2026 23:20:15 GMT"
     },
     {
-      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
-      "link": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
-      "description": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
-      "pubDate": "Mon, 19 Oct 2026 08:17:19 GMT"
-    },
-    {
-      "title": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
-      "link": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
-      "description": "Videos showed gunmen firing shots at Shroff's car while it was moving slowly past a crowd.",
-      "pubDate": "Mon, 19 Oct 2026 07:35:06 GMT"
-    },
-    {
       "title": "How is the US economy really doing under President Trump?",
       "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
       "description": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
       "pubDate": "Tue, 20 Oct 2026 05:00:45 GMT"
-    },
-    {
-      "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
-      "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
-      "description": "In the wake of the apparent attack on Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
-      "pubDate": "Tue, 20 Oct 2026 02:54:05 GMT"
     },
     {
       "title": "Five ways El Niño is affecting the weather around the world",
