@@ -1,8 +1,14 @@
 {
-  "updated": "2026-10-20T19:15:27.019073+00:00",
+  "updated": "2026-10-20T22:19:30.251331+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+      "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+      "pubDate": "Tue, 20 Oct 2026 21:27:39 GMT"
+    },
     {
       "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
       "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
@@ -10,16 +16,16 @@
       "pubDate": "Tue, 20 Oct 2026 12:08:06 GMT"
     },
     {
-      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "title": "Man charged with attack on Australia MP to face court",
       "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
       "description": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
       "pubDate": "Tue, 20 Oct 2026 11:25:35 GMT"
     },
     {
-      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-      "description": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
-      "pubDate": "Tue, 20 Oct 2026 17:30:15 GMT"
+      "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+      "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+      "description": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
+      "pubDate": "Tue, 20 Oct 2026 20:00:57 GMT"
     },
     {
       "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
@@ -28,16 +34,16 @@
       "pubDate": "Tue, 20 Oct 2026 16:59:06 GMT"
     },
     {
+      "title": "Trump sued over Canadian tariffs in latest legal challenge",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+      "description": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+      "pubDate": "Tue, 20 Oct 2026 19:30:05 GMT"
+    },
+    {
       "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
       "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
       "description": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
       "pubDate": "Tue, 20 Oct 2026 11:45:49 GMT"
-    },
-    {
-      "title": "Why Israeli Gen Z voters are drawn to the far right",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
-      "description": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
-      "pubDate": "Tue, 20 Oct 2026 08:53:06 GMT"
     },
     {
       "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
@@ -46,10 +52,10 @@
       "pubDate": "Tue, 20 Oct 2026 15:58:57 GMT"
     },
     {
-      "title": "Kenya cult leader's children still being starved weeks before trial, son says",
-      "link": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
-      "description": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
-      "pubDate": "Tue, 20 Oct 2026 13:23:32 GMT"
+      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+      "description": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+      "pubDate": "Tue, 20 Oct 2026 17:30:15 GMT"
     },
     {
       "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
@@ -61,7 +67,13 @@
       "title": "Suspect arrested after historic town hall set alight - French media",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
       "description": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
-      "pubDate": "Tue, 20 Oct 2026 16:06:39 GMT"
+      "pubDate": "Tue, 20 Oct 2026 21:05:50 GMT"
+    },
+    {
+      "title": "Kenya cult leader's children still being starved weeks before trial, son says",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
+      "description": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
+      "pubDate": "Tue, 20 Oct 2026 13:23:32 GMT"
     },
     {
       "title": "Mission blasts off for Mars to grab a piece of its moon",
@@ -118,34 +130,16 @@
       "pubDate": "Mon, 19 Oct 2026 14:13:18 GMT"
     },
     {
-      "title": "Personal attacks fire up debate before Brazil's run-off vote",
-      "link": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
-      "description": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
-      "pubDate": "Mon, 19 Oct 2026 11:41:24 GMT"
-    },
-    {
       "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
       "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
       "description": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
       "pubDate": "Tue, 20 Oct 2026 01:52:43 GMT"
     },
     {
-      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
-      "description": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
-      "pubDate": "Mon, 19 Oct 2026 09:11:42 GMT"
-    },
-    {
-      "title": "Catalonia's former rebel president can return to Spain, court rules",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
-      "description": "The court upholds a decision to lift an arrest warrant for Carles Puigdemont linked to the independence bid he led in 2017.",
-      "pubDate": "Mon, 19 Oct 2026 14:06:53 GMT"
-    },
-    {
-      "title": "Italy plans tougher security measures after violent protests",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
-      "description": "The government crackdown comes after protests over rising costs broke out into violent clashes.",
-      "pubDate": "Mon, 19 Oct 2026 11:23:36 GMT"
+      "title": "Why Israeli Gen Z voters are drawn to the far right",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
+      "description": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
+      "pubDate": "Tue, 20 Oct 2026 08:53:06 GMT"
     },
     {
       "title": "Huge setback for Alberta's separatist movement after decisive defeat",
@@ -176,12 +170,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
       "description": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India.",
       "pubDate": "Mon, 19 Oct 2026 23:04:08 GMT"
-    },
-    {
-      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-      "description": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
-      "pubDate": "Mon, 19 Oct 2026 06:00:18 GMT"
     },
     {
       "title": "Clean up begins after French riots but police remain",
