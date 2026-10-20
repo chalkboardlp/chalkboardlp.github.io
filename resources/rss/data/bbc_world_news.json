@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-19T23:40:09.328393+00:00",
+  "updated": "2026-10-20T04:48:15.425103+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
       "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
       "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-      "description": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+      "description": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots.",
       "pubDate": "Mon, 19 Oct 2026 21:14:53 GMT"
     },
     {
@@ -73,7 +73,7 @@
       "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
       "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
       "description": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-      "pubDate": "Mon, 19 Oct 2026 18:22:48 GMT"
+      "pubDate": "Tue, 20 Oct 2026 01:52:43 GMT"
     },
     {
       "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
@@ -112,10 +112,10 @@
       "pubDate": "Mon, 19 Oct 2026 07:35:06 GMT"
     },
     {
-      "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
+      "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
       "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
-      "description": "In the apparent attack on MP Helen Haines, the worst fears of politicians and public figures appear to have been realised.",
-      "pubDate": "Mon, 19 Oct 2026 16:32:47 GMT"
+      "description": "In the wake of the apparent attack on MP Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
+      "pubDate": "Tue, 20 Oct 2026 02:54:05 GMT"
     },
     {
       "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
@@ -154,10 +154,10 @@
       "pubDate": "Mon, 19 Oct 2026 20:00:43 GMT"
     },
     {
-      "title": "US Church on frontline of battle against drug known as 'tranq'",
+      "title": "US church on frontline of battle against drug known as 'tranq'",
       "link": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
       "description": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
-      "pubDate": "Mon, 19 Oct 2026 21:05:54 GMT"
+      "pubDate": "Tue, 20 Oct 2026 00:02:32 GMT"
     },
     {
       "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
