@@ -1,31 +1,13 @@
 {
-  "updated": "2026-10-21T01:34:21.182316+00:00",
+  "updated": "2026-10-21T07:37:32.893013+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "title": "US envoy arrives in Russia ahead of meeting with Putin as Zelensky says intelligence sharing 'works now'",
       "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
-      "pubDate": "Tue, 20 Oct 2026 21:27:39 GMT"
-    },
-    {
-      "title": "France is divided over who to blame for and what to learn from weekend riots",
-      "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
-      "description": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
-      "pubDate": "Wed, 21 Oct 2026 01:22:51 GMT"
-    },
-    {
-      "title": "Elon Musk says Tesla-SpaceX merger being considered",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
-      "pubDate": "Tue, 20 Oct 2026 23:24:47 GMT"
-    },
-    {
-      "title": "Man charged with attack on Australia MP to face court",
-      "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
-      "description": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
-      "pubDate": "Tue, 20 Oct 2026 11:25:35 GMT"
+      "description": "Steve Witkoff is in St Petersburg to discuss proposals on ending Russia's years-long conflict with Ukraine.",
+      "pubDate": "Wed, 21 Oct 2026 06:37:55 GMT"
     },
     {
       "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
@@ -34,16 +16,34 @@
       "pubDate": "Tue, 20 Oct 2026 20:00:57 GMT"
     },
     {
-      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
-      "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
-      "description": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
-      "pubDate": "Tue, 20 Oct 2026 22:22:17 GMT"
+      "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
+      "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+      "description": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
+      "pubDate": "Wed, 21 Oct 2026 06:50:40 GMT"
+    },
+    {
+      "title": "Elon Musk confirms talks to merge Tesla and SpaceX",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "pubDate": "Wed, 21 Oct 2026 05:48:46 GMT"
+    },
+    {
+      "title": "Pakistan arrests man hunted by US over $126m postage fraud case",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
+      "description": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
+      "pubDate": "Wed, 21 Oct 2026 05:46:33 GMT"
     },
     {
       "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
       "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
       "description": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
       "pubDate": "Tue, 20 Oct 2026 17:30:15 GMT"
+    },
+    {
+      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+      "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+      "description": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
+      "pubDate": "Tue, 20 Oct 2026 22:22:17 GMT"
     },
     {
       "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
@@ -148,10 +148,22 @@
       "pubDate": "Tue, 20 Oct 2026 01:52:43 GMT"
     },
     {
-      "title": "Why Israeli Gen Z voters are drawn to the far right",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
-      "description": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
-      "pubDate": "Tue, 20 Oct 2026 08:53:06 GMT"
+      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+      "pubDate": "Wed, 21 Oct 2026 06:36:39 GMT"
+    },
+    {
+      "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
+      "link": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
+      "description": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate.",
+      "pubDate": "Wed, 21 Oct 2026 02:37:13 GMT"
+    },
+    {
+      "title": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3dlm0dr2o?at_medium=RSS&at_campaign=rss",
+      "description": "Trump said he has plans to turn a 106-year-old public golf course in Washington DC into a tournament-capable golf course for pros, but local golfers are not happy.",
+      "pubDate": "Wed, 21 Oct 2026 03:45:52 GMT"
     },
     {
       "title": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
@@ -166,22 +178,10 @@
       "pubDate": "Tue, 20 Oct 2026 23:41:30 GMT"
     },
     {
-      "title": "Huge setback for Alberta's separatist movement after decisive defeat",
-      "link": "https://www.bbc.co.uk/news/articles/cjly016320q1o?at_medium=RSS&at_campaign=rss",
-      "description": "Leaders of the movement for independence vow to push on but the margin of defeat could make that difficult.",
-      "pubDate": "Tue, 20 Oct 2026 13:39:11 GMT"
-    },
-    {
-      "title": "Is Donald Trump ready to do business with Myanmar?",
-      "link": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
-      "description": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah.",
-      "pubDate": "Tue, 20 Oct 2026 23:21:39 GMT"
-    },
-    {
-      "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
-      "link": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
-      "description": "Will Fatima El Mansouri advance women’s rights amid religious and political barriers?",
-      "pubDate": "Mon, 19 Oct 2026 23:30:03 GMT"
+      "title": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
+      "link": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC's Katy Watson describes what unfolded in Wangaratta as 43-year-old Brendan Nugent appeared before court over the alleged attack of Helen Haines.",
+      "pubDate": "Wed, 21 Oct 2026 03:58:16 GMT"
     },
     {
       "title": "Clean up begins after French riots but police remain",
