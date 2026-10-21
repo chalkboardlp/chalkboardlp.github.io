@@ -1,8 +1,14 @@
 {
-  "updated": "2026-10-21T18:37:42.014365+00:00",
+  "updated": "2026-10-21T22:19:53.512685+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Germán Vargas Lleras Family to Denounce Petro Over ‘Valledupar Pact’",
+      "link": "https://thecitypaperbogota.com/news/vargas-lleras-family-to-denounce-petro-over-valledupar-pact-us-investigation-sought/",
+      "description": "The controversy surrounding the alleged Pacto de Valledupar escalated on Wednesday after Enrique Vargas Lleras, co-director of the Cambio Radical party, announced plans to file a complaint against former president Gustavo Petro over allegations that his administration sought to persuade former paramilitary commanders to make accusations against political opponents. Vargas Lleras, the brother of the [&#8230;]",
+      "pubDate": "Wed, 21 Oct 2026 20:54:22 +0000"
+    },
     {
       "title": "Thirteen Colombian Soldiers Remain Stranded in Cauca After Black Hawk Crash",
       "link": "https://thecitypaperbogota.com/news/thirteen-colombian-soldiers-remain-stranded-in-cauca-mountains-after-black-hawk-crash/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/culture/artbo-2026-four-days-of-art-commerce-and-bogotas-cultural-crowd/",
       "description": "For four days every September, Bogotá’s art world moves into Ágora Bogotá, where collectors, curators, gallerists, artists, designers, students and the city’s cultural crowd converge for ARTBO, the capital’s annual international art fair. And then there is the opening night. The inauguration of ARTBO has become something of a ritual on Bogotá’s cultural calendar, when [&#8230;]",
       "pubDate": "Fri, 18 Sep 2026 18:47:08 +0000"
-    },
-    {
-      "title": "Festival El Mundo brings 13 nations together through food in Bogotá",
-      "link": "https://thecitypaperbogota.com/living/festival-el-mundo-brings-13-nations-together-through-food-in-bogota/",
-      "description": "Bogotá is preparing to turn gastronomy into a meeting point for cultures with the first edition of the Festival Gastronómico y Cultural El Mundo en el Corazón de Bogotá, taking place September 19 and 20 at Parque El Country. Admission is free to the two-day festival, which brings together 13 participating nations and the UN [&#8230;]",
-      "pubDate": "Thu, 17 Sep 2026 13:00:20 +0000"
     }
   ]
 }
