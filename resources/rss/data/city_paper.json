@@ -1,8 +1,20 @@
 {
-  "updated": "2026-10-21T13:47:03.314671+00:00",
+  "updated": "2026-10-21T18:37:42.014365+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Thirteen Colombian Soldiers Remain Stranded in Cauca After Black Hawk Crash",
+      "link": "https://thecitypaperbogota.com/news/thirteen-colombian-soldiers-remain-stranded-in-cauca-mountains-after-black-hawk-crash/",
+      "description": "Rescue efforts continue in rugged terrain near Inzá, Cauca, where difficult weather conditions have delayed the evacuation of 13 Army personnel following the October 19 helicopter crash. INZA &#8211; Thirteen Colombian Army soldiers remain stranded near the site of a UH-60 Black Hawk helicopter crash in the mountainous municipality of Inzá, Cauca, on Wednesday, October [&#8230;]",
+      "pubDate": "Wed, 21 Oct 2026 15:43:53 +0000"
+    },
+    {
+      "title": "Colombia Seizes 7.6 Tonnes of Cocaine in Cartagena’s Biggest Port Bust",
+      "link": "https://thecitypaperbogota.com/news/colombia-seizes-7-6-tonnes-of-cocaine-in-cartagenas-biggest-port-bust/",
+      "description": "Colombian authorities seized on Tuesday, October 20, close to 8 tonnes of cocaine hidden inside a shipping container at the Port of Cartagena, in an operation described by the Presidency as the largest drug seizure at the Sociedad Portuaria in the past decade. The operation was carried out by Colombia’s National Police through its Anti-Narcotics [&#8230;]",
+      "pubDate": "Wed, 21 Oct 2026 13:49:14 +0000"
+    },
     {
       "title": "Who Gets to Tell Colombia’s Story? National Museum on Frontline Over Historical Memory",
       "link": "https://thecitypaperbogota.com/news/who-gets-to-tell-colombias-story-national-museum-on-frontline-over-historical-memory/",
@@ -140,18 +152,6 @@
       "link": "https://thecitypaperbogota.com/living/festival-el-mundo-brings-13-nations-together-through-food-in-bogota/",
       "description": "Bogotá is preparing to turn gastronomy into a meeting point for cultures with the first edition of the Festival Gastronómico y Cultural El Mundo en el Corazón de Bogotá, taking place September 19 and 20 at Parque El Country. Admission is free to the two-day festival, which brings together 13 participating nations and the UN [&#8230;]",
       "pubDate": "Thu, 17 Sep 2026 13:00:20 +0000"
-    },
-    {
-      "title": "19 minors reported missing in Bogotá in a single week",
-      "link": "https://thecitypaperbogota.com/bogota/nineteen-minors-reported-missing-in-bogota-in-a-single-week/",
-      "description": "The disappearance of children and adolescents has become a growing concern in Bogotá after the city’s Security Secretariat reported 19 cases during the last week, the majority involving minors. Twelve of those reported missing were subsequently found alive, while the search continues for the remaining seven. Authorities said several of the cases were linked to [&#8230;]",
-      "pubDate": "Wed, 16 Sep 2026 19:29:46 +0000"
-    },
-    {
-      "title": "Chocó is still moving more than a month after Colombia’s 7.4 earthquake",
-      "link": "https://thecitypaperbogota.com/news/choco-is-still-moving-more-than-a-month-after-colombias-7-4-earthquake/",
-      "description": "A seismic swarm around Sipí and Istmina in the middle San Juan region of Chocó continues to produce tremors across the department as President De La Espriella visits to oversee reconstruction. The earth beneath Chocó has continued to move more than a month after a magnitude 7.4 earthquake struck Colombia&#8217;s Pacific litoral, with a series [&#8230;]",
-      "pubDate": "Tue, 15 Sep 2026 16:28:12 +0000"
     }
   ]
 }
