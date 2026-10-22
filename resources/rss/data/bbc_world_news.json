@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T18:31:46.592614+00:00",
+  "updated": "2026-10-22T22:20:11.257108+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -20,6 +20,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
       "description": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
       "pubDate": "Thu, 22 Oct 2026 17:14:04 GMT"
+    },
+    {
+      "title": "Trump says Musk has restored Ukraine's access after Starlink row",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "description": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "pubDate": "Thu, 22 Oct 2026 21:42:39 GMT"
     },
     {
       "title": "Crowd of 50 beats foreigner to death in South Africa",
@@ -46,6 +52,12 @@
       "pubDate": "Thu, 22 Oct 2026 17:01:47 GMT"
     },
     {
+      "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+      "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+      "description": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
+      "pubDate": "Thu, 22 Oct 2026 19:25:26 GMT"
+    },
+    {
       "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
       "link": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss",
       "description": "The teacher said she could not help children because she was badly injured by the attacker.",
@@ -55,10 +67,10 @@
       "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
       "link": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
       "description": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
-      "pubDate": "Thu, 22 Oct 2026 16:40:07 GMT"
+      "pubDate": "Thu, 22 Oct 2026 19:27:57 GMT"
     },
     {
-      "title": "Meta shields Mark Zuckerberg from possible 'billionaires tax' hit",
+      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
       "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
       "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
       "pubDate": "Thu, 22 Oct 2026 18:26:56 GMT"
@@ -74,12 +86,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
       "description": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\".",
       "pubDate": "Thu, 22 Oct 2026 09:47:54 GMT"
-    },
-    {
-      "title": "Total ban on protests in Marseille and Lyon after riots",
-      "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
-      "description": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
-      "pubDate": "Thu, 22 Oct 2026 17:45:44 GMT"
     },
     {
       "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
@@ -160,10 +166,10 @@
       "pubDate": "Wed, 21 Oct 2026 22:54:58 GMT"
     },
     {
-      "title": "US embassy accuses Canada of election meddling ahead of midterms",
-      "link": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
-      "description": "Prime Minister Mark Carney dismissed the claim, noting that US initiated trade actions against Canada.",
-      "pubDate": "Thu, 22 Oct 2026 03:05:28 GMT"
+      "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+      "link": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
+      "description": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine.",
+      "pubDate": "Thu, 22 Oct 2026 17:49:13 GMT"
     },
     {
       "title": "Damaging hail pelts Phoenix in rare storm",
@@ -190,12 +196,6 @@
       "pubDate": "Wed, 21 Oct 2026 22:02:18 GMT"
     },
     {
-      "title": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
-      "link": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC's Katy Watson describes what unfolded in Wangaratta as 43-year-old Brendan Nugent appeared before court over the alleged attack of Helen Haines.",
-      "pubDate": "Wed, 21 Oct 2026 03:58:16 GMT"
-    },
-    {
       "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
       "link": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
       "description": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
@@ -220,10 +220,10 @@
       "pubDate": "Wed, 21 Oct 2026 19:58:06 GMT"
     },
     {
-      "title": "New York City reconsiders a classic attraction: are horse-drawn carriages abuse?",
+      "title": "New York bans horse-drawn carriages over safety and abuse concerns",
       "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
-      "description": "As councillors prepare to banish the vehicles, views in Central Park are divided over the 160-year-old tradition.",
-      "pubDate": "Thu, 22 Oct 2026 09:06:48 GMT"
+      "description": "As the council voted to banish the carriages, views in Central Park were divided over the 160-year-old tradition.",
+      "pubDate": "Thu, 22 Oct 2026 20:49:12 GMT"
     },
     {
       "title": "What is PHP and why did it spark a global cyber-security scramble?",
