@@ -1,8 +1,20 @@
 {
-  "updated": "2026-10-22T01:30:32.786539+00:00",
+  "updated": "2026-10-22T07:33:31.630175+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "description": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "pubDate": "Thu, 22 Oct 2026 06:24:59 GMT"
+    },
+    {
+      "title": "How Arab parties could hold critical balance of power in Israeli election",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+      "description": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
+      "pubDate": "Thu, 22 Oct 2026 05:30:22 GMT"
+    },
     {
       "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
       "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
@@ -10,16 +22,52 @@
       "pubDate": "Wed, 21 Oct 2026 21:27:41 GMT"
     },
     {
-      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+      "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
       "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
       "description": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
       "pubDate": "Wed, 21 Oct 2026 19:58:06 GMT"
+    },
+    {
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+      "pubDate": "Wed, 21 Oct 2026 21:49:07 GMT"
+    },
+    {
+      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+      "description": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
+      "pubDate": "Thu, 22 Oct 2026 01:07:34 GMT"
     },
     {
       "title": "Macron accuses foreign leaders of exploiting French riots",
       "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
       "description": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
       "pubDate": "Wed, 21 Oct 2026 14:04:28 GMT"
+    },
+    {
+      "title": "No order, no seat: Starbucks China rolls out new store policy",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+      "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+      "pubDate": "Thu, 22 Oct 2026 04:02:29 GMT"
+    },
+    {
+      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+      "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+      "description": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+      "pubDate": "Wed, 21 Oct 2026 22:54:58 GMT"
+    },
+    {
+      "title": "US embassy accuses Canada of election meddling ahead of midterms",
+      "link": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
+      "description": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada.",
+      "pubDate": "Thu, 22 Oct 2026 03:05:28 GMT"
+    },
+    {
+      "title": "New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes",
+      "link": "https://www.bbc.co.uk/news/articles/cqx287g8714lo?at_medium=RSS&at_campaign=rss",
+      "description": "Both men have denied having any knowledge of Epstein's crimes and their attorney rejected the lawsuit as \"categorically false\".",
+      "pubDate": "Wed, 21 Oct 2026 22:20:22 GMT"
     },
     {
       "title": "Pope does not need further treatment after lung cancer surgery",
@@ -34,16 +82,16 @@
       "pubDate": "Wed, 21 Oct 2026 18:10:42 GMT"
     },
     {
-      "title": "Family of prison officer killed by IRA receives state apology",
-      "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
-      "description": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
-      "pubDate": "Wed, 21 Oct 2026 16:58:16 GMT"
-    },
-    {
       "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
       "link": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
       "description": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April.",
       "pubDate": "Wed, 21 Oct 2026 20:19:51 GMT"
+    },
+    {
+      "title": "Family of prison officer killed by IRA receives state apology",
+      "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
+      "description": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
+      "pubDate": "Wed, 21 Oct 2026 16:58:16 GMT"
     },
     {
       "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
@@ -56,12 +104,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
       "description": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
       "pubDate": "Wed, 21 Oct 2026 05:46:33 GMT"
-    },
-    {
-      "title": "Meta fined $25bn for 'lies' over user data privacy",
-      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-      "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-      "pubDate": "Wed, 21 Oct 2026 21:49:07 GMT"
     },
     {
       "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
@@ -118,54 +160,6 @@
       "pubDate": "Tue, 20 Oct 2026 19:30:05 GMT"
     },
     {
-      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
-      "description": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
-      "pubDate": "Tue, 20 Oct 2026 11:45:49 GMT"
-    },
-    {
-      "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
-      "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
-      "description": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
-      "pubDate": "Tue, 20 Oct 2026 03:10:39 GMT"
-    },
-    {
-      "title": "Suspect arrested after historic town hall set alight - French media",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-      "description": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
-      "pubDate": "Tue, 20 Oct 2026 21:05:50 GMT"
-    },
-    {
-      "title": "Kenya cult leader's children still being starved weeks before trial, son says",
-      "link": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
-      "description": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
-      "pubDate": "Tue, 20 Oct 2026 13:23:32 GMT"
-    },
-    {
-      "title": "Cornell Jane Doe says embattled university head doubted her gang-rape allegation",
-      "link": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&at_campaign=rss",
-      "description": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\".",
-      "pubDate": "Tue, 20 Oct 2026 19:08:06 GMT"
-    },
-    {
-      "title": "Mission blasts off for Mars to grab a piece of its moon",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
-      "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
-      "pubDate": "Mon, 19 Oct 2026 19:45:46 GMT"
-    },
-    {
-      "title": "Seventh day of violent clashes between Albanian protesters and police",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
-      "description": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
-      "pubDate": "Tue, 20 Oct 2026 02:45:05 GMT"
-    },
-    {
-      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-      "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
-      "description": "The two top tennis pros married in 2021 and have one child together.",
-      "pubDate": "Mon, 19 Oct 2026 21:02:33 GMT"
-    },
-    {
       "title": "The real reasons US politicians are getting older",
       "link": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
       "description": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
@@ -210,7 +204,7 @@
     {
       "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
       "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
-      "description": "Early on Thursday morning local time, South Korea's oceans ministry said the shark had been successfully guided out of the canal.",
+      "description": "It is thought the shark may have been drawn to the canal by unusually warm water and plenty of fish.",
       "pubDate": "Wed, 21 Oct 2026 20:31:47 GMT"
     },
     {
