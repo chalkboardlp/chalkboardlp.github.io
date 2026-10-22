@@ -1,19 +1,61 @@
 {
-  "updated": "2026-10-22T07:33:31.630175+00:00",
+  "updated": "2026-10-22T13:46:46.664280+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "What is PHP and why did it spark a global cyber-security scramble?",
-      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "description": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-      "pubDate": "Thu, 22 Oct 2026 06:24:59 GMT"
+      "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
+      "link": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
+      "description": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\".",
+      "pubDate": "Thu, 22 Oct 2026 09:47:54 GMT"
     },
     {
-      "title": "How Arab parties could hold critical balance of power in Israeli election",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
-      "description": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
-      "pubDate": "Thu, 22 Oct 2026 05:30:22 GMT"
+      "title": "Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to leave",
+      "link": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o?at_medium=RSS&at_campaign=rss",
+      "description": "The congresswoman said federal agents seized over a dozen items, including cell phones and notebooks, as part of a federal investigation.",
+      "pubDate": "Thu, 22 Oct 2026 13:36:21 GMT"
+    },
+    {
+      "title": "At least four dead after storm brings flooding to southern France",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
+      "description": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
+      "pubDate": "Thu, 22 Oct 2026 11:23:16 GMT"
+    },
+    {
+      "title": "Two European women held captive for more than a year in Niger freed in Libya",
+      "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+      "description": "The Swiss government told the BBC that the freed national was on her way back to Switzerland.",
+      "pubDate": "Thu, 22 Oct 2026 13:22:39 GMT"
+    },
+    {
+      "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+      "description": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
+      "pubDate": "Thu, 22 Oct 2026 10:16:35 GMT"
+    },
+    {
+      "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+      "description": "It is the latest in a series of attacks by the Houthi movement which have targeted airports and other sites in the kingdom.",
+      "pubDate": "Thu, 22 Oct 2026 09:14:48 GMT"
+    },
+    {
+      "title": "El Salvador's president threatens Haitian gangs over military hostages",
+      "link": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
+      "description": "Four members of the so-called Gang Suppression Force have been missing since Sunday.",
+      "pubDate": "Thu, 22 Oct 2026 10:17:48 GMT"
+    },
+    {
+      "title": "Grandparent hugging consent ad pulled after criticism",
+      "link": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o?at_medium=RSS&at_campaign=rss",
+      "description": "Jim O'Callaghan described the video as \"inappropriate and demeaning to grandparents\".",
+      "pubDate": "Thu, 22 Oct 2026 11:58:34 GMT"
+    },
+    {
+      "title": "First human case of Shamonda virus detected in France, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
+      "description": "The disease, which usually affects cattle, has been identified in a patient who died in early October.",
+      "pubDate": "Thu, 22 Oct 2026 11:04:14 GMT"
     },
     {
       "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
@@ -22,28 +64,22 @@
       "pubDate": "Wed, 21 Oct 2026 21:27:41 GMT"
     },
     {
-      "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
-      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-      "description": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
-      "pubDate": "Wed, 21 Oct 2026 19:58:06 GMT"
-    },
-    {
-      "title": "Meta fined $25bn for 'lies' over user data privacy",
-      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-      "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-      "pubDate": "Wed, 21 Oct 2026 21:49:07 GMT"
-    },
-    {
-      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
-      "description": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
-      "pubDate": "Thu, 22 Oct 2026 01:07:34 GMT"
+      "title": "How do Israel's elections work and who are the main contenders?",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
+      "description": "Many view it as one of the most pivotal elections in Israel's history, with global implications.",
+      "pubDate": "Thu, 22 Oct 2026 09:27:10 GMT"
     },
     {
       "title": "Macron accuses foreign leaders of exploiting French riots",
       "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
       "description": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
       "pubDate": "Wed, 21 Oct 2026 14:04:28 GMT"
+    },
+    {
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+      "pubDate": "Wed, 21 Oct 2026 21:49:07 GMT"
     },
     {
       "title": "No order, no seat: Starbucks China rolls out new store policy",
@@ -60,7 +96,7 @@
     {
       "title": "US embassy accuses Canada of election meddling ahead of midterms",
       "link": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
-      "description": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada.",
+      "description": "Prime Minister Mark Carney dismissed the claim, noting that US initiated trade actions against Canada.",
       "pubDate": "Thu, 22 Oct 2026 03:05:28 GMT"
     },
     {
@@ -109,7 +145,7 @@
       "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
       "link": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
       "description": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation.",
-      "pubDate": "Wed, 21 Oct 2026 19:29:40 GMT"
+      "pubDate": "Thu, 22 Oct 2026 10:10:13 GMT"
     },
     {
       "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
@@ -124,46 +160,64 @@
       "pubDate": "Wed, 21 Oct 2026 08:42:49 GMT"
     },
     {
-      "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
-      "link": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss",
-      "description": "The Gambia has confirmed receiving $2.5m from the sale of the house in Maryland.",
-      "pubDate": "Wed, 21 Oct 2026 08:31:48 GMT"
+      "title": "How did AI discover the internet's massive cyber-security risk?",
+      "link": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.",
+      "pubDate": "Thu, 22 Oct 2026 12:17:44 GMT"
     },
     {
-      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-      "description": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
-      "pubDate": "Tue, 20 Oct 2026 17:30:15 GMT"
+      "title": "Moment man rescued from sinking car by Australian TV reporter",
+      "link": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko?at_medium=RSS&at_campaign=rss",
+      "description": "Journalist Will Murray describes how he and a bystander saved an SUV driver from his vehicle.",
+      "pubDate": "Thu, 22 Oct 2026 11:08:33 GMT"
     },
     {
-      "title": "Trump and Zelensky at loggerheads despite new optimism",
-      "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
-      "description": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
-      "pubDate": "Tue, 20 Oct 2026 20:00:57 GMT"
+      "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
+      "link": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade.",
+      "pubDate": "Wed, 21 Oct 2026 22:02:18 GMT"
     },
     {
-      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
-      "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
-      "description": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
-      "pubDate": "Tue, 20 Oct 2026 22:22:17 GMT"
+      "title": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
+      "link": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC's Katy Watson describes what unfolded in Wangaratta as 43-year-old Brendan Nugent appeared before court over the alleged attack of Helen Haines.",
+      "pubDate": "Wed, 21 Oct 2026 03:58:16 GMT"
     },
     {
-      "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
-      "link": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
-      "description": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
-      "pubDate": "Tue, 20 Oct 2026 15:58:57 GMT"
+      "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+      "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
+      "description": "The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says.",
+      "pubDate": "Mon, 19 Oct 2026 20:00:43 GMT"
     },
     {
-      "title": "Trump sued over Canadian tariffs in latest legal challenge",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-      "description": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
-      "pubDate": "Tue, 20 Oct 2026 19:30:05 GMT"
+      "title": "How Arab parties could hold critical balance of power in Israeli election",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+      "description": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
+      "pubDate": "Thu, 22 Oct 2026 05:30:22 GMT"
     },
     {
-      "title": "The real reasons US politicians are getting older",
+      "title": "The real reasons there are so few young politicians in the US",
       "link": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
       "description": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
       "pubDate": "Wed, 21 Oct 2026 23:52:12 GMT"
+    },
+    {
+      "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
+      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+      "description": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
+      "pubDate": "Wed, 21 Oct 2026 19:58:06 GMT"
+    },
+    {
+      "title": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
+      "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
+      "description": "As councillors prepare to banish the vehicles, views in Central Park are divided over the 160-year-old tradition.",
+      "pubDate": "Thu, 22 Oct 2026 09:06:48 GMT"
+    },
+    {
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "description": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "pubDate": "Thu, 22 Oct 2026 11:15:58 GMT"
     },
     {
       "title": "Trump's green card curbs test Indian tech workers' American dream",
@@ -176,54 +230,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cvze414811jlo?at_medium=RSS&at_campaign=rss",
       "description": "Hotel chaos, transport mishaps and diplomatic blunders cast a spotlight on organisers and the firm hired to deliver the games.",
       "pubDate": "Wed, 21 Oct 2026 22:00:58 GMT"
-    },
-    {
-      "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
-      "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
-      "description": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
-      "pubDate": "Wed, 21 Oct 2026 06:50:40 GMT"
-    },
-    {
-      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
-      "pubDate": "Wed, 21 Oct 2026 23:04:03 GMT"
-    },
-    {
-      "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
-      "link": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
-      "description": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate.",
-      "pubDate": "Wed, 21 Oct 2026 02:37:13 GMT"
-    },
-    {
-      "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
-      "link": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade.",
-      "pubDate": "Wed, 21 Oct 2026 22:02:18 GMT"
-    },
-    {
-      "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
-      "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
-      "description": "It is thought the shark may have been drawn to the canal by unusually warm water and plenty of fish.",
-      "pubDate": "Wed, 21 Oct 2026 20:31:47 GMT"
-    },
-    {
-      "title": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
-      "link": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC's Katy Watson describes what unfolded in Wangaratta as 43-year-old Brendan Nugent appeared before court over the alleged attack of Helen Haines.",
-      "pubDate": "Wed, 21 Oct 2026 03:58:16 GMT"
-    },
-    {
-      "title": "Clean up begins after French riots but police remain",
-      "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
-      "description": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.",
-      "pubDate": "Mon, 19 Oct 2026 21:30:08 GMT"
-    },
-    {
-      "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
-      "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
-      "description": "The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says.",
-      "pubDate": "Mon, 19 Oct 2026 20:00:43 GMT"
     }
   ]
 }
