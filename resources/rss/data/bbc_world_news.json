@@ -1,13 +1,19 @@
 {
-  "updated": "2026-10-23T01:30:12.082352+00:00",
+  "updated": "2026-10-23T07:30:21.055741+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
       "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
       "description": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
       "pubDate": "Thu, 22 Oct 2026 23:16:16 GMT"
+    },
+    {
+      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+      "description": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
+      "pubDate": "Fri, 23 Oct 2026 05:16:37 GMT"
     },
     {
       "title": "Trump says Musk has restored access to Ukraine's Starlink network",
@@ -16,13 +22,7 @@
       "pubDate": "Thu, 22 Oct 2026 21:42:39 GMT"
     },
     {
-      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-      "description": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
-      "pubDate": "Thu, 22 Oct 2026 15:56:36 GMT"
-    },
-    {
-      "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+      "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
       "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
       "description": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
       "pubDate": "Thu, 22 Oct 2026 22:27:53 GMT"
@@ -31,7 +31,19 @@
       "title": "Trump ordered to answer questions under oath in BBC lawsuit",
       "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
       "description": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
-      "pubDate": "Fri, 23 Oct 2026 00:10:46 GMT"
+      "pubDate": "Fri, 23 Oct 2026 01:38:44 GMT"
+    },
+    {
+      "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+      "description": "Officials say they both travelled through Entebbe International Airport on 3 October.",
+      "pubDate": "Fri, 23 Oct 2026 04:54:25 GMT"
+    },
+    {
+      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+      "description": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
+      "pubDate": "Thu, 22 Oct 2026 15:56:36 GMT"
     },
     {
       "title": "Race to update services' computer systems after cyber-security flaw found",
@@ -70,12 +82,6 @@
       "pubDate": "Thu, 22 Oct 2026 19:25:26 GMT"
     },
     {
-      "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss",
-      "description": "The teacher said she could not help children because she was badly injured by the attacker.",
-      "pubDate": "Thu, 22 Oct 2026 14:09:54 GMT"
-    },
-    {
       "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
       "link": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
       "description": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
@@ -92,66 +98,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&at_campaign=rss",
       "description": "The influencer, whose real name is Braden Peters, is accused of sexually assaulting a 17-year-old girl in 2025.",
       "pubDate": "Thu, 22 Oct 2026 17:21:42 GMT"
-    },
-    {
-      "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
-      "link": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
-      "description": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\".",
-      "pubDate": "Thu, 22 Oct 2026 09:47:54 GMT"
-    },
-    {
-      "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-      "description": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom.",
-      "pubDate": "Thu, 22 Oct 2026 13:46:33 GMT"
-    },
-    {
-      "title": "Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out",
-      "link": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o?at_medium=RSS&at_campaign=rss",
-      "description": "The congresswoman said federal agents seized over a dozen items, including cell phones and notebooks, as part of a federal investigation.",
-      "pubDate": "Thu, 22 Oct 2026 13:36:21 GMT"
-    },
-    {
-      "title": "YouTuber arrested after popular Indian finance influencer's suicide",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
-      "description": "V Harish, who ran the hugely popular Instagram account \"Finance with Harish\", was found dead on Tuesday.",
-      "pubDate": "Thu, 22 Oct 2026 14:08:10 GMT"
-    },
-    {
-      "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
-      "description": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
-      "pubDate": "Thu, 22 Oct 2026 10:16:35 GMT"
-    },
-    {
-      "title": "El Salvador's president threatens Haitian gangs over military hostages",
-      "link": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
-      "description": "Four members of the so-called Gang Suppression Force have been missing since Sunday.",
-      "pubDate": "Thu, 22 Oct 2026 10:17:48 GMT"
-    },
-    {
-      "title": "First human case of Shamonda virus detected in France, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
-      "description": "The disease, which usually affects cattle, has been identified in a patient who died in early October.",
-      "pubDate": "Thu, 22 Oct 2026 13:53:32 GMT"
-    },
-    {
-      "title": "'Demeaning' and 'absurd': The backlash against a hugging grandparents consent ad",
-      "link": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o?at_medium=RSS&at_campaign=rss",
-      "description": "Jim O'Callaghan described the video as \"inappropriate and demeaning to grandparents\".",
-      "pubDate": "Thu, 22 Oct 2026 17:18:17 GMT"
-    },
-    {
-      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
-      "pubDate": "Wed, 21 Oct 2026 21:27:41 GMT"
-    },
-    {
-      "title": "How do Israel's elections work and who are the main contenders?",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
-      "description": "Many view it as one of the most pivotal elections in Israel's history, with global implications.",
-      "pubDate": "Thu, 22 Oct 2026 09:27:10 GMT"
     },
     {
       "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
@@ -193,7 +139,7 @@
       "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
       "link": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
       "description": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
-      "pubDate": "Thu, 22 Oct 2026 14:33:06 GMT"
+      "pubDate": "Fri, 23 Oct 2026 06:26:25 GMT"
     },
     {
       "title": "How Arab parties could hold critical balance of power in Israeli election",
