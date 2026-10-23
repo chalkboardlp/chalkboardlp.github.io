@@ -1,8 +1,20 @@
 {
-  "updated": "2026-10-22T22:20:11.257108+00:00",
+  "updated": "2026-10-23T01:30:12.082352+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+      "description": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+      "pubDate": "Thu, 22 Oct 2026 23:16:16 GMT"
+    },
+    {
+      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "description": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "pubDate": "Thu, 22 Oct 2026 21:42:39 GMT"
+    },
     {
       "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
       "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
@@ -10,22 +22,22 @@
       "pubDate": "Thu, 22 Oct 2026 15:56:36 GMT"
     },
     {
-      "title": "Race to update services' computer systems after cyber-security flaw found",
-      "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-      "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
-      "pubDate": "Thu, 22 Oct 2026 17:12:51 GMT"
+      "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+      "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+      "description": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+      "pubDate": "Thu, 22 Oct 2026 22:27:53 GMT"
     },
     {
       "title": "Trump ordered to answer questions under oath in BBC lawsuit",
       "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
       "description": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
-      "pubDate": "Thu, 22 Oct 2026 17:14:04 GMT"
+      "pubDate": "Fri, 23 Oct 2026 00:10:46 GMT"
     },
     {
-      "title": "Trump says Musk has restored Ukraine's access after Starlink row",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "description": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
-      "pubDate": "Thu, 22 Oct 2026 21:42:39 GMT"
+      "title": "Race to update services' computer systems after cyber-security flaw found",
+      "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+      "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+      "pubDate": "Thu, 22 Oct 2026 17:12:51 GMT"
     },
     {
       "title": "Crowd of 50 beats foreigner to death in South Africa",
@@ -142,30 +154,6 @@
       "pubDate": "Thu, 22 Oct 2026 09:27:10 GMT"
     },
     {
-      "title": "Macron accuses foreign leaders of exploiting French riots",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-      "description": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
-      "pubDate": "Wed, 21 Oct 2026 14:04:28 GMT"
-    },
-    {
-      "title": "Meta fined $25bn for 'lies' over user data privacy",
-      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-      "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-      "pubDate": "Wed, 21 Oct 2026 21:49:07 GMT"
-    },
-    {
-      "title": "No order, no seat: Starbucks China rolls out new store policy",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
-      "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
-      "pubDate": "Thu, 22 Oct 2026 04:02:29 GMT"
-    },
-    {
-      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
-      "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
-      "description": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
-      "pubDate": "Wed, 21 Oct 2026 22:54:58 GMT"
-    },
-    {
       "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
       "link": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
       "description": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine.",
@@ -196,6 +184,12 @@
       "pubDate": "Wed, 21 Oct 2026 22:02:18 GMT"
     },
     {
+      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+      "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
+      "description": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
+      "pubDate": "Thu, 22 Oct 2026 23:16:20 GMT"
+    },
+    {
       "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
       "link": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
       "description": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
@@ -220,7 +214,7 @@
       "pubDate": "Wed, 21 Oct 2026 19:58:06 GMT"
     },
     {
-      "title": "New York bans horse-drawn carriages over safety and abuse concerns",
+      "title": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
       "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
       "description": "As the council voted to banish the carriages, views in Central Park were divided over the 160-year-old tradition.",
       "pubDate": "Thu, 22 Oct 2026 20:49:12 GMT"
@@ -230,12 +224,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
       "description": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
       "pubDate": "Thu, 22 Oct 2026 11:15:58 GMT"
-    },
-    {
-      "title": "Trump's green card curbs test Indian tech workers' American dream",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-      "description": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
-      "pubDate": "Wed, 21 Oct 2026 23:06:37 GMT"
     }
   ]
 }
