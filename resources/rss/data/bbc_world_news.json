@@ -1,8 +1,14 @@
 {
-  "updated": "2026-10-24T20:47:38.823841+00:00",
+  "updated": "2026-10-24T23:12:39.048089+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "description": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+      "pubDate": "Sat, 24 Oct 2026 21:09:27 GMT"
+    },
     {
       "title": "Ukraine says Starlink connection 'now stable' after network limits",
       "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
@@ -13,7 +19,7 @@
       "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
       "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
       "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
-      "pubDate": "Sat, 24 Oct 2026 17:21:42 GMT"
+      "pubDate": "Sat, 24 Oct 2026 23:02:06 GMT"
     },
     {
       "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
@@ -130,6 +136,12 @@
       "pubDate": "Sat, 24 Oct 2026 19:37:35 GMT"
     },
     {
+      "title": "Who are the candidates in Brazil's presidential election?",
+      "link": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
+      "description": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
+      "pubDate": "Sat, 24 Oct 2026 22:08:47 GMT"
+    },
+    {
       "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
       "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
       "description": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
@@ -146,12 +158,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
       "description": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system.",
       "pubDate": "Fri, 23 Oct 2026 11:30:32 GMT"
-    },
-    {
-      "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
-      "link": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
-      "description": "The sequence is part of the latest Blue Planet series from Sir David Attenborough.",
-      "pubDate": "Fri, 23 Oct 2026 05:05:03 GMT"
     },
     {
       "title": "The rise of AI election ads in US midterms campaign",
