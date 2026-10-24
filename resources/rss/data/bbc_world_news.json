@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T18:07:51.777932+00:00",
+  "updated": "2026-10-24T20:47:38.823841+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -8,6 +8,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
       "description": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
       "pubDate": "Sat, 24 Oct 2026 12:12:40 GMT"
+    },
+    {
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "pubDate": "Sat, 24 Oct 2026 17:21:42 GMT"
     },
     {
       "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
@@ -31,7 +37,7 @@
       "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
       "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
       "description": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
-      "pubDate": "Sat, 24 Oct 2026 14:45:30 GMT"
+      "pubDate": "Sat, 24 Oct 2026 19:12:51 GMT"
     },
     {
       "title": "Three released without charge after fatal arson attack in Ireland",
@@ -94,12 +100,6 @@
       "pubDate": "Fri, 23 Oct 2026 19:46:30 GMT"
     },
     {
-      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "description": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
-      "pubDate": "Fri, 23 Oct 2026 15:37:07 GMT"
-    },
-    {
       "title": "Argentina drops investigation into President Milei over crypto fraud",
       "link": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
       "description": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.",
@@ -124,7 +124,13 @@
       "pubDate": "Fri, 23 Oct 2026 15:30:47 GMT"
     },
     {
-      "title": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+      "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
+      "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+      "description": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+      "pubDate": "Sat, 24 Oct 2026 19:37:35 GMT"
+    },
+    {
+      "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
       "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
       "description": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
       "pubDate": "Sat, 24 Oct 2026 15:56:48 GMT"
@@ -146,12 +152,6 @@
       "link": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
       "description": "The sequence is part of the latest Blue Planet series from Sir David Attenborough.",
       "pubDate": "Fri, 23 Oct 2026 05:05:03 GMT"
-    },
-    {
-      "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
-      "link": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Madeline Halpert spoke to city tourists, residents and horse carriage workers about the industry and their opinion on the ban.",
-      "pubDate": "Thu, 22 Oct 2026 20:48:56 GMT"
     },
     {
       "title": "The rise of AI election ads in US midterms campaign",
