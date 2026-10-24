@@ -1,13 +1,19 @@
 {
-  "updated": "2026-10-24T10:57:00.996995+00:00",
+  "updated": "2026-10-24T14:31:24.748974+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "description": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+      "pubDate": "Sat, 24 Oct 2026 12:12:40 GMT"
+    },
+    {
       "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
       "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "description": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-      "pubDate": "Sat, 24 Oct 2026 10:22:34 GMT"
+      "description": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "pubDate": "Sat, 24 Oct 2026 14:16:05 GMT"
     },
     {
       "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
@@ -16,16 +22,28 @@
       "pubDate": "Fri, 23 Oct 2026 22:47:07 GMT"
     },
     {
+      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+      "description": "The children were subsequently rescued from the water, police say.",
+      "pubDate": "Sat, 24 Oct 2026 09:45:47 GMT"
+    },
+    {
       "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
       "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
       "description": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
       "pubDate": "Fri, 23 Oct 2026 23:08:23 GMT"
     },
     {
-      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "description": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-      "pubDate": "Sat, 24 Oct 2026 00:36:47 GMT"
+      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+      "pubDate": "Sat, 24 Oct 2026 09:46:53 GMT"
+    },
+    {
+      "title": "Three released without charge after fatal arson attack in Ireland",
+      "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
+      "description": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
+      "pubDate": "Sat, 24 Oct 2026 09:38:28 GMT"
     },
     {
       "title": "Australian MP's condition improves after alleged car attack",
@@ -34,10 +52,10 @@
       "pubDate": "Sat, 24 Oct 2026 01:55:15 GMT"
     },
     {
-      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-      "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-      "pubDate": "Sat, 24 Oct 2026 09:46:53 GMT"
+      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "description": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+      "pubDate": "Sat, 24 Oct 2026 00:36:47 GMT"
     },
     {
       "title": "Seven missing after multi-storey building collapses in Kenya's capital",
