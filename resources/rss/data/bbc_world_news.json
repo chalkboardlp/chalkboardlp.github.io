@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-25T01:09:18.079060+00:00",
+  "updated": "2026-10-25T06:07:01.979844+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
       "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
       "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "description": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
-      "pubDate": "Sat, 24 Oct 2026 21:09:27 GMT"
+      "description": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+      "pubDate": "Sun, 25 Oct 2026 04:16:52 GMT"
     },
     {
       "title": "Ukraine says Starlink connection 'now stable' after network limits",
@@ -132,7 +132,7 @@
     {
       "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
       "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
-      "description": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+      "description": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
       "pubDate": "Sat, 24 Oct 2026 19:37:35 GMT"
     },
     {
