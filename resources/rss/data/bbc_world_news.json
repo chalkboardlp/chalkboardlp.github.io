@@ -1,14 +1,8 @@
 {
-  "updated": "2026-10-25T11:25:30.201763+00:00",
+  "updated": "2026-10-25T16:15:43.347468+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
-    {
-      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "description": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
-      "pubDate": "Sun, 25 Oct 2026 10:38:15 GMT"
-    },
     {
       "title": "Israel to close West Bank crossings on election day as crackdown escalates",
       "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
@@ -16,10 +10,10 @@
       "pubDate": "Sun, 25 Oct 2026 05:15:52 GMT"
     },
     {
-      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-      "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-      "description": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
-      "pubDate": "Sun, 25 Oct 2026 11:00:26 GMT"
+      "title": "Early reports suggest record high turnout in Serbia elections",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+      "description": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+      "pubDate": "Sun, 25 Oct 2026 16:05:15 GMT"
     },
     {
       "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
@@ -28,22 +22,10 @@
       "pubDate": "Sun, 25 Oct 2026 09:00:00 GMT"
     },
     {
-      "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-      "description": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
-      "pubDate": "Sun, 25 Oct 2026 03:20:16 GMT"
-    },
-    {
-      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "description": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-      "pubDate": "Sat, 24 Oct 2026 15:21:44 GMT"
-    },
-    {
-      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
-      "description": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
-      "pubDate": "Sat, 24 Oct 2026 19:12:51 GMT"
+      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
+      "description": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+      "pubDate": "Sun, 25 Oct 2026 15:32:51 GMT"
     },
     {
       "title": "El Salvador president says bodies found in Haiti are not those of hostages",
@@ -52,16 +34,40 @@
       "pubDate": "Sun, 25 Oct 2026 10:55:33 GMT"
     },
     {
+      "title": "Gabon says access to social media restored after eight-month ban",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
+      "description": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
+      "pubDate": "Sun, 25 Oct 2026 14:39:47 GMT"
+    },
+    {
+      "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+      "description": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
+      "pubDate": "Sun, 25 Oct 2026 03:20:16 GMT"
+    },
+    {
       "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
       "link": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
       "description": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\".",
       "pubDate": "Sun, 25 Oct 2026 02:27:15 GMT"
     },
     {
-      "title": "Mum who died trying to save sons was hero, husband says",
-      "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-      "description": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
-      "pubDate": "Sat, 24 Oct 2026 17:11:56 GMT"
+      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "description": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+      "pubDate": "Sun, 25 Oct 2026 10:38:15 GMT"
+    },
+    {
+      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+      "description": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+      "pubDate": "Sat, 24 Oct 2026 19:12:51 GMT"
+    },
+    {
+      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "description": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "pubDate": "Sat, 24 Oct 2026 15:21:44 GMT"
     },
     {
       "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
@@ -116,12 +122,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
       "description": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
       "pubDate": "Fri, 23 Oct 2026 18:49:14 GMT"
-    },
-    {
-      "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss",
-      "description": "Greg Bovino was the public face of the controversial immigration enforcement operation in the city earlier this year.",
-      "pubDate": "Sat, 24 Oct 2026 05:31:01 GMT"
     },
     {
       "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
@@ -182,18 +182,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss",
       "description": "That Girl Boina's post about why she had closed her beauty parlour struck a nerve with other small business owners.",
       "pubDate": "Sun, 25 Oct 2026 08:36:47 GMT"
-    },
-    {
-      "title": "The rise of AI election ads in US midterms campaign",
-      "link": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms.",
-      "pubDate": "Sat, 24 Oct 2026 05:03:44 GMT"
-    },
-    {
-      "title": "How Brazil's changing working class is reshaping the presidential race",
-      "link": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
-      "description": "Calls for change present a challenge to President Lula in the second round of the election on Sunday.",
-      "pubDate": "Sat, 24 Oct 2026 05:05:44 GMT"
     }
   ]
 }
