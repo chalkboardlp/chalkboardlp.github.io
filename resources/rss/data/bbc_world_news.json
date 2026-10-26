@@ -1,19 +1,25 @@
 {
-  "updated": "2026-10-25T21:46:07.890294+00:00",
+  "updated": "2026-10-26T00:22:20.292159+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Serbia's Vučić concedes election defeat to student-led protest movement",
+      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "description": "The country's populist right-wing leader of 12 years says it is \"clear\" his Serbian Progressive Party has lost.",
-      "pubDate": "Sun, 25 Oct 2026 21:25:04 GMT"
+      "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "pubDate": "Sun, 25 Oct 2026 22:54:57 GMT"
+    },
+    {
+      "title": "Deeply divided Israel braces for pivotal election",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "description": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+      "pubDate": "Sun, 25 Oct 2026 22:11:13 GMT"
     },
     {
       "title": "Venezuelan opposition leader María Machado returns after months in exile",
       "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
       "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "pubDate": "Sun, 25 Oct 2026 18:29:00 GMT"
+      "pubDate": "Sun, 25 Oct 2026 23:33:14 GMT"
     },
     {
       "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
@@ -130,6 +136,12 @@
       "pubDate": "Fri, 23 Oct 2026 18:49:14 GMT"
     },
     {
+      "title": "Why Israel's election is one of the most important in its history",
+      "link": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+      "description": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+      "pubDate": "Sun, 25 Oct 2026 22:05:30 GMT"
+    },
+    {
       "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
       "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
       "description": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
@@ -152,12 +164,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
       "description": "President Zelensky says limits to the technology continue to affect Ukrainian forces, while US officials and Elon Musk offer conflicting accounts of who controls it.",
       "pubDate": "Fri, 23 Oct 2026 22:24:36 GMT"
-    },
-    {
-      "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
-      "link": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
-      "description": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system.",
-      "pubDate": "Fri, 23 Oct 2026 11:30:32 GMT"
     },
     {
       "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
