@@ -1,19 +1,73 @@
 {
-  "updated": "2026-10-26T12:59:10.291113+00:00",
+  "updated": "2026-10-26T19:17:58.472855+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "description": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+      "pubDate": "Mon, 26 Oct 2026 18:26:19 GMT"
+    },
+    {
       "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
       "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "pubDate": "Mon, 26 Oct 2026 12:52:16 GMT"
+      "pubDate": "Mon, 26 Oct 2026 14:34:52 GMT"
+    },
+    {
+      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+      "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
+      "description": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.",
+      "pubDate": "Mon, 26 Oct 2026 14:16:09 GMT"
+    },
+    {
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "description": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+      "pubDate": "Mon, 26 Oct 2026 16:27:17 GMT"
+    },
+    {
+      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+      "description": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
+      "pubDate": "Mon, 26 Oct 2026 15:46:31 GMT"
+    },
+    {
+      "title": "US Marine indicted for murder and robbery of woman in Japan",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
+      "description": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
+      "pubDate": "Mon, 26 Oct 2026 14:13:18 GMT"
     },
     {
       "title": "Venezuelan opposition leader María Machado returns after months in exile",
       "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
       "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
       "pubDate": "Mon, 26 Oct 2026 05:20:19 GMT"
+    },
+    {
+      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+      "description": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
+      "pubDate": "Mon, 26 Oct 2026 17:00:09 GMT"
+    },
+    {
+      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+      "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+      "description": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.",
+      "pubDate": "Mon, 26 Oct 2026 14:27:32 GMT"
+    },
+    {
+      "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss",
+      "description": "The incident happened on Saturday night, close to an American football stadium where a game had just been played.",
+      "pubDate": "Mon, 26 Oct 2026 15:45:30 GMT"
+    },
+    {
+      "title": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss",
+      "description": "One resident, whose 75-year-old father was killed, described it as an ambush, saying they were surrounded.",
+      "pubDate": "Mon, 26 Oct 2026 16:31:09 GMT"
     },
     {
       "title": "Australian murderer loses bid to eat Vegemite in prison",
@@ -28,58 +82,16 @@
       "pubDate": "Mon, 26 Oct 2026 06:16:15 GMT"
     },
     {
-      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
-      "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
-      "description": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
-      "pubDate": "Sun, 25 Oct 2026 23:33:19 GMT"
+      "title": "Part of Antarctica named after former BBC science correspondent",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
+      "description": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
+      "pubDate": "Mon, 26 Oct 2026 14:54:40 GMT"
     },
     {
-      "title": "Nurse killed in Ebola attack in DR Congo",
-      "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
-      "description": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.",
-      "pubDate": "Mon, 26 Oct 2026 12:57:58 GMT"
-    },
-    {
-      "title": "Deeply divided Israel braces for pivotal election",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-      "description": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
-      "pubDate": "Sun, 25 Oct 2026 22:11:13 GMT"
-    },
-    {
-      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-      "description": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
-      "pubDate": "Sun, 25 Oct 2026 15:32:51 GMT"
-    },
-    {
-      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
-      "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
-      "description": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
-      "pubDate": "Sun, 25 Oct 2026 14:34:33 GMT"
-    },
-    {
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-      "pubDate": "Sun, 25 Oct 2026 09:00:00 GMT"
-    },
-    {
-      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "description": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
-      "pubDate": "Sun, 25 Oct 2026 05:15:52 GMT"
-    },
-    {
-      "title": "Gabon says access to social media restored after eight-month ban",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
-      "description": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
-      "pubDate": "Sun, 25 Oct 2026 14:39:47 GMT"
-    },
-    {
-      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-      "description": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
-      "pubDate": "Sun, 25 Oct 2026 10:55:33 GMT"
+      "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
+      "link": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss",
+      "description": "The airport won’t have direct public transportation for a year. How do locals feel about getting there?",
+      "pubDate": "Mon, 26 Oct 2026 18:00:10 GMT"
     },
     {
       "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
@@ -106,10 +118,16 @@
       "pubDate": "Sat, 24 Oct 2026 19:37:35 GMT"
     },
     {
-      "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
-      "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
-      "description": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
-      "pubDate": "Sat, 24 Oct 2026 15:56:48 GMT"
+      "title": "Israel and the US are both going to the polls - the consequences will be global",
+      "link": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
+      "description": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
+      "pubDate": "Mon, 26 Oct 2026 16:30:34 GMT"
+    },
+    {
+      "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
+      "description": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation.",
+      "pubDate": "Mon, 26 Oct 2026 15:37:33 GMT"
     },
     {
       "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
@@ -140,18 +158,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
       "description": "The highly secretive four-day Plenum starts Monday in Beijing.",
       "pubDate": "Mon, 26 Oct 2026 07:40:57 GMT"
-    },
-    {
-      "title": "India's cartoonists built an audience online - now their posts are being restricted",
-      "link": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss",
-      "description": "Indian cartoonists say online restrictions are making satire harder, but they aren't giving up.",
-      "pubDate": "Mon, 26 Oct 2026 01:09:41 GMT"
-    },
-    {
-      "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
-      "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
-      "description": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
-      "pubDate": "Sun, 25 Oct 2026 23:44:34 GMT"
     }
   ]
 }
