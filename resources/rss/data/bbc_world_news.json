@@ -1,13 +1,19 @@
 {
-  "updated": "2026-10-26T00:22:20.292159+00:00",
+  "updated": "2026-10-26T06:11:47.429629+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
       "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "pubDate": "Sun, 25 Oct 2026 22:54:57 GMT"
+      "pubDate": "Mon, 26 Oct 2026 01:07:05 GMT"
+    },
+    {
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "pubDate": "Mon, 26 Oct 2026 05:20:19 GMT"
     },
     {
       "title": "Deeply divided Israel braces for pivotal election",
@@ -16,22 +22,34 @@
       "pubDate": "Sun, 25 Oct 2026 22:11:13 GMT"
     },
     {
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "pubDate": "Sun, 25 Oct 2026 23:33:14 GMT"
-    },
-    {
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-      "pubDate": "Sun, 25 Oct 2026 09:00:00 GMT"
+      "title": "Australian murderer loses bid to eat Vegemite in prison",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
+      "description": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
+      "pubDate": "Mon, 26 Oct 2026 04:05:28 GMT"
     },
     {
       "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
       "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
       "description": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
       "pubDate": "Sun, 25 Oct 2026 15:32:51 GMT"
+    },
+    {
+      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
+      "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+      "description": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
+      "pubDate": "Sun, 25 Oct 2026 14:34:33 GMT"
+    },
+    {
+      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+      "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+      "description": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
+      "pubDate": "Sun, 25 Oct 2026 23:33:19 GMT"
+    },
+    {
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+      "pubDate": "Sun, 25 Oct 2026 09:00:00 GMT"
     },
     {
       "title": "Israel to close West Bank crossings on election day as crackdown escalates",
@@ -136,6 +154,12 @@
       "pubDate": "Fri, 23 Oct 2026 18:49:14 GMT"
     },
     {
+      "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+      "link": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
+      "description": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.",
+      "pubDate": "Mon, 26 Oct 2026 02:53:00 GMT"
+    },
+    {
       "title": "Why Israel's election is one of the most important in its history",
       "link": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
       "description": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
@@ -146,12 +170,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
       "description": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
       "pubDate": "Sat, 24 Oct 2026 19:37:35 GMT"
-    },
-    {
-      "title": "Who are the candidates in Brazil's presidential election?",
-      "link": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
-      "description": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
-      "pubDate": "Sat, 24 Oct 2026 22:08:47 GMT"
     },
     {
       "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
@@ -166,6 +184,18 @@
       "pubDate": "Fri, 23 Oct 2026 22:24:36 GMT"
     },
     {
+      "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+      "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+      "description": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+      "pubDate": "Sun, 25 Oct 2026 23:44:34 GMT"
+    },
+    {
+      "title": "India's cartoonists built an audience online - now their posts are being restricted",
+      "link": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss",
+      "description": "Indian cartoonists say online restrictions are making satire harder, but they aren't giving up.",
+      "pubDate": "Mon, 26 Oct 2026 01:09:41 GMT"
+    },
+    {
       "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
       "link": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss",
       "description": "That Girl Boina's post about why she had closed her beauty parlour struck a nerve with other small business owners.",
@@ -176,18 +206,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
       "description": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?",
       "pubDate": "Sat, 24 Oct 2026 23:03:21 GMT"
-    },
-    {
-      "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
-      "description": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet.",
-      "pubDate": "Sun, 25 Oct 2026 05:45:31 GMT"
-    },
-    {
-      "title": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
-      "link": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&at_campaign=rss",
-      "description": "More than a million people flocked to Busan to catch a glimpse of the female dusky shark they called Bukangi.",
-      "pubDate": "Sat, 24 Oct 2026 22:58:43 GMT"
     },
     {
       "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
