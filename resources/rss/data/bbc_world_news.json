@@ -1,13 +1,37 @@
 {
-  "updated": "2026-10-27T10:32:07.558689+00:00",
+  "updated": "2026-10-27T16:36:57.690789+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Israel heads to polls for pivotal election defined by security and democracy",
+      "title": "Turnout so far highest on record as Israelis vote in pivotal election",
       "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
-      "description": "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead.",
-      "pubDate": "Tue, 27 Oct 2026 10:14:00 GMT"
+      "description": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
+      "pubDate": "Tue, 27 Oct 2026 11:11:33 GMT"
+    },
+    {
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "description": "This is the first time European leaders have had direct communication with Russia's president in more than a year.",
+      "pubDate": "Tue, 27 Oct 2026 14:23:05 GMT"
+    },
+    {
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+      "description": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
+      "pubDate": "Tue, 27 Oct 2026 15:13:24 GMT"
+    },
+    {
+      "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
+      "description": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
+      "pubDate": "Tue, 27 Oct 2026 14:29:39 GMT"
+    },
+    {
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "description": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+      "pubDate": "Tue, 27 Oct 2026 13:25:54 GMT"
     },
     {
       "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
@@ -16,22 +40,34 @@
       "pubDate": "Tue, 27 Oct 2026 01:46:38 GMT"
     },
     {
-      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-      "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-      "description": "The ceasefire in Oleshky, secured by US First Lady Melania Trump, is meant to allow aid deliveries and the evacuation of civilians.",
-      "pubDate": "Tue, 27 Oct 2026 09:18:44 GMT"
-    },
-    {
       "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
       "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
       "description": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
       "pubDate": "Tue, 27 Oct 2026 02:40:17 GMT"
     },
     {
+      "title": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+      "description": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
+      "pubDate": "Tue, 27 Oct 2026 16:11:35 GMT"
+    },
+    {
+      "title": "West warns of famine risk in Sudan as civil war grinds on",
+      "link": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
+      "description": "Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis.",
+      "pubDate": "Tue, 27 Oct 2026 15:41:46 GMT"
+    },
+    {
+      "title": "Nanotyrannus skeleton auctioned for $47.3m in New York",
+      "link": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
+      "description": "The auction of the rare skeleton comes amid debate in the scientific community about whether dinosaur remains should end up in private hands or public view.",
+      "pubDate": "Tue, 27 Oct 2026 16:11:27 GMT"
+    },
+    {
       "title": "Ex-FBI chief James Comey faces federal charges for third time",
       "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
       "description": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
-      "pubDate": "Tue, 27 Oct 2026 02:01:27 GMT"
+      "pubDate": "Tue, 27 Oct 2026 11:44:54 GMT"
     },
     {
       "title": "Jay-Z to perform at Super Bowl half-time show",
@@ -40,52 +76,28 @@
       "pubDate": "Tue, 27 Oct 2026 05:05:15 GMT"
     },
     {
-      "title": "Mbappé dropped by major Chinese brands drop as backlash grows over Mao joke",
-      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-      "description": "He allegedly said the funniest \"meme\" about him is the one where they put his face on \"a Chinese dictator\".",
-      "pubDate": "Tue, 27 Oct 2026 10:19:13 GMT"
+      "title": "Netherlands pulls out of Eurovision again over Israel participation",
+      "link": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
+      "description": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
+      "pubDate": "Tue, 27 Oct 2026 11:23:19 GMT"
+    },
+    {
+      "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss",
+      "description": "The cycle of revenge attacks continue as the country heads towards its first  election since independence.",
+      "pubDate": "Tue, 27 Oct 2026 12:25:14 GMT"
+    },
+    {
+      "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
+      "description": "The California Democrat has faced multiple sexual misconduct allegations which he has denied.",
+      "pubDate": "Tue, 27 Oct 2026 16:20:22 GMT"
     },
     {
       "title": "Meghan to co-host Junior MasterChef Australia",
       "link": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss",
       "description": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year.",
       "pubDate": "Tue, 27 Oct 2026 04:43:56 GMT"
-    },
-    {
-      "title": "'Maxxing' selected as Dictionary.com word of the year",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
-      "description": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
-      "pubDate": "Mon, 26 Oct 2026 21:31:53 GMT"
-    },
-    {
-      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-      "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
-      "description": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
-      "pubDate": "Mon, 26 Oct 2026 19:27:21 GMT"
-    },
-    {
-      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "pubDate": "Mon, 26 Oct 2026 14:34:52 GMT"
-    },
-    {
-      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-      "description": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-      "pubDate": "Mon, 26 Oct 2026 16:27:17 GMT"
-    },
-    {
-      "title": "Pope's South American trip to go ahead as planned after lung cancer surgery",
-      "link": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o?at_medium=RSS&at_campaign=rss",
-      "description": "The Pope underwent surgery in to remove a tumour on the lower part of his right lung and is gradually resuming his duties.",
-      "pubDate": "Mon, 26 Oct 2026 18:46:19 GMT"
-    },
-    {
-      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
-      "link": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
-      "description": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
-      "pubDate": "Mon, 26 Oct 2026 15:46:31 GMT"
     },
     {
       "title": "What does Israel's election mean for Gaza and the wider world?",
@@ -118,6 +130,12 @@
       "pubDate": "Mon, 26 Oct 2026 02:53:00 GMT"
     },
     {
+      "title": "How Kane defied doubters to become world's best",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqvg01jyy84xo?at_medium=RSS&at_campaign=rss",
+      "description": "Harry Kane is the humble 'anti-superstar' who defied doubters to achieve Ballon d'Or greatness, says chief football writer Phil McNulty.",
+      "pubDate": "Tue, 27 Oct 2026 12:46:39 GMT"
+    },
+    {
       "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
       "link": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
       "description": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
@@ -140,30 +158,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
       "description": "The firebrand left-winger, who has at times been at odds with Trump, has won his fourth term as Brazil's president.",
       "pubDate": "Mon, 26 Oct 2026 11:39:16 GMT"
-    },
-    {
-      "title": "Five ways Trump has changed immigration in the US",
-      "link": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
-      "description": "This is how his signature policy has played out after returning to power promising a closed border and mass deportations.",
-      "pubDate": "Mon, 26 Oct 2026 11:29:02 GMT"
-    },
-    {
-      "title": "Stunning photos capture October's Hunter's Moon around the world",
-      "link": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss",
-      "description": "October's full Moon, nicknamed the Hunter's Moon, lit up the night sky this weekend.",
-      "pubDate": "Mon, 26 Oct 2026 11:27:39 GMT"
-    },
-    {
-      "title": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss",
-      "description": "The Ballon d'Or winner will be announced in London on Monday - but who is going to claim the showpiece award?",
-      "pubDate": "Mon, 26 Oct 2026 06:19:12 GMT"
-    },
-    {
-      "title": "China's big political meeting could see Xi 'tighten discipline' in party",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
-      "description": "The highly secretive four-day Plenum starts Monday in Beijing.",
-      "pubDate": "Mon, 26 Oct 2026 07:40:57 GMT"
     }
   ]
 }
