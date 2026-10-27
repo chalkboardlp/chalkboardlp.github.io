@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T23:51:51.922711+00:00",
+  "updated": "2026-10-27T05:01:55.790312+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -8,6 +8,36 @@
       "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
       "description": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
       "pubDate": "Mon, 26 Oct 2026 21:02:47 GMT"
+    },
+    {
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+      "description": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+      "pubDate": "Tue, 27 Oct 2026 02:01:27 GMT"
+    },
+    {
+      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+      "description": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+      "pubDate": "Tue, 27 Oct 2026 02:40:17 GMT"
+    },
+    {
+      "title": "Meghan to co-host Junior MasterChef Australia",
+      "link": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss",
+      "description": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year.",
+      "pubDate": "Tue, 27 Oct 2026 04:43:56 GMT"
+    },
+    {
+      "title": "Jay-Z to perform at Super Bowl half-time show",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+      "description": "Jay-Z has been involved with the show for years but has never before performed at the NFL championship game.",
+      "pubDate": "Tue, 27 Oct 2026 03:10:55 GMT"
+    },
+    {
+      "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
+      "description": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
+      "pubDate": "Tue, 27 Oct 2026 00:31:11 GMT"
     },
     {
       "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
@@ -34,16 +64,16 @@
       "pubDate": "Mon, 26 Oct 2026 15:46:31 GMT"
     },
     {
+      "title": "Pope's South American trip to go ahead as planned after lung cancer surgery",
+      "link": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o?at_medium=RSS&at_campaign=rss",
+      "description": "The Pope underwent surgery in to remove a tumour on the lower part of his right lung and is gradually resuming his duties.",
+      "pubDate": "Mon, 26 Oct 2026 18:46:19 GMT"
+    },
+    {
       "title": "US Marine indicted for murder and robbery of woman in Japan",
       "link": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
       "description": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
       "pubDate": "Mon, 26 Oct 2026 14:13:18 GMT"
-    },
-    {
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "pubDate": "Mon, 26 Oct 2026 05:20:19 GMT"
     },
     {
       "title": "'Maxxing' selected as Dictionary.com word of the year",
@@ -86,18 +116,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
       "description": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
       "pubDate": "Mon, 26 Oct 2026 04:05:28 GMT"
-    },
-    {
-      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
-      "link": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
-      "description": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
-      "pubDate": "Mon, 26 Oct 2026 06:16:15 GMT"
-    },
-    {
-      "title": "Part of Antarctica named after former BBC science correspondent",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
-      "description": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
-      "pubDate": "Mon, 26 Oct 2026 14:54:40 GMT"
     },
     {
       "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
