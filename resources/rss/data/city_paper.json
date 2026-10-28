@@ -1,8 +1,14 @@
 {
-  "updated": "2026-10-28T08:27:37.827267+00:00",
+  "updated": "2026-10-28T16:01:21.155442+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Bogotá Moves to Curb Halloween Violence One year After Moreno Death",
+      "link": "https://thecitypaperbogota.com/news/bogota-moves-to-curb-halloween-violence-one-year-after-moreno-death/",
+      "description": "Mayor Carlos Fernando Galán’s administration is reintroducing nighttime motorcycle restrictions and deploying more than 400 District personnel as the capital prepares for Halloween, days after two men were sentenced for the killing of the 20-year-old university student in Chapinero. As Bogotá prepares for another Halloween weekend, the death of university student Jaime Esteban Moreno casts [&#8230;]",
+      "pubDate": "Wed, 28 Oct 2026 12:57:14 +0000"
+    },
     {
       "title": "Colombia’s De la Espriella Leads Medellín Crime Crackdown",
       "link": "https://thecitypaperbogota.com/news/colombias-de-la-espriella-leads-medellin-crime-crackdown/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/what-next-for-santa-marta-after-de-la-espriella-militarized-the-coastal-city/",
       "description": "An uneasy calm settled over Santa Marta on Wednesday, with the Caribbean-facing boardwalk of the city’s historic waterfront noticeably quieter than usual, its bustling street vendors absent and the early-morning joggers few and far between. Across the old city, colonial streets that would normally be filling with residents, tourists and workers remained largely empty. Shops [&#8230;]",
       "pubDate": "Wed, 23 Sep 2026 17:47:41 +0000"
-    },
-    {
-      "title": "Wildfire reaches Iguaque sanctuary as more than 700 hectares of protected land burn",
-      "link": "https://thecitypaperbogota.com/news/wildfire-reaches-iguaque-sanctuary-as-more-than-700-hectares-of-protected-land-burn/",
-      "description": "A wildfire that began on the hills above Colombia’s historic town of Villa de Leyva has spread into the Santuario de Fauna y Flora Iguaque, with more than 700 hectares of the protected area now affected and two fire fronts still active. The emergency, which began on September 19 in the La Castellana area and [&#8230;]",
-      "pubDate": "Tue, 22 Sep 2026 20:25:06 +0000"
     }
   ]
 }
