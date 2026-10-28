@@ -1,8 +1,26 @@
 {
-  "updated": "2026-10-28T16:01:19.798720+00:00",
+  "updated": "2026-10-28T21:05:35.526455+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "description": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
+      "pubDate": "Wed, 28 Oct 2026 21:03:49 GMT"
+    },
+    {
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "description": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "pubDate": "Wed, 28 Oct 2026 20:24:39 GMT"
+    },
+    {
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "description": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+      "pubDate": "Wed, 28 Oct 2026 14:30:31 GMT"
+    },
     {
       "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
       "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
@@ -64,10 +82,28 @@
       "pubDate": "Tue, 27 Oct 2026 21:09:12 GMT"
     },
     {
+      "title": "How did Flávio Bolsonaro end up in Miami?",
+      "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.",
+      "pubDate": "Wed, 28 Oct 2026 18:51:05 GMT"
+    },
+    {
+      "title": "Watch: At the scene of Spain's deadly train crash",
+      "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
+      "description": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
+      "pubDate": "Wed, 28 Oct 2026 16:45:16 GMT"
+    },
+    {
       "title": "Israel's election result is messy - here's why",
       "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
       "description": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
       "pubDate": "Wed, 28 Oct 2026 14:26:24 GMT"
+    },
+    {
+      "title": "Myanmar diplomat breaks down as he urges world to 'end our suffering'",
+      "link": "https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o?at_medium=RSS&at_campaign=rss",
+      "description": "Kyaw Moe Tun - Myanmar's representative to the UN - makes an emotional appeal after saying the international community had failed the country's people.",
+      "pubDate": "Wed, 28 Oct 2026 17:34:41 GMT"
     },
     {
       "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
@@ -82,16 +118,16 @@
       "pubDate": "Tue, 27 Oct 2026 17:11:27 GMT"
     },
     {
-      "title": "What does Israel's election mean for Gaza and the wider world?",
-      "link": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
-      "pubDate": "Tue, 27 Oct 2026 10:17:36 GMT"
-    },
-    {
       "title": "What we know so far about deadly Spain train crash",
       "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
       "description": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
       "pubDate": "Wed, 28 Oct 2026 15:36:11 GMT"
+    },
+    {
+      "title": "Israel's election deadlock is a sign of the country's deep divisions",
+      "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+      "description": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale.",
+      "pubDate": "Wed, 28 Oct 2026 20:53:02 GMT"
     },
     {
       "title": "China's families are now supporting more old people than kids",
@@ -104,12 +140,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
       "description": "AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy",
       "pubDate": "Wed, 28 Oct 2026 01:01:02 GMT"
-    },
-    {
-      "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
-      "link": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
-      "description": "The two main blocs appear to have too few seats to form the next government without reliance on Arab parties.",
-      "pubDate": "Wed, 28 Oct 2026 10:35:13 GMT"
     },
     {
       "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
