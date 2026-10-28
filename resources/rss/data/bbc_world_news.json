@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T21:17:59.015016+00:00",
+  "updated": "2026-10-28T01:19:53.525161+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -13,7 +13,7 @@
       "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
       "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
       "description": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-      "pubDate": "Tue, 27 Oct 2026 20:19:53 GMT"
+      "pubDate": "Tue, 27 Oct 2026 22:11:08 GMT"
     },
     {
       "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
@@ -28,7 +28,7 @@
       "pubDate": "Tue, 27 Oct 2026 01:46:38 GMT"
     },
     {
-      "title": "Dutch zookeeper dies after being mauled in leopard enclosure",
+      "title": "Dutch zookeeper dies after being mauled by leopard",
       "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
       "description": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
       "pubDate": "Tue, 27 Oct 2026 19:30:37 GMT"
@@ -40,10 +40,10 @@
       "pubDate": "Tue, 27 Oct 2026 21:09:12 GMT"
     },
     {
-      "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
+      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
       "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-      "description": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
-      "pubDate": "Tue, 27 Oct 2026 21:12:39 GMT"
+      "description": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+      "pubDate": "Tue, 27 Oct 2026 23:41:23 GMT"
     },
     {
       "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
@@ -112,6 +112,18 @@
       "pubDate": "Tue, 27 Oct 2026 11:23:19 GMT"
     },
     {
+      "title": "Watch: What happens now after close vote in Israeli election?",
+      "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "description": "Polls have closed in the Israeli election, but there is no clear winner.",
+      "pubDate": "Wed, 28 Oct 2026 00:04:29 GMT"
+    },
+    {
+      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+      "link": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+      "description": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+      "pubDate": "Tue, 27 Oct 2026 20:42:38 GMT"
+    },
+    {
       "title": "Watch: The Mbappé-Chairman Mao controversy explained",
       "link": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
       "description": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong.",
@@ -124,22 +136,10 @@
       "pubDate": "Tue, 27 Oct 2026 10:17:36 GMT"
     },
     {
-      "title": "Why it could take time for a new Israeli government to form",
-      "link": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
-      "description": "Israel faces what many view as one of the most pivotal elections in the country's history.",
-      "pubDate": "Tue, 27 Oct 2026 08:37:30 GMT"
-    },
-    {
-      "title": "'A dream come true' - Harry Kane on his Ballon d'Or win",
-      "link": "https://www.bbc.co.uk/news/videos/cm9wznvx1l17o?at_medium=RSS&at_campaign=rss",
-      "description": "It's the first time an English player has lifted the trophy since Michael Owen in 2001.",
-      "pubDate": "Tue, 27 Oct 2026 07:22:41 GMT"
-    },
-    {
-      "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
-      "link": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss",
-      "description": "The airport won’t have direct public transportation for a year. How do locals feel about getting there?",
-      "pubDate": "Mon, 26 Oct 2026 18:00:10 GMT"
+      "title": "Trump v Obama - which president has the star power to get out the vote?",
+      "link": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Sarah Smith followed the current and former presidents as both parties hope their biggest names can drive midterm turnout.",
+      "pubDate": "Tue, 27 Oct 2026 13:59:22 GMT"
     },
     {
       "title": "How Kane defied doubters to become world's best",
@@ -164,18 +164,6 @@
       "link": "https://www.bbc.co.uk/sport/american-football/articles/cm3el5dnpxp2o?at_medium=RSS&at_campaign=rss",
       "description": "In his first interview with BBC Sport since taking the knee for the first time, Colin Kaepernick reflects on his journey.",
       "pubDate": "Tue, 27 Oct 2026 06:15:24 GMT"
-    },
-    {
-      "title": "Israel and the US are both going to the polls - the consequences will be global",
-      "link": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
-      "description": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
-      "pubDate": "Mon, 26 Oct 2026 16:30:34 GMT"
-    },
-    {
-      "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
-      "description": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation.",
-      "pubDate": "Mon, 26 Oct 2026 15:37:33 GMT"
     }
   ]
 }
