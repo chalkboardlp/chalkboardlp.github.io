@@ -1,13 +1,25 @@
 {
-  "updated": "2026-10-28T21:05:35.526455+00:00",
+  "updated": "2026-10-29T00:54:30.954832+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+      "title": "High-speed train crash kills at least 68 people in Spain",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+      "description": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+      "pubDate": "Wed, 28 Oct 2026 21:38:54 GMT"
+    },
+    {
+      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+      "description": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
+      "pubDate": "Wed, 28 Oct 2026 21:24:41 GMT"
+    },
+    {
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
       "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "description": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
-      "pubDate": "Wed, 28 Oct 2026 21:03:49 GMT"
+      "description": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+      "pubDate": "Wed, 28 Oct 2026 23:21:48 GMT"
     },
     {
       "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
@@ -22,10 +34,22 @@
       "pubDate": "Wed, 28 Oct 2026 14:30:31 GMT"
     },
     {
+      "title": "Girl seriously injured in wolf attack at German wildlife park",
+      "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+      "description": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
+      "pubDate": "Wed, 28 Oct 2026 22:08:52 GMT"
+    },
+    {
       "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
       "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
       "description": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
       "pubDate": "Wed, 28 Oct 2026 10:31:22 GMT"
+    },
+    {
+      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+      "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+      "pubDate": "Wed, 28 Oct 2026 21:16:30 GMT"
     },
     {
       "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
@@ -82,10 +106,10 @@
       "pubDate": "Tue, 27 Oct 2026 21:09:12 GMT"
     },
     {
-      "title": "How did Flávio Bolsonaro end up in Miami?",
-      "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.",
-      "pubDate": "Wed, 28 Oct 2026 18:51:05 GMT"
+      "title": "Watch: King dances in the streets of the Bahamas capital",
+      "link": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss",
+      "description": "The monarch is in the Bahamas as part of a tour of the Caribbean during which he addressed the \"great suffering of the past\".",
+      "pubDate": "Wed, 28 Oct 2026 20:44:10 GMT"
     },
     {
       "title": "Watch: At the scene of Spain's deadly train crash",
@@ -112,10 +136,10 @@
       "pubDate": "Tue, 27 Oct 2026 20:42:38 GMT"
     },
     {
-      "title": "Watch: The Mbappé-Chairman Mao controversy explained",
-      "link": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
-      "description": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong.",
-      "pubDate": "Tue, 27 Oct 2026 17:11:27 GMT"
+      "title": "How did Flávio Bolsonaro end up in Miami?",
+      "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.",
+      "pubDate": "Wed, 28 Oct 2026 18:51:05 GMT"
     },
     {
       "title": "What we know so far about deadly Spain train crash",
@@ -140,12 +164,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
       "description": "AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy",
       "pubDate": "Wed, 28 Oct 2026 01:01:02 GMT"
-    },
-    {
-      "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
-      "link": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
-      "description": "As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims.",
-      "pubDate": "Tue, 27 Oct 2026 21:46:43 GMT"
     }
   ]
 }
