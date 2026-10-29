@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-29T14:16:33.364555+00:00",
+  "updated": "2026-10-29T19:40:57.610614+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
       "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-      "description": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+      "description": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
       "pubDate": "Thu, 29 Oct 2026 11:07:35 GMT"
     },
     {
-      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "description": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
-      "pubDate": "Thu, 29 Oct 2026 01:14:01 GMT"
-    },
-    {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "description": "With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "pubDate": "Thu, 29 Oct 2026 13:49:04 GMT"
-    },
-    {
-      "title": "Russian drone attack on Ukrainian train station kills at least 13, officials say",
+      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
       "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-      "description": "Dnipro regional head Oleksandr Hanzha said at least 10 others were wounded in the attack, including an 11-year-old boy.",
-      "pubDate": "Thu, 29 Oct 2026 12:38:40 GMT"
+      "description": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
+      "pubDate": "Thu, 29 Oct 2026 14:17:35 GMT"
+    },
+    {
+      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+      "description": "The defeated presidential candidate says he will lead the opposition from the US.",
+      "pubDate": "Thu, 29 Oct 2026 14:58:28 GMT"
     },
     {
       "title": "Philippine police obtain warrant to search Thomas Markle's devices",
       "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
-      "description": "Images of child sexual abuse allegedly belonging to Meghan Markle's father had reportedly been found in his former home in the Philippines.",
+      "description": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
       "pubDate": "Thu, 29 Oct 2026 13:25:07 GMT"
     },
     {
       "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
       "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
-      "description": "One of the regions famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
+      "description": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
       "pubDate": "Thu, 29 Oct 2026 13:44:39 GMT"
     },
     {
-      "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
+      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
       "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-      "description": "The term \"associate member\" is reportedly off the table as officials discuss deeper economic and defence ties.",
-      "pubDate": "Thu, 29 Oct 2026 12:27:31 GMT"
+      "description": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
+      "pubDate": "Thu, 29 Oct 2026 17:02:59 GMT"
+    },
+    {
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "description": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "pubDate": "Thu, 29 Oct 2026 15:47:20 GMT"
     },
     {
       "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
@@ -61,7 +61,7 @@
       "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
       "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
       "description": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
-      "pubDate": "Thu, 29 Oct 2026 11:27:05 GMT"
+      "pubDate": "Thu, 29 Oct 2026 16:26:02 GMT"
     },
     {
       "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
@@ -121,7 +121,7 @@
       "title": "Watch: VHS tapes and computers handed to police as Thomas Markle is investigated",
       "link": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo?at_medium=RSS&at_campaign=rss",
       "description": "The BBC's Jonathan Head is in Cebu, reporting from outside the home where Markle resided.",
-      "pubDate": "Thu, 29 Oct 2026 07:28:26 GMT"
+      "pubDate": "Thu, 29 Oct 2026 14:49:25 GMT"
     },
     {
       "title": "Watch: King dances in the streets of the Bahamas capital",
@@ -134,18 +134,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
       "description": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
       "pubDate": "Wed, 28 Oct 2026 16:45:16 GMT"
-    },
-    {
-      "title": "Israel's election result is messy - here's why",
-      "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
-      "description": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
-      "pubDate": "Wed, 28 Oct 2026 14:26:24 GMT"
-    },
-    {
-      "title": "Myanmar diplomat breaks down as he urges world to 'end our suffering'",
-      "link": "https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o?at_medium=RSS&at_campaign=rss",
-      "description": "Kyaw Moe Tun - Myanmar's representative to the UN - makes an emotional appeal after saying the international community had failed the country's people.",
-      "pubDate": "Wed, 28 Oct 2026 17:34:41 GMT"
     },
     {
       "title": "Europe's youth is on the march - but does anything actually unite them?",
