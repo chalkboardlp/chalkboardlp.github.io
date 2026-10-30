@@ -1,13 +1,19 @@
 {
-  "updated": "2026-10-30T18:36:13.598126+00:00",
+  "updated": "2026-10-30T22:57:47.727906+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "pubDate": "Fri, 30 Oct 2026 22:20:52 GMT"
+    },
+    {
       "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
       "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
       "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-      "pubDate": "Fri, 30 Oct 2026 17:39:43 GMT"
+      "pubDate": "Fri, 30 Oct 2026 21:13:14 GMT"
     },
     {
       "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
@@ -22,10 +28,16 @@
       "pubDate": "Fri, 30 Oct 2026 16:26:11 GMT"
     },
     {
-      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "pubDate": "Fri, 30 Oct 2026 20:52:01 GMT"
+    },
+    {
+      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
       "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
       "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-      "pubDate": "Fri, 30 Oct 2026 11:23:06 GMT"
+      "pubDate": "Fri, 30 Oct 2026 20:41:51 GMT"
     },
     {
       "title": "Spain transport minister says he won't resign over high-speed rail disaster",
@@ -43,13 +55,13 @@
       "title": "US tech stocks see sharp falls as AI spending nears $1tn",
       "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
       "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-      "pubDate": "Fri, 30 Oct 2026 17:47:01 GMT"
+      "pubDate": "Fri, 30 Oct 2026 20:34:46 GMT"
     },
     {
       "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
       "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "description": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta.",
-      "pubDate": "Fri, 30 Oct 2026 17:25:20 GMT"
+      "description": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+      "pubDate": "Fri, 30 Oct 2026 22:11:52 GMT"
     },
     {
       "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
@@ -58,16 +70,16 @@
       "pubDate": "Fri, 30 Oct 2026 17:00:32 GMT"
     },
     {
-      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
-      "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
-      "description": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
-      "pubDate": "Fri, 30 Oct 2026 15:17:11 GMT"
-    },
-    {
       "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
       "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
       "description": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
       "pubDate": "Fri, 30 Oct 2026 01:35:40 GMT"
+    },
+    {
+      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
+      "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+      "description": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
+      "pubDate": "Fri, 30 Oct 2026 15:17:11 GMT"
     },
     {
       "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
@@ -79,7 +91,7 @@
       "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
       "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
       "description": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
-      "pubDate": "Fri, 30 Oct 2026 18:17:27 GMT"
+      "pubDate": "Fri, 30 Oct 2026 20:55:18 GMT"
     },
     {
       "title": "Six dead after helicopter crashes in northern Indian state",
@@ -152,18 +164,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
       "description": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
       "pubDate": "Fri, 30 Oct 2026 15:09:29 GMT"
-    },
-    {
-      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-      "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-      "description": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
-      "pubDate": "Thu, 29 Oct 2026 11:07:35 GMT"
-    },
-    {
-      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-      "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-      "description": "The defeated presidential candidate says he will lead the opposition from the US.",
-      "pubDate": "Thu, 29 Oct 2026 14:58:28 GMT"
     },
     {
       "title": "What's at stake for Trump in the US midterms?",
