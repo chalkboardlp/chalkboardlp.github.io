@@ -1,13 +1,31 @@
 {
-  "updated": "2026-10-29T23:56:40.178288+00:00",
+  "updated": "2026-10-30T05:45:50.452844+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Crypto giant Binance hit by 'largest hack in history'",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "description": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+      "pubDate": "Fri, 30 Oct 2026 05:15:16 GMT"
+    },
+    {
+      "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
+      "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
+      "description": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
+      "pubDate": "Fri, 30 Oct 2026 01:35:40 GMT"
+    },
     {
       "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
       "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
       "description": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
       "pubDate": "Thu, 29 Oct 2026 20:21:54 GMT"
+    },
+    {
+      "title": "Three dead after two helicopters collide midair near Oregon airport",
+      "link": "https://www.bbc.co.uk/news/articles/cked3p81303yo?at_medium=RSS&at_campaign=rss",
+      "description": "The collision involving a Robinson R22 and an Airbus helicopter occurred on Thursday afternoon, with both aircraft crashing in a field adjacent to a highway.",
+      "pubDate": "Fri, 30 Oct 2026 03:05:17 GMT"
     },
     {
       "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
@@ -22,6 +40,12 @@
       "pubDate": "Thu, 29 Oct 2026 20:05:57 GMT"
     },
     {
+      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+      "pubDate": "Thu, 29 Oct 2026 22:17:52 GMT"
+    },
+    {
       "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
       "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
       "description": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
@@ -34,16 +58,16 @@
       "pubDate": "Thu, 29 Oct 2026 14:58:28 GMT"
     },
     {
-      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
-      "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
-      "description": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
-      "pubDate": "Thu, 29 Oct 2026 13:25:07 GMT"
-    },
-    {
       "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
       "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
       "description": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
       "pubDate": "Thu, 29 Oct 2026 17:02:59 GMT"
+    },
+    {
+      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+      "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
+      "description": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
+      "pubDate": "Thu, 29 Oct 2026 13:25:07 GMT"
     },
     {
       "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
@@ -55,7 +79,7 @@
       "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
       "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
       "description": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
-      "pubDate": "Thu, 29 Oct 2026 12:49:17 GMT"
+      "pubDate": "Fri, 30 Oct 2026 03:24:12 GMT"
     },
     {
       "title": "Details of thousands of US immigration agents leaked in major hack",
@@ -94,36 +118,6 @@
       "pubDate": "Thu, 29 Oct 2026 08:23:31 GMT"
     },
     {
-      "title": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
-      "description": "The jailbreak began with a fake seizure and ended 36 hours later with all the inmates back behind bars.",
-      "pubDate": "Thu, 29 Oct 2026 09:17:05 GMT"
-    },
-    {
-      "title": "'Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew",
-      "link": "https://www.bbc.co.uk/news/articles/cj1dw9znd1q1o?at_medium=RSS&at_campaign=rss",
-      "description": "A micro-drama will use AI-assisted technology to edit old episodes of the Australian TV soap to focus on Margot Robbie's character.",
-      "pubDate": "Thu, 29 Oct 2026 03:15:35 GMT"
-    },
-    {
-      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-      "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-      "description": "The Russian President praised Musk and said they are in \"close\" contact.",
-      "pubDate": "Wed, 28 Oct 2026 19:15:58 GMT"
-    },
-    {
-      "title": "Girl seriously injured in wolf attack at German wildlife park",
-      "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
-      "description": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
-      "pubDate": "Wed, 28 Oct 2026 22:08:52 GMT"
-    },
-    {
-      "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
-      "link": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
-      "description": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
-      "pubDate": "Thu, 29 Oct 2026 07:54:33 GMT"
-    },
-    {
       "title": "Watch: What leaked audio reveals about Spain train crash",
       "link": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
       "description": "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the track.",
@@ -140,6 +134,12 @@
       "link": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss",
       "description": "The monarch is in the Bahamas as part of a tour of the Caribbean during which he addressed the \"great suffering of the past\".",
       "pubDate": "Wed, 28 Oct 2026 20:44:10 GMT"
+    },
+    {
+      "title": "Hyrox athlete who soiled herself in race tells BBC she put others at risk but says backlash was traumatic",
+      "link": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&at_campaign=rss",
+      "description": "In her first interview since the incident, Joanna Wietrzyk told the BBC she takes responsibility for it but did not deserve such a severe backlash.",
+      "pubDate": "Thu, 29 Oct 2026 23:03:39 GMT"
     },
     {
       "title": "Young athlete and former minister among victims of Spain train crash",
@@ -164,12 +164,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
       "description": "With more than 90% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
       "pubDate": "Thu, 29 Oct 2026 09:06:48 GMT"
-    },
-    {
-      "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
-      "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
-      "description": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
-      "pubDate": "Wed, 28 Oct 2026 23:11:59 GMT"
     }
   ]
 }
