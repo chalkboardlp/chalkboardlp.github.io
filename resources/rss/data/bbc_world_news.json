@@ -1,13 +1,67 @@
 {
-  "updated": "2026-10-30T12:53:17.686263+00:00",
+  "updated": "2026-10-30T18:36:13.598126+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "pubDate": "Fri, 30 Oct 2026 17:39:43 GMT"
+    },
+    {
+      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+      "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+      "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+      "pubDate": "Fri, 30 Oct 2026 17:07:19 GMT"
+    },
+    {
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
       "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "description": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
-      "pubDate": "Fri, 30 Oct 2026 12:25:53 GMT"
+      "description": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+      "pubDate": "Fri, 30 Oct 2026 16:26:11 GMT"
+    },
+    {
+      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
+      "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "pubDate": "Fri, 30 Oct 2026 11:23:06 GMT"
+    },
+    {
+      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+      "description": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
+      "pubDate": "Fri, 30 Oct 2026 15:03:39 GMT"
+    },
+    {
+      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+      "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+      "description": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
+      "pubDate": "Fri, 30 Oct 2026 14:48:22 GMT"
+    },
+    {
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "pubDate": "Fri, 30 Oct 2026 17:47:01 GMT"
+    },
+    {
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+      "description": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta.",
+      "pubDate": "Fri, 30 Oct 2026 17:25:20 GMT"
+    },
+    {
+      "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
+      "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
+      "description": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
+      "pubDate": "Fri, 30 Oct 2026 17:00:32 GMT"
+    },
+    {
+      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
+      "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+      "description": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
+      "pubDate": "Fri, 30 Oct 2026 15:17:11 GMT"
     },
     {
       "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
@@ -22,16 +76,22 @@
       "pubDate": "Fri, 30 Oct 2026 06:02:23 GMT"
     },
     {
-      "title": "How Kenyans got caught in $130m US ghost student scam",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
-      "description": "The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged.",
-      "pubDate": "Fri, 30 Oct 2026 08:32:35 GMT"
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "description": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+      "pubDate": "Fri, 30 Oct 2026 18:17:27 GMT"
     },
     {
-      "title": "Helicopter carrying six people crashes in northern Indian state",
+      "title": "Six dead after helicopter crashes in northern Indian state",
       "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
       "description": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
-      "pubDate": "Fri, 30 Oct 2026 10:07:58 GMT"
+      "pubDate": "Fri, 30 Oct 2026 15:06:05 GMT"
+    },
+    {
+      "title": "China denies allegations of spy operation targeting Nvidia CEO",
+      "link": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
+      "description": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
+      "pubDate": "Fri, 30 Oct 2026 12:20:04 GMT"
     },
     {
       "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
@@ -40,7 +100,7 @@
       "pubDate": "Fri, 30 Oct 2026 07:53:38 GMT"
     },
     {
-      "title": "Academic says he has been barred from UK over event with Palestine Action founder",
+      "title": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
       "link": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&at_campaign=rss",
       "description": "Andreas Malm was due to appear on a panel alongside a co-founder of the proscribed group next week.",
       "pubDate": "Fri, 30 Oct 2026 12:36:55 GMT"
@@ -91,7 +151,7 @@
       "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
       "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
       "description": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
-      "pubDate": "Thu, 29 Oct 2026 20:21:54 GMT"
+      "pubDate": "Fri, 30 Oct 2026 15:09:29 GMT"
     },
     {
       "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
@@ -106,58 +166,10 @@
       "pubDate": "Thu, 29 Oct 2026 14:58:28 GMT"
     },
     {
-      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-      "description": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
-      "pubDate": "Thu, 29 Oct 2026 17:02:59 GMT"
-    },
-    {
-      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-      "description": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
-      "pubDate": "Thu, 29 Oct 2026 14:17:35 GMT"
-    },
-    {
-      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
-      "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
-      "description": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
-      "pubDate": "Thu, 29 Oct 2026 13:25:07 GMT"
-    },
-    {
-      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-      "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
-      "description": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
-      "pubDate": "Thu, 29 Oct 2026 13:44:39 GMT"
-    },
-    {
-      "title": "Details of thousands of US immigration agents leaked in major hack",
-      "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-      "description": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
-      "pubDate": "Thu, 29 Oct 2026 01:30:43 GMT"
-    },
-    {
-      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-      "description": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
-      "pubDate": "Thu, 29 Oct 2026 21:31:12 GMT"
-    },
-    {
-      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-      "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
-      "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
-      "pubDate": "Wed, 28 Oct 2026 21:16:30 GMT"
-    },
-    {
-      "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
-      "link": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss",
-      "description": "Congo accuses Rwanda of backing M23 rebels and plundering minerals in its conflict hit East",
-      "pubDate": "Thu, 29 Oct 2026 11:25:16 GMT"
-    },
-    {
-      "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
-      "link": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
-      "description": "The troops are trying to recover four military personnel who went missing in an ambush on the outskirts of the Haitian capital Port-au-Prince.",
-      "pubDate": "Thu, 29 Oct 2026 06:24:56 GMT"
+      "title": "What's at stake for Trump in the US midterms?",
+      "link": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
+      "description": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
+      "pubDate": "Fri, 30 Oct 2026 10:19:48 GMT"
     },
     {
       "title": "What we know about Binance's $6.3bn hack",
@@ -184,12 +196,6 @@
       "pubDate": "Thu, 29 Oct 2026 10:52:33 GMT"
     },
     {
-      "title": "Watch: What leaked audio reveals about Spain train crash",
-      "link": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
-      "description": "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the track.",
-      "pubDate": "Thu, 29 Oct 2026 20:50:25 GMT"
-    },
-    {
       "title": "Democrats have an identity crisis - it won't be an easy fix",
       "link": "https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&at_campaign=rss",
       "description": "Whatever the result of the midterm elections, the party is facing tough questions over what they stand for and who should represent them.",
@@ -202,16 +208,16 @@
       "pubDate": "Thu, 29 Oct 2026 20:05:57 GMT"
     },
     {
+      "title": "How Kenyans got caught in $130m US ghost student scam",
+      "link": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
+      "description": "The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged.",
+      "pubDate": "Fri, 30 Oct 2026 08:32:35 GMT"
+    },
+    {
       "title": "Many Cubans voted for Trump - now they're turning on Republican immigration policies",
       "link": "https://www.bbc.co.uk/news/articles/c574p7z1xm8wo?at_medium=RSS&at_campaign=rss",
       "description": "President Trump's fellow Republicans might feel the brunt of frustration among Cubans at the ballot box, writes the BBC's Will Grant.",
       "pubDate": "Fri, 30 Oct 2026 00:43:04 GMT"
-    },
-    {
-      "title": "Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain",
-      "link": "https://www.bbc.co.uk/news/articles/ckn9rq8204l0o?at_medium=RSS&at_campaign=rss",
-      "description": "The latest train crash will pile pressure on the government of Pedro Sánchez, one month before the general election.",
-      "pubDate": "Thu, 29 Oct 2026 14:08:23 GMT"
     },
     {
       "title": "Indians turn to start-ups to care for ageing parents as young become more mobile",

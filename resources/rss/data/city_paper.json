@@ -1,8 +1,14 @@
 {
-  "updated": "2026-10-30T12:53:19.007467+00:00",
+  "updated": "2026-10-30T18:36:14.882317+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "De la Espriella orders temporary militarization of Cúcuta",
+      "link": "https://thecitypaperbogota.com/news/de-la-espriella-orders-temporary-militarization-of-cucuta/",
+      "description": "The temporary deployment of the Army in Norte de Santander&#8217;s capital follows the assassination of a former senior municipal official and a series of bomb attacks, as the government confronts expanding criminal networks along the Venezuelan border. President Abelardo de la Espriella has ordered the temporary militarization of Cúcuta, the capital of Norte de Santander, [&#8230;]",
+      "pubDate": "Fri, 30 Oct 2026 16:46:01 +0000"
+    },
     {
       "title": "De la Espriella Takes His Crime Crackdown to Bogotá With 172 Arrests",
       "link": "https://thecitypaperbogota.com/news/de-la-espriella-takes-his-crime-crackdown-to-bogota-with-172-arrests/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/colombias-unfinished-business-of-peace-de-la-espriella-and-jep/",
       "description": "Ten years after Colombia first signed its historic peace agreement with the FARC, the country&#8217;s experiment with transitional justice has reached a critical moment. The anniversary arrives not as a celebration of an uncontested peace, but amid a confrontation over the future of the Special Jurisdiction for Peace, or JEP, the tribunal established to investigate [&#8230;]",
       "pubDate": "Mon, 28 Sep 2026 19:44:11 +0000"
-    },
-    {
-      "title": "De La Espriella keeps his promise and sends Colombia’s Vice-President Restrepo to UN",
-      "link": "https://thecitypaperbogota.com/news/de-la-espriella-keeps-his-promise-and-sends-colombias-vice-president-restrepo-to-un/",
-      "description": "President Abelardo De La Espriella kept one of his most closely watched campaign promises on Thursday, remaining in Colombia to attend to the security situation in Santa Marta and Cali, rather than travelling to Manhattan for the 81st Session of the United Nations General Assembly. Instead, the president entrusted his first address to the UN [&#8230;]",
-      "pubDate": "Fri, 25 Sep 2026 16:10:11 +0000"
     }
   ]
 }
