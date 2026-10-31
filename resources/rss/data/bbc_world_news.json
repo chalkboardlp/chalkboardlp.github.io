@@ -1,31 +1,37 @@
 {
-  "updated": "2026-10-31T15:43:48.364207+00:00",
+  "updated": "2026-10-31T19:58:30.464828+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "description": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
-      "pubDate": "Sat, 31 Oct 2026 14:53:34 GMT"
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "description": "One evacuated couple says they crossed minefields in Oleshky in a search for food.",
+      "pubDate": "Sat, 31 Oct 2026 19:22:26 GMT"
     },
     {
-      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-      "description": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
-      "pubDate": "Sat, 31 Oct 2026 02:12:19 GMT"
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+      "pubDate": "Sat, 31 Oct 2026 17:53:35 GMT"
+    },
+    {
+      "title": "Clashes erupt between police and protesters in Paris",
+      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "description": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.",
+      "pubDate": "Sat, 31 Oct 2026 19:37:43 GMT"
+    },
+    {
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "description": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
+      "pubDate": "Sat, 31 Oct 2026 16:32:08 GMT"
     },
     {
       "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
       "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
       "description": "Government data shows that more than 10,000 people have contracted the rare virus.",
       "pubDate": "Sat, 31 Oct 2026 15:16:20 GMT"
-    },
-    {
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-      "pubDate": "Sat, 31 Oct 2026 01:11:43 GMT"
     },
     {
       "title": "Ethiopian PM puts ministers through military training",
@@ -46,10 +52,10 @@
       "pubDate": "Sat, 31 Oct 2026 01:27:05 GMT"
     },
     {
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-      "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-      "pubDate": "Sat, 31 Oct 2026 12:21:25 GMT"
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "pubDate": "Sat, 31 Oct 2026 01:11:43 GMT"
     },
     {
       "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
@@ -94,22 +100,10 @@
       "pubDate": "Fri, 30 Oct 2026 20:34:46 GMT"
     },
     {
-      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-      "description": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
-      "pubDate": "Fri, 30 Oct 2026 15:03:39 GMT"
-    },
-    {
-      "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
-      "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
-      "description": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
-      "pubDate": "Fri, 30 Oct 2026 17:00:32 GMT"
-    },
-    {
-      "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
-      "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
-      "description": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
-      "pubDate": "Fri, 30 Oct 2026 01:35:40 GMT"
+      "title": "Emotional reunions with loved ones for Oleshky evacuees",
+      "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.",
+      "pubDate": "Sat, 31 Oct 2026 16:55:47 GMT"
     },
     {
       "title": "Watch: Blood donors get a Halloween fright in Thailand",
@@ -136,16 +130,10 @@
       "pubDate": "Fri, 30 Oct 2026 10:19:48 GMT"
     },
     {
-      "title": "What we know about Binance's $6.3bn hack",
-      "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-      "description": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
-      "pubDate": "Fri, 30 Oct 2026 12:27:28 GMT"
-    },
-    {
-      "title": "Watch: Why Australia's mushroom murderer may now die in prison",
-      "link": "https://www.bbc.co.uk/news/videos/cmlykpd9kpy7o?at_medium=RSS&at_campaign=rss",
-      "description": "Judges agreed with the prosecution’s appeal that Erin Patterson’s initial non-parole period of 33 years was insufficient.",
-      "pubDate": "Fri, 30 Oct 2026 01:38:54 GMT"
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "description": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+      "pubDate": "Sat, 31 Oct 2026 02:12:19 GMT"
     },
     {
       "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
@@ -182,12 +170,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&at_campaign=rss",
       "description": "Whatever the result of the midterm elections, the party is facing tough questions over what they stand for and who should represent them.",
       "pubDate": "Fri, 30 Oct 2026 02:14:41 GMT"
-    },
-    {
-      "title": "Many Cubans voted for Trump - now they're turning on Republican immigration policies",
-      "link": "https://www.bbc.co.uk/news/articles/c574p7z1xm8wo?at_medium=RSS&at_campaign=rss",
-      "description": "President Trump's fellow Republicans might feel the brunt of frustration among Cubans at the ballot box, writes the BBC's Will Grant.",
-      "pubDate": "Fri, 30 Oct 2026 00:43:04 GMT"
     }
   ]
 }
