@@ -1,8 +1,14 @@
 {
-  "updated": "2026-10-31T23:23:16.277245+00:00",
+  "updated": "2026-11-01T05:59:50.302811+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Shops looted as German cost of living protests turn violent",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "description": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
+      "pubDate": "Sun, 01 Nov 2026 01:59:57 GMT"
+    },
     {
       "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
       "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
@@ -16,28 +22,40 @@
       "pubDate": "Sat, 31 Oct 2026 17:53:35 GMT"
     },
     {
-      "title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "description": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
-      "pubDate": "Sat, 31 Oct 2026 21:29:01 GMT"
-    },
-    {
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
       "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
       "pubDate": "Sat, 31 Oct 2026 22:11:45 GMT"
     },
     {
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-      "description": "Government data shows that more than 10,000 people have contracted the rare virus.",
-      "pubDate": "Sat, 31 Oct 2026 15:16:20 GMT"
+      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "description": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+      "pubDate": "Sun, 01 Nov 2026 00:12:07 GMT"
+    },
+    {
+      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+      "description": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+      "pubDate": "Sun, 01 Nov 2026 00:55:06 GMT"
     },
     {
       "title": "Ethiopian PM puts ministers through military training",
       "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
       "description": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
       "pubDate": "Sat, 31 Oct 2026 14:28:15 GMT"
+    },
+    {
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
+      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "description": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+      "pubDate": "Sat, 31 Oct 2026 21:29:01 GMT"
+    },
+    {
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+      "description": "Government data shows that more than 10,000 people have contracted the rare virus.",
+      "pubDate": "Sat, 31 Oct 2026 15:16:20 GMT"
     },
     {
       "title": "Spain train disaster clouds Sánchez chances of re-election",
@@ -82,24 +100,6 @@
       "pubDate": "Fri, 30 Oct 2026 21:13:14 GMT"
     },
     {
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-      "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-      "pubDate": "Fri, 30 Oct 2026 17:07:19 GMT"
-    },
-    {
-      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-      "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-      "description": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
-      "pubDate": "Fri, 30 Oct 2026 14:48:22 GMT"
-    },
-    {
-      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-      "pubDate": "Fri, 30 Oct 2026 20:34:46 GMT"
-    },
-    {
       "title": "Thousands demonstrate in Paris as protests spread across Europe",
       "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
       "description": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
@@ -128,6 +128,12 @@
       "link": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
       "description": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
       "pubDate": "Fri, 30 Oct 2026 10:19:48 GMT"
+    },
+    {
+      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+      "description": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+      "pubDate": "Sun, 01 Nov 2026 01:37:26 GMT"
     },
     {
       "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
@@ -164,12 +170,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss",
       "description": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out.",
       "pubDate": "Sat, 31 Oct 2026 00:16:03 GMT"
-    },
-    {
-      "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
-      "description": "What does Joseph Kabila launching a new rebel movement mean for DR Congo?",
-      "pubDate": "Sat, 31 Oct 2026 04:32:07 GMT"
     }
   ]
 }
