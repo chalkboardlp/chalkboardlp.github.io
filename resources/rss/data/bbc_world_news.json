@@ -1,19 +1,37 @@
 {
-  "updated": "2026-11-01T13:20:09.491892+00:00",
+  "updated": "2026-11-01T18:55:12.345332+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Shops looted as German cost of living protests turn violent",
+      "title": "Shops looted as German cost-of-living protests turn violent",
       "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
       "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
       "pubDate": "Sun, 01 Nov 2026 11:57:48 GMT"
     },
     {
-      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-      "description": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
-      "pubDate": "Sun, 01 Nov 2026 00:41:24 GMT"
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "description": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+      "pubDate": "Sun, 01 Nov 2026 17:06:32 GMT"
+    },
+    {
+      "title": "University of Cambridge scientist among those who died in Spanish train crash",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+      "description": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+      "pubDate": "Sun, 01 Nov 2026 17:05:18 GMT"
+    },
+    {
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+      "description": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+      "pubDate": "Sun, 01 Nov 2026 17:56:47 GMT"
+    },
+    {
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "description": "Haley Stevens, a former congresswomen who lost out on the Democratic nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
+      "pubDate": "Sun, 01 Nov 2026 18:24:08 GMT"
     },
     {
       "title": "India's opposition holds mega rally seeking election chief's resignation",
@@ -22,28 +40,16 @@
       "pubDate": "Sun, 01 Nov 2026 07:00:55 GMT"
     },
     {
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "description": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-      "pubDate": "Sat, 31 Oct 2026 19:22:26 GMT"
-    },
-    {
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-      "pubDate": "Sat, 31 Oct 2026 17:53:35 GMT"
-    },
-    {
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
       "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
       "pubDate": "Sun, 01 Nov 2026 13:11:37 GMT"
     },
     {
-      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
-      "description": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
-      "pubDate": "Sun, 01 Nov 2026 00:55:06 GMT"
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+      "description": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+      "pubDate": "Sun, 01 Nov 2026 00:41:24 GMT"
     },
     {
       "title": "Judge orders Trump administration to stop threatening US election officials",
@@ -74,6 +80,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
       "description": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
       "pubDate": "Sat, 31 Oct 2026 05:44:21 GMT"
+    },
+    {
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+      "pubDate": "Sat, 31 Oct 2026 17:53:35 GMT"
     },
     {
       "title": "Global nature talks reach deal but money remains an issue",
@@ -124,10 +136,28 @@
       "pubDate": "Fri, 30 Oct 2026 10:19:48 GMT"
     },
     {
+      "title": "Lindsay Clancy is back in court - where will her case go next?",
+      "link": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o?at_medium=RSS&at_campaign=rss",
+      "description": "The Massachusetts mother, accused of murdering her three children, is expected back in court as she awaits a decision on whether her case will be retried.",
+      "pubDate": "Sun, 01 Nov 2026 17:29:08 GMT"
+    },
+    {
       "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
       "link": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
       "description": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.",
       "pubDate": "Sun, 01 Nov 2026 06:03:57 GMT"
+    },
+    {
+      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+      "description": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+      "pubDate": "Sun, 01 Nov 2026 00:55:06 GMT"
+    },
+    {
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "description": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+      "pubDate": "Sat, 31 Oct 2026 19:22:26 GMT"
     },
     {
       "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
@@ -146,12 +176,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
       "description": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
       "pubDate": "Sat, 31 Oct 2026 02:39:25 GMT"
-    },
-    {
-      "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
-      "link": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss",
-      "description": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
-      "pubDate": "Fri, 30 Oct 2026 23:26:16 GMT"
     }
   ]
 }
