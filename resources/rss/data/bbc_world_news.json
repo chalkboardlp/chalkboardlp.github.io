@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-01T18:55:12.345332+00:00",
+  "updated": "2026-11-01T22:48:07.404653+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Shops looted as German cost-of-living protests turn violent",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-      "pubDate": "Sun, 01 Nov 2026 11:57:48 GMT"
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "description": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "pubDate": "Sun, 01 Nov 2026 21:55:01 GMT"
     },
     {
       "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
@@ -22,16 +22,22 @@
       "pubDate": "Sun, 01 Nov 2026 17:05:18 GMT"
     },
     {
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "pubDate": "Sun, 01 Nov 2026 11:57:48 GMT"
+    },
+    {
       "title": "Armed police start patrols in Sydney after Bondi Beach attack",
       "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
       "description": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
       "pubDate": "Sun, 01 Nov 2026 17:56:47 GMT"
     },
     {
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
       "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "description": "Haley Stevens, a former congresswomen who lost out on the Democratic nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
-      "pubDate": "Sun, 01 Nov 2026 18:24:08 GMT"
+      "description": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
+      "pubDate": "Sun, 01 Nov 2026 21:16:45 GMT"
     },
     {
       "title": "India's opposition holds mega rally seeking election chief's resignation",
@@ -106,6 +112,12 @@
       "pubDate": "Fri, 30 Oct 2026 22:11:52 GMT"
     },
     {
+      "title": "Peaceful protests in Germany spiral into violence and looting",
+      "link": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
+      "description": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
+      "pubDate": "Sun, 01 Nov 2026 18:51:56 GMT"
+    },
+    {
       "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
       "link": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
       "description": "The supermodel and TV host provided a gory new shock at her New York event.",
@@ -128,12 +140,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
       "description": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
       "pubDate": "Sat, 31 Oct 2026 09:16:14 GMT"
-    },
-    {
-      "title": "What's at stake for Trump in the US midterms?",
-      "link": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
-      "description": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
-      "pubDate": "Fri, 30 Oct 2026 10:19:48 GMT"
     },
     {
       "title": "Lindsay Clancy is back in court - where will her case go next?",
