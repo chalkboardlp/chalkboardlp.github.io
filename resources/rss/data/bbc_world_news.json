@@ -1,31 +1,49 @@
 {
-  "updated": "2026-11-02T02:29:42.670062+00:00",
+  "updated": "2026-11-02T11:00:29.722788+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-      "description": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
-      "pubDate": "Mon, 02 Nov 2026 01:18:27 GMT"
+      "title": "How a Democrat in Michigan rocked the party days before the US midterms",
+      "link": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
+      "pubDate": "Mon, 02 Nov 2026 04:40:00 GMT"
     },
     {
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-      "description": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
-      "pubDate": "Sun, 01 Nov 2026 21:55:01 GMT"
+      "title": "Trump makes final campaign push in final weekend before election",
+      "link": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
+      "description": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
+      "pubDate": "Mon, 02 Nov 2026 04:04:28 GMT"
     },
     {
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "description": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
-      "pubDate": "Mon, 02 Nov 2026 01:45:42 GMT"
+      "title": "Nine killed as small jet crashes on Florida street",
+      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "description": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+      "pubDate": "Mon, 02 Nov 2026 09:10:19 GMT"
     },
     {
-      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-      "description": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
-      "pubDate": "Sun, 01 Nov 2026 17:06:32 GMT"
+      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+      "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "description": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+      "pubDate": "Mon, 02 Nov 2026 07:42:33 GMT"
+    },
+    {
+      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "description": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+      "pubDate": "Mon, 02 Nov 2026 10:04:39 GMT"
+    },
+    {
+      "title": "Uganda begins withdrawing troops from Somalia after 20 years",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
+      "description": "The country was the first to contribute troops to the AU mission established to stabilise Somalia in 2007.",
+      "pubDate": "Mon, 02 Nov 2026 08:55:27 GMT"
+    },
+    {
+      "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
+      "link": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
+      "description": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.",
+      "pubDate": "Mon, 02 Nov 2026 03:58:38 GMT"
     },
     {
       "title": "France launches attempted murder investigation after petrol bomb thrown at police",
@@ -34,16 +52,28 @@
       "pubDate": "Mon, 02 Nov 2026 00:15:30 GMT"
     },
     {
-      "title": "University of Cambridge scientist among those who died in Spanish train crash",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
-      "description": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
-      "pubDate": "Sun, 01 Nov 2026 17:05:18 GMT"
+      "title": "Popular Australian children's author jailed over child exploitation offences",
+      "link": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
+      "description": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.",
+      "pubDate": "Mon, 02 Nov 2026 08:03:39 GMT"
+    },
+    {
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "description": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+      "pubDate": "Sun, 01 Nov 2026 17:06:32 GMT"
     },
     {
       "title": "Armed police start patrols in Sydney after Bondi Beach attack",
       "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
       "description": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
       "pubDate": "Sun, 01 Nov 2026 17:56:47 GMT"
+    },
+    {
+      "title": "University of Cambridge scientist among those who died in Spanish train crash",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+      "description": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+      "pubDate": "Sun, 01 Nov 2026 17:05:18 GMT"
     },
     {
       "title": "Shops looted as German cost-of-living protests turn violent",
@@ -88,28 +118,10 @@
       "pubDate": "Sat, 31 Oct 2026 15:16:20 GMT"
     },
     {
-      "title": "Ethiopian PM puts ministers through military training",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "description": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-      "pubDate": "Sat, 31 Oct 2026 14:28:15 GMT"
-    },
-    {
-      "title": "Spain train disaster clouds Sánchez chances of re-election",
-      "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-      "description": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
-      "pubDate": "Sat, 31 Oct 2026 05:44:21 GMT"
-    },
-    {
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-      "pubDate": "Sat, 31 Oct 2026 17:53:35 GMT"
-    },
-    {
-      "title": "Global nature talks reach deal but money remains an issue",
-      "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-      "description": "Countries have been trying to get a global agreement to halt nature decline back on track.",
-      "pubDate": "Sat, 31 Oct 2026 01:27:05 GMT"
+      "title": "North Carolina voters weigh up Trump's track record on cost of living",
+      "link": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Clive Myrie found voters in the state were asking themselves whether they were better off than two years ago.",
+      "pubDate": "Sun, 01 Nov 2026 22:25:51 GMT"
     },
     {
       "title": "Peaceful protests in Germany spiral into violence and looting",
@@ -130,22 +142,22 @@
       "pubDate": "Sat, 31 Oct 2026 21:29:01 GMT"
     },
     {
-      "title": "Emotional reunions with loved ones for Oleshky evacuees",
-      "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.",
-      "pubDate": "Sat, 31 Oct 2026 16:55:47 GMT"
+      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+      "description": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
+      "pubDate": "Mon, 02 Nov 2026 06:00:54 GMT"
     },
     {
-      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
-      "link": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
-      "pubDate": "Sat, 31 Oct 2026 09:16:14 GMT"
-    },
-    {
-      "title": "Democrats have high hopes for midterms, but polls have let them down before",
+      "title": "Democrats have high hopes for midterms - but are the polls right?",
       "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
       "description": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
       "pubDate": "Mon, 02 Nov 2026 00:25:12 GMT"
+    },
+    {
+      "title": "Antonelli - the boy 'born in a garage' who became world champion",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&at_campaign=rss",
+      "description": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20.",
+      "pubDate": "Sun, 01 Nov 2026 22:25:01 GMT"
     },
     {
       "title": "Lindsay Clancy is back in court - where will her case go next?",
@@ -154,34 +166,10 @@
       "pubDate": "Sun, 01 Nov 2026 17:29:08 GMT"
     },
     {
-      "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
-      "description": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.",
-      "pubDate": "Sun, 01 Nov 2026 06:03:57 GMT"
-    },
-    {
       "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
       "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
       "description": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
       "pubDate": "Sun, 01 Nov 2026 00:55:06 GMT"
-    },
-    {
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "description": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-      "pubDate": "Sat, 31 Oct 2026 19:22:26 GMT"
-    },
-    {
-      "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
-      "description": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
-      "pubDate": "Sat, 31 Oct 2026 23:06:13 GMT"
-    },
-    {
-      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
-      "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
-      "description": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
-      "pubDate": "Sun, 01 Nov 2026 01:37:26 GMT"
     }
   ]
 }
