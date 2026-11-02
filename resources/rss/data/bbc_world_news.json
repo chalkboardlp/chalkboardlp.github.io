@@ -1,13 +1,25 @@
 {
-  "updated": "2026-11-01T22:48:07.404653+00:00",
+  "updated": "2026-11-02T02:29:42.670062+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "description": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+      "pubDate": "Mon, 02 Nov 2026 01:18:27 GMT"
+    },
     {
       "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
       "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
       "description": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
       "pubDate": "Sun, 01 Nov 2026 21:55:01 GMT"
+    },
+    {
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "description": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+      "pubDate": "Mon, 02 Nov 2026 01:45:42 GMT"
     },
     {
       "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
@@ -16,16 +28,16 @@
       "pubDate": "Sun, 01 Nov 2026 17:06:32 GMT"
     },
     {
+      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+      "description": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+      "pubDate": "Mon, 02 Nov 2026 00:15:30 GMT"
+    },
+    {
       "title": "University of Cambridge scientist among those who died in Spanish train crash",
       "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
       "description": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
       "pubDate": "Sun, 01 Nov 2026 17:05:18 GMT"
-    },
-    {
-      "title": "Shops looted as German cost-of-living protests turn violent",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-      "pubDate": "Sun, 01 Nov 2026 11:57:48 GMT"
     },
     {
       "title": "Armed police start patrols in Sydney after Bondi Beach attack",
@@ -34,10 +46,10 @@
       "pubDate": "Sun, 01 Nov 2026 17:56:47 GMT"
     },
     {
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "description": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
-      "pubDate": "Sun, 01 Nov 2026 21:16:45 GMT"
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "pubDate": "Sun, 01 Nov 2026 11:57:48 GMT"
     },
     {
       "title": "India's opposition holds mega rally seeking election chief's resignation",
@@ -100,18 +112,6 @@
       "pubDate": "Sat, 31 Oct 2026 01:27:05 GMT"
     },
     {
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-      "pubDate": "Sat, 31 Oct 2026 01:11:43 GMT"
-    },
-    {
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "description": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
-      "pubDate": "Fri, 30 Oct 2026 22:11:52 GMT"
-    },
-    {
       "title": "Peaceful protests in Germany spiral into violence and looting",
       "link": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
       "description": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
@@ -140,6 +140,12 @@
       "link": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
       "description": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
       "pubDate": "Sat, 31 Oct 2026 09:16:14 GMT"
+    },
+    {
+      "title": "Democrats have high hopes for midterms, but polls have let them down before",
+      "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
+      "description": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
+      "pubDate": "Mon, 02 Nov 2026 00:25:12 GMT"
     },
     {
       "title": "Lindsay Clancy is back in court - where will her case go next?",
@@ -176,12 +182,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
       "description": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
       "pubDate": "Sun, 01 Nov 2026 01:37:26 GMT"
-    },
-    {
-      "title": "The fight to save Canadian town threatened by Trump's tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
-      "description": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
-      "pubDate": "Sat, 31 Oct 2026 02:39:25 GMT"
     }
   ]
 }
