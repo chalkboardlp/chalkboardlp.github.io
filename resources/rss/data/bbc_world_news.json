@@ -1,25 +1,73 @@
 {
-  "updated": "2026-11-02T11:00:29.722788+00:00",
+  "updated": "2026-11-02T20:45:43.179801+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "How a Democrat in Michigan rocked the party days before the US midterms",
-      "link": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
-      "pubDate": "Mon, 02 Nov 2026 04:40:00 GMT"
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "description": "Local officials say more had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+      "pubDate": "Mon, 02 Nov 2026 20:23:12 GMT"
     },
     {
-      "title": "Trump makes final campaign push in final weekend before election",
-      "link": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
-      "description": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
-      "pubDate": "Mon, 02 Nov 2026 04:04:28 GMT"
-    },
-    {
-      "title": "Nine killed as small jet crashes on Florida street",
+      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
       "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "description": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
-      "pubDate": "Mon, 02 Nov 2026 09:10:19 GMT"
+      "description": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
+      "pubDate": "Mon, 02 Nov 2026 19:58:34 GMT"
+    },
+    {
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+      "pubDate": "Mon, 02 Nov 2026 17:38:11 GMT"
+    },
+    {
+      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+      "description": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
+      "pubDate": "Mon, 02 Nov 2026 17:33:19 GMT"
+    },
+    {
+      "title": "Man guilty of stealing cash from farm owned by South African president",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+      "description": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
+      "pubDate": "Mon, 02 Nov 2026 20:08:51 GMT"
+    },
+    {
+      "title": "Dutch police offer record €2m reward in hunt for drug lord",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+      "description": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
+      "pubDate": "Mon, 02 Nov 2026 17:29:49 GMT"
+    },
+    {
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "description": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+      "pubDate": "Mon, 02 Nov 2026 19:33:10 GMT"
+    },
+    {
+      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
+      "description": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
+      "pubDate": "Mon, 02 Nov 2026 18:34:24 GMT"
+    },
+    {
+      "title": "Five arrested after South African farmer shot and tortured",
+      "link": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
+      "description": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
+      "pubDate": "Mon, 02 Nov 2026 10:48:47 GMT"
+    },
+    {
+      "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
+      "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
+      "description": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
+      "pubDate": "Mon, 02 Nov 2026 14:35:38 GMT"
+    },
+    {
+      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "description": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+      "pubDate": "Mon, 02 Nov 2026 12:22:10 GMT"
     },
     {
       "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
@@ -28,16 +76,10 @@
       "pubDate": "Mon, 02 Nov 2026 07:42:33 GMT"
     },
     {
-      "title": "Ryanair says it may freeze workers' pay and raise airfares",
-      "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-      "description": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-      "pubDate": "Mon, 02 Nov 2026 10:04:39 GMT"
-    },
-    {
       "title": "Uganda begins withdrawing troops from Somalia after 20 years",
       "link": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
-      "description": "The country was the first to contribute troops to the AU mission established to stabilise Somalia in 2007.",
-      "pubDate": "Mon, 02 Nov 2026 08:55:27 GMT"
+      "description": "Uganda has been helping Somalia battle an insurgency led by the al-Shabab militant group since 2007.",
+      "pubDate": "Mon, 02 Nov 2026 12:05:34 GMT"
     },
     {
       "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
@@ -112,34 +154,40 @@
       "pubDate": "Sun, 01 Nov 2026 00:46:12 GMT"
     },
     {
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-      "description": "Government data shows that more than 10,000 people have contracted the rare virus.",
-      "pubDate": "Sat, 31 Oct 2026 15:16:20 GMT"
+      "title": "What Florida jet audio and flight data tells us about its final moments",
+      "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
+      "description": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.\n\nBBC Verify has used air traffic control audio and flight tracking data to reconstruct the final moments before the plane crashed.",
+      "pubDate": "Mon, 02 Nov 2026 19:49:22 GMT"
     },
     {
-      "title": "North Carolina voters weigh up Trump's track record on cost of living",
-      "link": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Clive Myrie found voters in the state were asking themselves whether they were better off than two years ago.",
-      "pubDate": "Sun, 01 Nov 2026 22:25:51 GMT"
+      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+      "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+      "description": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
+      "pubDate": "Mon, 02 Nov 2026 17:34:58 GMT"
     },
     {
-      "title": "Peaceful protests in Germany spiral into violence and looting",
-      "link": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
-      "description": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
-      "pubDate": "Sun, 01 Nov 2026 18:51:56 GMT"
+      "title": "What we know about the alert app hack in Ukraine and Russia",
+      "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
+      "description": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
+      "pubDate": "Mon, 02 Nov 2026 14:24:25 GMT"
     },
     {
-      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
-      "link": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
-      "description": "The supermodel and TV host provided a gory new shock at her New York event.",
-      "pubDate": "Sun, 01 Nov 2026 05:26:02 GMT"
+      "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
+      "link": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Panorama follows grieving Samira who - after the killing of Sevda - faces up to the Tehran regime.",
+      "pubDate": "Mon, 02 Nov 2026 06:05:34 GMT"
     },
     {
-      "title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "description": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
-      "pubDate": "Sat, 31 Oct 2026 21:29:01 GMT"
+      "title": "What are Americans voting for in this election?",
+      "link": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.",
+      "pubDate": "Mon, 02 Nov 2026 09:22:55 GMT"
+    },
+    {
+      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+      "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+      "description": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
+      "pubDate": "Mon, 02 Nov 2026 18:25:01 GMT"
     },
     {
       "title": "Iran killed her teenage daughter - now she is facing up to the regime",
@@ -154,22 +202,16 @@
       "pubDate": "Mon, 02 Nov 2026 00:25:12 GMT"
     },
     {
+      "title": "A Paralympian vs a former TV news anchor - and other US Senate races to watch",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
+      "description": "All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here's a quick guide.",
+      "pubDate": "Mon, 02 Nov 2026 13:49:19 GMT"
+    },
+    {
       "title": "Antonelli - the boy 'born in a garage' who became world champion",
       "link": "https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&at_campaign=rss",
       "description": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20.",
       "pubDate": "Sun, 01 Nov 2026 22:25:01 GMT"
-    },
-    {
-      "title": "Lindsay Clancy is back in court - where will her case go next?",
-      "link": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o?at_medium=RSS&at_campaign=rss",
-      "description": "The Massachusetts mother, accused of murdering her three children, is expected back in court as she awaits a decision on whether her case will be retried.",
-      "pubDate": "Sun, 01 Nov 2026 17:29:08 GMT"
-    },
-    {
-      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
-      "description": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
-      "pubDate": "Sun, 01 Nov 2026 00:55:06 GMT"
     }
   ]
 }
