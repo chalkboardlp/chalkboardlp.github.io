@@ -1,19 +1,25 @@
 {
-  "updated": "2026-11-02T20:45:43.179801+00:00",
+  "updated": "2026-11-03T02:54:32.620259+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
       "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
       "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "description": "Local officials say more had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
-      "pubDate": "Mon, 02 Nov 2026 20:23:12 GMT"
+      "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "pubDate": "Tue, 03 Nov 2026 01:56:27 GMT"
     },
     {
-      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "description": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+      "pubDate": "Tue, 03 Nov 2026 00:07:05 GMT"
+    },
+    {
+      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
       "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "description": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
-      "pubDate": "Mon, 02 Nov 2026 19:58:34 GMT"
+      "description": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
+      "pubDate": "Tue, 03 Nov 2026 00:08:14 GMT"
     },
     {
       "title": "Shop freezers in seven European countries hit by cyber-attack",
@@ -26,6 +32,24 @@
       "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
       "description": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
       "pubDate": "Mon, 02 Nov 2026 17:33:19 GMT"
+    },
+    {
+      "title": "Legal challenge to Australia's social media ban to start in High Court",
+      "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "description": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
+      "pubDate": "Mon, 02 Nov 2026 23:37:31 GMT"
+    },
+    {
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "description": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "pubDate": "Tue, 03 Nov 2026 01:23:03 GMT"
+    },
+    {
+      "title": "Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia",
+      "link": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
+      "description": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
+      "pubDate": "Tue, 03 Nov 2026 01:57:46 GMT"
     },
     {
       "title": "Man guilty of stealing cash from farm owned by South African president",
@@ -68,12 +92,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
       "description": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
       "pubDate": "Mon, 02 Nov 2026 12:22:10 GMT"
-    },
-    {
-      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-      "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-      "description": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
-      "pubDate": "Mon, 02 Nov 2026 07:42:33 GMT"
     },
     {
       "title": "Uganda begins withdrawing troops from Somalia after 20 years",
@@ -136,27 +154,15 @@
       "pubDate": "Sun, 01 Nov 2026 13:11:37 GMT"
     },
     {
-      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-      "description": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
-      "pubDate": "Sun, 01 Nov 2026 00:41:24 GMT"
-    },
-    {
-      "title": "Judge orders Trump administration to stop threatening US election officials",
-      "link": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
-      "description": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
-      "pubDate": "Sun, 01 Nov 2026 00:27:33 GMT"
-    },
-    {
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "description": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
-      "pubDate": "Sun, 01 Nov 2026 00:46:12 GMT"
+      "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
+      "link": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+      "description": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
+      "pubDate": "Tue, 03 Nov 2026 00:09:13 GMT"
     },
     {
       "title": "What Florida jet audio and flight data tells us about its final moments",
       "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
-      "description": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.\n\nBBC Verify has used air traffic control audio and flight tracking data to reconstruct the final moments before the plane crashed.",
+      "description": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.",
       "pubDate": "Mon, 02 Nov 2026 19:49:22 GMT"
     },
     {
@@ -178,16 +184,22 @@
       "pubDate": "Mon, 02 Nov 2026 06:05:34 GMT"
     },
     {
-      "title": "What are Americans voting for in this election?",
-      "link": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.",
-      "pubDate": "Mon, 02 Nov 2026 09:22:55 GMT"
-    },
-    {
       "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
       "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
       "description": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
       "pubDate": "Mon, 02 Nov 2026 18:25:01 GMT"
+    },
+    {
+      "title": "Indonesia's toxic haze is giving its neighbours a political headache",
+      "link": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
+      "description": "Governments in Singapore and Malaysia are split between anxious citizens and an irascible neighbour.",
+      "pubDate": "Mon, 02 Nov 2026 23:02:01 GMT"
+    },
+    {
+      "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
+      "description": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.",
+      "pubDate": "Mon, 02 Nov 2026 20:54:44 GMT"
     },
     {
       "title": "Iran killed her teenage daughter - now she is facing up to the regime",
@@ -200,18 +212,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
       "description": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
       "pubDate": "Mon, 02 Nov 2026 00:25:12 GMT"
-    },
-    {
-      "title": "A Paralympian vs a former TV news anchor - and other US Senate races to watch",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
-      "description": "All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here's a quick guide.",
-      "pubDate": "Mon, 02 Nov 2026 13:49:19 GMT"
-    },
-    {
-      "title": "Antonelli - the boy 'born in a garage' who became world champion",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&at_campaign=rss",
-      "description": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20.",
-      "pubDate": "Sun, 01 Nov 2026 22:25:01 GMT"
     }
   ]
 }
