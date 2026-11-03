@@ -1,13 +1,43 @@
 {
-  "updated": "2026-11-03T02:54:32.620259+00:00",
+  "updated": "2026-11-03T10:49:57.736333+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "title": "US strikes Iranian island ahead of midterm elections",
+      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "description": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "pubDate": "Tue, 03 Nov 2026 10:37:13 GMT"
+    },
+    {
+      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+      "description": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+      "pubDate": "Tue, 03 Nov 2026 03:32:36 GMT"
+    },
+    {
+      "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
       "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
       "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
-      "pubDate": "Tue, 03 Nov 2026 01:56:27 GMT"
+      "pubDate": "Tue, 03 Nov 2026 07:24:12 GMT"
+    },
+    {
+      "title": "Tenerife striker De Miguel dies after on-field collision",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+      "description": "Tenerife forward Jesus de Miguel dies after suffering an on-field collision during a Spanish second-division match.",
+      "pubDate": "Tue, 03 Nov 2026 09:09:18 GMT"
+    },
+    {
+      "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
+      "link": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
+      "description": "Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.",
+      "pubDate": "Tue, 03 Nov 2026 10:02:48 GMT"
+    },
+    {
+      "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+      "description": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
+      "pubDate": "Tue, 03 Nov 2026 07:15:17 GMT"
     },
     {
       "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
@@ -16,16 +46,16 @@
       "pubDate": "Tue, 03 Nov 2026 00:07:05 GMT"
     },
     {
-      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
-      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "description": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
-      "pubDate": "Tue, 03 Nov 2026 00:08:14 GMT"
-    },
-    {
       "title": "Shop freezers in seven European countries hit by cyber-attack",
       "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
       "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
       "pubDate": "Mon, 02 Nov 2026 17:38:11 GMT"
+    },
+    {
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "description": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+      "pubDate": "Tue, 03 Nov 2026 10:26:26 GMT"
     },
     {
       "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
@@ -34,124 +64,22 @@
       "pubDate": "Mon, 02 Nov 2026 17:33:19 GMT"
     },
     {
-      "title": "Legal challenge to Australia's social media ban to start in High Court",
+      "title": "Major test for Australia's social media ban begins in High Court",
       "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-      "description": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
-      "pubDate": "Mon, 02 Nov 2026 23:37:31 GMT"
+      "description": "Lawyers for Reddit and a digital rights group are arguing the world-leading policy robs children of their right to free communication.",
+      "pubDate": "Tue, 03 Nov 2026 07:53:38 GMT"
     },
     {
       "title": "North Korea denies being behind record $6.3bn Binance hack",
       "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
       "description": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-      "pubDate": "Tue, 03 Nov 2026 01:23:03 GMT"
-    },
-    {
-      "title": "Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia",
-      "link": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
-      "description": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
-      "pubDate": "Tue, 03 Nov 2026 01:57:46 GMT"
+      "pubDate": "Tue, 03 Nov 2026 08:33:20 GMT"
     },
     {
       "title": "Man guilty of stealing cash from farm owned by South African president",
       "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
       "description": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
       "pubDate": "Mon, 02 Nov 2026 20:08:51 GMT"
-    },
-    {
-      "title": "Dutch police offer record €2m reward in hunt for drug lord",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
-      "description": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
-      "pubDate": "Mon, 02 Nov 2026 17:29:49 GMT"
-    },
-    {
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "description": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
-      "pubDate": "Mon, 02 Nov 2026 19:33:10 GMT"
-    },
-    {
-      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
-      "description": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
-      "pubDate": "Mon, 02 Nov 2026 18:34:24 GMT"
-    },
-    {
-      "title": "Five arrested after South African farmer shot and tortured",
-      "link": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
-      "description": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
-      "pubDate": "Mon, 02 Nov 2026 10:48:47 GMT"
-    },
-    {
-      "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
-      "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
-      "description": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
-      "pubDate": "Mon, 02 Nov 2026 14:35:38 GMT"
-    },
-    {
-      "title": "Ryanair says it may freeze workers' pay and raise airfares",
-      "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-      "description": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-      "pubDate": "Mon, 02 Nov 2026 12:22:10 GMT"
-    },
-    {
-      "title": "Uganda begins withdrawing troops from Somalia after 20 years",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
-      "description": "Uganda has been helping Somalia battle an insurgency led by the al-Shabab militant group since 2007.",
-      "pubDate": "Mon, 02 Nov 2026 12:05:34 GMT"
-    },
-    {
-      "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
-      "link": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
-      "description": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.",
-      "pubDate": "Mon, 02 Nov 2026 03:58:38 GMT"
-    },
-    {
-      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
-      "description": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
-      "pubDate": "Mon, 02 Nov 2026 00:15:30 GMT"
-    },
-    {
-      "title": "Popular Australian children's author jailed over child exploitation offences",
-      "link": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
-      "description": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.",
-      "pubDate": "Mon, 02 Nov 2026 08:03:39 GMT"
-    },
-    {
-      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-      "description": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
-      "pubDate": "Sun, 01 Nov 2026 17:06:32 GMT"
-    },
-    {
-      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
-      "description": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
-      "pubDate": "Sun, 01 Nov 2026 17:56:47 GMT"
-    },
-    {
-      "title": "University of Cambridge scientist among those who died in Spanish train crash",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
-      "description": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
-      "pubDate": "Sun, 01 Nov 2026 17:05:18 GMT"
-    },
-    {
-      "title": "Shops looted as German cost-of-living protests turn violent",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-      "pubDate": "Sun, 01 Nov 2026 11:57:48 GMT"
-    },
-    {
-      "title": "India's opposition holds mega rally seeking election chief's resignation",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "description": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
-      "pubDate": "Sun, 01 Nov 2026 07:00:55 GMT"
-    },
-    {
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-      "pubDate": "Sun, 01 Nov 2026 13:11:37 GMT"
     },
     {
       "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
@@ -190,28 +118,28 @@
       "pubDate": "Mon, 02 Nov 2026 18:25:01 GMT"
     },
     {
+      "title": "Why a US-Russia showdown left Morocco celebrating",
+      "link": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss",
+      "description": "An impasse between the US and Russia at the UN means its peacekeeping mission in Western Sahara has ended after 35 years.",
+      "pubDate": "Tue, 03 Nov 2026 07:29:46 GMT"
+    },
+    {
       "title": "Indonesia's toxic haze is giving its neighbours a political headache",
       "link": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
       "description": "Governments in Singapore and Malaysia are split between anxious citizens and an irascible neighbour.",
       "pubDate": "Mon, 02 Nov 2026 23:02:01 GMT"
     },
     {
-      "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
-      "description": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.",
-      "pubDate": "Mon, 02 Nov 2026 20:54:44 GMT"
-    },
-    {
-      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
-      "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
-      "description": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
-      "pubDate": "Mon, 02 Nov 2026 06:00:54 GMT"
-    },
-    {
       "title": "Democrats have high hopes for midterms - but are the polls right?",
       "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
       "description": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
       "pubDate": "Mon, 02 Nov 2026 00:25:12 GMT"
+    },
+    {
+      "title": "Musk pumps $446m into US midterms, as campaign spending set to 'shatter' records",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
+      "description": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.",
+      "pubDate": "Mon, 02 Nov 2026 20:54:44 GMT"
     }
   ]
 }

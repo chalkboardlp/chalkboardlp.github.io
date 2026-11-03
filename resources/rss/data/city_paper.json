@@ -1,8 +1,14 @@
 {
-  "updated": "2026-11-02T20:45:44.848285+00:00",
+  "updated": "2026-11-03T10:49:58.961004+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "De la Espriella Renews Military Offensive Against Dissidents After Planadas Bombing",
+      "link": "https://thecitypaperbogota.com/news/de-la-espriella-renews-military-offensive-against-dissidents-after-planadas-bombing/",
+      "description": "Colombia’s Abelardo de la Espriella has vowed to intensify airstrikes, special operations and aerial coca eradication following a wave of terror attacks across Tolima, Huila and Cauca that left civilians dead, including a two-month-old baby. President Abelardo de la Espriella announced Monday that he will intensify Colombia&#8217;s military offensive against illegal armed groups following a [&#8230;]",
+      "pubDate": "Tue, 03 Nov 2026 10:15:37 +0000"
+    },
     {
       "title": "British National Arrested with Silenced Pistol in Medellín’s Parque Lleras",
       "link": "https://thecitypaperbogota.com/news/british-national-arrested-with-silenced-pistol-in-medellins-parque-lleras/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/culture/tallis-scholars-bring-five-decades-of-renaissance-polyphony-to-bogota/",
       "description": "The 15th International Festival of Sacred Music of Bogotá enters its final week with a programme that brings together Renaissance polyphony, Latin American sacred traditions, and a grand adieu with Wolfgang Amadeus Mozart. Among the week&#8217;s principal events is the Bogotá debut of The Tallis Scholars, the British vocal ensemble founded and directed by Peter [&#8230;]",
       "pubDate": "Wed, 30 Sep 2026 19:47:03 +0000"
-    },
-    {
-      "title": "Drone attacks hit police in Cauca and Chocó as Colombia’s displacement crisis deepens",
-      "link": "https://thecitypaperbogota.com/news/drone-attacks-hit-police-in-cauca-and-choco-as-colombias-displacement-crisis-deepens/",
-      "description": "At least 10 police officers were wounded Tuesday in a series of attacks involving drones and explosives in two regions of Colombia, as armed groups continue to employ unmanned aircraft against security forces and the country records a growing number of mass displacement events. The first attack occurred at the former Tunía toll station in [&#8230;]",
-      "pubDate": "Tue, 29 Sep 2026 20:50:05 +0000"
     }
   ]
 }
