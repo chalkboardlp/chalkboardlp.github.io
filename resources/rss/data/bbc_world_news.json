@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-03T18:38:30.898349+00:00",
+  "updated": "2026-11-03T23:58:26.220273+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
+      "title": "Spanish transport minister resigns days after deadly train crash",
+      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+      "description": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+      "pubDate": "Tue, 03 Nov 2026 22:45:59 GMT"
+    },
+    {
       "title": "Seven flights across Europe targeted by suspected bomb threats",
       "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
       "description": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-      "pubDate": "Tue, 03 Nov 2026 17:56:03 GMT"
-    },
-    {
-      "title": "Tenerife striker De Miguel dies after on-field collision",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-      "description": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
-      "pubDate": "Tue, 03 Nov 2026 09:09:18 GMT"
+      "pubDate": "Tue, 03 Nov 2026 20:42:47 GMT"
     },
     {
       "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
@@ -22,10 +22,10 @@
       "pubDate": "Tue, 03 Nov 2026 16:19:29 GMT"
     },
     {
-      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-      "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-      "description": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
-      "pubDate": "Tue, 03 Nov 2026 16:57:41 GMT"
+      "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
+      "description": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
+      "pubDate": "Tue, 03 Nov 2026 21:53:38 GMT"
     },
     {
       "title": "Libya's top religious authority rules against wearing Nike clothes",
@@ -38,6 +38,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
       "description": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
       "pubDate": "Tue, 03 Nov 2026 13:55:47 GMT"
+    },
+    {
+      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+      "description": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
+      "pubDate": "Tue, 03 Nov 2026 16:57:41 GMT"
     },
     {
       "title": "US strikes Iranian island ahead of midterm elections",
@@ -56,6 +62,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
       "description": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
       "pubDate": "Tue, 03 Nov 2026 17:07:28 GMT"
+    },
+    {
+      "title": "Tenerife striker De Miguel dies after on-field collision",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+      "description": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
+      "pubDate": "Tue, 03 Nov 2026 09:09:18 GMT"
     },
     {
       "title": "US urges Venezuela to release remaining political prisoners",
@@ -124,13 +136,7 @@
       "pubDate": "Tue, 03 Nov 2026 08:33:20 GMT"
     },
     {
-      "title": "Man guilty of stealing cash from farm owned by South African president",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
-      "description": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
-      "pubDate": "Mon, 02 Nov 2026 20:08:51 GMT"
-    },
-    {
-      "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
+      "title": "Film star Ranbir Kapoor on AI, movies and fatherhood",
       "link": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
       "description": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
       "pubDate": "Tue, 03 Nov 2026 00:09:13 GMT"
