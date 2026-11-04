@@ -1,31 +1,73 @@
 {
-  "updated": "2026-11-04T06:17:38.120889+00:00",
+  "updated": "2026-11-04T14:39:41.388284+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "South Carolina elects Democratic senator for first time in almost three decades",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
-      "description": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
-      "pubDate": "Wed, 04 Nov 2026 03:24:34 GMT"
+      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+      "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+      "description": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+      "pubDate": "Wed, 04 Nov 2026 13:33:30 GMT"
     },
     {
-      "title": "Democratic rising star Ossoff projected to hold Georgia seat",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
-      "description": "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.",
-      "pubDate": "Wed, 04 Nov 2026 02:38:07 GMT"
+      "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+      "description": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
+      "pubDate": "Wed, 04 Nov 2026 14:17:58 GMT"
     },
     {
-      "title": "Spanish transport minister resigns days after deadly train crash",
-      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-      "description": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-      "pubDate": "Tue, 03 Nov 2026 22:45:59 GMT"
+      "title": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
+      "link": "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss",
+      "description": "El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history.",
+      "pubDate": "Wed, 04 Nov 2026 10:03:19 GMT"
     },
     {
-      "title": "Seven flights across Europe targeted by suspected bomb threats",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-      "description": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-      "pubDate": "Tue, 03 Nov 2026 20:42:47 GMT"
+      "title": "Florida Republicans fend off Democrats as state elects first black governor",
+      "link": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
+      "description": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
+      "pubDate": "Wed, 04 Nov 2026 07:12:21 GMT"
+    },
+    {
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+      "description": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+      "pubDate": "Wed, 04 Nov 2026 12:21:21 GMT"
+    },
+    {
+      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+      "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+      "description": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
+      "pubDate": "Wed, 04 Nov 2026 07:39:38 GMT"
+    },
+    {
+      "title": "ANC under pressure to reverse South Africa decline",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "description": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+      "pubDate": "Wed, 04 Nov 2026 11:47:44 GMT"
+    },
+    {
+      "title": "Sharp objects found in Halloween sweets in three European nations",
+      "link": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
+      "description": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
+      "pubDate": "Wed, 04 Nov 2026 12:34:33 GMT"
+    },
+    {
+      "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+      "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
+      "description": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
+      "pubDate": "Wed, 04 Nov 2026 11:46:09 GMT"
+    },
+    {
+      "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&at_campaign=rss",
+      "description": "Jacob Allen Morley was serving a life sentence for murder before he escaped over a prison fence.",
+      "pubDate": "Wed, 04 Nov 2026 02:11:40 GMT"
+    },
+    {
+      "title": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
+      "link": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego?at_medium=RSS&at_campaign=rss",
+      "description": "Police have not made any arrests and an investigation is ongoing as authorities search for three teenage boys.",
+      "pubDate": "Wed, 04 Nov 2026 14:35:27 GMT"
     },
     {
       "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
@@ -34,106 +76,10 @@
       "pubDate": "Wed, 04 Nov 2026 03:46:10 GMT"
     },
     {
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "description": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-      "pubDate": "Tue, 03 Nov 2026 16:19:29 GMT"
-    },
-    {
-      "title": "NTSB says crucial plane parts found three miles from Florida crash site",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
-      "description": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
-      "pubDate": "Tue, 03 Nov 2026 21:53:38 GMT"
-    },
-    {
-      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-      "description": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
-      "pubDate": "Tue, 03 Nov 2026 13:55:47 GMT"
-    },
-    {
-      "title": "Libya's top religious authority rules against wearing Nike clothes",
-      "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-      "description": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
-      "pubDate": "Tue, 03 Nov 2026 14:56:46 GMT"
-    },
-    {
-      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-      "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-      "description": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
-      "pubDate": "Tue, 03 Nov 2026 16:57:41 GMT"
-    },
-    {
-      "title": "US strikes Iranian island ahead of midterm elections",
-      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-      "description": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
-      "pubDate": "Tue, 03 Nov 2026 11:33:33 GMT"
-    },
-    {
-      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
-      "link": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
-      "description": "The two aircraft crashed just metres from the ground after trying to land at the same spot.",
-      "pubDate": "Tue, 03 Nov 2026 11:51:08 GMT"
-    },
-    {
-      "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
-      "link": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
-      "description": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
-      "pubDate": "Tue, 03 Nov 2026 17:07:28 GMT"
-    },
-    {
-      "title": "Tenerife striker De Miguel dies after on-field collision",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-      "description": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
-      "pubDate": "Tue, 03 Nov 2026 09:09:18 GMT"
-    },
-    {
-      "title": "US urges Venezuela to release remaining political prisoners",
-      "link": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
-      "description": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.",
-      "pubDate": "Tue, 03 Nov 2026 12:09:20 GMT"
-    },
-    {
-      "title": "Mining giant joins fight to stop killer toad march across Australia",
-      "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
-      "description": "Rio Tinto is jointly funding a A$28m \"toad containment zone\" to protect the Pilbara region.",
-      "pubDate": "Tue, 03 Nov 2026 15:05:01 GMT"
-    },
-    {
-      "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
-      "description": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
-      "pubDate": "Tue, 03 Nov 2026 07:15:17 GMT"
-    },
-    {
-      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
-      "description": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
-      "pubDate": "Tue, 03 Nov 2026 00:07:05 GMT"
-    },
-    {
-      "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an \"utterly horrific\" attack.",
-      "pubDate": "Tue, 03 Nov 2026 13:26:19 GMT"
-    },
-    {
-      "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
-      "link": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
-      "description": "Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.",
-      "pubDate": "Tue, 03 Nov 2026 13:44:44 GMT"
-    },
-    {
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "description": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
-      "pubDate": "Tue, 03 Nov 2026 13:28:30 GMT"
-    },
-    {
-      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
-      "description": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
-      "pubDate": "Tue, 03 Nov 2026 03:32:36 GMT"
+      "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
+      "link": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o?at_medium=RSS&at_campaign=rss",
+      "description": "The Ethiopian-born American citizen admitted sharing dozens of classified documents with senior Ethiopian officials.",
+      "pubDate": "Wed, 04 Nov 2026 10:35:03 GMT"
     },
     {
       "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
@@ -166,34 +112,46 @@
       "pubDate": "Mon, 02 Nov 2026 14:24:25 GMT"
     },
     {
-      "title": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
+      "title": "How America voted in maps and charts",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+      "description": "See the maps and charts that show how America voted in the US midterm elections.",
+      "pubDate": "Wed, 04 Nov 2026 09:53:18 GMT"
+    },
+    {
+      "title": "Everything you need to know from the US midterm elections",
+      "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+      "description": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
+      "pubDate": "Wed, 04 Nov 2026 14:05:42 GMT"
+    },
+    {
+      "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
       "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
       "description": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
-      "pubDate": "Wed, 04 Nov 2026 06:14:20 GMT"
+      "pubDate": "Wed, 04 Nov 2026 06:53:56 GMT"
     },
     {
-      "title": "ANC under pressure to reverse South Africa decline",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-      "description": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-      "pubDate": "Wed, 04 Nov 2026 00:03:19 GMT"
+      "title": "Tears, celebrations and selfies: US midterms in pictures",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pexm44elo?at_medium=RSS&at_campaign=rss",
+      "description": "Democrats cheered as they picked up victories in Republican states. Tears were shed as Republican losses mounted.",
+      "pubDate": "Wed, 04 Nov 2026 08:05:53 GMT"
     },
     {
-      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
-      "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
-      "description": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
-      "pubDate": "Mon, 02 Nov 2026 18:25:01 GMT"
+      "title": "Why Kim Kardashian came back to 'the worst TV drama ever'",
+      "link": "https://www.bbc.co.uk/news/articles/cxvgd4drmevro?at_medium=RSS&at_campaign=rss",
+      "description": "The media personality and businesswoman says she's worked on her acting for series two of All's Fair.",
+      "pubDate": "Wed, 04 Nov 2026 00:52:19 GMT"
+    },
+    {
+      "title": "How sporting events are being affected by Middle East conflict",
+      "link": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport takes a look at how the ongoing conflict in the Middle East has affected sporting events in Saudi Arabia, Qatar, Bahrain and the wider area.",
+      "pubDate": "Tue, 03 Nov 2026 16:01:24 GMT"
     },
     {
       "title": "Why a US-Russia showdown left Morocco celebrating",
       "link": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss",
       "description": "An impasse between the US and Russia at the UN means its peacekeeping mission in Western Sahara has ended after 35 years.",
       "pubDate": "Tue, 03 Nov 2026 07:29:46 GMT"
-    },
-    {
-      "title": "Indonesia's toxic haze is giving its neighbours a political headache",
-      "link": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
-      "description": "Governments in Singapore and Malaysia are split between anxious citizens and an irascible neighbour.",
-      "pubDate": "Mon, 02 Nov 2026 23:02:01 GMT"
     }
   ]
 }
