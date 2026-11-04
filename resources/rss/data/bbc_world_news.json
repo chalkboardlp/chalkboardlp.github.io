@@ -1,8 +1,20 @@
 {
-  "updated": "2026-11-03T23:58:26.220273+00:00",
+  "updated": "2026-11-04T06:17:38.120889+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "South Carolina elects Democratic senator for first time in almost three decades",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+      "description": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
+      "pubDate": "Wed, 04 Nov 2026 03:24:34 GMT"
+    },
+    {
+      "title": "Democratic rising star Ossoff projected to hold Georgia seat",
+      "link": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
+      "description": "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.",
+      "pubDate": "Wed, 04 Nov 2026 02:38:07 GMT"
+    },
     {
       "title": "Spanish transport minister resigns days after deadly train crash",
       "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
@@ -14,6 +26,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
       "description": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
       "pubDate": "Tue, 03 Nov 2026 20:42:47 GMT"
+    },
+    {
+      "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+      "link": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
+      "description": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
+      "pubDate": "Wed, 04 Nov 2026 03:46:10 GMT"
     },
     {
       "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
@@ -28,16 +46,16 @@
       "pubDate": "Tue, 03 Nov 2026 21:53:38 GMT"
     },
     {
-      "title": "Libya's top religious authority rules against wearing Nike clothes",
-      "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-      "description": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
-      "pubDate": "Tue, 03 Nov 2026 14:56:46 GMT"
-    },
-    {
       "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
       "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
       "description": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
       "pubDate": "Tue, 03 Nov 2026 13:55:47 GMT"
+    },
+    {
+      "title": "Libya's top religious authority rules against wearing Nike clothes",
+      "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+      "description": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
+      "pubDate": "Tue, 03 Nov 2026 14:56:46 GMT"
     },
     {
       "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
@@ -78,7 +96,7 @@
     {
       "title": "Mining giant joins fight to stop killer toad march across Australia",
       "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
-      "description": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
+      "description": "Rio Tinto is jointly funding a A$28m \"toad containment zone\" to protect the Pilbara region.",
       "pubDate": "Tue, 03 Nov 2026 15:05:01 GMT"
     },
     {
@@ -118,22 +136,10 @@
       "pubDate": "Tue, 03 Nov 2026 03:32:36 GMT"
     },
     {
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-      "description": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
-      "pubDate": "Mon, 02 Nov 2026 17:33:19 GMT"
-    },
-    {
-      "title": "Major test for Australia's social media ban begins in High Court",
-      "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-      "description": "Lawyers for Reddit and a digital rights group are arguing the world-leading policy robs children of their right to free communication.",
-      "pubDate": "Tue, 03 Nov 2026 07:53:38 GMT"
-    },
-    {
-      "title": "North Korea denies being behind record $6.3bn Binance hack",
-      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "description": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-      "pubDate": "Tue, 03 Nov 2026 08:33:20 GMT"
+      "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
+      "link": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&at_campaign=rss",
+      "description": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer.",
+      "pubDate": "Tue, 03 Nov 2026 23:58:36 GMT"
     },
     {
       "title": "Film star Ranbir Kapoor on AI, movies and fatherhood",
@@ -160,10 +166,16 @@
       "pubDate": "Mon, 02 Nov 2026 14:24:25 GMT"
     },
     {
-      "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
-      "link": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Panorama follows grieving Samira who - after the killing of Sevda - faces up to the Tehran regime.",
-      "pubDate": "Mon, 02 Nov 2026 06:05:34 GMT"
+      "title": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+      "description": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+      "pubDate": "Wed, 04 Nov 2026 06:14:20 GMT"
+    },
+    {
+      "title": "ANC under pressure to reverse South Africa decline",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "description": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+      "pubDate": "Wed, 04 Nov 2026 00:03:19 GMT"
     },
     {
       "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
@@ -182,18 +194,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
       "description": "Governments in Singapore and Malaysia are split between anxious citizens and an irascible neighbour.",
       "pubDate": "Mon, 02 Nov 2026 23:02:01 GMT"
-    },
-    {
-      "title": "Democrats have high hopes for midterms - but are the polls right?",
-      "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
-      "description": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
-      "pubDate": "Mon, 02 Nov 2026 00:25:12 GMT"
-    },
-    {
-      "title": "Musk pumps $446m into US midterms, as campaign spending set to 'shatter' records",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
-      "description": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.",
-      "pubDate": "Mon, 02 Nov 2026 20:54:44 GMT"
     }
   ]
 }
