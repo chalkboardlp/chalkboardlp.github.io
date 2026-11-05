@@ -1,19 +1,55 @@
 {
-  "updated": "2026-11-05T02:25:50.480753+00:00",
+  "updated": "2026-11-05T10:52:08.135686+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-      "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-      "description": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
-      "pubDate": "Wed, 04 Nov 2026 13:33:30 GMT"
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "description": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+      "pubDate": "Thu, 05 Nov 2026 03:47:56 GMT"
     },
     {
-      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-      "description": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
-      "pubDate": "Wed, 04 Nov 2026 18:01:31 GMT"
+      "title": "What Democrats can and can't do with their new power after taking Congress",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+      "description": "Democrats can vote legislation through. But Trump still has veto power.",
+      "pubDate": "Wed, 04 Nov 2026 18:01:27 GMT"
+    },
+    {
+      "title": "France gears up for strikes and protests as unions promise national mobilisation",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "description": "Five of France's unions have joined a wave of strikes and protests in a national day of action.",
+      "pubDate": "Thu, 05 Nov 2026 10:26:03 GMT"
+    },
+    {
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "description": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "pubDate": "Thu, 05 Nov 2026 08:07:22 GMT"
+    },
+    {
+      "title": "Italian chef fired after refusing to put pineapple on pizza",
+      "link": "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo?at_medium=RSS&at_campaign=rss",
+      "description": "He had told his employer, an Australian restaurant, that pineapple on pizza was \"offensive\" to Italian culture.",
+      "pubDate": "Thu, 05 Nov 2026 07:56:53 GMT"
+    },
+    {
+      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+      "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+      "description": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+      "pubDate": "Wed, 04 Nov 2026 23:12:47 GMT"
+    },
+    {
+      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+      "description": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
+      "pubDate": "Thu, 05 Nov 2026 02:09:23 GMT"
+    },
+    {
+      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
+      "description": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
+      "pubDate": "Wed, 04 Nov 2026 23:50:40 GMT"
     },
     {
       "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
@@ -28,58 +64,10 @@
       "pubDate": "Wed, 04 Nov 2026 16:26:15 GMT"
     },
     {
-      "title": "'Most difficult days of my life' for keeper Owono",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-      "description": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
-      "pubDate": "Wed, 04 Nov 2026 16:40:38 GMT"
-    },
-    {
-      "title": "Israel's president begins consultations with parties after election deadlock",
-      "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-      "description": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
-      "pubDate": "Wed, 04 Nov 2026 16:18:21 GMT"
-    },
-    {
-      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-      "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
-      "description": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
-      "pubDate": "Wed, 04 Nov 2026 07:39:38 GMT"
-    },
-    {
-      "title": "Secret police files released in Hungary, 37 years after fall of communism",
-      "link": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
-      "description": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
-      "pubDate": "Wed, 04 Nov 2026 15:28:18 GMT"
-    },
-    {
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "description": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-      "pubDate": "Wed, 04 Nov 2026 16:59:15 GMT"
-    },
-    {
-      "title": "ANC under pressure to reverse South Africa decline",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-      "description": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-      "pubDate": "Wed, 04 Nov 2026 11:47:44 GMT"
-    },
-    {
-      "title": "Nadal set to join Real Madrid board of directors",
-      "link": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
-      "description": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
-      "pubDate": "Wed, 04 Nov 2026 13:21:01 GMT"
-    },
-    {
-      "title": "Sharp objects found in Halloween sweets in three European nations",
-      "link": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
-      "description": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
-      "pubDate": "Wed, 04 Nov 2026 12:34:33 GMT"
-    },
-    {
-      "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-      "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
-      "description": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
-      "pubDate": "Wed, 04 Nov 2026 11:46:09 GMT"
+      "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
+      "link": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
+      "description": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
+      "pubDate": "Thu, 05 Nov 2026 10:33:21 GMT"
     },
     {
       "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
@@ -92,12 +80,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
       "description": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
       "pubDate": "Tue, 03 Nov 2026 00:09:13 GMT"
-    },
-    {
-      "title": "What Florida jet audio and flight data tells us about its final moments",
-      "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
-      "description": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.",
-      "pubDate": "Mon, 02 Nov 2026 19:49:22 GMT"
     },
     {
       "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
