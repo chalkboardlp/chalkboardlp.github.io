@@ -1,31 +1,43 @@
 {
-  "updated": "2026-11-06T15:01:32.973703+00:00",
+  "updated": "2026-11-06T20:53:29.416054+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
-      "description": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
-      "pubDate": "Fri, 06 Nov 2026 02:08:57 GMT"
+      "title": "AI stocks climb after trillions wiped from market values",
+      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "description": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "pubDate": "Fri, 06 Nov 2026 19:37:10 GMT"
     },
     {
-      "title": "Trump signs order to preserve Oval Office as national monument",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-      "description": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
-      "pubDate": "Fri, 06 Nov 2026 09:19:57 GMT"
+      "title": "Four midterms takeaways for 2028 White House race",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "description": "The buzz about the presidential election is already under way - here's what we learned this week.",
+      "pubDate": "Fri, 06 Nov 2026 16:12:22 GMT"
     },
     {
       "title": "Two dead after bus crashes in France, officials say",
       "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
       "description": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-      "pubDate": "Fri, 06 Nov 2026 14:33:34 GMT"
+      "pubDate": "Fri, 06 Nov 2026 15:33:52 GMT"
+    },
+    {
+      "title": "New wave of bomb threats hit European airlines",
+      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+      "description": "No link has been established between the threats against the airlines and those against the media outlets.",
+      "pubDate": "Fri, 06 Nov 2026 15:25:35 GMT"
     },
     {
       "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
       "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
       "description": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
       "pubDate": "Fri, 06 Nov 2026 14:46:03 GMT"
+    },
+    {
+      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+      "description": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
+      "pubDate": "Fri, 06 Nov 2026 15:30:42 GMT"
     },
     {
       "title": "Russian extremist group denies sending hoax bomb threats",
@@ -38,6 +50,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
       "description": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
       "pubDate": "Fri, 06 Nov 2026 00:02:57 GMT"
+    },
+    {
+      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
+      "description": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
+      "pubDate": "Fri, 06 Nov 2026 16:51:01 GMT"
     },
     {
       "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
@@ -73,7 +91,7 @@
       "title": "Nigerian court rules opposition candidate cannot stand in elections",
       "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
       "description": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
-      "pubDate": "Thu, 05 Nov 2026 22:00:33 GMT"
+      "pubDate": "Fri, 06 Nov 2026 17:35:55 GMT"
     },
     {
       "title": "Macau jails pro-democracy campaigner in city's first national security case",
@@ -88,34 +106,10 @@
       "pubDate": "Thu, 05 Nov 2026 17:40:40 GMT"
     },
     {
-      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-      "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-      "description": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
-      "pubDate": "Thu, 05 Nov 2026 17:39:48 GMT"
-    },
-    {
-      "title": "French protests see numbers surge as unions join strikes over high cost of living",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-      "description": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
-      "pubDate": "Thu, 05 Nov 2026 17:59:53 GMT"
-    },
-    {
-      "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
-      "description": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
-      "pubDate": "Fri, 06 Nov 2026 01:28:03 GMT"
-    },
-    {
-      "title": "Eight killed in series of shootings in western Turkey",
-      "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
-      "description": "Victims are found in several locations in three separate vehicles, according to local reports.",
-      "pubDate": "Thu, 05 Nov 2026 19:32:54 GMT"
-    },
-    {
-      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-      "description": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-      "pubDate": "Fri, 06 Nov 2026 07:56:19 GMT"
+      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+      "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
+      "description": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
+      "pubDate": "Fri, 06 Nov 2026 15:02:03 GMT"
     },
     {
       "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
@@ -124,16 +118,16 @@
       "pubDate": "Thu, 05 Nov 2026 18:22:46 GMT"
     },
     {
-      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
-      "link": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
-      "description": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
-      "pubDate": "Thu, 05 Nov 2026 19:08:48 GMT"
-    },
-    {
       "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
       "link": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
       "description": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
       "pubDate": "Thu, 05 Nov 2026 10:33:21 GMT"
+    },
+    {
+      "title": "US midterm results spark fears in Israel over future of two countries' ties",
+      "link": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
+      "description": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
+      "pubDate": "Fri, 06 Nov 2026 13:23:44 GMT"
     },
     {
       "title": "What to know about the presidential wiretapping scandal rocking Indonesia",
@@ -158,12 +152,6 @@
       "link": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
       "description": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
       "pubDate": "Fri, 06 Nov 2026 06:01:13 GMT"
-    },
-    {
-      "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
-      "link": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
-      "description": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.",
-      "pubDate": "Thu, 05 Nov 2026 23:16:53 GMT"
     }
   ]
 }
