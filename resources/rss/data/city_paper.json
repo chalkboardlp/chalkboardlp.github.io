@@ -1,8 +1,14 @@
 {
-  "updated": "2026-11-06T06:47:27.966635+00:00",
+  "updated": "2026-11-06T15:01:34.514155+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "ACOTUR: Tourism as an Instrument of Regional Recovery",
+      "link": "https://thecitypaperbogota.com/travel/acotur-tourism-as-an-instrument-of-regional-recovery/",
+      "description": "As Popayán prepares to host the VIII ACOTUR Sustainable Tourism Summit, Cauca is seeking to turn its extraordinary agricultural biodiversity, cultural heritage and nature-based tourism potential into an engine for rural development, international investment and economic opportunity. POPAYÁN — For a department that has endured decades of armed conflict, displacement and economic marginalization, the prospect [&#8230;]",
+      "pubDate": "Fri, 06 Nov 2026 11:41:05 +0000"
+    },
     {
       "title": "Airbus explores investment to develop Colombia’s aviation sector",
       "link": "https://thecitypaperbogota.com/news/airbus-explores-investment-to-develop-colombias-aviation-sector/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/bogota/bogotas-weather-turns-electric-with-hailstorms/",
       "description": "Bogotá&#8217;s skies have turned violently electric this week, delivering a dramatic reversal to weeks of dry weather, high temperatures and growing concern over forest fires in the capital&#8217;s eastern hills and across the Andean lowlands. On Monday afternoon, October 5, a powerful electrical storm swept across the city after temperatures climbed to 24.6°C during the [&#8230;]",
       "pubDate": "Tue, 06 Oct 2026 19:30:11 +0000"
-    },
-    {
-      "title": "Colombia’s Catholic Church Puts Exorcism Under Closer Scrutiny",
-      "link": "https://thecitypaperbogota.com/news/colombias-catholic-church-puts-exorcism-under-closer-scrutiny/",
-      "description": "The Catholic Church in Colombia is tightening the way exorcism is approached, placing greater emphasis on discernment, professional training and the protection of people who seek help believing they may be experiencing demonic influence. The new emphasis emerged from the third national formation course for exorcists, held in Bogotá under the title “Liberate and Care: [&#8230;]",
-      "pubDate": "Tue, 06 Oct 2026 16:45:15 +0000"
     }
   ]
 }
