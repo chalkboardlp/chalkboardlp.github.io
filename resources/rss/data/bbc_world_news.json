@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-07T18:46:46.015595+00:00",
+  "updated": "2026-11-07T22:44:30.487093+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "What we know about Krakow mass shooting so far",
+      "title": "What we know so far after Krakow gun attack",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
-      "pubDate": "Sat, 07 Nov 2026 18:22:11 GMT"
+      "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+      "pubDate": "Sat, 07 Nov 2026 22:27:30 GMT"
     },
     {
       "title": "No clear winner after tight New Zealand general election",
@@ -28,6 +28,12 @@
       "pubDate": "Sat, 07 Nov 2026 17:09:24 GMT"
     },
     {
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "pubDate": "Sat, 07 Nov 2026 22:19:59 GMT"
+    },
+    {
       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
       "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
@@ -40,10 +46,10 @@
       "pubDate": "Fri, 06 Nov 2026 23:24:15 GMT"
     },
     {
-      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "title": "Paraguay's former president charged after bank collapse",
       "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
       "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "pubDate": "Sat, 07 Nov 2026 07:20:00 GMT"
+      "pubDate": "Sat, 07 Nov 2026 19:17:22 GMT"
     },
     {
       "title": "Pope in 'pretty good health' as he starts Latin America tour",
