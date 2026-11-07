@@ -1,25 +1,25 @@
 {
-  "updated": "2026-11-07T07:08:16.851607+00:00",
+  "updated": "2026-11-07T14:00:10.642490+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Paraguay's President Santiago Peña impeached and arrested",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "pubDate": "Fri, 06 Nov 2026 23:24:15 GMT"
+    },
+    {
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
       "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
       "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "pubDate": "Sat, 07 Nov 2026 03:25:00 GMT"
+      "pubDate": "Sat, 07 Nov 2026 07:20:00 GMT"
     },
     {
-      "title": "AI stocks climb after trillions wiped from market values",
-      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "description": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "pubDate": "Fri, 06 Nov 2026 21:06:25 GMT"
-    },
-    {
-      "title": "Four midterms takeaways for 2028 White House race",
-      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "description": "The buzz about the presidential election is already under way - here's what we learned this week.",
-      "pubDate": "Fri, 06 Nov 2026 16:12:22 GMT"
+      "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "description": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "pubDate": "Sat, 07 Nov 2026 12:49:36 GMT"
     },
     {
       "title": "Pope in 'pretty good health' as he starts Latin America tour",
@@ -28,16 +28,16 @@
       "pubDate": "Sat, 07 Nov 2026 06:59:48 GMT"
     },
     {
+      "title": "AI stocks climb after trillions wiped from market values",
+      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "description": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "pubDate": "Fri, 06 Nov 2026 21:06:25 GMT"
+    },
+    {
       "title": "New wave of bomb threats hit European airlines",
       "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
       "description": "No link has been established between the threats against the airlines and those against the media outlets.",
       "pubDate": "Fri, 06 Nov 2026 15:25:35 GMT"
-    },
-    {
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "description": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-      "pubDate": "Fri, 06 Nov 2026 14:46:03 GMT"
     },
     {
       "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
@@ -46,16 +46,16 @@
       "pubDate": "Fri, 06 Nov 2026 17:44:02 GMT"
     },
     {
+      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+      "description": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
+      "pubDate": "Fri, 06 Nov 2026 14:46:03 GMT"
+    },
+    {
       "title": "Two dead after bus crashes in France, officials say",
       "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
       "description": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
       "pubDate": "Fri, 06 Nov 2026 15:33:52 GMT"
-    },
-    {
-      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-      "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
-      "description": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
-      "pubDate": "Fri, 06 Nov 2026 23:46:08 GMT"
     },
     {
       "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
@@ -64,16 +64,16 @@
       "pubDate": "Fri, 06 Nov 2026 15:30:42 GMT"
     },
     {
+      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+      "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
+      "description": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
+      "pubDate": "Fri, 06 Nov 2026 23:46:08 GMT"
+    },
+    {
       "title": "Russian extremist group denies sending hoax bomb threats",
       "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
       "description": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
       "pubDate": "Fri, 06 Nov 2026 12:51:38 GMT"
-    },
-    {
-      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-      "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
-      "description": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
-      "pubDate": "Fri, 06 Nov 2026 00:02:57 GMT"
     },
     {
       "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
@@ -94,42 +94,6 @@
       "pubDate": "Fri, 06 Nov 2026 21:49:50 GMT"
     },
     {
-      "title": "Somalia's top court rejects president's term extension amid political crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
-      "description": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt.",
-      "pubDate": "Fri, 06 Nov 2026 08:18:10 GMT"
-    },
-    {
-      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
-      "description": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
-      "pubDate": "Fri, 06 Nov 2026 07:33:41 GMT"
-    },
-    {
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "description": "California has historically had the largest population of people on death row in the US.",
-      "pubDate": "Thu, 05 Nov 2026 23:09:33 GMT"
-    },
-    {
-      "title": "Nigerian court rules opposition candidate cannot stand in elections",
-      "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-      "description": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
-      "pubDate": "Fri, 06 Nov 2026 17:35:55 GMT"
-    },
-    {
-      "title": "Macau jails pro-democracy campaigner in city's first national security case",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
-      "description": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\".",
-      "pubDate": "Fri, 06 Nov 2026 06:46:21 GMT"
-    },
-    {
-      "title": "Paraguay President Santiago Peña resigns after bank collapse",
-      "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-      "description": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
-      "pubDate": "Thu, 05 Nov 2026 17:40:40 GMT"
-    },
-    {
       "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
       "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
       "description": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
@@ -148,22 +112,28 @@
       "pubDate": "Thu, 05 Nov 2026 10:33:21 GMT"
     },
     {
-      "title": "The young Somali woman changing how the world sees Mogadishu",
-      "link": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
-      "description": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
-      "pubDate": "Sat, 07 Nov 2026 01:19:49 GMT"
-    },
-    {
       "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
       "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
       "description": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
       "pubDate": "Sat, 07 Nov 2026 01:27:47 GMT"
     },
     {
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-      "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-      "pubDate": "Fri, 06 Nov 2026 23:24:15 GMT"
+      "title": "Four things we learned this week about 2028 White House race",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "description": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
+      "pubDate": "Sat, 07 Nov 2026 12:23:28 GMT"
+    },
+    {
+      "title": "Spate of bomb threats poses serious challenge to airline industry",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
+      "description": "After a week of disruption, airlines are facing both safety and financial concerns.",
+      "pubDate": "Fri, 06 Nov 2026 16:18:44 GMT"
+    },
+    {
+      "title": "The young Somali woman changing how the world sees Mogadishu",
+      "link": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
+      "description": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
+      "pubDate": "Sat, 07 Nov 2026 01:19:49 GMT"
     },
     {
       "title": "US midterm results spark fears in Israel over future of two countries' ties",

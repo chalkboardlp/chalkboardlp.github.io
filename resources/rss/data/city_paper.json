@@ -1,8 +1,14 @@
 {
-  "updated": "2026-11-07T07:08:18.191073+00:00",
+  "updated": "2026-11-07T14:00:29.309177+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Qatar Airways opens a new aviation corridor between Bogotá, Caracas and Doha",
+      "link": "https://thecitypaperbogota.com/business/qatar-airways-opens-a-new-aviation-corridor-between-bogota-caracas-and-doha/",
+      "description": "The launch of the airline&#8217;s twice-weekly South American service offers more than a new connection for Colombians. Its strategic importance may lie in linking Venezuela&#8217;s vast energy resources with Gulf investment capital and opening a new gateway between Latin America, the Middle East and Asia. BOGOTÁ &#8211; After months of changes to its launch schedule, [&#8230;]",
+      "pubDate": "Sat, 07 Nov 2026 12:43:19 +0000"
+    },
     {
       "title": "ACOTUR: Tourism as an Instrument of Regional Recovery",
       "link": "https://thecitypaperbogota.com/travel/acotur-tourism-as-an-instrument-of-regional-recovery/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/de-la-espriella-sets-ground-rules-for-indigenous-protest-in-conflict-region/",
       "description": "President Abelardo de la Espriella has set clear ground rules for an indigenous mobilization scheduled for October 11–14 in Cauca, guaranteeing the right to peaceful protest while warning that his government will not permit road blockades, violence or attempts to paralyze the department. The warning comes as the Consejo Regional Indígena del Cauca (CRIC) prepares [&#8230;]",
       "pubDate": "Wed, 07 Oct 2026 15:03:18 +0000"
-    },
-    {
-      "title": "Bogotá’s Weather Turns Electric With Hailstorms",
-      "link": "https://thecitypaperbogota.com/bogota/bogotas-weather-turns-electric-with-hailstorms/",
-      "description": "Bogotá&#8217;s skies have turned violently electric this week, delivering a dramatic reversal to weeks of dry weather, high temperatures and growing concern over forest fires in the capital&#8217;s eastern hills and across the Andean lowlands. On Monday afternoon, October 5, a powerful electrical storm swept across the city after temperatures climbed to 24.6°C during the [&#8230;]",
-      "pubDate": "Tue, 06 Oct 2026 19:30:11 +0000"
     }
   ]
 }
