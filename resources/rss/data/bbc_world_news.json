@@ -1,13 +1,25 @@
 {
-  "updated": "2026-11-08T02:28:15.686656+00:00",
+  "updated": "2026-11-08T10:18:24.194430+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
       "title": "What we know so far after Krakow gun attack",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
-      "pubDate": "Sun, 08 Nov 2026 01:47:41 GMT"
+      "description": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+      "pubDate": "Sun, 08 Nov 2026 07:52:33 GMT"
+    },
+    {
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "pubDate": "Sun, 08 Nov 2026 04:03:12 GMT"
+    },
+    {
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "description": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+      "pubDate": "Sat, 07 Nov 2026 21:36:16 GMT"
     },
     {
       "title": "Israel's president tasks opposition leader Eisenkot with forming government",
@@ -16,34 +28,16 @@
       "pubDate": "Sat, 07 Nov 2026 22:19:59 GMT"
     },
     {
-      "title": "No clear winner after tight New Zealand general election",
-      "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-      "pubDate": "Sat, 07 Nov 2026 15:56:28 GMT"
-    },
-    {
       "title": "US offers $20m reward for information about Iran's nuclear programme",
       "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
       "description": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
       "pubDate": "Sat, 07 Nov 2026 18:14:38 GMT"
     },
     {
-      "title": "Houthis say at least 25 killed in Saudi air strike",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "pubDate": "Sat, 07 Nov 2026 17:09:24 GMT"
-    },
-    {
       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
       "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
       "pubDate": "Sat, 07 Nov 2026 15:19:35 GMT"
-    },
-    {
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-      "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-      "pubDate": "Fri, 06 Nov 2026 23:24:15 GMT"
     },
     {
       "title": "Paraguay's former president charged after bank collapse",
@@ -106,6 +100,12 @@
       "pubDate": "Fri, 06 Nov 2026 14:46:03 GMT"
     },
     {
+      "title": "How the deadly shooting in Krakow unfolded",
+      "link": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
+      "description": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
+      "pubDate": "Sun, 08 Nov 2026 09:29:24 GMT"
+    },
+    {
       "title": "Gaza wedding festival sees 250 couples married at the same time",
       "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
       "description": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
@@ -124,34 +124,34 @@
       "pubDate": "Thu, 05 Nov 2026 18:22:46 GMT"
     },
     {
+      "title": "The Trump coalition is shattered - what will Republicans do now?",
+      "link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
+      "description": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
+      "pubDate": "Sun, 08 Nov 2026 00:52:39 GMT"
+    },
+    {
+      "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+      "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
+      "description": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
+      "pubDate": "Sun, 08 Nov 2026 00:48:59 GMT"
+    },
+    {
       "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
       "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
       "description": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
       "pubDate": "Sat, 07 Nov 2026 01:27:47 GMT"
     },
     {
-      "title": "Four things we learned this week about 2028 White House race",
-      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "description": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
-      "pubDate": "Sat, 07 Nov 2026 12:23:28 GMT"
-    },
-    {
-      "title": "Spate of bomb threats poses serious challenge to airline industry",
-      "link": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
-      "description": "After a week of disruption, airlines are facing both safety and financial concerns.",
-      "pubDate": "Fri, 06 Nov 2026 16:18:44 GMT"
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "pubDate": "Fri, 06 Nov 2026 23:24:15 GMT"
     },
     {
       "title": "The young Somali woman changing how the world sees Mogadishu",
       "link": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
       "description": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
       "pubDate": "Sat, 07 Nov 2026 01:19:49 GMT"
-    },
-    {
-      "title": "US midterm results spark fears in Israel over future of two countries' ties",
-      "link": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
-      "description": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
-      "pubDate": "Fri, 06 Nov 2026 13:23:44 GMT"
     }
   ]
 }
