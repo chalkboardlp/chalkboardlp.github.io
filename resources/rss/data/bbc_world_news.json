@@ -1,13 +1,19 @@
 {
-  "updated": "2026-11-07T22:44:30.487093+00:00",
+  "updated": "2026-11-08T02:28:15.686656+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
       "title": "What we know so far after Krakow gun attack",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-      "pubDate": "Sat, 07 Nov 2026 22:27:30 GMT"
+      "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
+      "pubDate": "Sun, 08 Nov 2026 01:47:41 GMT"
+    },
+    {
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "pubDate": "Sat, 07 Nov 2026 22:19:59 GMT"
     },
     {
       "title": "No clear winner after tight New Zealand general election",
@@ -18,7 +24,7 @@
     {
       "title": "US offers $20m reward for information about Iran's nuclear programme",
       "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "description": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "description": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
       "pubDate": "Sat, 07 Nov 2026 18:14:38 GMT"
     },
     {
@@ -26,12 +32,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
       "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
       "pubDate": "Sat, 07 Nov 2026 17:09:24 GMT"
-    },
-    {
-      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-      "pubDate": "Sat, 07 Nov 2026 22:19:59 GMT"
     },
     {
       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
