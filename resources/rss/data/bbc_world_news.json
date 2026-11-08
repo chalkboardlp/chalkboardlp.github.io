@@ -1,13 +1,31 @@
 {
-  "updated": "2026-11-08T17:02:19.213844+00:00",
+  "updated": "2026-11-08T21:09:41.256051+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "What we know so far after Krakow gun attack",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "description": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
-      "pubDate": "Sun, 08 Nov 2026 14:32:52 GMT"
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "pubDate": "Sun, 08 Nov 2026 18:22:53 GMT"
+    },
+    {
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+      "pubDate": "Sun, 08 Nov 2026 19:58:02 GMT"
+    },
+    {
+      "title": "Homes and temples glow across India to mark Diwali",
+      "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "description": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+      "pubDate": "Sun, 08 Nov 2026 14:42:09 GMT"
+    },
+    {
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "description": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "pubDate": "Sun, 08 Nov 2026 13:37:50 GMT"
     },
     {
       "title": "Houthis say at least 33 killed in Saudi air strike",
@@ -20,24 +38,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
       "description": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
       "pubDate": "Sat, 07 Nov 2026 21:36:16 GMT"
-    },
-    {
-      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-      "pubDate": "Sat, 07 Nov 2026 22:19:59 GMT"
-    },
-    {
-      "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "description": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
-      "pubDate": "Sat, 07 Nov 2026 18:14:38 GMT"
-    },
-    {
-      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-      "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-      "pubDate": "Sat, 07 Nov 2026 15:19:35 GMT"
     },
     {
       "title": "Paraguay's former president charged after bank collapse",
@@ -64,10 +64,22 @@
       "pubDate": "Sat, 07 Nov 2026 12:49:36 GMT"
     },
     {
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "description": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
+      "pubDate": "Sat, 07 Nov 2026 18:14:38 GMT"
+    },
+    {
       "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
       "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
       "description": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
       "pubDate": "Sat, 07 Nov 2026 07:27:44 GMT"
+    },
+    {
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "pubDate": "Sat, 07 Nov 2026 15:19:35 GMT"
     },
     {
       "title": "Texas mayor instructs police to limit co-operation with ICE",
@@ -100,6 +112,12 @@
       "pubDate": "Fri, 06 Nov 2026 14:46:03 GMT"
     },
     {
+      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+      "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+      "description": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment.",
+      "pubDate": "Sun, 08 Nov 2026 16:05:57 GMT"
+    },
+    {
       "title": "How the deadly shooting in Krakow unfolded",
       "link": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
       "description": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
@@ -116,12 +134,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
       "description": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
       "pubDate": "Fri, 06 Nov 2026 15:02:03 GMT"
-    },
-    {
-      "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
-      "link": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week.",
-      "pubDate": "Thu, 05 Nov 2026 18:22:46 GMT"
     },
     {
       "title": "The Trump coalition is shattered - what will Republicans do now?",
