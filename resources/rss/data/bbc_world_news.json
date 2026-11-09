@@ -1,37 +1,67 @@
 {
-  "updated": "2026-11-09T07:57:20.813022+00:00",
+  "updated": "2026-11-09T18:47:21.123508+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "description": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
+      "pubDate": "Mon, 09 Nov 2026 16:55:07 GMT"
+    },
+    {
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "description": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+      "pubDate": "Mon, 09 Nov 2026 18:11:11 GMT"
+    },
+    {
+      "title": "Trump questions midterm elections integrity after previously accepting results",
+      "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+      "description": "Trump made the claims, without evidence, on Truth Social on Monday.",
+      "pubDate": "Mon, 09 Nov 2026 17:47:29 GMT"
+    },
+    {
+      "title": "Turkey steel factory blast kills at least 16 people",
+      "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+      "description": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
+      "pubDate": "Mon, 09 Nov 2026 18:04:01 GMT"
+    },
+    {
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "description": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+      "pubDate": "Mon, 09 Nov 2026 18:19:19 GMT"
+    },
+    {
+      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+      "description": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+      "pubDate": "Mon, 09 Nov 2026 17:06:18 GMT"
+    },
+    {
+      "title": "Russia's leading independent newspaper closes after eviction",
+      "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+      "description": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
+      "pubDate": "Mon, 09 Nov 2026 18:08:07 GMT"
+    },
+    {
+      "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
+      "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+      "description": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
+      "pubDate": "Mon, 09 Nov 2026 16:33:55 GMT"
+    },
+    {
       "title": "Krakow shooting suspect has died in hospital, police say",
       "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-      "description": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
-      "pubDate": "Mon, 09 Nov 2026 07:26:09 GMT"
+      "description": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
+      "pubDate": "Mon, 09 Nov 2026 11:56:25 GMT"
     },
     {
-      "title": "Inside the French drug gangs recruiting children to kill",
-      "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
-      "pubDate": "Mon, 09 Nov 2026 06:00:26 GMT"
-    },
-    {
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-      "pubDate": "Sun, 08 Nov 2026 23:34:18 GMT"
-    },
-    {
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-      "pubDate": "Sun, 08 Nov 2026 19:58:02 GMT"
-    },
-    {
-      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
-      "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
-      "description": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
-      "pubDate": "Mon, 09 Nov 2026 05:30:37 GMT"
+      "title": "Thirteen migrants die after boat sinks off Crete",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
+      "description": "The Greek coastguard says it has rescued 18 people, all of whom were Sudanese nationals.",
+      "pubDate": "Mon, 09 Nov 2026 13:50:01 GMT"
     },
     {
       "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
@@ -40,79 +70,37 @@
       "pubDate": "Mon, 09 Nov 2026 02:50:13 GMT"
     },
     {
-      "title": "Homes and temples glow across India to mark Diwali",
-      "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-      "description": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
-      "pubDate": "Sun, 08 Nov 2026 14:42:09 GMT"
+      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+      "description": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
+      "pubDate": "Mon, 09 Nov 2026 05:30:37 GMT"
     },
     {
-      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
-      "description": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
-      "pubDate": "Sun, 08 Nov 2026 21:37:36 GMT"
+      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
+      "description": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
+      "pubDate": "Mon, 09 Nov 2026 10:41:57 GMT"
     },
     {
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-      "description": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
-      "pubDate": "Sat, 07 Nov 2026 21:36:16 GMT"
+      "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+      "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+      "description": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
+      "pubDate": "Mon, 09 Nov 2026 08:49:17 GMT"
     },
     {
-      "title": "Iran executes three men for 'armed unrest' after January protests",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-      "description": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
-      "pubDate": "Sun, 08 Nov 2026 13:37:50 GMT"
+      "title": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
+      "link": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&at_campaign=rss",
+      "description": "\"It destroys people, but we all make our own choices\" - Marseille drug-gang members spoke to the BBC.",
+      "pubDate": "Mon, 09 Nov 2026 16:59:46 GMT"
     },
     {
-      "title": "Paraguay's former president charged after bank collapse",
-      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "pubDate": "Sat, 07 Nov 2026 19:17:22 GMT"
+      "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
+      "link": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
+      "description": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
+      "pubDate": "Mon, 09 Nov 2026 14:50:35 GMT"
     },
     {
-      "title": "Italian foreign minister says hackers leaked his personal data",
-      "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
-      "description": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
-      "pubDate": "Sat, 07 Nov 2026 16:50:06 GMT"
-    },
-    {
-      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-      "description": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-      "pubDate": "Sat, 07 Nov 2026 12:49:36 GMT"
-    },
-    {
-      "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "description": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
-      "pubDate": "Sat, 07 Nov 2026 18:14:38 GMT"
-    },
-    {
-      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-      "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
-      "description": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
-      "pubDate": "Sat, 07 Nov 2026 07:27:44 GMT"
-    },
-    {
-      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-      "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-      "pubDate": "Sat, 07 Nov 2026 15:19:35 GMT"
-    },
-    {
-      "title": "Texas mayor instructs police to limit co-operation with ICE",
-      "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
-      "description": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
-      "pubDate": "Sat, 07 Nov 2026 08:15:55 GMT"
-    },
-    {
-      "title": "AI stocks climb after trillions wiped from market values",
-      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "description": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "pubDate": "Fri, 06 Nov 2026 21:06:25 GMT"
-    },
-    {
-      "title": "Will Nvidia CEO’s rockstar reputation survive an affair with a suspected Chinese spy?",
+      "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
       "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
       "description": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
       "pubDate": "Mon, 09 Nov 2026 07:10:11 GMT"
@@ -130,22 +118,16 @@
       "pubDate": "Sun, 08 Nov 2026 16:05:57 GMT"
     },
     {
-      "title": "How the deadly shooting in Krakow unfolded",
-      "link": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
-      "description": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
-      "pubDate": "Sun, 08 Nov 2026 09:29:24 GMT"
+      "title": "Inside the French drug gangs recruiting children to kill",
+      "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
+      "pubDate": "Mon, 09 Nov 2026 06:00:26 GMT"
     },
     {
-      "title": "Gaza wedding festival sees 250 couples married at the same time",
-      "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-      "description": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-      "pubDate": "Sat, 07 Nov 2026 17:58:41 GMT"
-    },
-    {
-      "title": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
       "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "description": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
-      "pubDate": "Mon, 09 Nov 2026 06:01:52 GMT"
+      "description": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+      "pubDate": "Mon, 09 Nov 2026 15:46:20 GMT"
     },
     {
       "title": "The Trump coalition is shattered - what will Republicans do now?",
@@ -164,12 +146,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
       "description": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
       "pubDate": "Sat, 07 Nov 2026 01:27:47 GMT"
-    },
-    {
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-      "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-      "pubDate": "Fri, 06 Nov 2026 23:24:15 GMT"
     }
   ]
 }
