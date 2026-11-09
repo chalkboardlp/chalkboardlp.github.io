@@ -1,8 +1,20 @@
 {
-  "updated": "2026-11-09T00:53:23.251305+00:00",
+  "updated": "2026-11-09T07:57:20.813022+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Krakow shooting suspect has died in hospital, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+      "description": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
+      "pubDate": "Mon, 09 Nov 2026 07:26:09 GMT"
+    },
+    {
+      "title": "Inside the French drug gangs recruiting children to kill",
+      "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
+      "pubDate": "Mon, 09 Nov 2026 06:00:26 GMT"
+    },
     {
       "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
       "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
@@ -16,16 +28,22 @@
       "pubDate": "Sun, 08 Nov 2026 19:58:02 GMT"
     },
     {
+      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+      "description": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
+      "pubDate": "Mon, 09 Nov 2026 05:30:37 GMT"
+    },
+    {
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+      "description": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+      "pubDate": "Mon, 09 Nov 2026 02:50:13 GMT"
+    },
+    {
       "title": "Homes and temples glow across India to mark Diwali",
       "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
       "description": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
       "pubDate": "Sun, 08 Nov 2026 14:42:09 GMT"
-    },
-    {
-      "title": "Iran executes three men for 'armed unrest' after January protests",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-      "description": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
-      "pubDate": "Sun, 08 Nov 2026 13:37:50 GMT"
     },
     {
       "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
@@ -40,16 +58,16 @@
       "pubDate": "Sat, 07 Nov 2026 21:36:16 GMT"
     },
     {
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "description": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "pubDate": "Sun, 08 Nov 2026 13:37:50 GMT"
+    },
+    {
       "title": "Paraguay's former president charged after bank collapse",
       "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
       "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
       "pubDate": "Sat, 07 Nov 2026 19:17:22 GMT"
-    },
-    {
-      "title": "Pope in 'pretty good health' as he starts Latin America tour",
-      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-      "description": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
-      "pubDate": "Sat, 07 Nov 2026 06:59:48 GMT"
     },
     {
       "title": "Italian foreign minister says hackers leaked his personal data",
@@ -94,27 +112,15 @@
       "pubDate": "Fri, 06 Nov 2026 21:06:25 GMT"
     },
     {
-      "title": "New wave of bomb threats hit European airlines",
-      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "description": "No link has been established between the threats against the airlines and those against the media outlets.",
-      "pubDate": "Fri, 06 Nov 2026 15:25:35 GMT"
-    },
-    {
-      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-      "description": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-      "pubDate": "Fri, 06 Nov 2026 17:44:02 GMT"
-    },
-    {
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "description": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-      "pubDate": "Fri, 06 Nov 2026 14:46:03 GMT"
+      "title": "Will Nvidia CEO’s rockstar reputation survive an affair with a suspected Chinese spy?",
+      "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+      "description": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
+      "pubDate": "Mon, 09 Nov 2026 07:10:11 GMT"
     },
     {
       "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
       "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
-      "description": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
+      "description": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
       "pubDate": "Sun, 08 Nov 2026 22:05:12 GMT"
     },
     {
@@ -136,10 +142,10 @@
       "pubDate": "Sat, 07 Nov 2026 17:58:41 GMT"
     },
     {
-      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-      "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
-      "description": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
-      "pubDate": "Fri, 06 Nov 2026 15:02:03 GMT"
+      "title": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
+      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "description": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
+      "pubDate": "Mon, 09 Nov 2026 06:01:52 GMT"
     },
     {
       "title": "The Trump coalition is shattered - what will Republicans do now?",
@@ -164,12 +170,6 @@
       "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
       "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
       "pubDate": "Fri, 06 Nov 2026 23:24:15 GMT"
-    },
-    {
-      "title": "The young Somali woman changing how the world sees Mogadishu",
-      "link": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
-      "description": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
-      "pubDate": "Sat, 07 Nov 2026 01:19:49 GMT"
     }
   ]
 }
