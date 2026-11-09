@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T21:09:41.256051+00:00",
+  "updated": "2026-11-09T00:53:23.251305+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -7,7 +7,7 @@
       "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
       "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
       "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-      "pubDate": "Sun, 08 Nov 2026 18:22:53 GMT"
+      "pubDate": "Sun, 08 Nov 2026 23:34:18 GMT"
     },
     {
       "title": "Seven dead and more than 100 injured after trains collide in Egypt",
@@ -28,10 +28,10 @@
       "pubDate": "Sun, 08 Nov 2026 13:37:50 GMT"
     },
     {
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "pubDate": "Sun, 08 Nov 2026 04:03:12 GMT"
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "description": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+      "pubDate": "Sun, 08 Nov 2026 21:37:36 GMT"
     },
     {
       "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
@@ -110,6 +110,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
       "description": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
       "pubDate": "Fri, 06 Nov 2026 14:46:03 GMT"
+    },
+    {
+      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+      "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "description": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
+      "pubDate": "Sun, 08 Nov 2026 22:05:12 GMT"
     },
     {
       "title": "Footage shows derailed carriages after fatal train crash in Egypt",
