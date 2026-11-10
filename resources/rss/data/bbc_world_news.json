@@ -1,37 +1,73 @@
 {
-  "updated": "2026-11-09T18:47:21.123508+00:00",
+  "updated": "2026-11-10T02:06:15.437754+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "France accuses Iran of supermarket fridge hacking",
-      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "description": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
-      "pubDate": "Mon, 09 Nov 2026 16:55:07 GMT"
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "pubDate": "Tue, 10 Nov 2026 01:44:53 GMT"
     },
     {
       "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
       "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
       "description": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-      "pubDate": "Mon, 09 Nov 2026 18:11:11 GMT"
+      "pubDate": "Mon, 09 Nov 2026 19:58:01 GMT"
     },
     {
-      "title": "Trump questions midterm elections integrity after previously accepting results",
-      "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
-      "description": "Trump made the claims, without evidence, on Truth Social on Monday.",
-      "pubDate": "Mon, 09 Nov 2026 17:47:29 GMT"
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "description": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+      "pubDate": "Tue, 10 Nov 2026 00:09:49 GMT"
     },
     {
-      "title": "Turkey steel factory blast kills at least 16 people",
-      "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-      "description": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
-      "pubDate": "Mon, 09 Nov 2026 18:04:01 GMT"
+      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+      "description": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+      "pubDate": "Tue, 10 Nov 2026 00:14:03 GMT"
+    },
+    {
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "description": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+      "pubDate": "Mon, 09 Nov 2026 20:20:08 GMT"
     },
     {
       "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
       "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-      "description": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
-      "pubDate": "Mon, 09 Nov 2026 18:19:19 GMT"
+      "description": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+      "pubDate": "Tue, 10 Nov 2026 01:38:49 GMT"
+    },
+    {
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "description": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+      "pubDate": "Tue, 10 Nov 2026 01:55:22 GMT"
+    },
+    {
+      "title": "Russia's leading independent newspaper closes after eviction",
+      "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+      "description": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
+      "pubDate": "Mon, 09 Nov 2026 18:08:07 GMT"
+    },
+    {
+      "title": "Turkey steel factory blast kills at least 17 people",
+      "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+      "description": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
+      "pubDate": "Mon, 09 Nov 2026 20:42:04 GMT"
+    },
+    {
+      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+      "description": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+      "pubDate": "Mon, 09 Nov 2026 23:28:53 GMT"
+    },
+    {
+      "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
+      "link": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
+      "description": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
+      "pubDate": "Mon, 09 Nov 2026 21:48:38 GMT"
     },
     {
       "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
@@ -40,10 +76,10 @@
       "pubDate": "Mon, 09 Nov 2026 17:06:18 GMT"
     },
     {
-      "title": "Russia's leading independent newspaper closes after eviction",
-      "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
-      "description": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
-      "pubDate": "Mon, 09 Nov 2026 18:08:07 GMT"
+      "title": "Trump questions midterm elections integrity after previously accepting results",
+      "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+      "description": "Trump made the claims, without evidence, on Truth Social on Monday.",
+      "pubDate": "Mon, 09 Nov 2026 17:47:29 GMT"
     },
     {
       "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
@@ -70,22 +106,16 @@
       "pubDate": "Mon, 09 Nov 2026 02:50:13 GMT"
     },
     {
-      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
-      "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
-      "description": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
-      "pubDate": "Mon, 09 Nov 2026 05:30:37 GMT"
+      "title": "Dana White declines Trump’s offer to be White House press secretary",
+      "link": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+      "description": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\".",
+      "pubDate": "Mon, 09 Nov 2026 22:46:27 GMT"
     },
     {
-      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
-      "description": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
-      "pubDate": "Mon, 09 Nov 2026 10:41:57 GMT"
-    },
-    {
-      "title": "Trump says he was 'kidding' about Dana White press secretary offer",
-      "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
-      "description": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
-      "pubDate": "Mon, 09 Nov 2026 08:49:17 GMT"
+      "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
+      "link": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&at_campaign=rss",
+      "description": "The Pope celebrated an outdoor Mass in Argentina's capital, the second stop on a 12-day tour of Latin America, just three weeks after having had surgery for lung cancer.",
+      "pubDate": "Mon, 09 Nov 2026 19:09:27 GMT"
     },
     {
       "title": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
@@ -118,6 +148,18 @@
       "pubDate": "Sun, 08 Nov 2026 16:05:57 GMT"
     },
     {
+      "title": "The superpower battle over energy – and what it means for your bills",
+      "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+      "description": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+      "pubDate": "Tue, 10 Nov 2026 00:08:28 GMT"
+    },
+    {
+      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+      "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+      "description": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+      "pubDate": "Mon, 09 Nov 2026 21:52:28 GMT"
+    },
+    {
       "title": "Inside the French drug gangs recruiting children to kill",
       "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
       "description": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
@@ -127,7 +169,7 @@
       "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
       "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
       "description": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-      "pubDate": "Mon, 09 Nov 2026 15:46:20 GMT"
+      "pubDate": "Mon, 09 Nov 2026 23:51:22 GMT"
     },
     {
       "title": "The Trump coalition is shattered - what will Republicans do now?",
@@ -140,12 +182,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
       "description": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
       "pubDate": "Sun, 08 Nov 2026 00:48:59 GMT"
-    },
-    {
-      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
-      "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
-      "description": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
-      "pubDate": "Sat, 07 Nov 2026 01:27:47 GMT"
     }
   ]
 }
