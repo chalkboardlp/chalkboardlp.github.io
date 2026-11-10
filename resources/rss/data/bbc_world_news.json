@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-10T17:48:40.005274+00:00",
+  "updated": "2026-11-10T23:18:09.896583+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "First day of Ukraine peace talks constructive, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "description": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-      "pubDate": "Tue, 10 Nov 2026 17:29:36 GMT"
+      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "description": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+      "pubDate": "Tue, 10 Nov 2026 22:17:45 GMT"
     },
     {
-      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
-      "description": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
-      "pubDate": "Tue, 10 Nov 2026 16:19:48 GMT"
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+      "description": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+      "pubDate": "Tue, 10 Nov 2026 18:33:51 GMT"
     },
     {
       "title": "Israel's new parliament sworn in as leaders compete to form government",
@@ -22,16 +22,40 @@
       "pubDate": "Tue, 10 Nov 2026 17:03:16 GMT"
     },
     {
-      "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
-      "description": "About 50 other people were injured in the pile-ups along a section of the Trakia motorway, officials have said.",
-      "pubDate": "Tue, 10 Nov 2026 16:07:51 GMT"
+      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+      "description": "Supporters of Sheikh Hasina want her to return from exile in India.",
+      "pubDate": "Tue, 10 Nov 2026 19:26:42 GMT"
     },
     {
-      "title": "Police officer dies and another injured after backpack explosion in northern Spain",
-      "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
-      "description": "Officers attended the scene in connection with a separate incident at a residential building in the Spanish city.",
-      "pubDate": "Tue, 10 Nov 2026 11:25:46 GMT"
+      "title": "Spain's king and queen attend memorial service for rail crash victims",
+      "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+      "description": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
+      "pubDate": "Tue, 10 Nov 2026 20:46:40 GMT"
+    },
+    {
+      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+      "description": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+      "pubDate": "Tue, 10 Nov 2026 18:04:18 GMT"
+    },
+    {
+      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+      "description": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
+      "pubDate": "Tue, 10 Nov 2026 15:21:18 GMT"
+    },
+    {
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "description": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+      "pubDate": "Tue, 10 Nov 2026 21:21:55 GMT"
+    },
+    {
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "description": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+      "pubDate": "Tue, 10 Nov 2026 22:52:15 GMT"
     },
     {
       "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
@@ -40,16 +64,40 @@
       "pubDate": "Tue, 10 Nov 2026 13:23:54 GMT"
     },
     {
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "pubDate": "Tue, 10 Nov 2026 08:23:21 GMT"
+      "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+      "link": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
+      "description": "The US Food and Drug Administration says Ozempic, Wegovy, and other weight-loss drugs must have labels about the condition, known as NAION.",
+      "pubDate": "Tue, 10 Nov 2026 18:43:04 GMT"
     },
     {
-      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-      "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
-      "description": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
-      "pubDate": "Tue, 10 Nov 2026 15:21:18 GMT"
+      "title": "Arrests made after visit from former US President Biden",
+      "link": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
+      "description": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse",
+      "pubDate": "Tue, 10 Nov 2026 18:07:56 GMT"
+    },
+    {
+      "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
+      "description": "About 50 other people were injured in the pile-ups along a section of the Trakia motorway, officials have said.",
+      "pubDate": "Tue, 10 Nov 2026 16:07:51 GMT"
+    },
+    {
+      "title": "US federal authorities could have prevented Epstein crimes, report finds",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
+      "description": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
+      "pubDate": "Tue, 10 Nov 2026 20:36:58 GMT"
+    },
+    {
+      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
+      "description": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
+      "pubDate": "Tue, 10 Nov 2026 16:19:48 GMT"
+    },
+    {
+      "title": "Police officer dies and another injured after backpack explosion in northern Spain",
+      "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+      "description": "Officers attended the scene in connection with a separate incident at a residential building in the Spanish city.",
+      "pubDate": "Tue, 10 Nov 2026 11:25:46 GMT"
     },
     {
       "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
@@ -62,6 +110,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
       "description": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money.",
       "pubDate": "Tue, 10 Nov 2026 01:49:06 GMT"
+    },
+    {
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "pubDate": "Tue, 10 Nov 2026 08:23:21 GMT"
     },
     {
       "title": "Iran rejects French claims it was behind supermarket fridge hacking",
@@ -106,28 +160,22 @@
       "pubDate": "Tue, 10 Nov 2026 01:55:22 GMT"
     },
     {
-      "title": "Turkey steel factory blast kills at least 17 people",
-      "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-      "description": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
-      "pubDate": "Mon, 09 Nov 2026 20:42:04 GMT"
+      "title": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
+      "link": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o?at_medium=RSS&at_campaign=rss",
+      "description": "Surveillance footage from inside the home shows a mother and son noticing smoke coming from the battery before it suddenly bursts into flames.",
+      "pubDate": "Tue, 10 Nov 2026 20:31:17 GMT"
     },
     {
-      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-      "description": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
-      "pubDate": "Mon, 09 Nov 2026 23:28:53 GMT"
+      "title": "Why are these purple flowers shutting down streets in Sydney?",
+      "link": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
+      "description": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
+      "pubDate": "Tue, 10 Nov 2026 18:03:52 GMT"
     },
     {
-      "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
-      "link": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
-      "description": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
-      "pubDate": "Mon, 09 Nov 2026 21:48:38 GMT"
-    },
-    {
-      "title": "'It's a farce': Hegseth's defiant response to impeachment effort",
-      "link": "https://www.bbc.co.uk/news/videos/cwm24249dezmo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC’s Gary O’Donoghue breaks down how the US defence secretary defended his record after a Republican congressman launched an attempt to impeach him.",
-      "pubDate": "Tue, 10 Nov 2026 15:40:43 GMT"
+      "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+      "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
+      "description": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining.",
+      "pubDate": "Tue, 10 Nov 2026 18:35:35 GMT"
     },
     {
       "title": "Watch: Man smashes Chinese government building with excavator",
@@ -136,10 +184,10 @@
       "pubDate": "Tue, 10 Nov 2026 09:37:15 GMT"
     },
     {
-      "title": "Russia's leading independent newspaper closes after eviction",
-      "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
-      "description": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
-      "pubDate": "Mon, 09 Nov 2026 18:08:07 GMT"
+      "title": "Why does Australia want Brits to swap Sydney for the outback?",
+      "link": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
+      "description": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
+      "pubDate": "Tue, 10 Nov 2026 21:17:00 GMT"
     },
     {
       "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
@@ -164,12 +212,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
       "description": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
       "pubDate": "Tue, 10 Nov 2026 00:08:28 GMT"
-    },
-    {
-      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-      "description": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
-      "pubDate": "Tue, 10 Nov 2026 09:23:55 GMT"
     }
   ]
 }
