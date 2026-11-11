@@ -1,19 +1,49 @@
 {
-  "updated": "2026-11-11T14:20:31.794993+00:00",
+  "updated": "2026-11-11T21:56:32.080848+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "description": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-      "pubDate": "Wed, 11 Nov 2026 01:01:20 GMT"
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "description": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+      "pubDate": "Wed, 11 Nov 2026 20:52:52 GMT"
     },
     {
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
-      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "description": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-      "pubDate": "Wed, 11 Nov 2026 11:47:22 GMT"
+      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+      "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+      "description": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+      "pubDate": "Wed, 11 Nov 2026 18:04:58 GMT"
+    },
+    {
+      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+      "description": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+      "pubDate": "Wed, 11 Nov 2026 16:45:11 GMT"
+    },
+    {
+      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+      "description": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
+      "pubDate": "Wed, 11 Nov 2026 18:38:45 GMT"
+    },
+    {
+      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+      "description": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+      "pubDate": "Wed, 11 Nov 2026 16:38:07 GMT"
+    },
+    {
+      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+      "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+      "description": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
+      "pubDate": "Wed, 11 Nov 2026 14:56:11 GMT"
+    },
+    {
+      "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+      "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
+      "description": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
+      "pubDate": "Wed, 11 Nov 2026 18:10:57 GMT"
     },
     {
       "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
@@ -22,52 +52,16 @@
       "pubDate": "Wed, 11 Nov 2026 13:24:29 GMT"
     },
     {
-      "title": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "description": "Emails containing the false warnings were sent to schools in Rome, Naples, Vicenza, Florence, Pisa, Trieste and other Italian cities, officials say.",
-      "pubDate": "Wed, 11 Nov 2026 12:30:29 GMT"
-    },
-    {
-      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-      "description": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-      "pubDate": "Wed, 11 Nov 2026 02:41:16 GMT"
-    },
-    {
-      "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
-      "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
-      "description": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
-      "pubDate": "Wed, 11 Nov 2026 00:19:42 GMT"
-    },
-    {
-      "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
-      "description": "The 400 Mawozo gang was targeted by El Salvador's military, which has deployed thousands of troops to combat Haiti's gang violence crisis.",
-      "pubDate": "Wed, 11 Nov 2026 12:14:12 GMT"
-    },
-    {
       "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
       "link": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
       "description": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
       "pubDate": "Wed, 11 Nov 2026 12:53:11 GMT"
     },
     {
-      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
-      "description": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
-      "pubDate": "Wed, 11 Nov 2026 03:44:06 GMT"
-    },
-    {
-      "title": "Transport workers in Chile block highways in protest over surging fuel prices",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
-      "description": "Hundreds of bus and lorry drivers are blocking traffic along major highway routes across the country.",
-      "pubDate": "Wed, 11 Nov 2026 11:34:50 GMT"
-    },
-    {
-      "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
-      "link": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss",
-      "description": "But the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law.",
-      "pubDate": "Wed, 11 Nov 2026 01:18:09 GMT"
+      "title": "African writing award probe finds 'no evidence' winning story was AI generated",
+      "link": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
+      "description": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
+      "pubDate": "Wed, 11 Nov 2026 20:00:54 GMT"
     },
     {
       "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
@@ -76,16 +70,34 @@
       "pubDate": "Wed, 11 Nov 2026 13:25:47 GMT"
     },
     {
-      "title": "US warns Madagascar over growing military ties with Russia",
-      "link": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss",
-      "description": "US general warns the Sahel model-like security deal with Russia could lead to greater instability in Africa.",
-      "pubDate": "Wed, 11 Nov 2026 07:30:15 GMT"
+      "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
+      "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+      "description": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
+      "pubDate": "Wed, 11 Nov 2026 00:19:42 GMT"
     },
     {
-      "title": "Tearful Smith switches allegiance to Netherlands",
-      "link": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno?at_medium=RSS&at_campaign=rss",
-      "description": "Tatjana Smith, South Africa's most decorated Olympian, switches allegiance to the Netherlands.",
-      "pubDate": "Wed, 11 Nov 2026 09:45:14 GMT"
+      "title": "Transport workers in Chile block highways in protest over surging fuel prices",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
+      "description": "Hundreds of bus and lorry drivers are blocking traffic along major highway routes across the country.",
+      "pubDate": "Wed, 11 Nov 2026 11:34:50 GMT"
+    },
+    {
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "description": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "pubDate": "Wed, 11 Nov 2026 16:59:34 GMT"
+    },
+    {
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "description": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "pubDate": "Wed, 11 Nov 2026 11:47:22 GMT"
+    },
+    {
+      "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "description": "The 400 Mawozo gang was targeted by El Salvador's military, which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+      "pubDate": "Wed, 11 Nov 2026 12:14:12 GMT"
     },
     {
       "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
