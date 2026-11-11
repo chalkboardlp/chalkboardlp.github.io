@@ -1,25 +1,55 @@
 {
-  "updated": "2026-11-10T23:18:09.896583+00:00",
+  "updated": "2026-11-11T06:13:36.158382+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "description": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "pubDate": "Wed, 11 Nov 2026 01:01:20 GMT"
+    },
+    {
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "description": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+      "pubDate": "Tue, 10 Nov 2026 20:20:04 GMT"
+    },
+    {
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "description": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "pubDate": "Wed, 11 Nov 2026 03:26:42 GMT"
+    },
+    {
       "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
       "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
       "description": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-      "pubDate": "Tue, 10 Nov 2026 22:17:45 GMT"
+      "pubDate": "Wed, 11 Nov 2026 02:41:16 GMT"
     },
     {
-      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
-      "description": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
-      "pubDate": "Tue, 10 Nov 2026 18:33:51 GMT"
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "description": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+      "pubDate": "Wed, 11 Nov 2026 00:18:07 GMT"
     },
     {
-      "title": "Israel's new parliament sworn in as leaders compete to form government",
-      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-      "description": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-      "pubDate": "Tue, 10 Nov 2026 17:03:16 GMT"
+      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "description": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+      "pubDate": "Wed, 11 Nov 2026 02:47:59 GMT"
+    },
+    {
+      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+      "description": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+      "pubDate": "Tue, 10 Nov 2026 18:04:18 GMT"
+    },
+    {
+      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
+      "description": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
+      "pubDate": "Wed, 11 Nov 2026 03:44:06 GMT"
     },
     {
       "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
@@ -28,16 +58,22 @@
       "pubDate": "Tue, 10 Nov 2026 19:26:42 GMT"
     },
     {
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "description": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+      "pubDate": "Tue, 10 Nov 2026 17:03:16 GMT"
+    },
+    {
       "title": "Spain's king and queen attend memorial service for rail crash victims",
       "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
       "description": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
       "pubDate": "Tue, 10 Nov 2026 20:46:40 GMT"
     },
     {
-      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
-      "description": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
-      "pubDate": "Tue, 10 Nov 2026 18:04:18 GMT"
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+      "description": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+      "pubDate": "Tue, 10 Nov 2026 18:33:51 GMT"
     },
     {
       "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
@@ -130,36 +166,6 @@
       "pubDate": "Tue, 10 Nov 2026 13:22:12 GMT"
     },
     {
-      "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
-      "description": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
-      "pubDate": "Tue, 10 Nov 2026 11:23:18 GMT"
-    },
-    {
-      "title": "Trump says more US attacks on Iran 'highly unlikely'",
-      "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-      "description": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-      "pubDate": "Tue, 10 Nov 2026 09:40:31 GMT"
-    },
-    {
-      "title": "Oxford museum returns ancestral  Naga skulls to India",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
-      "description": "The remains will be taken to Nagaland, where tribal leaders plan a joint memorial and burial.",
-      "pubDate": "Tue, 10 Nov 2026 06:23:42 GMT"
-    },
-    {
-      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-      "description": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
-      "pubDate": "Tue, 10 Nov 2026 05:22:39 GMT"
-    },
-    {
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-      "description": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
-      "pubDate": "Tue, 10 Nov 2026 01:55:22 GMT"
-    },
-    {
       "title": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
       "link": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o?at_medium=RSS&at_campaign=rss",
       "description": "Surveillance footage from inside the home shows a mother and son noticing smoke coming from the battery before it suddenly bursts into flames.",
@@ -174,7 +180,7 @@
     {
       "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
       "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
-      "description": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining.",
+      "description": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of its pre-war population remaining.",
       "pubDate": "Tue, 10 Nov 2026 18:35:35 GMT"
     },
     {
@@ -188,6 +194,18 @@
       "link": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
       "description": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
       "pubDate": "Tue, 10 Nov 2026 21:17:00 GMT"
+    },
+    {
+      "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+      "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+      "description": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
+      "pubDate": "Wed, 11 Nov 2026 00:19:42 GMT"
+    },
+    {
+      "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+      "link": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
+      "description": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy.",
+      "pubDate": "Wed, 11 Nov 2026 00:26:02 GMT"
     },
     {
       "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
