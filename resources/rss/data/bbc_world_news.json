@@ -1,43 +1,67 @@
 {
-  "updated": "2026-11-12T11:03:48.518976+00:00",
+  "updated": "2026-11-12T18:54:25.007313+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-      "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-      "description": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
-      "pubDate": "Thu, 12 Nov 2026 07:59:33 GMT"
+      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "description": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+      "pubDate": "Thu, 12 Nov 2026 18:28:59 GMT"
     },
     {
-      "title": "New York building collapse kills at least two, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
-      "description": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
-      "pubDate": "Thu, 12 Nov 2026 10:40:49 GMT"
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+      "description": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+      "pubDate": "Thu, 12 Nov 2026 13:02:46 GMT"
     },
     {
-      "title": "Democrat Scott Colom makes history as Mississippi elects first black senator in 150 years",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "description": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+      "pubDate": "Thu, 12 Nov 2026 12:39:39 GMT"
+    },
+    {
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
       "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
       "description": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-      "pubDate": "Thu, 12 Nov 2026 10:02:32 GMT"
+      "pubDate": "Thu, 12 Nov 2026 12:56:55 GMT"
+    },
+    {
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "description": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident.",
+      "pubDate": "Thu, 12 Nov 2026 18:47:35 GMT"
+    },
+    {
+      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+      "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+      "description": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+      "pubDate": "Thu, 12 Nov 2026 15:18:20 GMT"
     },
     {
       "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
       "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
       "description": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-      "pubDate": "Thu, 12 Nov 2026 09:43:11 GMT"
+      "pubDate": "Thu, 12 Nov 2026 16:54:12 GMT"
     },
     {
-      "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
-      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "description": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-      "pubDate": "Thu, 12 Nov 2026 10:08:38 GMT"
+      "title": "Five new miniature frog species found in eastern Himalayas",
+      "link": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
+      "description": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
+      "pubDate": "Thu, 12 Nov 2026 11:07:19 GMT"
     },
     {
       "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
       "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
       "description": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
       "pubDate": "Thu, 12 Nov 2026 07:45:52 GMT"
+    },
+    {
+      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+      "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
+      "description": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
+      "pubDate": "Thu, 12 Nov 2026 13:58:49 GMT"
     },
     {
       "title": "British woman missing from cruise ship in Atlantic",
@@ -118,6 +142,12 @@
       "pubDate": "Wed, 11 Nov 2026 13:25:47 GMT"
     },
     {
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+      "description": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+      "pubDate": "Thu, 12 Nov 2026 13:02:46 GMT"
+    },
+    {
       "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
       "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
       "description": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
@@ -130,22 +160,16 @@
       "pubDate": "Wed, 11 Nov 2026 09:28:36 GMT"
     },
     {
-      "title": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
-      "link": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o?at_medium=RSS&at_campaign=rss",
-      "description": "Surveillance footage from inside the home shows a mother and son noticing smoke coming from the battery before it suddenly bursts into flames.",
-      "pubDate": "Tue, 10 Nov 2026 20:31:17 GMT"
+      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "description": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+      "pubDate": "Thu, 12 Nov 2026 17:11:48 GMT"
     },
     {
-      "title": "Why are these purple flowers shutting down streets in Sydney?",
-      "link": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
-      "description": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
-      "pubDate": "Tue, 10 Nov 2026 18:03:52 GMT"
-    },
-    {
-      "title": "'If I tell you to run, run': BBC joins a Ukrainian drone unit as it protects a front-line city",
-      "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
-      "description": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of its pre-war population remaining.",
-      "pubDate": "Tue, 10 Nov 2026 18:35:35 GMT"
+      "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
+      "description": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
+      "pubDate": "Thu, 12 Nov 2026 14:12:55 GMT"
     },
     {
       "title": "Can Nigeria's president regain voters' trust after painful first term?",
@@ -164,18 +188,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
       "description": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
       "pubDate": "Wed, 11 Nov 2026 11:33:24 GMT"
-    },
-    {
-      "title": "'My darling girl, you are everything to me' - auctioned letters reveal WWI love story",
-      "link": "https://www.bbc.co.uk/news/articles/cwx282zrlyrgo?at_medium=RSS&at_campaign=rss",
-      "description": "How two strangers and love letters from Gunner Willie Webber to wife Gladys led to a unique act of remembrance.",
-      "pubDate": "Wed, 11 Nov 2026 10:27:37 GMT"
-    },
-    {
-      "title": "Why does Australia want Brits to swap Sydney for the outback?",
-      "link": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
-      "description": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
-      "pubDate": "Tue, 10 Nov 2026 21:17:00 GMT"
     }
   ]
 }
