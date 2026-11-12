@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T21:56:32.080848+00:00",
+  "updated": "2026-11-12T02:57:47.065023+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -7,7 +7,13 @@
       "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
       "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
       "description": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-      "pubDate": "Wed, 11 Nov 2026 20:52:52 GMT"
+      "pubDate": "Wed, 11 Nov 2026 22:07:37 GMT"
+    },
+    {
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "description": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "pubDate": "Thu, 12 Nov 2026 02:09:08 GMT"
     },
     {
       "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
@@ -16,16 +22,10 @@
       "pubDate": "Wed, 11 Nov 2026 18:04:58 GMT"
     },
     {
-      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-      "description": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
-      "pubDate": "Wed, 11 Nov 2026 16:45:11 GMT"
-    },
-    {
-      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "description": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
-      "pubDate": "Wed, 11 Nov 2026 18:38:45 GMT"
+      "title": "New York building collapse kills one person and injures 12",
+      "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+      "description": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+      "pubDate": "Thu, 12 Nov 2026 02:33:12 GMT"
     },
     {
       "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
@@ -40,10 +40,28 @@
       "pubDate": "Wed, 11 Nov 2026 14:56:11 GMT"
     },
     {
-      "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+      "title": "Famed ship SS United States to be sunk off coast of Florida",
+      "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+      "description": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
+      "pubDate": "Wed, 11 Nov 2026 18:42:27 GMT"
+    },
+    {
+      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+      "description": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
+      "pubDate": "Wed, 11 Nov 2026 18:38:45 GMT"
+    },
+    {
+      "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
       "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
       "description": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
       "pubDate": "Wed, 11 Nov 2026 18:10:57 GMT"
+    },
+    {
+      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+      "description": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+      "pubDate": "Wed, 11 Nov 2026 16:45:11 GMT"
     },
     {
       "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
@@ -122,6 +140,12 @@
       "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
       "description": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of its pre-war population remaining.",
       "pubDate": "Tue, 10 Nov 2026 18:35:35 GMT"
+    },
+    {
+      "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+      "description": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
+      "pubDate": "Thu, 12 Nov 2026 00:36:11 GMT"
     },
     {
       "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
