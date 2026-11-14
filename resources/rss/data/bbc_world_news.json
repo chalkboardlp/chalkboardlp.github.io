@@ -1,31 +1,43 @@
 {
-  "updated": "2026-11-14T17:05:55.789957+00:00",
+  "updated": "2026-11-14T21:28:55.515413+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "What we know about the ground stop and what to do if you're affected",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-      "pubDate": "Sat, 14 Nov 2026 14:20:57 GMT"
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "pubDate": "Sat, 14 Nov 2026 19:12:25 GMT"
     },
     {
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
       "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "description": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-      "pubDate": "Sat, 14 Nov 2026 15:15:57 GMT"
+      "description": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
+      "pubDate": "Sat, 14 Nov 2026 20:41:45 GMT"
     },
     {
       "title": "Italy fines Meta €805m over accessing users' photos",
       "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "description": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
-      "pubDate": "Sat, 14 Nov 2026 16:29:48 GMT"
+      "description": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "pubDate": "Sat, 14 Nov 2026 18:28:06 GMT"
     },
     {
-      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-      "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-      "description": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-      "pubDate": "Sat, 14 Nov 2026 15:42:54 GMT"
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+      "description": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+      "pubDate": "Sat, 14 Nov 2026 18:17:58 GMT"
+    },
+    {
+      "title": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
+      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "description": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+      "pubDate": "Sat, 14 Nov 2026 21:05:14 GMT"
+    },
+    {
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+      "description": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+      "pubDate": "Sat, 14 Nov 2026 18:00:10 GMT"
     },
     {
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
@@ -34,10 +46,16 @@
       "pubDate": "Sat, 14 Nov 2026 15:53:55 GMT"
     },
     {
-      "title": "Second catch attempt for SpaceX Starship rocket",
-      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "description": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
-      "pubDate": "Sat, 14 Nov 2026 14:18:41 GMT"
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+      "description": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+      "pubDate": "Sat, 14 Nov 2026 00:03:52 GMT"
+    },
+    {
+      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+      "description": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
+      "pubDate": "Sat, 14 Nov 2026 15:42:54 GMT"
     },
     {
       "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
@@ -49,43 +67,13 @@
       "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
       "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
       "description": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-      "pubDate": "Fri, 13 Nov 2026 23:40:45 GMT"
+      "pubDate": "Sat, 14 Nov 2026 20:23:06 GMT"
     },
     {
       "title": "Microsoft says services fully restored after day-long global outage",
       "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
       "pubDate": "Sat, 14 Nov 2026 06:42:27 GMT"
-    },
-    {
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-      "description": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-      "pubDate": "Fri, 13 Nov 2026 16:40:31 GMT"
-    },
-    {
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "description": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-      "pubDate": "Fri, 13 Nov 2026 19:53:57 GMT"
-    },
-    {
-      "title": "Estonia bans Russian athletes as backlash intensifies",
-      "link": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
-      "description": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
-      "pubDate": "Fri, 13 Nov 2026 17:54:33 GMT"
-    },
-    {
-      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-      "description": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
-      "pubDate": "Fri, 13 Nov 2026 18:34:45 GMT"
-    },
-    {
-      "title": "Democratic Senate leader Schumer set to face leadership challenge",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-      "description": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
-      "pubDate": "Fri, 13 Nov 2026 19:03:10 GMT"
     },
     {
       "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
@@ -97,7 +85,7 @@
       "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
       "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
       "description": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans,  Louisiana on Friday.",
-      "pubDate": "Sat, 14 Nov 2026 11:30:10 GMT"
+      "pubDate": "Sat, 14 Nov 2026 19:14:33 GMT"
     },
     {
       "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
@@ -124,16 +112,16 @@
       "pubDate": "Thu, 12 Nov 2026 13:02:46 GMT"
     },
     {
+      "title": "How telecoms upgrade work sparked US flight chaos",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "pubDate": "Sat, 14 Nov 2026 20:03:48 GMT"
+    },
+    {
       "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
       "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
       "description": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
       "pubDate": "Sat, 14 Nov 2026 00:03:56 GMT"
-    },
-    {
-      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-      "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
-      "description": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
-      "pubDate": "Sat, 14 Nov 2026 00:03:52 GMT"
     },
     {
       "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
@@ -148,10 +136,10 @@
       "pubDate": "Fri, 13 Nov 2026 23:00:31 GMT"
     },
     {
-      "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
-      "description": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
-      "pubDate": "Fri, 13 Nov 2026 19:01:36 GMT"
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "description": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+      "pubDate": "Fri, 13 Nov 2026 16:40:31 GMT"
     }
   ]
 }
