@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T21:28:55.515413+00:00",
+  "updated": "2026-11-15T01:54:08.663278+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -12,8 +12,8 @@
     {
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
       "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "description": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
-      "pubDate": "Sat, 14 Nov 2026 20:41:45 GMT"
+      "description": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+      "pubDate": "Sat, 14 Nov 2026 22:37:25 GMT"
     },
     {
       "title": "Italy fines Meta €805m over accessing users' photos",
@@ -22,16 +22,16 @@
       "pubDate": "Sat, 14 Nov 2026 18:28:06 GMT"
     },
     {
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "description": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "pubDate": "Sat, 14 Nov 2026 22:09:40 GMT"
+    },
+    {
       "title": "Philippines wins first Eurovision Song Contest Asia",
       "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
       "description": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
       "pubDate": "Sat, 14 Nov 2026 18:17:58 GMT"
-    },
-    {
-      "title": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
-      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "description": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
-      "pubDate": "Sat, 14 Nov 2026 21:05:14 GMT"
     },
     {
       "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
@@ -112,10 +112,22 @@
       "pubDate": "Thu, 12 Nov 2026 13:02:46 GMT"
     },
     {
+      "title": "Judo champion shakes up French  presidential race with surprise candidacy",
+      "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+      "description": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+      "pubDate": "Sun, 15 Nov 2026 00:06:51 GMT"
+    },
+    {
+      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+      "description": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+      "pubDate": "Sun, 15 Nov 2026 00:06:55 GMT"
+    },
+    {
       "title": "How telecoms upgrade work sparked US flight chaos",
       "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-      "pubDate": "Sat, 14 Nov 2026 20:03:48 GMT"
+      "pubDate": "Sat, 14 Nov 2026 23:11:27 GMT"
     },
     {
       "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
@@ -128,18 +140,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
       "description": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
       "pubDate": "Fri, 13 Nov 2026 23:11:51 GMT"
-    },
-    {
-      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-      "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-      "description": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-      "pubDate": "Fri, 13 Nov 2026 23:00:31 GMT"
-    },
-    {
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-      "description": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-      "pubDate": "Fri, 13 Nov 2026 16:40:31 GMT"
     }
   ]
 }
