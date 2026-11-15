@@ -1,31 +1,31 @@
 {
-  "updated": "2026-11-15T09:22:43.930223+00:00",
+  "updated": "2026-11-15T17:07:52.183885+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "description": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-      "pubDate": "Sat, 14 Nov 2026 22:37:25 GMT"
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "description": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+      "pubDate": "Sun, 15 Nov 2026 13:42:58 GMT"
     },
     {
-      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-      "pubDate": "Sun, 15 Nov 2026 07:10:31 GMT"
+      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+      "description": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+      "pubDate": "Sun, 15 Nov 2026 11:06:32 GMT"
     },
     {
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-      "description": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
-      "pubDate": "Sun, 15 Nov 2026 02:49:45 GMT"
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "description": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+      "pubDate": "Sun, 15 Nov 2026 13:37:45 GMT"
     },
     {
-      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-      "description": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
-      "pubDate": "Sun, 15 Nov 2026 03:21:04 GMT"
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "pubDate": "Sun, 15 Nov 2026 14:56:21 GMT"
     },
     {
       "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
@@ -34,16 +34,58 @@
       "pubDate": "Sun, 15 Nov 2026 08:17:41 GMT"
     },
     {
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "description": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-      "pubDate": "Sat, 14 Nov 2026 18:28:06 GMT"
+      "title": "Czechs rally against plan to switch funding of public media",
+      "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "description": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs.",
+      "pubDate": "Sun, 15 Nov 2026 16:36:42 GMT"
+    },
+    {
+      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+      "description": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+      "pubDate": "Sun, 15 Nov 2026 09:26:37 GMT"
+    },
+    {
+      "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "description": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
+      "pubDate": "Sun, 15 Nov 2026 15:57:03 GMT"
+    },
+    {
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "description": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
+      "pubDate": "Sun, 15 Nov 2026 09:57:25 GMT"
+    },
+    {
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "description": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+      "pubDate": "Sat, 14 Nov 2026 22:37:25 GMT"
+    },
+    {
+      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+      "description": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+      "pubDate": "Sun, 15 Nov 2026 14:33:59 GMT"
     },
     {
       "title": "Philippines wins first Eurovision Song Contest Asia",
       "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
       "description": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
       "pubDate": "Sat, 14 Nov 2026 18:17:58 GMT"
+    },
+    {
+      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "pubDate": "Sun, 15 Nov 2026 07:10:31 GMT"
+    },
+    {
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "description": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "pubDate": "Sat, 14 Nov 2026 18:28:06 GMT"
     },
     {
       "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
@@ -56,12 +98,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
       "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
       "pubDate": "Sat, 14 Nov 2026 15:53:55 GMT"
-    },
-    {
-      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-      "description": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
-      "pubDate": "Sat, 14 Nov 2026 22:27:06 GMT"
     },
     {
       "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
@@ -109,7 +145,7 @@
       "title": "How telecoms upgrade work sparked US flight chaos",
       "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-      "pubDate": "Sat, 14 Nov 2026 23:11:27 GMT"
+      "pubDate": "Sun, 15 Nov 2026 14:57:15 GMT"
     },
     {
       "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
