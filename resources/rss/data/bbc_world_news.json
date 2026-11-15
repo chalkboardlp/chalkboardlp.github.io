@@ -1,14 +1,8 @@
 {
-  "updated": "2026-11-15T01:54:08.663278+00:00",
+  "updated": "2026-11-15T09:22:43.930223+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
-    {
-      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-      "pubDate": "Sat, 14 Nov 2026 19:12:25 GMT"
-    },
     {
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
       "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
@@ -16,16 +10,34 @@
       "pubDate": "Sat, 14 Nov 2026 22:37:25 GMT"
     },
     {
+      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "pubDate": "Sun, 15 Nov 2026 07:10:31 GMT"
+    },
+    {
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "description": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+      "pubDate": "Sun, 15 Nov 2026 02:49:45 GMT"
+    },
+    {
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "description": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
+      "pubDate": "Sun, 15 Nov 2026 03:21:04 GMT"
+    },
+    {
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "description": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+      "pubDate": "Sun, 15 Nov 2026 08:17:41 GMT"
+    },
+    {
       "title": "Italy fines Meta €805m over accessing users' photos",
       "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
       "description": "The social media giant is accused of not informing 20 million users it had access to their photos.",
       "pubDate": "Sat, 14 Nov 2026 18:28:06 GMT"
-    },
-    {
-      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-      "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-      "description": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-      "pubDate": "Sat, 14 Nov 2026 22:09:40 GMT"
     },
     {
       "title": "Philippines wins first Eurovision Song Contest Asia",
@@ -46,16 +58,10 @@
       "pubDate": "Sat, 14 Nov 2026 15:53:55 GMT"
     },
     {
-      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-      "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
-      "description": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
-      "pubDate": "Sat, 14 Nov 2026 00:03:52 GMT"
-    },
-    {
-      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-      "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-      "description": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-      "pubDate": "Sat, 14 Nov 2026 15:42:54 GMT"
+      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+      "description": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+      "pubDate": "Sat, 14 Nov 2026 22:27:06 GMT"
     },
     {
       "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
@@ -64,22 +70,16 @@
       "pubDate": "Sat, 14 Nov 2026 10:42:20 GMT"
     },
     {
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-      "description": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-      "pubDate": "Sat, 14 Nov 2026 20:23:06 GMT"
+      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+      "description": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
+      "pubDate": "Sat, 14 Nov 2026 15:42:54 GMT"
     },
     {
-      "title": "Microsoft says services fully restored after day-long global outage",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-      "pubDate": "Sat, 14 Nov 2026 06:42:27 GMT"
-    },
-    {
-      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
-      "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
-      "description": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
-      "pubDate": "Sat, 14 Nov 2026 01:47:36 GMT"
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "description": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "pubDate": "Sat, 14 Nov 2026 22:09:40 GMT"
     },
     {
       "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
@@ -92,24 +92,6 @@
       "link": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
       "description": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
       "pubDate": "Fri, 13 Nov 2026 15:09:40 GMT"
-    },
-    {
-      "title": "Will the Eurovision Song Contest succeed in Asia?",
-      "link": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
-      "description": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday.",
-      "pubDate": "Fri, 13 Nov 2026 02:24:11 GMT"
-    },
-    {
-      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
-      "link": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
-      "description": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
-      "pubDate": "Thu, 12 Nov 2026 23:42:52 GMT"
-    },
-    {
-      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-      "description": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-      "pubDate": "Thu, 12 Nov 2026 13:02:46 GMT"
     },
     {
       "title": "Judo champion shakes up French  presidential race with surprise candidacy",
