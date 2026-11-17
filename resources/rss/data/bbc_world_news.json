@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T20:27:57.330475+00:00",
+  "updated": "2026-11-17T03:51:31.752359+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -7,19 +7,19 @@
       "title": "Five EU countries announce migrant deportation centre in Rwanda",
       "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
       "description": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-      "pubDate": "Mon, 16 Nov 2026 16:27:24 GMT"
+      "pubDate": "Mon, 16 Nov 2026 23:20:45 GMT"
     },
     {
-      "title": "Yemeni forces retreat to defend port city from Houthis",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-      "description": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
-      "pubDate": "Mon, 16 Nov 2026 11:09:38 GMT"
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+      "description": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+      "pubDate": "Mon, 16 Nov 2026 21:40:07 GMT"
     },
     {
-      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
       "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "description": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-      "pubDate": "Mon, 16 Nov 2026 19:16:52 GMT"
+      "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "pubDate": "Tue, 17 Nov 2026 02:37:53 GMT"
     },
     {
       "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
@@ -34,10 +34,10 @@
       "pubDate": "Mon, 16 Nov 2026 17:18:54 GMT"
     },
     {
-      "title": "Forensic expert says his analysis raises doubts about how Epstein died",
+      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
       "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
       "description": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
-      "pubDate": "Mon, 16 Nov 2026 20:03:30 GMT"
+      "pubDate": "Mon, 16 Nov 2026 20:33:57 GMT"
     },
     {
       "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
@@ -102,7 +102,7 @@
     {
       "title": "Russia's mega-rich are already imagining a future after Putin",
       "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
-      "description": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+      "description": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power.",
       "pubDate": "Mon, 16 Nov 2026 00:13:14 GMT"
     },
     {
