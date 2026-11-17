@@ -1,31 +1,67 @@
 {
-  "updated": "2026-11-17T13:22:17.336659+00:00",
+  "updated": "2026-11-17T22:20:48.279135+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "description": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
-      "pubDate": "Tue, 17 Nov 2026 13:01:11 GMT"
+      "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "pubDate": "Tue, 17 Nov 2026 21:24:35 GMT"
     },
     {
-      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-      "description": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-      "pubDate": "Tue, 17 Nov 2026 05:59:01 GMT"
+      "title": "How the attack on Crimean Bridge unfolded",
+      "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+      "description": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+      "pubDate": "Tue, 17 Nov 2026 15:38:10 GMT"
+    },
+    {
+      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+      "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+      "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+      "pubDate": "Tue, 17 Nov 2026 18:24:21 GMT"
+    },
+    {
+      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+      "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+      "description": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+      "pubDate": "Tue, 17 Nov 2026 17:19:57 GMT"
+    },
+    {
+      "title": "Russian military plane crashes killing all 19 on board",
+      "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+      "description": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+      "pubDate": "Tue, 17 Nov 2026 21:06:11 GMT"
+    },
+    {
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+      "description": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+      "pubDate": "Tue, 17 Nov 2026 21:04:00 GMT"
     },
     {
       "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
       "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
       "description": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-      "pubDate": "Tue, 17 Nov 2026 13:02:17 GMT"
+      "pubDate": "Tue, 17 Nov 2026 20:30:20 GMT"
     },
     {
-      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
-      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-      "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-      "pubDate": "Tue, 17 Nov 2026 11:17:32 GMT"
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+      "description": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+      "pubDate": "Tue, 17 Nov 2026 20:44:54 GMT"
+    },
+    {
+      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+      "description": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+      "pubDate": "Tue, 17 Nov 2026 18:20:36 GMT"
+    },
+    {
+      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+      "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+      "description": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+      "pubDate": "Tue, 17 Nov 2026 20:25:46 GMT"
     },
     {
       "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
@@ -34,10 +70,28 @@
       "pubDate": "Tue, 17 Nov 2026 09:27:44 GMT"
     },
     {
-      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
-      "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
-      "description": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
-      "pubDate": "Tue, 17 Nov 2026 01:26:01 GMT"
+      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+      "pubDate": "Tue, 17 Nov 2026 11:17:32 GMT"
+    },
+    {
+      "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+      "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+      "description": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
+      "pubDate": "Tue, 17 Nov 2026 17:37:04 GMT"
+    },
+    {
+      "title": "UK sanctions firms over Israeli West Bank settlements",
+      "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+      "description": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+      "pubDate": "Tue, 17 Nov 2026 18:27:27 GMT"
+    },
+    {
+      "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
+      "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+      "description": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+      "pubDate": "Tue, 17 Nov 2026 18:58:57 GMT"
     },
     {
       "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
@@ -46,28 +100,10 @@
       "pubDate": "Tue, 17 Nov 2026 11:58:16 GMT"
     },
     {
-      "title": "Body of Melbourne Cup horse found dumped in Sydney skip",
-      "link": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
-      "description": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
-      "pubDate": "Tue, 17 Nov 2026 07:01:00 GMT"
-    },
-    {
-      "title": "Japan sends up jets after alleged Russian incursion of its airspace",
-      "link": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
-      "description": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
-      "pubDate": "Tue, 17 Nov 2026 07:44:17 GMT"
-    },
-    {
-      "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
-      "link": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
-      "description": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
-      "pubDate": "Tue, 17 Nov 2026 12:35:57 GMT"
-    },
-    {
-      "title": "Nigerians among 12 suspects arrested in $4.5m Canada luxury car theft syndicate",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1wr1535ko?at_medium=RSS&at_campaign=rss",
-      "description": "Canadian authorities say they have recovered 96 luxury vehicles destined for West Africa.",
-      "pubDate": "Tue, 17 Nov 2026 08:11:20 GMT"
+      "title": "BBC reports from Kyiv bridge hit by Russian attack",
+      "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
+      "pubDate": "Tue, 17 Nov 2026 15:54:15 GMT"
     },
     {
       "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
@@ -100,10 +136,22 @@
       "pubDate": "Mon, 16 Nov 2026 21:12:13 GMT"
     },
     {
+      "title": "Who to watch in Spain's election race",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+      "description": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
+      "pubDate": "Tue, 17 Nov 2026 18:13:45 GMT"
+    },
+    {
       "title": "How new US chip restrictions on South East Asia will hit China",
       "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
       "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-      "pubDate": "Tue, 17 Nov 2026 10:22:09 GMT"
+      "pubDate": "Tue, 17 Nov 2026 14:25:45 GMT"
+    },
+    {
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "description": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+      "pubDate": "Tue, 17 Nov 2026 05:59:01 GMT"
     },
     {
       "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
@@ -116,18 +164,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
       "description": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
       "pubDate": "Tue, 17 Nov 2026 02:38:08 GMT"
-    },
-    {
-      "title": "BBC launches programme for children forced from school by bandits and poverty in West Africa",
-      "link": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
-      "description": "The new show brings English, maths and science lessons to children via TV, radio and social media.",
-      "pubDate": "Tue, 17 Nov 2026 00:08:19 GMT"
-    },
-    {
-      "title": "Taking Korea's toughest exam from behind bars",
-      "link": "https://www.bbc.co.uk/news/articles/cmewvxg855yno?at_medium=RSS&at_campaign=rss",
-      "description": "Eleven convicts at the Mandela Boys' School will be among the thousands of young Koreans taking the country's hardest exam, the Suneung.",
-      "pubDate": "Mon, 16 Nov 2026 23:09:49 GMT"
     }
   ]
 }
