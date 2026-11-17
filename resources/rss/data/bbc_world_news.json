@@ -1,79 +1,85 @@
 {
-  "updated": "2026-11-17T03:51:31.752359+00:00",
+  "updated": "2026-11-17T13:22:17.336659+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Five EU countries announce migrant deportation centre in Rwanda",
-      "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-      "description": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-      "pubDate": "Mon, 16 Nov 2026 23:20:45 GMT"
+      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "description": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
+      "pubDate": "Tue, 17 Nov 2026 13:01:11 GMT"
     },
     {
-      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-      "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
-      "description": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
-      "pubDate": "Mon, 16 Nov 2026 21:40:07 GMT"
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "description": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+      "pubDate": "Tue, 17 Nov 2026 05:59:01 GMT"
     },
     {
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-      "pubDate": "Tue, 17 Nov 2026 02:37:53 GMT"
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+      "description": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+      "pubDate": "Tue, 17 Nov 2026 13:02:17 GMT"
     },
     {
-      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-      "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-      "description": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
-      "pubDate": "Mon, 16 Nov 2026 14:58:12 GMT"
+      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+      "pubDate": "Tue, 17 Nov 2026 11:17:32 GMT"
     },
     {
-      "title": "When will we see Robert Pattinson as Bond in cinemas?",
-      "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
-      "description": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
-      "pubDate": "Mon, 16 Nov 2026 17:18:54 GMT"
+      "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+      "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+      "description": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
+      "pubDate": "Tue, 17 Nov 2026 09:27:44 GMT"
     },
     {
-      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-      "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-      "description": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
-      "pubDate": "Mon, 16 Nov 2026 20:33:57 GMT"
+      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+      "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+      "description": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+      "pubDate": "Tue, 17 Nov 2026 01:26:01 GMT"
     },
     {
-      "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-      "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
-      "description": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-      "pubDate": "Mon, 16 Nov 2026 19:30:30 GMT"
+      "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
+      "description": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
+      "pubDate": "Tue, 17 Nov 2026 11:58:16 GMT"
     },
     {
-      "title": "Two mass shootings in South Africa leave 17 dead",
-      "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
-      "description": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
-      "pubDate": "Mon, 16 Nov 2026 10:57:48 GMT"
+      "title": "Body of Melbourne Cup horse found dumped in Sydney skip",
+      "link": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
+      "description": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
+      "pubDate": "Tue, 17 Nov 2026 07:01:00 GMT"
     },
     {
-      "title": "Gérard Depardieu drops appeal against sexual assault conviction",
-      "link": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
-      "description": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set.",
-      "pubDate": "Mon, 16 Nov 2026 13:40:56 GMT"
+      "title": "Japan sends up jets after alleged Russian incursion of its airspace",
+      "link": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
+      "description": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
+      "pubDate": "Tue, 17 Nov 2026 07:44:17 GMT"
     },
     {
-      "title": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
-      "link": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
-      "description": "British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death.",
-      "pubDate": "Mon, 16 Nov 2026 14:48:55 GMT"
+      "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+      "link": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+      "description": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
+      "pubDate": "Tue, 17 Nov 2026 12:35:57 GMT"
     },
     {
-      "title": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
-      "link": "https://www.bbc.co.uk/news/articles/cvde1klewg88o?at_medium=RSS&at_campaign=rss",
-      "description": "The poet, writer and diplomat died in Europe in 1974 having been forced to leave his native country.",
-      "pubDate": "Mon, 16 Nov 2026 12:42:14 GMT"
+      "title": "Nigerians among 12 suspects arrested in $4.5m Canada luxury car theft syndicate",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1wr1535ko?at_medium=RSS&at_campaign=rss",
+      "description": "Canadian authorities say they have recovered 96 luxury vehicles destined for West Africa.",
+      "pubDate": "Tue, 17 Nov 2026 08:11:20 GMT"
     },
     {
-      "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
-      "link": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
-      "description": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies.",
-      "pubDate": "Mon, 16 Nov 2026 14:22:36 GMT"
+      "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
+      "link": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
+      "description": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen.",
+      "pubDate": "Tue, 17 Nov 2026 06:23:51 GMT"
+    },
+    {
+      "title": "Will President Trump meet Kim Jong Un?",
+      "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+      "description": "President Trump says he would be keen to meet the North Korea leader in China.",
+      "pubDate": "Tue, 17 Nov 2026 10:13:27 GMT"
     },
     {
       "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
@@ -88,46 +94,40 @@
       "pubDate": "Mon, 16 Nov 2026 04:36:45 GMT"
     },
     {
-      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
-      "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
-      "description": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
-      "pubDate": "Sun, 15 Nov 2026 18:38:11 GMT"
+      "title": "Pope Leo hit by flying rosary while waving to crowds in Peru",
+      "link": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
+      "description": "The pontiff was struck in the face by what is thought to be prayer beads while travelling aboard the popemobile to deliver a farewell Mass.",
+      "pubDate": "Mon, 16 Nov 2026 21:12:13 GMT"
     },
     {
-      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-      "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-      "description": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-      "pubDate": "Sat, 14 Nov 2026 22:09:40 GMT"
+      "title": "How new US chip restrictions on South East Asia will hit China",
+      "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+      "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+      "pubDate": "Tue, 17 Nov 2026 10:22:09 GMT"
     },
     {
-      "title": "Russia's mega-rich are already imagining a future after Putin",
-      "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
-      "description": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power.",
-      "pubDate": "Mon, 16 Nov 2026 00:13:14 GMT"
+      "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+      "description": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+      "pubDate": "Tue, 17 Nov 2026 11:49:01 GMT"
     },
     {
-      "title": "Robert Pattinson: How the Twilight star became 007",
-      "link": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
-      "description": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
-      "pubDate": "Mon, 16 Nov 2026 15:02:41 GMT"
+      "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
+      "description": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
+      "pubDate": "Tue, 17 Nov 2026 02:38:08 GMT"
     },
     {
-      "title": "Is India rethinking its short-term military recruitment scheme?",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
-      "description": "India has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service.",
-      "pubDate": "Mon, 16 Nov 2026 00:41:42 GMT"
+      "title": "BBC launches programme for children forced from school by bandits and poverty in West Africa",
+      "link": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
+      "description": "The new show brings English, maths and science lessons to children via TV, radio and social media.",
+      "pubDate": "Tue, 17 Nov 2026 00:08:19 GMT"
     },
     {
-      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-      "description": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-      "pubDate": "Mon, 16 Nov 2026 15:40:16 GMT"
-    },
-    {
-      "title": "Town rebuilt after devastating floods becomes showcase for Libyan strongman's rule",
-      "link": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&at_campaign=rss",
-      "description": "The remarkable reconstruction of Derna is being used as a showcase for the rest of Libya by Khalifa Haftar and his sons.",
-      "pubDate": "Mon, 16 Nov 2026 00:11:12 GMT"
+      "title": "Taking Korea's toughest exam from behind bars",
+      "link": "https://www.bbc.co.uk/news/articles/cmewvxg855yno?at_medium=RSS&at_campaign=rss",
+      "description": "Eleven convicts at the Mandela Boys' School will be among the thousands of young Koreans taking the country's hardest exam, the Suneung.",
+      "pubDate": "Mon, 16 Nov 2026 23:09:49 GMT"
     }
   ]
 }
