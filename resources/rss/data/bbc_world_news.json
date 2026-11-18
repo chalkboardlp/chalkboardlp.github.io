@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T22:20:48.279135+00:00",
+  "updated": "2026-11-18T04:17:52.266684+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -16,10 +16,16 @@
       "pubDate": "Tue, 17 Nov 2026 15:38:10 GMT"
     },
     {
-      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-      "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-      "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-      "pubDate": "Tue, 17 Nov 2026 18:24:21 GMT"
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "pubDate": "Wed, 18 Nov 2026 01:18:18 GMT"
+    },
+    {
+      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+      "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+      "description": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+      "pubDate": "Tue, 17 Nov 2026 22:44:15 GMT"
     },
     {
       "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
@@ -28,16 +34,10 @@
       "pubDate": "Tue, 17 Nov 2026 17:19:57 GMT"
     },
     {
-      "title": "Russian military plane crashes killing all 19 on board",
+      "title": "Russian military plane crashes, killing all 19 on board",
       "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
       "description": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
       "pubDate": "Tue, 17 Nov 2026 21:06:11 GMT"
-    },
-    {
-      "title": "US loses measles elimination status after 26 years amid record case numbers",
-      "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-      "description": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-      "pubDate": "Tue, 17 Nov 2026 21:04:00 GMT"
     },
     {
       "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
@@ -46,10 +46,16 @@
       "pubDate": "Tue, 17 Nov 2026 20:30:20 GMT"
     },
     {
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+      "description": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+      "pubDate": "Tue, 17 Nov 2026 21:04:00 GMT"
+    },
+    {
       "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
       "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
       "description": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "pubDate": "Tue, 17 Nov 2026 20:44:54 GMT"
+      "pubDate": "Tue, 17 Nov 2026 22:46:30 GMT"
     },
     {
       "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
@@ -136,6 +142,12 @@
       "pubDate": "Mon, 16 Nov 2026 21:12:13 GMT"
     },
     {
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+      "description": "China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.",
+      "pubDate": "Tue, 17 Nov 2026 23:02:12 GMT"
+    },
+    {
       "title": "Who to watch in Spain's election race",
       "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
       "description": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
@@ -158,12 +170,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
       "description": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
       "pubDate": "Tue, 17 Nov 2026 11:49:01 GMT"
-    },
-    {
-      "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
-      "description": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
-      "pubDate": "Tue, 17 Nov 2026 02:38:08 GMT"
     }
   ]
 }
