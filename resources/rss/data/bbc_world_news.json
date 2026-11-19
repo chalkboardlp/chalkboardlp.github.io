@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T21:55:34.494052+00:00",
+  "updated": "2026-11-19T03:24:42.873019+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -16,16 +16,52 @@
       "pubDate": "Wed, 18 Nov 2026 17:00:04 GMT"
     },
     {
-      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-      "description": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-      "pubDate": "Wed, 18 Nov 2026 16:10:44 GMT"
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+      "description": "No state has ever been found guilty by an international court of committing genocide.",
+      "pubDate": "Wed, 18 Nov 2026 23:04:06 GMT"
+    },
+    {
+      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "description": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
+      "pubDate": "Thu, 19 Nov 2026 02:20:15 GMT"
+    },
+    {
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+      "description": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+      "pubDate": "Thu, 19 Nov 2026 00:49:19 GMT"
+    },
+    {
+      "title": "Crimean Bridge attacked again, Russian official says",
+      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "description": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+      "pubDate": "Thu, 19 Nov 2026 01:05:03 GMT"
     },
     {
       "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
       "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
       "description": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-      "pubDate": "Wed, 18 Nov 2026 20:14:57 GMT"
+      "pubDate": "Wed, 18 Nov 2026 22:34:56 GMT"
+    },
+    {
+      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "description": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+      "pubDate": "Thu, 19 Nov 2026 02:59:06 GMT"
+    },
+    {
+      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+      "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+      "description": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+      "pubDate": "Wed, 18 Nov 2026 23:28:03 GMT"
+    },
+    {
+      "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
+      "link": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
+      "description": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
+      "pubDate": "Wed, 18 Nov 2026 15:39:57 GMT"
     },
     {
       "title": "William and Kate meet PM Modi as they wrap up India tour",
@@ -38,18 +74,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
       "description": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
       "pubDate": "Wed, 18 Nov 2026 13:04:48 GMT"
-    },
-    {
-      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-      "description": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-      "pubDate": "Wed, 18 Nov 2026 17:34:25 GMT"
-    },
-    {
-      "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
-      "link": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
-      "description": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
-      "pubDate": "Wed, 18 Nov 2026 15:39:57 GMT"
     },
     {
       "title": "Ghana's new $60m presidential jet sparks public outrage",
@@ -118,52 +142,22 @@
       "pubDate": "Wed, 18 Nov 2026 02:00:37 GMT"
     },
     {
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-      "pubDate": "Tue, 17 Nov 2026 21:24:35 GMT"
+      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+      "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+      "description": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+      "pubDate": "Wed, 18 Nov 2026 23:47:46 GMT"
     },
     {
-      "title": "US loses measles elimination status after 26 years amid record case numbers",
-      "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-      "description": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-      "pubDate": "Tue, 17 Nov 2026 21:04:00 GMT"
-    },
-    {
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "description": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "pubDate": "Tue, 17 Nov 2026 22:46:30 GMT"
-    },
-    {
-      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-      "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-      "description": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
-      "pubDate": "Tue, 17 Nov 2026 17:19:57 GMT"
-    },
-    {
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-      "description": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-      "pubDate": "Tue, 17 Nov 2026 20:30:20 GMT"
-    },
-    {
-      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
-      "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
-      "description": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
-      "pubDate": "Tue, 17 Nov 2026 18:20:36 GMT"
+      "title": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
+      "link": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
+      "description": "The Prince and Princess of Wales ended their three-day trip to India on Wednesday, the couple's first international tour since 2022.",
+      "pubDate": "Wed, 18 Nov 2026 22:32:47 GMT"
     },
     {
       "title": "New video shows explosions moments before part of Crimea Bridge collapses",
       "link": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&at_campaign=rss",
       "description": "BBC Verify analyses footage showing the final moments before part of the bridge fell and videos showing the scale of destruction.",
       "pubDate": "Wed, 18 Nov 2026 17:09:43 GMT"
-    },
-    {
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-      "pubDate": "Wed, 18 Nov 2026 17:00:40 GMT"
     },
     {
       "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
@@ -176,6 +170,18 @@
       "link": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss",
       "description": "The BBC’s Laura Bicker, Steve Rosenberg and Nada Tawfik explain everything you need to know ahead of the unprecedented trilateral meeting.",
       "pubDate": "Wed, 18 Nov 2026 08:33:32 GMT"
+    },
+    {
+      "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
+      "link": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
+      "description": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
+      "pubDate": "Thu, 19 Nov 2026 00:38:52 GMT"
+    },
+    {
+      "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "description": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+      "pubDate": "Wed, 18 Nov 2026 21:28:08 GMT"
     },
     {
       "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
@@ -194,18 +200,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
       "description": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
       "pubDate": "Tue, 17 Nov 2026 23:34:56 GMT"
-    },
-    {
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "description": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-      "pubDate": "Wed, 18 Nov 2026 13:55:14 GMT"
-    },
-    {
-      "title": "Who to watch in Spain's election race",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-      "description": "Spain votes on 29 November, with the conservatives leading most polls after eight years of Socialist-led rule.",
-      "pubDate": "Wed, 18 Nov 2026 11:44:25 GMT"
     }
   ]
 }
