@@ -1,31 +1,25 @@
 {
-  "updated": "2026-11-19T03:24:42.873019+00:00",
+  "updated": "2026-11-19T13:01:52.449370+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-      "pubDate": "Wed, 18 Nov 2026 17:00:40 GMT"
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+      "description": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+      "pubDate": "Thu, 19 Nov 2026 04:42:52 GMT"
     },
     {
-      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-      "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-      "description": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
-      "pubDate": "Wed, 18 Nov 2026 17:00:04 GMT"
+      "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
+      "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+      "description": "Some local media report that at least four bodies have been recovered.",
+      "pubDate": "Thu, 19 Nov 2026 09:02:52 GMT"
     },
     {
-      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-      "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
-      "description": "No state has ever been found guilty by an international court of committing genocide.",
-      "pubDate": "Wed, 18 Nov 2026 23:04:06 GMT"
-    },
-    {
-      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
       "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "description": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
-      "pubDate": "Thu, 19 Nov 2026 02:20:15 GMT"
+      "description": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+      "pubDate": "Thu, 19 Nov 2026 10:48:04 GMT"
     },
     {
       "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
@@ -34,19 +28,37 @@
       "pubDate": "Thu, 19 Nov 2026 00:49:19 GMT"
     },
     {
-      "title": "Crimean Bridge attacked again, Russian official says",
+      "title": "Crimean Bridge attacked again, Russia says",
       "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
       "description": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
-      "pubDate": "Thu, 19 Nov 2026 01:05:03 GMT"
+      "pubDate": "Thu, 19 Nov 2026 07:32:06 GMT"
     },
     {
-      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+      "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+      "description": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods",
+      "pubDate": "Thu, 19 Nov 2026 09:21:54 GMT"
+    },
+    {
+      "title": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
+      "link": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo?at_medium=RSS&at_campaign=rss",
+      "description": "DJ lag, one of South Africa's best-known electronic music producers, is among several African stars to feature on Grand Theft Auto 6.",
+      "pubDate": "Thu, 19 Nov 2026 10:32:10 GMT"
+    },
+    {
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "pubDate": "Wed, 18 Nov 2026 17:00:40 GMT"
+    },
+    {
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
       "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "description": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-      "pubDate": "Wed, 18 Nov 2026 22:34:56 GMT"
+      "description": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "pubDate": "Thu, 19 Nov 2026 11:07:37 GMT"
     },
     {
-      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
       "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
       "description": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
       "pubDate": "Thu, 19 Nov 2026 02:59:06 GMT"
@@ -136,12 +148,6 @@
       "pubDate": "Wed, 18 Nov 2026 04:57:06 GMT"
     },
     {
-      "title": "Irishman charged with destroying US military aircraft with axe",
-      "link": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
-      "description": "The $60m (£45m) plane was destroyed in an hours-long raid by an anti-war protester, according to the FBI.",
-      "pubDate": "Wed, 18 Nov 2026 02:00:37 GMT"
-    },
-    {
       "title": "Why has Waymo pulled all its driverless cars from US freeways?",
       "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
       "description": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
@@ -172,34 +178,34 @@
       "pubDate": "Wed, 18 Nov 2026 08:33:32 GMT"
     },
     {
+      "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "description": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+      "pubDate": "Wed, 18 Nov 2026 21:28:08 GMT"
+    },
+    {
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "description": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "pubDate": "Wed, 18 Nov 2026 23:42:07 GMT"
+    },
+    {
       "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
       "link": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
       "description": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
       "pubDate": "Thu, 19 Nov 2026 00:38:52 GMT"
     },
     {
-      "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-      "description": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
-      "pubDate": "Wed, 18 Nov 2026 21:28:08 GMT"
-    },
-    {
-      "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
-      "link": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
-      "description": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.",
-      "pubDate": "Wed, 18 Nov 2026 10:53:21 GMT"
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+      "description": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+      "pubDate": "Wed, 18 Nov 2026 17:00:04 GMT"
     },
     {
       "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
       "link": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o?at_medium=RSS&at_campaign=rss",
       "description": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals.",
       "pubDate": "Wed, 18 Nov 2026 05:11:42 GMT"
-    },
-    {
-      "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
-      "description": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
-      "pubDate": "Tue, 17 Nov 2026 23:34:56 GMT"
     }
   ]
 }
