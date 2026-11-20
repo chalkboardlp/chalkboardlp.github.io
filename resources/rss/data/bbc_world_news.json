@@ -1,25 +1,49 @@
 {
-  "updated": "2026-11-20T03:12:13.800561+00:00",
+  "updated": "2026-11-20T11:36:17.037518+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-      "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-      "pubDate": "Thu, 19 Nov 2026 23:33:51 GMT"
+      "title": "UK and EU to agree youth mobility scheme, BBC understands",
+      "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+      "description": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+      "pubDate": "Fri, 20 Nov 2026 07:14:46 GMT"
     },
     {
-      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "title": "Three Kyiv bridges hit during major Russian missile attack",
+      "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+      "description": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
+      "pubDate": "Fri, 20 Nov 2026 11:12:57 GMT"
+    },
+    {
+      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
       "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-      "description": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+      "description": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
       "pubDate": "Fri, 20 Nov 2026 00:13:21 GMT"
     },
     {
-      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-      "description": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
-      "pubDate": "Thu, 19 Nov 2026 20:07:02 GMT"
+      "title": "Nearly 600 women killed in South Africa within three months",
+      "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+      "description": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
+      "pubDate": "Fri, 20 Nov 2026 10:56:02 GMT"
+    },
+    {
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "description": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+      "pubDate": "Fri, 20 Nov 2026 09:37:59 GMT"
+    },
+    {
+      "title": "South Korea catches 111 students with new measures against exam cheating",
+      "link": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
+      "description": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
+      "pubDate": "Fri, 20 Nov 2026 10:16:19 GMT"
+    },
+    {
+      "title": "Nigeria moves to end jail terms for attempted suicide",
+      "link": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
+      "description": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill.",
+      "pubDate": "Fri, 20 Nov 2026 06:32:17 GMT"
     },
     {
       "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
@@ -28,22 +52,46 @@
       "pubDate": "Fri, 20 Nov 2026 00:50:24 GMT"
     },
     {
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "pubDate": "Thu, 19 Nov 2026 23:33:51 GMT"
+    },
+    {
       "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
       "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
       "description": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
       "pubDate": "Thu, 19 Nov 2026 17:38:22 GMT"
     },
     {
-      "title": "California targets Nvidia in China AI chip probe",
-      "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-      "description": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
-      "pubDate": "Thu, 19 Nov 2026 23:04:30 GMT"
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+      "description": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+      "pubDate": "Thu, 19 Nov 2026 20:07:02 GMT"
+    },
+    {
+      "title": "US army warns detonation of unstable explosives will create toxic plume",
+      "link": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
+      "description": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers.",
+      "pubDate": "Fri, 20 Nov 2026 01:27:27 GMT"
     },
     {
       "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
       "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
       "description": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
       "pubDate": "Thu, 19 Nov 2026 23:40:29 GMT"
+    },
+    {
+      "title": "China issues Mount Fuji warning as family of missing climber offers reward",
+      "link": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
+      "description": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts.",
+      "pubDate": "Fri, 20 Nov 2026 04:13:22 GMT"
+    },
+    {
+      "title": "California targets Nvidia in China AI chip probe",
+      "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "description": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+      "pubDate": "Thu, 19 Nov 2026 23:04:30 GMT"
     },
     {
       "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
@@ -118,48 +166,6 @@
       "pubDate": "Thu, 19 Nov 2026 02:59:06 GMT"
     },
     {
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-      "pubDate": "Wed, 18 Nov 2026 17:00:40 GMT"
-    },
-    {
-      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
-      "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
-      "description": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
-      "pubDate": "Wed, 18 Nov 2026 23:28:03 GMT"
-    },
-    {
-      "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
-      "link": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
-      "description": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
-      "pubDate": "Wed, 18 Nov 2026 15:39:57 GMT"
-    },
-    {
-      "title": "William and Kate meet PM Modi as they wrap up India tour",
-      "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-      "description": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
-      "pubDate": "Wed, 18 Nov 2026 20:07:08 GMT"
-    },
-    {
-      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
-      "description": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
-      "pubDate": "Wed, 18 Nov 2026 13:04:48 GMT"
-    },
-    {
-      "title": "Ghana's new $60m presidential jet sparks public outrage",
-      "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
-      "description": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
-      "pubDate": "Wed, 18 Nov 2026 09:27:51 GMT"
-    },
-    {
-      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-      "description": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-      "pubDate": "Wed, 18 Nov 2026 21:13:06 GMT"
-    },
-    {
       "title": "How did Anthropic's stock market debut unfold?",
       "link": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
       "description": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
@@ -199,7 +205,7 @@
       "title": "More climate money for Africa? Europe says use what's already pledged",
       "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
       "description": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
-      "pubDate": "Fri, 20 Nov 2026 00:54:50 GMT"
+      "pubDate": "Fri, 20 Nov 2026 05:03:43 GMT"
     },
     {
       "title": "Why Canada is embracing AI data centres while the US pushes back",
