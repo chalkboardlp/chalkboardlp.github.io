@@ -1,8 +1,14 @@
 {
-  "updated": "2026-11-20T11:36:18.392777+00:00",
+  "updated": "2026-11-20T20:13:59.795466+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Bogotá Faces Electricity Rationing Risk as El Niño Threatens Energy Supply",
+      "link": "https://thecitypaperbogota.com/bogota/bogota-faces-electricity-rationing-risk-as-el-nino-threatens-energy-supply/",
+      "description": "BOGOTÁ &#8211; Bogotá residents are being urged to reduce their electricity consumption as Mayor Carlos Fernando Galán warns of a significant risk to Colombia&#8217;s energy supply ahead of the arrival of the most critical months of the El Niño weather phenomenon. In a series of statements this week, Galán called on households and businesses in [&#8230;]",
+      "pubDate": "Fri, 20 Nov 2026 16:28:35 +0000"
+    },
     {
       "title": "De La Espriella and Hegseth Reject NYT Report on Colombia-US Alliance",
       "link": "https://thecitypaperbogota.com/news/de-la-espriella-and-hegseth-reject-nyt-report-on-colombia-us-alliance/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/vargas-lleras-family-to-denounce-petro-over-valledupar-pact-us-investigation-sought/",
       "description": "The controversy surrounding the alleged Pacto de Valledupar escalated on Wednesday after Enrique Vargas Lleras, co-director of the Cambio Radical party, announced plans to file a complaint against former president Gustavo Petro over allegations that his administration sought to persuade former paramilitary commanders to make accusations against political opponents. Vargas Lleras, the brother of the [&#8230;]",
       "pubDate": "Wed, 21 Oct 2026 20:54:22 +0000"
-    },
-    {
-      "title": "Thirteen Colombian Soldiers Remain Stranded in Cauca After Black Hawk Crash",
-      "link": "https://thecitypaperbogota.com/news/thirteen-colombian-soldiers-remain-stranded-in-cauca-mountains-after-black-hawk-crash/",
-      "description": "Rescue efforts continue in rugged terrain near Inzá, Cauca, where difficult weather conditions have delayed the evacuation of 13 Army personnel following the October 19 helicopter crash. INZA &#8211; Thirteen Colombian Army soldiers remain stranded near the site of a UH-60 Black Hawk helicopter crash in the mountainous municipality of Inzá, Cauca, on Wednesday, October [&#8230;]",
-      "pubDate": "Wed, 21 Oct 2026 15:43:53 +0000"
     }
   ]
 }
