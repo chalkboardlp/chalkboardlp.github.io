@@ -1,13 +1,31 @@
 {
-  "updated": "2026-11-19T21:30:48.846658+00:00",
+  "updated": "2026-11-20T03:12:13.800561+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "pubDate": "Thu, 19 Nov 2026 23:33:51 GMT"
+    },
+    {
+      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+      "description": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+      "pubDate": "Fri, 20 Nov 2026 00:13:21 GMT"
+    },
     {
       "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
       "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
       "description": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
       "pubDate": "Thu, 19 Nov 2026 20:07:02 GMT"
+    },
+    {
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "description": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "pubDate": "Fri, 20 Nov 2026 00:50:24 GMT"
     },
     {
       "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
@@ -16,10 +34,28 @@
       "pubDate": "Thu, 19 Nov 2026 17:38:22 GMT"
     },
     {
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-      "description": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-      "pubDate": "Thu, 19 Nov 2026 21:21:43 GMT"
+      "title": "California targets Nvidia in China AI chip probe",
+      "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "description": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+      "pubDate": "Thu, 19 Nov 2026 23:04:30 GMT"
+    },
+    {
+      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+      "description": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
+      "pubDate": "Thu, 19 Nov 2026 23:40:29 GMT"
+    },
+    {
+      "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+      "link": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+      "description": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
+      "pubDate": "Thu, 19 Nov 2026 22:48:22 GMT"
+    },
+    {
+      "title": "Trump posthumously pardons US baseball legend Pete Rose",
+      "link": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+      "description": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+      "pubDate": "Thu, 19 Nov 2026 23:51:50 GMT"
     },
     {
       "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
@@ -38,12 +74,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
       "description": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
       "pubDate": "Thu, 19 Nov 2026 00:49:19 GMT"
-    },
-    {
-      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-      "description": "\"She fought until she couldn’t anymore,\" the Cincinnati Zoo said in a statement. Fiona became ill a few days after the incident.",
-      "pubDate": "Thu, 19 Nov 2026 21:26:10 GMT"
     },
     {
       "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
@@ -130,28 +160,16 @@
       "pubDate": "Wed, 18 Nov 2026 21:13:06 GMT"
     },
     {
-      "title": "Julio Iglesias facing court investigation over alleged sexual offences",
-      "link": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
-      "description": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
-      "pubDate": "Wed, 18 Nov 2026 16:33:16 GMT"
+      "title": "How did Anthropic's stock market debut unfold?",
+      "link": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
+      "pubDate": "Thu, 19 Nov 2026 23:52:25 GMT"
     },
     {
-      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
-      "description": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
-      "pubDate": "Wed, 18 Nov 2026 10:23:57 GMT"
-    },
-    {
-      "title": "Bancroft sandpaper claims heap pressure on Cummins",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
-      "description": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
-      "pubDate": "Wed, 18 Nov 2026 11:12:46 GMT"
-    },
-    {
-      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
-      "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
-      "description": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
-      "pubDate": "Wed, 18 Nov 2026 09:28:35 GMT"
+      "title": "From premature baby to social media star - Famed hippo Fiona dies",
+      "link": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
+      "description": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo.",
+      "pubDate": "Thu, 19 Nov 2026 22:54:03 GMT"
     },
     {
       "title": "Rohingya genocide: What was said in court and what happens now?",
@@ -160,7 +178,7 @@
       "pubDate": "Thu, 19 Nov 2026 17:35:05 GMT"
     },
     {
-      "title": "What did Trump, Xi and Putin get out of their historic meeting?",
+      "title": "BBC correspondents discuss what Trump, Xi and Putin got out of historic talks",
       "link": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
       "description": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?",
       "pubDate": "Thu, 19 Nov 2026 17:23:29 GMT"
@@ -172,16 +190,22 @@
       "pubDate": "Thu, 19 Nov 2026 11:38:09 GMT"
     },
     {
-      "title": "Trump greets 'my friend' Putin as pair shake hands",
-      "link": "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss",
-      "description": "The pair met ahead of a trilateral meeting later with Chinese leader Xi Jinping.",
-      "pubDate": "Thu, 19 Nov 2026 08:31:09 GMT"
+      "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
+      "link": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
+      "description": "Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up.",
+      "pubDate": "Thu, 19 Nov 2026 23:29:00 GMT"
     },
     {
-      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
-      "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
-      "description": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
-      "pubDate": "Wed, 18 Nov 2026 23:47:46 GMT"
+      "title": "More climate money for Africa? Europe says use what's already pledged",
+      "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+      "description": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+      "pubDate": "Fri, 20 Nov 2026 00:54:50 GMT"
+    },
+    {
+      "title": "Why Canada is embracing AI data centres while the US pushes back",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
+      "description": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
+      "pubDate": "Fri, 20 Nov 2026 00:13:24 GMT"
     },
     {
       "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
@@ -194,24 +218,6 @@
       "link": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo?at_medium=RSS&at_campaign=rss",
       "description": "DJ lag, one of South Africa's best-known electronic music producers, is among several African stars to feature on Grand Theft Auto 6.",
       "pubDate": "Thu, 19 Nov 2026 10:32:10 GMT"
-    },
-    {
-      "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
-      "link": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o?at_medium=RSS&at_campaign=rss",
-      "description": "After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward.",
-      "pubDate": "Thu, 19 Nov 2026 11:43:06 GMT"
-    },
-    {
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "description": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-      "pubDate": "Wed, 18 Nov 2026 23:42:07 GMT"
-    },
-    {
-      "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
-      "link": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
-      "description": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
-      "pubDate": "Thu, 19 Nov 2026 00:38:52 GMT"
     }
   ]
 }
