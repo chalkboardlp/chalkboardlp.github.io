@@ -1,8 +1,14 @@
 {
-  "updated": "2026-11-21T09:47:37.850361+00:00",
+  "updated": "2026-11-21T17:29:54.034913+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
+    {
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "pubDate": "Sat, 21 Nov 2026 13:17:38 GMT"
+    },
     {
       "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
       "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
@@ -10,22 +16,34 @@
       "pubDate": "Fri, 20 Nov 2026 22:42:47 GMT"
     },
     {
-      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-      "description": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
-      "pubDate": "Sat, 21 Nov 2026 08:10:25 GMT"
-    },
-    {
       "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
       "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
       "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "pubDate": "Sat, 21 Nov 2026 07:31:05 GMT"
+      "pubDate": "Sat, 21 Nov 2026 14:54:24 GMT"
+    },
+    {
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "description": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "pubDate": "Sat, 21 Nov 2026 16:35:15 GMT"
+    },
+    {
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "pubDate": "Sat, 21 Nov 2026 13:15:21 GMT"
     },
     {
       "title": "French police officers sentenced for beating of music producer Michel Zecler",
       "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
       "description": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
       "pubDate": "Fri, 20 Nov 2026 22:37:09 GMT"
+    },
+    {
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "pubDate": "Sat, 21 Nov 2026 10:26:36 GMT"
     },
     {
       "title": "Man convicted of starting Palisades fire in Los Angeles",
@@ -40,7 +58,7 @@
       "pubDate": "Sat, 21 Nov 2026 09:40:55 GMT"
     },
     {
-      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
       "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
       "description": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
       "pubDate": "Fri, 20 Nov 2026 23:08:57 GMT"
@@ -58,10 +76,10 @@
       "pubDate": "Sat, 21 Nov 2026 08:10:03 GMT"
     },
     {
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-      "pubDate": "Fri, 20 Nov 2026 21:57:07 GMT"
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "description": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+      "pubDate": "Sat, 21 Nov 2026 08:10:25 GMT"
     },
     {
       "title": "Trump threatens ban on US firms building AI data centres overseas",
@@ -74,18 +92,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
       "description": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
       "pubDate": "Fri, 20 Nov 2026 19:27:49 GMT"
-    },
-    {
-      "title": "Nearly 600 women killed in South Africa within three months",
-      "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-      "description": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-      "pubDate": "Fri, 20 Nov 2026 15:55:16 GMT"
-    },
-    {
-      "title": "Texas death-row inmate screams as execution takes more than one hour",
-      "link": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
-      "description": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
-      "pubDate": "Fri, 20 Nov 2026 12:42:37 GMT"
     },
     {
       "title": "US declassifies more UFO footage filmed in the Middle East",
