@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-22T03:10:12.927779+00:00",
+  "updated": "2026-11-22T11:19:47.302927+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-      "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-      "pubDate": "Sat, 21 Nov 2026 13:17:38 GMT"
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "description": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "pubDate": "Sun, 22 Nov 2026 09:20:45 GMT"
     },
     {
       "title": "Russia-bound ship attacked in Gulf of Finland",
@@ -16,28 +16,34 @@
       "pubDate": "Sat, 21 Nov 2026 19:20:22 GMT"
     },
     {
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "pubDate": "Sat, 21 Nov 2026 22:19:43 GMT"
-    },
-    {
       "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
       "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
       "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
       "pubDate": "Sun, 22 Nov 2026 01:25:03 GMT"
     },
     {
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "description": "At least three people were killed and 36 are still missing after a fire at a confectionary factory.",
+      "pubDate": "Sun, 22 Nov 2026 06:05:00 GMT"
+    },
+    {
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "pubDate": "Sun, 22 Nov 2026 07:12:41 GMT"
+    },
+    {
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "pubDate": "Sat, 21 Nov 2026 13:17:38 GMT"
+    },
+    {
       "title": "FBI reportedly investigating apparent hack of its criminal database",
       "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
       "description": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
       "pubDate": "Sun, 22 Nov 2026 00:10:44 GMT"
-    },
-    {
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-      "pubDate": "Sat, 21 Nov 2026 10:26:36 GMT"
     },
     {
       "title": "Man convicted of starting Palisades fire in Los Angeles",
@@ -56,6 +62,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
       "description": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
       "pubDate": "Sat, 21 Nov 2026 09:40:55 GMT"
+    },
+    {
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "pubDate": "Sat, 21 Nov 2026 10:26:36 GMT"
     },
     {
       "title": "French police officers sentenced for beating of music producer Michel Zecler",
@@ -98,12 +110,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
       "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
       "pubDate": "Fri, 20 Nov 2026 20:54:12 GMT"
-    },
-    {
-      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-      "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-      "description": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
-      "pubDate": "Fri, 20 Nov 2026 19:27:49 GMT"
     },
     {
       "title": "US declassifies more UFO footage filmed in the Middle East",
