@@ -1,31 +1,31 @@
 {
-  "updated": "2026-11-22T19:36:33.696708+00:00",
+  "updated": "2026-11-23T00:50:36.562105+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
       "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
       "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "description": "The talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+      "description": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
       "pubDate": "Sun, 22 Nov 2026 18:17:59 GMT"
     },
     {
       "title": "What's next after no deal at COP31 climate talks?",
       "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-      "description": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+      "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
       "pubDate": "Sun, 22 Nov 2026 18:57:24 GMT"
     },
     {
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
       "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
       "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-      "pubDate": "Sun, 22 Nov 2026 19:26:54 GMT"
+      "pubDate": "Sun, 22 Nov 2026 20:28:09 GMT"
     },
     {
       "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
       "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
       "description": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-      "pubDate": "Sun, 22 Nov 2026 17:57:43 GMT"
+      "pubDate": "Sun, 22 Nov 2026 22:37:43 GMT"
     },
     {
       "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
@@ -46,6 +46,12 @@
       "pubDate": "Sun, 22 Nov 2026 14:05:20 GMT"
     },
     {
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "description": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+      "pubDate": "Sun, 22 Nov 2026 20:26:24 GMT"
+    },
+    {
       "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
       "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
       "description": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
@@ -55,19 +61,19 @@
       "title": "Miley Cyrus marries Maxx Morando in California ceremony",
       "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
       "description": "The couple have been together for four years and were engaged in 2025.",
-      "pubDate": "Sun, 22 Nov 2026 08:46:28 GMT"
-    },
-    {
-      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-      "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-      "pubDate": "Sun, 22 Nov 2026 07:12:41 GMT"
+      "pubDate": "Sun, 22 Nov 2026 21:22:40 GMT"
     },
     {
       "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
       "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
       "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
       "pubDate": "Sun, 22 Nov 2026 01:25:03 GMT"
+    },
+    {
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "pubDate": "Mon, 23 Nov 2026 00:33:36 GMT"
     },
     {
       "title": "FBI reportedly investigating apparent hack of its criminal database",
@@ -151,12 +157,12 @@
       "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
       "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
       "description": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-      "pubDate": "Sun, 22 Nov 2026 17:57:43 GMT"
+      "pubDate": "Sun, 22 Nov 2026 22:37:43 GMT"
     },
     {
       "title": "What's next after no deal at COP31 climate talks?",
       "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-      "description": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+      "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
       "pubDate": "Sun, 22 Nov 2026 18:57:24 GMT"
     },
     {
