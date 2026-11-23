@@ -1,8 +1,14 @@
 {
-  "updated": "2026-11-23T09:00:58.313576+00:00",
+  "updated": "2026-11-23T21:19:36.510245+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Colombia’s MinTIC And US Lawmaker Ask X to Remove Petro From Social Media",
+      "link": "https://thecitypaperbogota.com/news/colombias-mintic-and-us-lawmaker-ask-x-to-remove-petro-from-social-media/",
+      "description": "A US congresswoman and Colombia&#8217;s Ministry of Information and Communications Technologies (MinTIC) have separately asked social media platform X to suspend or remove the account of former president Gustavo Petro, following a publication in which he called on Colombians to demand the resignation of President Abelardo de la Espriella. The latest intervention came on Monday, [&#8230;]",
+      "pubDate": "Mon, 23 Nov 2026 16:50:11 +0000"
+    },
     {
       "title": "Bogotá Faces Electricity Rationing Risk as El Niño Threatens Energy Supply",
       "link": "https://thecitypaperbogota.com/bogota/bogota-faces-electricity-rationing-risk-as-el-nino-threatens-energy-supply/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/eva-ferrer-to-take-allegations-against-veronica-alcocer-to-us-authorities-in-washington/",
       "description": "Former presidential adviser Eva Ferrer is preparing to travel to Washington next week to present allegations concerning former Colombian First Lady Verónica Alcocer to US authorities, potentially moving a politically-charged scandal  beyond Colombia&#8217;s borders. Ferrer, a Spanish-Colombian senior aide who worked closely with Alcocer during Gustavo Petro’s presidency, is expected to meet officials from the [&#8230;]",
       "pubDate": "Thu, 22 Oct 2026 17:25:38 +0000"
-    },
-    {
-      "title": "Germán Vargas Lleras Family to Denounce Petro Over ‘Valledupar Pact’",
-      "link": "https://thecitypaperbogota.com/news/vargas-lleras-family-to-denounce-petro-over-valledupar-pact-us-investigation-sought/",
-      "description": "The controversy surrounding the alleged Pacto de Valledupar escalated on Wednesday after Enrique Vargas Lleras, co-director of the Cambio Radical party, announced plans to file a complaint against former president Gustavo Petro over allegations that his administration sought to persuade former paramilitary commanders to make accusations against political opponents. Vargas Lleras, the brother of the [&#8230;]",
-      "pubDate": "Wed, 21 Oct 2026 20:54:22 +0000"
     }
   ]
 }
