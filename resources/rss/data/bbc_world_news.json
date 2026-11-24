@@ -1,37 +1,49 @@
 {
-  "updated": "2026-11-24T06:00:18.461256+00:00",
+  "updated": "2026-11-24T17:40:40.481389+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-      "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "description": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-      "pubDate": "Tue, 24 Nov 2026 04:36:31 GMT"
+      "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "description": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
+      "pubDate": "Tue, 24 Nov 2026 17:04:20 GMT"
     },
     {
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-      "description": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-      "pubDate": "Mon, 23 Nov 2026 23:16:08 GMT"
+      "title": "What Jensen Huang's return teaches China's Xi about Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+      "description": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+      "pubDate": "Tue, 24 Nov 2026 07:26:27 GMT"
     },
     {
       "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
       "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
       "description": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-      "pubDate": "Tue, 24 Nov 2026 02:15:59 GMT"
+      "pubDate": "Tue, 24 Nov 2026 10:58:51 GMT"
     },
     {
-      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+      "title": "Land mine casualties soar in Syria, two years after war",
+      "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+      "description": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+      "pubDate": "Tue, 24 Nov 2026 15:17:28 GMT"
+    },
+    {
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
       "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "description": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
-      "pubDate": "Tue, 24 Nov 2026 05:33:07 GMT"
+      "description": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+      "pubDate": "Tue, 24 Nov 2026 16:37:04 GMT"
     },
     {
-      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-      "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-      "description": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
-      "pubDate": "Mon, 23 Nov 2026 20:48:35 GMT"
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "description": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+      "pubDate": "Tue, 24 Nov 2026 15:35:53 GMT"
+    },
+    {
+      "title": "Pope Francis' diary reveals claims he saw the devil three times",
+      "link": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
+      "description": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
+      "pubDate": "Tue, 24 Nov 2026 11:10:57 GMT"
     },
     {
       "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
@@ -40,10 +52,28 @@
       "pubDate": "Mon, 23 Nov 2026 21:24:47 GMT"
     },
     {
-      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-      "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-      "description": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
-      "pubDate": "Mon, 23 Nov 2026 17:07:25 GMT"
+      "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+      "description": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+      "pubDate": "Tue, 24 Nov 2026 17:04:00 GMT"
+    },
+    {
+      "title": "Car bomb tears through Colombian city wounding more than 20",
+      "link": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+      "description": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
+      "pubDate": "Tue, 24 Nov 2026 11:45:52 GMT"
+    },
+    {
+      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+      "description": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+      "pubDate": "Tue, 24 Nov 2026 16:31:26 GMT"
+    },
+    {
+      "title": "Russian governor detained in rare criminal case against regional leader",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+      "description": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+      "pubDate": "Tue, 24 Nov 2026 12:45:43 GMT"
     },
     {
       "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
@@ -52,10 +82,10 @@
       "pubDate": "Mon, 23 Nov 2026 18:04:20 GMT"
     },
     {
-      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
-      "link": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
-      "description": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
-      "pubDate": "Tue, 24 Nov 2026 00:23:25 GMT"
+      "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+      "link": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+      "description": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date.",
+      "pubDate": "Tue, 24 Nov 2026 06:23:01 GMT"
     },
     {
       "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
@@ -64,19 +94,19 @@
       "pubDate": "Mon, 23 Nov 2026 17:14:50 GMT"
     },
     {
-      "title": "What failure of COP31 reveals about a divided world",
-      "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-      "description": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
-      "pubDate": "Mon, 23 Nov 2026 17:24:25 GMT"
+      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+      "link": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+      "description": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+      "pubDate": "Tue, 24 Nov 2026 00:23:25 GMT"
     },
     {
-      "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
-      "description": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
-      "pubDate": "Mon, 23 Nov 2026 21:03:34 GMT"
+      "title": "Watch: Moment troops raid home and capture Mexican drug lord",
+      "link": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
+      "description": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
+      "pubDate": "Tue, 24 Nov 2026 09:09:41 GMT"
     },
     {
-      "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+      "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
       "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
       "description": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
       "pubDate": "Tue, 24 Nov 2026 01:21:41 GMT"
@@ -110,6 +140,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss",
       "description": "South African communities tell the BBC of measures they're taking to keep women safe after a wave of horrific killings.",
       "pubDate": "Tue, 24 Nov 2026 00:02:15 GMT"
+    },
+    {
+      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+      "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+      "description": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+      "pubDate": "Mon, 23 Nov 2026 20:48:35 GMT"
     },
     {
       "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",

@@ -1,8 +1,14 @@
 {
-  "updated": "2026-11-24T06:00:20.409675+00:00",
+  "updated": "2026-11-24T17:40:44.602733+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "De la Espriella Vows to Pursue Attackers for Devastating Car Bomb in Villavicencio",
+      "link": "https://thecitypaperbogota.com/news/de-la-espriella-vows-to-pursue-attackers-for-devastating-car-bomb-in-villavicencio/",
+      "description": "At least 23 people were injured when an explosive-laden vehicle detonated outside the Meta Governor&#8217;s Office. The attack follows a bombing at the strategic Pipiral toll station on the Bogotá–Villavicencio highway, raising concerns that the eastern department is becoming a new flashpoint in Colombia&#8217;s internal conflict. VILLAVICENCIO, COLOMBIA — Colombian President Abelardo de la Espriella [&#8230;]",
+      "pubDate": "Tue, 24 Nov 2026 13:24:03 +0000"
+    },
     {
       "title": "Colombia’s MinTIC And US Lawmaker Ask X to Remove Petro From Social Media",
       "link": "https://thecitypaperbogota.com/news/colombias-mintic-and-us-lawmaker-ask-x-to-remove-petro-from-social-media/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/maria-corina-machados-return-to-venezuela-tests-washingtons-managed-transition/",
       "description": "After nearly ten months abroad, Venezuela’s opposition leader has returned to a country still governed by Nicolás Maduro’s former deputy, raising fresh questions about the role of Colombia, the Trump administration and the prospects for free elections. María Corina Machado’s return to Venezuela over the weekend has reopened the central question confronting the country after [&#8230;]",
       "pubDate": "Mon, 26 Oct 2026 13:28:15 +0000"
-    },
-    {
-      "title": "Eva Ferrer to Take Allegations Against Verónica Alcocer to US Authorities",
-      "link": "https://thecitypaperbogota.com/news/eva-ferrer-to-take-allegations-against-veronica-alcocer-to-us-authorities-in-washington/",
-      "description": "Former presidential adviser Eva Ferrer is preparing to travel to Washington next week to present allegations concerning former Colombian First Lady Verónica Alcocer to US authorities, potentially moving a politically-charged scandal  beyond Colombia&#8217;s borders. Ferrer, a Spanish-Colombian senior aide who worked closely with Alcocer during Gustavo Petro’s presidency, is expected to meet officials from the [&#8230;]",
-      "pubDate": "Thu, 22 Oct 2026 17:25:38 +0000"
     }
   ]
 }
