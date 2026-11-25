@@ -1,43 +1,91 @@
 {
-  "updated": "2026-11-25T02:25:04.917276+00:00",
+  "updated": "2026-11-25T12:50:24.977676+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
+      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "description": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "pubDate": "Wed, 25 Nov 2026 12:21:49 GMT"
+    },
+    {
+      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+      "pubDate": "Wed, 25 Nov 2026 00:54:13 GMT"
+    },
+    {
       "title": "US attorney general dodges questions about Nvidia investigation",
       "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
       "description": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-      "pubDate": "Tue, 24 Nov 2026 21:19:42 GMT"
+      "pubDate": "Wed, 25 Nov 2026 03:44:07 GMT"
     },
     {
-      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-      "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-      "description": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
-      "pubDate": "Tue, 24 Nov 2026 16:49:07 GMT"
+      "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "description": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+      "pubDate": "Wed, 25 Nov 2026 06:00:36 GMT"
     },
     {
-      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "description": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-      "pubDate": "Tue, 24 Nov 2026 18:07:46 GMT"
+      "title": "Thomas Markle charged in US for possessing child sex abuse images",
+      "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+      "description": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+      "pubDate": "Wed, 25 Nov 2026 01:40:42 GMT"
     },
     {
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "title": "US preparing to unveil plan for new tariffs on global trading partners",
+      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "pubDate": "Wed, 25 Nov 2026 00:38:01 GMT"
+    },
+    {
+      "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+      "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+      "description": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
+      "pubDate": "Wed, 25 Nov 2026 11:45:16 GMT"
+    },
+    {
+      "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
+      "description": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
+      "pubDate": "Wed, 25 Nov 2026 12:24:12 GMT"
+    },
+    {
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
       "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
       "description": "The verdict follows a months-long trial in New York.",
-      "pubDate": "Wed, 25 Nov 2026 01:11:57 GMT"
+      "pubDate": "Wed, 25 Nov 2026 10:52:09 GMT"
     },
     {
-      "title": "Land mine casualties soar in Syria, two years after war",
-      "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-      "description": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
-      "pubDate": "Tue, 24 Nov 2026 15:17:28 GMT"
+      "title": "Two children among six dead after plane crash off Mississippi coast",
+      "link": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+      "description": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said.",
+      "pubDate": "Wed, 25 Nov 2026 07:08:22 GMT"
     },
     {
-      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
-      "link": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
-      "description": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
-      "pubDate": "Tue, 24 Nov 2026 19:10:31 GMT"
+      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+      "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+      "description": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+      "pubDate": "Wed, 25 Nov 2026 12:20:17 GMT"
+    },
+    {
+      "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
+      "description": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty.",
+      "pubDate": "Wed, 25 Nov 2026 03:15:12 GMT"
+    },
+    {
+      "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
+      "link": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
+      "description": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past.",
+      "pubDate": "Wed, 25 Nov 2026 07:26:54 GMT"
+    },
+    {
+      "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
+      "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+      "description": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
+      "pubDate": "Wed, 25 Nov 2026 12:42:11 GMT"
     },
     {
       "title": "Israeli air strike kills Hamas internal security chief in Gaza",
@@ -46,76 +94,28 @@
       "pubDate": "Tue, 24 Nov 2026 15:35:53 GMT"
     },
     {
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "description": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-      "pubDate": "Tue, 24 Nov 2026 10:58:51 GMT"
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "description": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+      "pubDate": "Tue, 24 Nov 2026 18:07:46 GMT"
     },
     {
-      "title": "What Jensen Huang's return teaches China's Xi about Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
-      "description": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
-      "pubDate": "Tue, 24 Nov 2026 07:26:27 GMT"
+      "title": "Land mine casualties soar in Syria, two years after war",
+      "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+      "description": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+      "pubDate": "Tue, 24 Nov 2026 15:17:28 GMT"
     },
     {
-      "title": "Pope Francis' diary reveals claims he saw the devil three times",
-      "link": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
-      "description": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
-      "pubDate": "Tue, 24 Nov 2026 11:10:57 GMT"
+      "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+      "link": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
+      "description": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
+      "pubDate": "Wed, 25 Nov 2026 03:28:37 GMT"
     },
     {
-      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
-      "link": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
-      "description": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
-      "pubDate": "Mon, 23 Nov 2026 21:24:47 GMT"
-    },
-    {
-      "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
-      "description": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-      "pubDate": "Tue, 24 Nov 2026 17:04:00 GMT"
-    },
-    {
-      "title": "Car bomb tears through Colombian city wounding more than 20",
-      "link": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
-      "description": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
-      "pubDate": "Tue, 24 Nov 2026 11:45:52 GMT"
-    },
-    {
-      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-      "description": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-      "pubDate": "Tue, 24 Nov 2026 19:27:23 GMT"
-    },
-    {
-      "title": "Russian governor detained in rare criminal case against regional leader",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
-      "description": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
-      "pubDate": "Tue, 24 Nov 2026 12:45:43 GMT"
-    },
-    {
-      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
-      "description": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
-      "pubDate": "Mon, 23 Nov 2026 18:04:20 GMT"
-    },
-    {
-      "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
-      "link": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
-      "description": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date.",
-      "pubDate": "Tue, 24 Nov 2026 06:23:01 GMT"
-    },
-    {
-      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
-      "link": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
-      "description": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
-      "pubDate": "Mon, 23 Nov 2026 17:14:50 GMT"
-    },
-    {
-      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
-      "link": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
-      "description": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
-      "pubDate": "Tue, 24 Nov 2026 00:23:25 GMT"
+      "title": "Watch: Flock of turkeys chases woman on Massachusetts pavement",
+      "link": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss",
+      "description": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.",
+      "pubDate": "Tue, 24 Nov 2026 22:07:30 GMT"
     },
     {
       "title": "Watch: Moment troops raid home and capture Mexican drug lord",
@@ -130,12 +130,6 @@
       "pubDate": "Tue, 24 Nov 2026 01:21:41 GMT"
     },
     {
-      "title": "Outrage after ICE arrest father and daughter at Seattle airport",
-      "link": "https://www.bbc.co.uk/news/videos/crd910g5x882o?at_medium=RSS&at_campaign=rss",
-      "description": "ICE officers arrested two passengers, a father and daughter, as they were boarding a flight in Seattle on Saturday.",
-      "pubDate": "Mon, 23 Nov 2026 22:59:07 GMT"
-    },
-    {
       "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
       "link": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
       "description": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
@@ -148,46 +142,46 @@
       "pubDate": "Mon, 23 Nov 2026 11:34:10 GMT"
     },
     {
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-      "pubDate": "Sun, 22 Nov 2026 22:37:43 GMT"
+      "title": "Trump's rescue of Nvidia's Huang brings political risks",
+      "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+      "description": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+      "pubDate": "Wed, 25 Nov 2026 01:03:05 GMT"
     },
     {
-      "title": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
-      "link": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss",
-      "description": "South African communities tell the BBC of measures they're taking to keep women safe after a wave of horrific killings.",
-      "pubDate": "Tue, 24 Nov 2026 00:02:15 GMT"
+      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+      "description": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+      "pubDate": "Tue, 24 Nov 2026 23:03:59 GMT"
     },
     {
-      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-      "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-      "description": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
-      "pubDate": "Mon, 23 Nov 2026 20:48:35 GMT"
+      "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
+      "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+      "description": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+      "pubDate": "Tue, 24 Nov 2026 23:05:11 GMT"
     },
     {
-      "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
-      "link": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
-      "pubDate": "Mon, 23 Nov 2026 13:09:52 GMT"
+      "title": "Lies, a disguise and surfboard bags: How a jealous Sydney policeman tried to cover up double murder",
+      "link": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss",
+      "description": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies.",
+      "pubDate": "Wed, 25 Nov 2026 01:51:43 GMT"
     },
     {
-      "title": "The rise and fall and rise again of Jensen Huang",
-      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "description": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
-      "pubDate": "Mon, 23 Nov 2026 15:49:52 GMT"
+      "title": "The rising cost of putting food on the table in India",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+      "description": "India's food inflation is broadening, squeezing household budgets.",
+      "pubDate": "Wed, 25 Nov 2026 01:02:13 GMT"
     },
     {
-      "title": "Five takeaways from the failed climate talks COP31",
-      "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
-      "description": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
-      "pubDate": "Mon, 23 Nov 2026 06:33:50 GMT"
+      "title": "Clashing political visions reflect a divided Spain ahead of election",
+      "link": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
+      "description": "Sunday’s election could see a far-right party enter the Spanish government for first time.",
+      "pubDate": "Wed, 25 Nov 2026 00:58:34 GMT"
     },
     {
-      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-      "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-      "pubDate": "Mon, 23 Nov 2026 00:08:00 GMT"
+      "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
+      "link": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o?at_medium=RSS&at_campaign=rss",
+      "description": "More than half a million people have fled their homes since separatist groups demanded independence for Cameroon's English-speaking regions.",
+      "pubDate": "Wed, 25 Nov 2026 01:00:36 GMT"
     }
   ]
 }

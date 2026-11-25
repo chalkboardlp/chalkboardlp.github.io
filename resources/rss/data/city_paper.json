@@ -1,8 +1,14 @@
 {
-  "updated": "2026-11-25T02:25:12.021309+00:00",
+  "updated": "2026-11-25T12:50:27.025285+00:00",
   "source": "The City Paper",
   "feedUrl": "https://thecitypaperbogota.com/feed/",
   "articles": [
+    {
+      "title": "Cartagena Hostages Freed in 24 Hours of Crisis For De la Espriella",
+      "link": "https://thecitypaperbogota.com/news/cartagena-hostages-freed-in-24-hours-of-crisis-for-de-la-espriella/",
+      "description": "After confronting FARC dissidents for the car bombing in Villavicencio, Colombia’s Abelardo de la Espriella travelled to Cartagena, where an overnight operation freed the remaining 20 hostages in the Éxito supermarket siege. BOGOTÁ &#8211; Colombia has witnessed 24 hours of extraordinary security pressure, as a car bomb in Villavicencio was followed by a hostage crisis [&#8230;]",
+      "pubDate": "Wed, 25 Nov 2026 11:06:59 +0000"
+    },
     {
       "title": "De la Espriella Vows to Pursue Attackers for Devastating Car Bomb in Villavicencio",
       "link": "https://thecitypaperbogota.com/news/de-la-espriella-vows-to-pursue-attackers-for-devastating-car-bomb-in-villavicencio/",
@@ -146,12 +152,6 @@
       "link": "https://thecitypaperbogota.com/news/deicy-jimenez-alleges-sex-for-contracts-network-under-petro/",
       "description": "Photographs of cash, suspected drugs and clothing, alongside reported government contracts worth more than COP$100 million, have intensified allegations that public resources were used to facilitate Petro’s private encounters. The ex-President denies exchanging contracts for intimate favours. The allegations surrounding Gustavo Petro’s presidency have taken a disturbing turn. A young woman, identified as Deicy Jiménez, [&#8230;]",
       "pubDate": "Mon, 26 Oct 2026 16:28:59 +0000"
-    },
-    {
-      "title": "María Corina Machado’s Return to Venezuela Tests Washington’s Managed Transition",
-      "link": "https://thecitypaperbogota.com/news/maria-corina-machados-return-to-venezuela-tests-washingtons-managed-transition/",
-      "description": "After nearly ten months abroad, Venezuela’s opposition leader has returned to a country still governed by Nicolás Maduro’s former deputy, raising fresh questions about the role of Colombia, the Trump administration and the prospects for free elections. María Corina Machado’s return to Venezuela over the weekend has reopened the central question confronting the country after [&#8230;]",
-      "pubDate": "Mon, 26 Oct 2026 13:28:15 +0000"
     }
   ]
 }
