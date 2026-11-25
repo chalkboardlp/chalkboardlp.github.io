@@ -1,25 +1,31 @@
 {
-  "updated": "2026-11-24T17:40:40.481389+00:00",
+  "updated": "2026-11-25T02:25:04.917276+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+      "title": "US attorney general dodges questions about Nvidia investigation",
       "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "description": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
-      "pubDate": "Tue, 24 Nov 2026 17:04:20 GMT"
+      "description": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "pubDate": "Tue, 24 Nov 2026 21:19:42 GMT"
     },
     {
-      "title": "What Jensen Huang's return teaches China's Xi about Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
-      "description": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
-      "pubDate": "Tue, 24 Nov 2026 07:26:27 GMT"
+      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+      "description": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+      "pubDate": "Tue, 24 Nov 2026 16:49:07 GMT"
     },
     {
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "description": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-      "pubDate": "Tue, 24 Nov 2026 10:58:51 GMT"
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "description": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+      "pubDate": "Tue, 24 Nov 2026 18:07:46 GMT"
+    },
+    {
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "description": "The verdict follows a months-long trial in New York.",
+      "pubDate": "Wed, 25 Nov 2026 01:11:57 GMT"
     },
     {
       "title": "Land mine casualties soar in Syria, two years after war",
@@ -28,16 +34,28 @@
       "pubDate": "Tue, 24 Nov 2026 15:17:28 GMT"
     },
     {
-      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "description": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-      "pubDate": "Tue, 24 Nov 2026 16:37:04 GMT"
+      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "link": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+      "description": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+      "pubDate": "Tue, 24 Nov 2026 19:10:31 GMT"
     },
     {
       "title": "Israeli air strike kills Hamas internal security chief in Gaza",
       "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
       "description": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
       "pubDate": "Tue, 24 Nov 2026 15:35:53 GMT"
+    },
+    {
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "description": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "pubDate": "Tue, 24 Nov 2026 10:58:51 GMT"
+    },
+    {
+      "title": "What Jensen Huang's return teaches China's Xi about Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+      "description": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+      "pubDate": "Tue, 24 Nov 2026 07:26:27 GMT"
     },
     {
       "title": "Pope Francis' diary reveals claims he saw the devil three times",
@@ -67,7 +85,7 @@
       "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
       "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
       "description": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-      "pubDate": "Tue, 24 Nov 2026 16:31:26 GMT"
+      "pubDate": "Tue, 24 Nov 2026 19:27:23 GMT"
     },
     {
       "title": "Russian governor detained in rare criminal case against regional leader",
