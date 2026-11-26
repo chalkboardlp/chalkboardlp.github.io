@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T22:30:06.469834+00:00",
+  "updated": "2026-11-26T05:00:47.318710+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
@@ -7,7 +7,7 @@
       "title": "US announces new tariffs on host of countries including China",
       "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
       "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "pubDate": "Wed, 25 Nov 2026 16:21:34 GMT"
+      "pubDate": "Thu, 26 Nov 2026 04:10:58 GMT"
     },
     {
       "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
@@ -20,6 +20,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
       "description": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
       "pubDate": "Wed, 25 Nov 2026 22:18:06 GMT"
+    },
+    {
+      "title": "Has global jihadism failed, or is it simply changing shape?",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+      "description": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
+      "pubDate": "Thu, 26 Nov 2026 00:22:18 GMT"
     },
     {
       "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
@@ -37,7 +43,37 @@
       "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
       "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
       "description": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
-      "pubDate": "Wed, 25 Nov 2026 19:54:52 GMT"
+      "pubDate": "Thu, 26 Nov 2026 00:23:05 GMT"
+    },
+    {
+      "title": "California warns of flooding as King Tides peak over Thanksgiving",
+      "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+      "description": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
+      "pubDate": "Thu, 26 Nov 2026 01:22:55 GMT"
+    },
+    {
+      "title": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
+      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "description": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
+      "pubDate": "Thu, 26 Nov 2026 03:27:33 GMT"
+    },
+    {
+      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+      "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+      "description": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+      "pubDate": "Wed, 25 Nov 2026 16:42:11 GMT"
+    },
+    {
+      "title": "Macy's postpones Thanksgiving parade due to severe weather",
+      "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+      "description": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving holiday.",
+      "pubDate": "Thu, 26 Nov 2026 04:04:14 GMT"
+    },
+    {
+      "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
+      "description": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
+      "pubDate": "Wed, 25 Nov 2026 23:18:27 GMT"
     },
     {
       "title": "North Korea expels Swiss diplomat in sanctions row",
@@ -82,40 +118,22 @@
       "pubDate": "Wed, 25 Nov 2026 18:41:33 GMT"
     },
     {
-      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "description": "The verdict follows a months-long trial in New York.",
-      "pubDate": "Wed, 25 Nov 2026 10:52:09 GMT"
+      "title": "What we know about Trump's Thanksgiving tariffs",
+      "link": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+      "description": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
+      "pubDate": "Wed, 25 Nov 2026 19:38:05 GMT"
     },
     {
-      "title": "Canadian astronaut welcomes baby girl  from space station",
-      "link": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
-      "description": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
-      "pubDate": "Wed, 25 Nov 2026 15:41:39 GMT"
+      "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
+      "link": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
+      "description": "The crash was \"like something out of a disaster movie\", the BBC's science editor Rebecca Morelle says.",
+      "pubDate": "Wed, 25 Nov 2026 20:11:46 GMT"
     },
     {
-      "title": "Thomas Markle charged in US for possessing child sex abuse images",
-      "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-      "description": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
-      "pubDate": "Wed, 25 Nov 2026 01:40:42 GMT"
-    },
-    {
-      "title": "Two children among six dead after plane crash off Mississippi coast",
-      "link": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
-      "description": "Divers found the bodies of three adult, one teenager aged 16, and two boys, aged 12 and 10, in the wreckage.",
-      "pubDate": "Wed, 25 Nov 2026 19:26:44 GMT"
-    },
-    {
-      "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
-      "description": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
-      "pubDate": "Wed, 25 Nov 2026 12:24:12 GMT"
-    },
-    {
-      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-      "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
-      "description": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
-      "pubDate": "Wed, 25 Nov 2026 15:42:50 GMT"
+      "title": "Greatest catch ever? Man on motorbike takes incredible grab",
+      "link": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&at_campaign=rss",
+      "description": "A passenger on a motorbike pulled off a remarkable one-handed catch after the ball was hit out of the ground for six in the Swat Premier League in Pakistan.",
+      "pubDate": "Wed, 25 Nov 2026 16:23:03 GMT"
     },
     {
       "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
@@ -136,64 +154,34 @@
       "pubDate": "Tue, 24 Nov 2026 09:09:41 GMT"
     },
     {
-      "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
-      "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
-      "description": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
-      "pubDate": "Tue, 24 Nov 2026 01:21:41 GMT"
+      "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
+      "link": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
+      "description": "Somalia relies heavily on foreign funding and military support for its very survival.",
+      "pubDate": "Thu, 26 Nov 2026 02:06:10 GMT"
     },
     {
-      "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
-      "link": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
-      "description": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
-      "pubDate": "Mon, 23 Nov 2026 18:49:19 GMT"
+      "title": "The US pastor who wants to see women's right to vote overturned",
+      "link": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o?at_medium=RSS&at_campaign=rss",
+      "description": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians.",
+      "pubDate": "Thu, 26 Nov 2026 00:24:25 GMT"
     },
     {
-      "title": "Ukraine shares video of strikes on Russian ships off Libya",
-      "link": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
-      "description": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
-      "pubDate": "Mon, 23 Nov 2026 11:34:10 GMT"
+      "title": "Spanish elections: What you need to know and what's at stake",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
+      "description": "After eight years of Socialist-led rule, snap elections are taking place on Sunday with conservative Alberto Núñez Feijóo vying to win office.",
+      "pubDate": "Thu, 26 Nov 2026 00:23:49 GMT"
     },
     {
-      "title": "Trump's rescue of Nvidia's Huang brings political risks",
-      "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
-      "description": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
-      "pubDate": "Wed, 25 Nov 2026 01:03:05 GMT"
+      "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+      "link": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+      "description": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
+      "pubDate": "Thu, 26 Nov 2026 00:23:27 GMT"
     },
     {
-      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
-      "link": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
-      "description": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
-      "pubDate": "Tue, 24 Nov 2026 23:03:59 GMT"
-    },
-    {
-      "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
-      "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
-      "description": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
-      "pubDate": "Tue, 24 Nov 2026 23:05:11 GMT"
-    },
-    {
-      "title": "Lies, a disguise and surfboard bags: How a jealous Sydney policeman tried to cover up double murder",
-      "link": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss",
-      "description": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies.",
-      "pubDate": "Wed, 25 Nov 2026 01:51:43 GMT"
-    },
-    {
-      "title": "The rising cost of putting food on the table in India",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
-      "description": "India's food inflation is broadening, squeezing household budgets.",
-      "pubDate": "Wed, 25 Nov 2026 01:02:13 GMT"
-    },
-    {
-      "title": "Clashing political visions reflect a divided Spain ahead of election",
-      "link": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
-      "description": "Sunday’s election could see a far-right party enter the Spanish government for first time.",
-      "pubDate": "Wed, 25 Nov 2026 00:58:34 GMT"
-    },
-    {
-      "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
-      "link": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o?at_medium=RSS&at_campaign=rss",
-      "description": "More than half a million people have fled their homes since separatist groups demanded independence for Cameroon's English-speaking regions.",
-      "pubDate": "Wed, 25 Nov 2026 01:00:36 GMT"
+      "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
+      "description": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.",
+      "pubDate": "Wed, 25 Nov 2026 23:26:50 GMT"
     }
   ]
 }
