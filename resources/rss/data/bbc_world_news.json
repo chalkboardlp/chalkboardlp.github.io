@@ -1,31 +1,49 @@
 {
-  "updated": "2026-11-28T10:24:07.766418+00:00",
+  "updated": "2026-11-28T18:55:58.519299+00:00",
   "source": "BBC World News",
   "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "articles": [
     {
-      "title": "Seven students killed and nearly 100 injured in explosion in Afghanistan, official says",
-      "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
-      "description": "A spokesman for Afhganistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
-      "pubDate": "Sat, 28 Nov 2026 10:14:37 GMT"
+      "title": "Argentina's bid to stop Falklands oil drilling rejected",
+      "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+      "description": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+      "pubDate": "Sat, 28 Nov 2026 18:01:05 GMT"
+    },
+    {
+      "title": "Dozens killed in Myanmar military strikes on wedding venue and school",
+      "link": "https://www.bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&at_campaign=rss",
+      "description": "Air strikes by Myanmar's military government have killed dozens of civilians across the South East Asian nation in recent days.",
+      "pubDate": "Sat, 28 Nov 2026 16:53:20 GMT"
     },
     {
       "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
       "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
       "description": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
-      "pubDate": "Sat, 28 Nov 2026 06:52:05 GMT"
+      "pubDate": "Sat, 28 Nov 2026 10:34:58 GMT"
+    },
+    {
+      "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+      "link": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+      "description": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
+      "pubDate": "Sat, 28 Nov 2026 11:35:34 GMT"
+    },
+    {
+      "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+      "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "description": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+      "pubDate": "Sat, 28 Nov 2026 14:10:01 GMT"
+    },
+    {
+      "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
+      "description": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.",
+      "pubDate": "Sat, 28 Nov 2026 07:31:14 GMT"
     },
     {
       "title": "Spanish PM and rivals rally supporters in final pitch for votes",
       "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
       "description": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
       "pubDate": "Fri, 27 Nov 2026 21:55:53 GMT"
-    },
-    {
-      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
-      "description": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
-      "pubDate": "Sat, 28 Nov 2026 04:13:45 GMT"
     },
     {
       "title": "Eight killed in Peruvian military helicopter crash",
@@ -40,16 +58,22 @@
       "pubDate": "Sat, 28 Nov 2026 00:56:55 GMT"
     },
     {
-      "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
-      "link": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
-      "description": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.",
-      "pubDate": "Sat, 28 Nov 2026 07:31:14 GMT"
+      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+      "description": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+      "pubDate": "Sat, 28 Nov 2026 04:13:45 GMT"
     },
     {
       "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
       "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
       "description": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
       "pubDate": "Fri, 27 Nov 2026 18:00:40 GMT"
+    },
+    {
+      "title": "Two American Airlines planes clip wings before takeoff at Reagan airport",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgr4g5nrnlo?at_medium=RSS&at_campaign=rss",
+      "description": "No injuries were reported, and the FAA plans to investigate the incident, which occurred during taxiing.",
+      "pubDate": "Sat, 28 Nov 2026 01:31:28 GMT"
     },
     {
       "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
@@ -74,18 +98,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
       "description": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
       "pubDate": "Fri, 27 Nov 2026 08:13:43 GMT"
-    },
-    {
-      "title": "Italy's former police chief rejected mafia inquiry allegations before death",
-      "link": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
-      "description": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home.",
-      "pubDate": "Fri, 27 Nov 2026 07:28:10 GMT"
-    },
-    {
-      "title": "Rare turtles found inside baggage at Amsterdam airport",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
-      "description": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
-      "pubDate": "Fri, 27 Nov 2026 13:38:07 GMT"
     },
     {
       "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
@@ -130,10 +142,10 @@
       "pubDate": "Fri, 27 Nov 2026 23:02:35 GMT"
     },
     {
-      "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+      "title": "A clinic is offering to reassess ADHD and autism diagnoses - and hundreds of people are interested",
       "link": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
       "description": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
-      "pubDate": "Sat, 28 Nov 2026 00:05:17 GMT"
+      "pubDate": "Sat, 28 Nov 2026 16:18:58 GMT"
     },
     {
       "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
